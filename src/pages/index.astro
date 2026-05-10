@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+import MonthHeading from '../components/MonthHeading.astro';
+import EventRow from '../components/EventRow.astro';
+import events from '../../data/events.json';
+
+const today = new Date().toISOString().slice(0, 10);
+
+function monthLabel(yyyymm) {
+  const [y, m] = yyyymm.split('-').map(Number);
+  const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
+  return `${months[m-1]} ${y}`;
+}
+
+const groups = [];
+let currentKey = null;
+for (const e of events) {
+  const key = e.date.slice(0, 7);
+  if (key !== currentKey) {
+    groups.push({ key, label: monthLabel(key), events: [] });
+    currentKey = key;
+  }
+  groups[groups.length - 1].events.push(e);
+}
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>International bands in Buenos Aires</title>
+  </head>
+  <body>
+    <main>
+      <h1>International bands in Buenos Aires</h1>
+      {groups.map(g => (
+        <section>
+          <MonthHeading label={g.label} />
+          {g.events.map(e => <EventRow event={e} today={today} />)}
+        </section>
+      ))}
+      <footer>
+        Updated daily. Sources: Songkick, Vorterix, Niceto.
+      </footer>
+    </main>
+
+    <script>
+      document.addEventListener('click', (e) => {
+        const btn = e.target.closest('button.listen');
+        if (!btn) return;
+        const row = btn.closest('.event');
+        const existing = row.querySelector('.embed');
+        if (existing) { existing.remove(); return; }
+        const id = btn.getAttribute('data-spotify-id');
+        const div = document.createElement('div');
+        div.className = 'embed';
+        div.innerHTML = `<iframe src="https://open.spotify.com/embed/artist/${id}" allow="encrypted-media"></iframe>`;
+        row.appendChild(div);
+      });
+    </script>
+  </body>
+</html>
