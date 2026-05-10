@@ -6,7 +6,10 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
 
   async function getToken() {
     if (token) return token;
-    if (!clientId || !clientSecret) return null;
+    if (!clientId || !clientSecret) {
+      console.warn(`[spotify] no credentials (id=${!!clientId} secret=${!!clientSecret})`);
+      return null;
+    }
     try {
       const res = await fetch('https://accounts.spotify.com/api/token', {
         method: 'POST',
@@ -16,11 +19,16 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
         },
         body: 'grant_type=client_credentials',
       });
-      if (!res.ok) return null;
+      if (!res.ok) {
+        const body = await res.text().catch(() => '');
+        console.warn(`[spotify] token HTTP ${res.status}: ${body.slice(0, 200)}`);
+        return null;
+      }
       const data = await res.json();
       token = data.access_token;
       return token;
-    } catch {
+    } catch (err) {
+      console.warn(`[spotify] token threw: ${err.message}`);
       return null;
     }
   }
