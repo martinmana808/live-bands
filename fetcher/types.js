@@ -32,6 +32,7 @@
  * @property {string[]} sources
  * @property {string|null} country    - ISO 3166-1 alpha-2, or null if unknown
  * @property {string|null} spotifyId  - Spotify artist id, or null
+ * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null
  */
 
 /**
@@ -39,6 +40,7 @@
  * @property {string} name
  * @property {string|null} country
  * @property {string|null} spotifyId
+ * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null
  * @property {string} lookedUpAt     - ISO date
  */
 

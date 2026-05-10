@@ -47,7 +47,7 @@ async function main() {
     [...cache.entries()].map(([k, v]) => [k, v.country])
   );
   const spotifyCache = new Map(
-    [...cache.entries()].map(([k, v]) => [k, v.spotifyId])
+    [...cache.entries()].map(([k, v]) => [k, v.spotifyId ? { id: v.spotifyId, image: v.spotifyImage ?? null } : null])
   );
 
   const spotify = createSpotifyEnricher({
@@ -68,8 +68,8 @@ async function main() {
   const enriched = [];
   for (const e of deduped) {
     const country = await lookupCountry(e.artist, countryCache);
-    const spotifyId = await spotify.lookupId(e.artist, spotifyCache);
-    enriched.push({ ...e, country, spotifyId });
+    const sp = await spotify.lookup(e.artist, spotifyCache);
+    enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null });
   }
 
   const intl = filterInternational(enriched);
@@ -90,10 +90,12 @@ async function main() {
   const artistsOut = {};
   for (const e of enriched) {
     const k = e.artist.toLowerCase();
+    const cached = spotifyCache.get(k);
     artistsOut[k] = {
       name: e.artist,
       country: countryCache.get(k) ?? null,
-      spotifyId: spotifyCache.get(k) ?? null,
+      spotifyId: cached?.id ?? null,
+      spotifyImage: cached?.image ?? null,
       lookedUpAt: today,
     };
   }

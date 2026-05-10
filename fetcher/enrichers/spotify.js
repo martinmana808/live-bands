@@ -33,12 +33,23 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
     }
   }
 
+  function smallestImage(images) {
+    if (!Array.isArray(images) || images.length === 0) return null;
+    let best = images[0];
+    for (const img of images) {
+      const w = img.width ?? Infinity;
+      const bw = best.width ?? Infinity;
+      if (w < bw) best = img;
+    }
+    return best?.url ?? null;
+  }
+
   /**
    * @param {string} artistName
-   * @param {Map<string, string|null>} cache
-   * @returns {Promise<string|null>}
+   * @param {Map<string, {id:string,image:string|null}|null>} cache
+   * @returns {Promise<{id:string,image:string|null}|null>}
    */
-  async function lookupId(artistName, cache) {
+  async function lookup(artistName, cache) {
     const key = artistName.toLowerCase();
     if (cache.has(key)) return cache.get(key);
     const tk = await getToken();
@@ -51,14 +62,16 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
       const res = await fetch(url, { headers: { Authorization: `Bearer ${tk}` } });
       if (!res.ok) { cache.set(key, null); return null; }
       const data = await res.json();
-      const id = data?.artists?.items?.[0]?.id ?? null;
-      cache.set(key, id);
-      return id;
+      const item = data?.artists?.items?.[0];
+      if (!item) { cache.set(key, null); return null; }
+      const result = { id: item.id, image: smallestImage(item.images) };
+      cache.set(key, result);
+      return result;
     } catch {
       cache.set(key, null);
       return null;
     }
   }
 
-  return { lookupId };
+  return { lookup };
 }
