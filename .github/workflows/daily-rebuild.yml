@@ -1,0 +1,84 @@
+name: daily-rebuild
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 09:00 UTC = 06:00 ART
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch events
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: npm run fetch
+
+      - name: Validate events.json
+        run: |
+          node -e "
+            import('node:fs').then(fs => {
+              const e = JSON.parse(fs.readFileSync('./data/events.json', 'utf8'));
+              if (!Array.isArray(e)) { console.error('not an array'); process.exit(1); }
+              for (const x of e) {
+                if (!x.id || !x.artist || !x.date || !x.venue) {
+                  console.error('missing required field', x); process.exit(1);
+                }
+              }
+              console.log('OK', e.length, 'events');
+            });
+          "
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events.json data/artists.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: daily data refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - uses: actions/deploy-pages@v4
+
+  notify-on-stale:
+    runs-on: ubuntu-latest
+    needs: build-and-deploy
+    if: failure()
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Daily rebuild failed (${new Date().toISOString().slice(0,10)})`,
+              body: 'Check the workflow run logs. Most likely an adapter broke or the stale-data safety net tripped.',
+            });
