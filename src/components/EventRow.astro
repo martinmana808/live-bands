@@ -16,9 +16,14 @@ function formatDate(iso) {
 const flag = countryFlag(event.country);
 const dateLabel = formatDate(event.date);
 ---
-<div class={`event${past ? ' past' : ''}`} data-event-id={event.id}>
+<div class={`event${past ? ' past' : ''}`} data-event-id={event.id} data-event-date={event.date}>
+  <div class="thumb">
+    {event.spotifyImage
+      ? <img src={event.spotifyImage} alt="" loading="lazy" width="32" height="32" />
+      : <span class="thumb-fallback" aria-hidden="true">♪</span>}
+  </div>
   <div class="date">{dateLabel}</div>
-  <div>
+  <div class="info">
     <div class="artist">{event.artist} {flag}</div>
     <div class="venue">{event.venue}{past ? ' (past)' : ''}</div>
   </div>

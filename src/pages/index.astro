@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import MonthHeading from '../components/MonthHeading.astro';
 import EventRow from '../components/EventRow.astro';
+import Soundwave from '../components/Soundwave.astro';
 import events from '../../data/events.json';
 
 const today = new Date().toISOString().slice(0, 10);
@@ -30,6 +31,7 @@ for (const e of events) {
     <title>International bands in Buenos Aires</title>
   </head>
   <body>
+    <Soundwave events={events} />
     <main>
       <h1>International bands in Buenos Aires</h1>
       {groups.map(g => (

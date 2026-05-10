@@ -1,0 +1,70 @@
+---
+const { events } = Astro.props;
+
+function addDays(iso, n) {
+  const d = new Date(iso + 'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+}
+function diffDays(a, b) {
+  const da = new Date(a + 'T00:00:00Z');
+  const db = new Date(b + 'T00:00:00Z');
+  return Math.round((db - da) / 86400000);
+}
+function monthAbbr(iso) {
+  const months = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+  const m = Number(iso.slice(5, 7));
+  return months[m - 1];
+}
+
+const buckets = [];
+if (events.length > 0) {
+  const start = events[0].date;
+  const end = events[events.length - 1].date;
+  const totalDays = diffDays(start, end) + 1;
+  const bucketCount = Math.max(1, Math.ceil(totalDays / 3));
+
+  for (let i = 0; i < bucketCount; i++) {
+    const bucketStart = addDays(start, i * 3);
+    const bucketEnd = addDays(start, (i + 1) * 3);
+    const count = events.filter(e => e.date >= bucketStart && e.date < bucketEnd).length;
+    const day = Number(bucketStart.slice(8, 10));
+    const label = day <= 3 ? monthAbbr(bucketStart) : null;
+    buckets.push({ bucketStart, count, label });
+  }
+}
+
+const maxCount = Math.max(1, ...buckets.map(b => b.count));
+---
+{buckets.length > 0 && (
+  <aside class="soundwave" aria-hidden="true">
+    <div class="rail">
+      {buckets.map(b => (
+        <div class="row">
+          {b.label && <span class="label">{b.label}</span>}
+          <button
+            class={`bar${b.count === 0 ? ' empty' : ''}`}
+            style={`width: ${b.count === 0 ? '1px' : Math.max(8, Math.round((b.count / maxCount) * 100)) + '%'};`}
+            data-bucket-start={b.bucketStart}
+            aria-label={`${b.count} events from ${b.bucketStart}`}
+          />
+        </div>
+      ))}
+    </div>
+  </aside>
+)}
+
+<script>
+  document.addEventListener('click', (e) => {
+    const bar = e.target.closest('button.bar[data-bucket-start]');
+    if (!bar) return;
+    const start = bar.getAttribute('data-bucket-start');
+    const rows = document.querySelectorAll('[data-event-date]');
+    for (const row of rows) {
+      if (row.getAttribute('data-event-date') >= start) {
+        row.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        return;
+      }
+    }
+  });
+</script>
