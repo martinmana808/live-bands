@@ -272,51 +272,6 @@
     "spotifyImage": "https://i.scdn.co/image/32bf863aec96acf67e599e10d71b44b7fb2309b5"
   },
   {
-    "id": "eykalasextraterribleslosbilisjaponlospescadoresfase15litrosuctumiandlas3dyelninomaravisha-2026-05-10-casaculturalrincon",
-    "artist": "Eyka, Las Extraterribles, los bilis, Japon, Los Pescadores, Fase 1, 5 Litros, Uctumi, and Las 3D y El Niño Maravisha",
-    "artistKey": "eykalasextraterribleslosbilisjaponlospescadoresfase15litrosuctumiandlas3dyelninomaravisha",
-    "date": "2026-05-10",
-    "venue": "Casa Cultural Rincón",
-    "venueKey": "casaculturalrincon",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "korn-2026-05-10-parquesarmiento",
-    "artist": "Korn",
-    "artistKey": "korn",
-    "date": "2026-05-10",
-    "venue": "Parque Sarmiento",
-    "venueKey": "parquesarmiento",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "3RNrq3jvMZxD9ZyoOZbQOD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829af2ffb6f4ddd6324f878bc"
-  },
-  {
-    "id": "ricardoarjona-2026-05-10-movistararena",
-    "artist": "Ricardo Arjona",
-    "artistKey": "ricardoarjona",
-    "date": "2026-05-10",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GT",
-    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
-  },
-  {
     "id": "sentenciaprevia15anos1005-2026-05-10-niceto",
     "artist": "SENTENCIA PREVIA | 15 Años | 10.05",
     "artistKey": "sentenciaprevia15anos1005",
@@ -332,21 +287,6 @@
     "country": "BE",
     "spotifyId": "5EPWQ2Ol4sOqeoepuxygB6",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17822b9de44c35184422a25c33d"
-  },
-  {
-    "id": "vader-2026-05-10-marquee",
-    "artist": "Vader",
-    "artistKey": "vader",
-    "date": "2026-05-10",
-    "venue": "Marquee",
-    "venueKey": "marquee",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PL",
-    "spotifyId": "2s5DSt9VBNzAn2TbtDHzFZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c07610eea952f526c9aa36f5"
   },
   {
     "id": "ricardoarjona-2026-05-11-movistararena",
@@ -1161,21 +1101,6 @@
     "spotifyImage": "https://i.scdn.co/image/01269d331150098cf0b5c7c4b73e841315c638ab"
   },
   {
-    "id": "dankojones-2026-05-23-uniclub",
-    "artist": "Danko Jones",
-    "artistKey": "dankojones",
-    "date": "2026-05-23",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CA",
-    "spotifyId": "7CGoviGsNXYmGOBkXk8dtW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782801775d66726834c6c5024c"
-  },
-  {
     "id": "fiestabacktothe80s-2026-05-23-vorterix",
     "artist": "FIESTA BACK TO THE 80s",
     "artistKey": "fiestabacktothe80s",
@@ -1522,6 +1447,66 @@
     "country": "IT",
     "spotifyId": "3YLlfcDiFzKJXhTK4sKuCz",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786f1f90cde21fe13bf1a73786"
+  },
+  {
+    "id": "superchunk-2026-06-02-niceto",
+    "artist": "Superchunk",
+    "artistKey": "superchunk",
+    "date": "2026-06-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "7lmde7T1WJPFwv1eR6melP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787a3c2f05d03f7dd28438f440"
+  },
+  {
+    "id": "tygersofpantang-2026-06-02-uniclub",
+    "artist": "Tygers of Pan Tang",
+    "artistKey": "tygersofpantang",
+    "date": "2026-06-02",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "1MZ8NERIuOS610KBhr6yna",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d023b30ebc4866bf5b50160"
+  },
+  {
+    "id": "olivertree-2026-06-04-niceto",
+    "artist": "Oliver Tree",
+    "artistKey": "olivertree",
+    "date": "2026-06-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "6TLwD7HPWuiOzvXEa3oCNe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816af3b79aa9582f36f3c04d4"
+  },
+  {
+    "id": "eykalocavanyaraandtermocromik-2026-06-05-centroculturalvictorjara",
+    "artist": "Eyka, Loca, Vanyara, and Termocromik",
+    "artistKey": "eykalocavanyaraandtermocromik",
+    "date": "2026-06-05",
+    "venue": "Centro Cultural Victor Jara",
+    "venueKey": "centroculturalvictorjara",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b"
   },
   {
     "id": "reygarufaysustimadoresobrascumbresineditos-2026-06-05-vorterix",
