@@ -237,6 +237,13 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d023b30ebc4866bf5b50160",
     "lookedUpAt": "2026-05-12"
   },
+  "juanse": {
+    "name": "Juanse",
+    "country": "AR",
+    "spotifyId": "0Xsc2ZIdwp0XGL4Mzr0xcg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885a82492164d3a18749c1a6b",
+    "lookedUpAt": "2026-05-12"
+  },
   "soda stereo": {
     "name": "Soda Stereo",
     "country": "AR",
@@ -256,195 +263,6 @@
     "country": null,
     "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b",
-    "lookedUpAt": "2026-05-12"
-  },
-  "bersuit vergarabat": {
-    "name": "Bersuit Vergarabat",
-    "country": "AR",
-    "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784bf6a0d26d71a0139a38eabb",
-    "lookedUpAt": "2026-05-12"
-  },
-  "riddim festeja 30 años de musica!": {
-    "name": "RIDDIM FESTEJA 30 AÑOS DE MUSICA!",
-    "country": null,
-    "spotifyId": "7wFAVuWaJT2euzeBtTzeAM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785dc589d4da22bf0c36ce0ec2",
-    "lookedUpAt": "2026-05-12"
-  },
-  "100%evolution: show de lucha": {
-    "name": "100%EVOLUTION: SHOW DE LUCHA",
-    "country": "PE",
-    "spotifyId": "46LxO6Eeyjj6gbMlPYgbwX",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f7bce21f8e7819a93c22e4ab",
-    "lookedUpAt": "2026-05-12"
-  },
-  "“sobredosis de chamame” by peñita linda": {
-    "name": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
-    "country": "US",
-    "spotifyId": "17L94YcCNKzbgi485DOjsn",
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-12"
-  },
-  "latineo - estrellas eternas – la obra": {
-    "name": "LATINEO - ESTRELLAS ETERNAS – LA OBRA",
-    "country": "SE",
-    "spotifyId": "1h4iSQAKdvAAm07l6FX6dy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840e58c339ecac3919c5944a8",
-    "lookedUpAt": "2026-05-12"
-  },
-  "pogofest – edicion indie-rock": {
-    "name": "POGOFEST – EDICION INDIE-ROCK",
-    "country": "IE",
-    "spotifyId": "3si8Eu6UFP2Gi0NNtUND38",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b635fdef6e00543df9ae19c6",
-    "lookedUpAt": "2026-05-12"
-  },
-  "sabado 6 junio - airod (francia) @ teatro vorterix": {
-    "name": "SABADO 6 JUNIO - AIROD (francia) @ Teatro Vorterix",
-    "country": "FR",
-    "spotifyId": "3oPI0nOC7MHooFy5qDsFrv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d217957e7e7b7a64ccd03814",
-    "lookedUpAt": "2026-05-12"
-  },
-  "ojos locos cierre de gira en vorterix!": {
-    "name": "OJOS LOCOS CIERRE DE GIRA EN VORTERIX!",
-    "country": "AR",
-    "spotifyId": "2DgNOnbtbBDq1mchoEP1nU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c2a075612568a80e1f82205",
-    "lookedUpAt": "2026-05-12"
-  },
-  "fiesta back to the 80s": {
-    "name": "FIESTA BACK TO THE 80s",
-    "country": "BE",
-    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
-    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7",
-    "lookedUpAt": "2026-05-12"
-  },
-  "fiesta forever 90s – edición revolución": {
-    "name": "FIESTA FOREVER 90s – edición REVOLUCIÓN",
-    "country": "MX",
-    "spotifyId": "1FmH6MmsNdjm11V4qa9nMW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5f269d55423929f1c717d85",
-    "lookedUpAt": "2026-05-12"
-  },
-  "fiesta climax - edición camisetas": {
-    "name": "FIESTA CLIMAX - EDICIÓN CAMISETAS",
-    "country": "US",
-    "spotifyId": "7rqhEhaHFMNST911KdISZR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2",
-    "lookedUpAt": "2026-05-12"
-  },
-  "festival alerta! vol.2": {
-    "name": "FESTIVAL ALERTA! vol.2",
-    "country": null,
-    "spotifyId": "6Q7ScDIHGcjCymuCd3rQqF",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f81ae0ba451e45480c102cb4",
-    "lookedUpAt": "2026-05-12"
-  },
-  "jauria y lucho al attaque en el teatro vorterix": {
-    "name": "JAURIA Y LUCHO AL ATTAQUE EN EL TEATRO VORTERIX",
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-12"
-  },
-  "chiara oliver": {
-    "name": "CHIARA OLIVER",
-    "country": "DE",
-    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
-    "lookedUpAt": "2026-05-12"
-  },
-  "kaos rave": {
-    "name": "KAOS RAVE",
-    "country": "JP",
-    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
-    "lookedUpAt": "2026-05-12"
-  },
-  "mancha de rolando cierra 20 años viaje en vorterix": {
-    "name": "MANCHA DE ROLANDO CIERRA 20 AÑOS VIAJE EN VORTERIX",
-    "country": null,
-    "spotifyId": "4DuhYdfd2jHMdaqYVYZp04",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782dd7640d4b737b1f9dee99fc",
-    "lookedUpAt": "2026-05-12"
-  },
-  "rey garufa y sus timadores - obras cumbres & ineditos": {
-    "name": "REY GARUFA Y SUS TIMADORES - OBRAS CUMBRES & INEDITOS",
-    "country": "US",
-    "spotifyId": "02nFFG9OM3C6J5jSSa5zdg",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851827c7321791c88419adf5639",
-    "lookedUpAt": "2026-05-12"
-  },
-  "jovenes pordioseros festeja 25 años de rock!": {
-    "name": "JOVENES PORDIOSEROS FESTEJA 25 AÑOS DE ROCK!",
-    "country": null,
-    "spotifyId": "6UYYp6Xo2NHP7AxNnR0rn4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178be78a5c5d214334f82d9ca61",
-    "lookedUpAt": "2026-05-12"
-  },
-  "flor paz- nuestro origen": {
-    "name": "FLOR PAZ- NUESTRO ORIGEN",
-    "country": null,
-    "spotifyId": "020AiDrZJgVabE3TCb0OX5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd24048092f1ecf533aa7a56",
-    "lookedUpAt": "2026-05-12"
-  },
-  "la beriso en vorterix!": {
-    "name": "LA BERISO EN VORTERIX!",
-    "country": null,
-    "spotifyId": "5f609sV0zZb4kbsxm00cu7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0871e4f7832a13167df86c2",
-    "lookedUpAt": "2026-05-12"
-  },
-  "queen por master stroke": {
-    "name": "QUEEN POR MASTER STROKE",
-    "country": null,
-    "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423",
-    "lookedUpAt": "2026-05-12"
-  },
-  "kapanga – 30 años": {
-    "name": "KAPANGA – 30 AÑOS",
-    "country": "XW",
-    "spotifyId": "2MLiASzGQHVMyORIApRGsp",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ada6d00f5a8eb724ee11e550",
-    "lookedUpAt": "2026-05-12"
-  },
-  "rescate – “siempre te encuentro tour”": {
-    "name": "RESCATE – “SIEMPRE TE ENCUENTRO TOUR”",
-    "country": "XW",
-    "spotifyId": "1yIESehTCkR9hPmGFKxuV5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd9d2c597cfcc78f75ebc98b",
-    "lookedUpAt": "2026-05-12"
-  },
-  "fiesta fed": {
-    "name": "FIESTA FED",
-    "country": null,
-    "spotifyId": "4Xm39nTtMUEBVewacThrov",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a6fca6176f30e12138cef38",
-    "lookedUpAt": "2026-05-12"
-  },
-  "masters of voices": {
-    "name": "MASTERS OF VOICES",
-    "country": null,
-    "spotifyId": "5R4FpfxykdqRkO17zHhkE2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178207bb3102d5fc03cf6d3bb10",
-    "lookedUpAt": "2026-05-12"
-  },
-  "caifanes": {
-    "name": "CAIFANES",
-    "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "lookedUpAt": "2026-05-12"
-  },
-  "pomme": {
-    "name": "POMME",
-    "country": "FR",
-    "spotifyId": "6e3pZKXUxrPfnUPJ960Hd9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872871333b776c41403b2f873",
     "lookedUpAt": "2026-05-12"
   },
   "kill flora presenta su primer lp \"entre sueños y distorsiones\"": {
@@ -473,6 +291,13 @@
     "country": null,
     "spotifyId": "6yXri0y0q95UDiAyLzTM1y",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178295001e2d10b412f764a7d5a",
+    "lookedUpAt": "2026-05-12"
+  },
+  "kilombo jueves 14 mayo": {
+    "name": "KILOMBO JUEVES 14 Mayo",
+    "country": "SE",
+    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf",
     "lookedUpAt": "2026-05-12"
   },
   "knak despide “positivo”": {
@@ -774,6 +599,195 @@
     "country": "AR",
     "spotifyId": "4PRzyAvNqlYKSMhsKl2e0j",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c8157b14b9ffc0942fe012b",
+    "lookedUpAt": "2026-05-12"
+  },
+  "bersuit vergarabat": {
+    "name": "Bersuit Vergarabat",
+    "country": "AR",
+    "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784bf6a0d26d71a0139a38eabb",
+    "lookedUpAt": "2026-05-12"
+  },
+  "riddim festeja 30 años de musica!": {
+    "name": "RIDDIM FESTEJA 30 AÑOS DE MUSICA!",
+    "country": null,
+    "spotifyId": "7wFAVuWaJT2euzeBtTzeAM",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785dc589d4da22bf0c36ce0ec2",
+    "lookedUpAt": "2026-05-12"
+  },
+  "100%evolution: show de lucha": {
+    "name": "100%EVOLUTION: SHOW DE LUCHA",
+    "country": "PE",
+    "spotifyId": "46LxO6Eeyjj6gbMlPYgbwX",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f7bce21f8e7819a93c22e4ab",
+    "lookedUpAt": "2026-05-12"
+  },
+  "“sobredosis de chamame” by peñita linda": {
+    "name": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
+    "country": "US",
+    "spotifyId": "17L94YcCNKzbgi485DOjsn",
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-12"
+  },
+  "latineo - estrellas eternas – la obra": {
+    "name": "LATINEO - ESTRELLAS ETERNAS – LA OBRA",
+    "country": "SE",
+    "spotifyId": "1h4iSQAKdvAAm07l6FX6dy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840e58c339ecac3919c5944a8",
+    "lookedUpAt": "2026-05-12"
+  },
+  "pogofest – edicion indie-rock": {
+    "name": "POGOFEST – EDICION INDIE-ROCK",
+    "country": "IE",
+    "spotifyId": "3si8Eu6UFP2Gi0NNtUND38",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b635fdef6e00543df9ae19c6",
+    "lookedUpAt": "2026-05-12"
+  },
+  "sabado 6 junio - airod (francia) @ teatro vorterix": {
+    "name": "SABADO 6 JUNIO - AIROD (francia) @ Teatro Vorterix",
+    "country": "FR",
+    "spotifyId": "3oPI0nOC7MHooFy5qDsFrv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d217957e7e7b7a64ccd03814",
+    "lookedUpAt": "2026-05-12"
+  },
+  "ojos locos cierre de gira en vorterix!": {
+    "name": "OJOS LOCOS CIERRE DE GIRA EN VORTERIX!",
+    "country": "AR",
+    "spotifyId": "2DgNOnbtbBDq1mchoEP1nU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c2a075612568a80e1f82205",
+    "lookedUpAt": "2026-05-12"
+  },
+  "fiesta back to the 80s": {
+    "name": "FIESTA BACK TO THE 80s",
+    "country": "BE",
+    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
+    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7",
+    "lookedUpAt": "2026-05-12"
+  },
+  "fiesta forever 90s – edición revolución": {
+    "name": "FIESTA FOREVER 90s – edición REVOLUCIÓN",
+    "country": "MX",
+    "spotifyId": "1FmH6MmsNdjm11V4qa9nMW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5f269d55423929f1c717d85",
+    "lookedUpAt": "2026-05-12"
+  },
+  "fiesta climax - edición camisetas": {
+    "name": "FIESTA CLIMAX - EDICIÓN CAMISETAS",
+    "country": "US",
+    "spotifyId": "7rqhEhaHFMNST911KdISZR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2",
+    "lookedUpAt": "2026-05-12"
+  },
+  "festival alerta! vol.2": {
+    "name": "FESTIVAL ALERTA! vol.2",
+    "country": null,
+    "spotifyId": "6Q7ScDIHGcjCymuCd3rQqF",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f81ae0ba451e45480c102cb4",
+    "lookedUpAt": "2026-05-12"
+  },
+  "jauria y lucho al attaque en el teatro vorterix": {
+    "name": "JAURIA Y LUCHO AL ATTAQUE EN EL TEATRO VORTERIX",
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-12"
+  },
+  "chiara oliver": {
+    "name": "CHIARA OLIVER",
+    "country": "DE",
+    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
+    "lookedUpAt": "2026-05-12"
+  },
+  "kaos rave": {
+    "name": "KAOS RAVE",
+    "country": "JP",
+    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
+    "lookedUpAt": "2026-05-12"
+  },
+  "mancha de rolando cierra 20 años viaje en vorterix": {
+    "name": "MANCHA DE ROLANDO CIERRA 20 AÑOS VIAJE EN VORTERIX",
+    "country": null,
+    "spotifyId": "4DuhYdfd2jHMdaqYVYZp04",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782dd7640d4b737b1f9dee99fc",
+    "lookedUpAt": "2026-05-12"
+  },
+  "rey garufa y sus timadores - obras cumbres & ineditos": {
+    "name": "REY GARUFA Y SUS TIMADORES - OBRAS CUMBRES & INEDITOS",
+    "country": "US",
+    "spotifyId": "02nFFG9OM3C6J5jSSa5zdg",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851827c7321791c88419adf5639",
+    "lookedUpAt": "2026-05-12"
+  },
+  "jovenes pordioseros festeja 25 años de rock!": {
+    "name": "JOVENES PORDIOSEROS FESTEJA 25 AÑOS DE ROCK!",
+    "country": null,
+    "spotifyId": "6UYYp6Xo2NHP7AxNnR0rn4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178be78a5c5d214334f82d9ca61",
+    "lookedUpAt": "2026-05-12"
+  },
+  "flor paz- nuestro origen": {
+    "name": "FLOR PAZ- NUESTRO ORIGEN",
+    "country": null,
+    "spotifyId": "020AiDrZJgVabE3TCb0OX5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd24048092f1ecf533aa7a56",
+    "lookedUpAt": "2026-05-12"
+  },
+  "la beriso en vorterix!": {
+    "name": "LA BERISO EN VORTERIX!",
+    "country": null,
+    "spotifyId": "5f609sV0zZb4kbsxm00cu7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0871e4f7832a13167df86c2",
+    "lookedUpAt": "2026-05-12"
+  },
+  "queen por master stroke": {
+    "name": "QUEEN POR MASTER STROKE",
+    "country": null,
+    "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423",
+    "lookedUpAt": "2026-05-12"
+  },
+  "kapanga – 30 años": {
+    "name": "KAPANGA – 30 AÑOS",
+    "country": "XW",
+    "spotifyId": "2MLiASzGQHVMyORIApRGsp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ada6d00f5a8eb724ee11e550",
+    "lookedUpAt": "2026-05-12"
+  },
+  "rescate – “siempre te encuentro tour”": {
+    "name": "RESCATE – “SIEMPRE TE ENCUENTRO TOUR”",
+    "country": "XW",
+    "spotifyId": "1yIESehTCkR9hPmGFKxuV5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd9d2c597cfcc78f75ebc98b",
+    "lookedUpAt": "2026-05-12"
+  },
+  "fiesta fed": {
+    "name": "FIESTA FED",
+    "country": null,
+    "spotifyId": "4Xm39nTtMUEBVewacThrov",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a6fca6176f30e12138cef38",
+    "lookedUpAt": "2026-05-12"
+  },
+  "masters of voices": {
+    "name": "MASTERS OF VOICES",
+    "country": null,
+    "spotifyId": "5R4FpfxykdqRkO17zHhkE2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178207bb3102d5fc03cf6d3bb10",
+    "lookedUpAt": "2026-05-12"
+  },
+  "caifanes": {
+    "name": "CAIFANES",
+    "country": "MX",
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "lookedUpAt": "2026-05-12"
+  },
+  "pomme": {
+    "name": "POMME",
+    "country": "FR",
+    "spotifyId": "6e3pZKXUxrPfnUPJ960Hd9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872871333b776c41403b2f873",
     "lookedUpAt": "2026-05-12"
   },
   "luhrever": {
