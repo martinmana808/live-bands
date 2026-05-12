@@ -15,8 +15,20 @@ function formatDate(iso) {
 
 const flag = countryFlag(event.country);
 const dateLabel = formatDate(event.date);
+const ticket = event.ticketUrls?.[0];
+const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
 ---
-<div class={`event${past ? ' past' : ''}`} data-event-id={event.id} data-event-date={event.date}>
+<div id={`event-${event.id}`} class={`event${past ? ' past' : ''}`} data-event-id={event.id} data-event-date={event.date}>
+  <div class="left-action">
+    {ticket && !past ? (
+      <a href={ticket} target="_blank" rel="noopener" aria-label="Buy ticket" title="Buy ticket">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 9a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4z"/>
+          <path d="M13 7v10" stroke-dasharray="2 2"/>
+        </svg>
+      </a>
+    ) : <span class="ph" />}
+  </div>
   <div class="thumb">
     {event.spotifyImage
       ? <img src={event.spotifyImage} alt="" loading="lazy" width="32" height="32" />
@@ -28,11 +40,26 @@ const dateLabel = formatDate(event.date);
     <div class="venue">{event.venue}{past ? ' (past)' : ''}</div>
   </div>
   <div class="actions">
+    <button class="icon-btn fav" data-fav-id={event.id} aria-label="Save" title="Save">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 1 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/>
+      </svg>
+    </button>
+    <button class="icon-btn share" data-share-text={shareText} aria-label="Share" title="Share">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="6" cy="12" r="2.5"/>
+        <circle cx="18" cy="6" r="2.5"/>
+        <circle cx="18" cy="18" r="2.5"/>
+        <path d="M8.2 10.8l7.6-3.6M8.2 13.2l7.6 3.6"/>
+      </svg>
+    </button>
     {event.spotifyId && (
-      <button class="listen" data-spotify-id={event.spotifyId} aria-label="Play preview">▶ listen</button>
-    )}
-    {event.ticketUrls?.[0] && !past && (
-      <a href={event.ticketUrls[0]} target="_blank" rel="noopener">🎟 ticket</a>
+      <button class="icon-btn play" data-spotify-id={event.spotifyId} aria-label="Play preview" title="Play preview">
+        <svg viewBox="0 0 24 24" width="22" height="22">
+          <circle cx="12" cy="12" r="11" fill="#1db954"/>
+          <path d="M10 8.2v7.6L16.5 12z" fill="#fff"/>
+        </svg>
+      </button>
     )}
   </div>
 </div>

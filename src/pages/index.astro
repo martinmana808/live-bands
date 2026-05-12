@@ -31,7 +31,7 @@ for (const e of events) {
     <title>International bands in Buenos Aires</title>
   </head>
   <body>
-    <Soundwave events={events} />
+    <Soundwave events={events} today={today} />
     <main>
       <h1>International bands in Buenos Aires</h1>
       {groups.map(g => (
@@ -46,17 +46,48 @@ for (const e of events) {
     </main>
 
     <script>
-      document.addEventListener('click', (e) => {
-        const btn = e.target.closest('button.listen');
-        if (!btn) return;
-        const row = btn.closest('.event');
-        const existing = row.querySelector('.embed');
-        if (existing) { existing.remove(); return; }
-        const id = btn.getAttribute('data-spotify-id');
-        const div = document.createElement('div');
-        div.className = 'embed';
-        div.innerHTML = `<iframe src="https://open.spotify.com/embed/artist/${id}" allow="encrypted-media"></iframe>`;
-        row.appendChild(div);
+      const FAV_KEY = 'bit:favs';
+      const loadFavs = () => { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); } catch { return new Set(); } };
+      const saveFavs = (s) => localStorage.setItem(FAV_KEY, JSON.stringify([...s]));
+
+      const favs = loadFavs();
+      document.querySelectorAll('button.fav[data-fav-id]').forEach(btn => {
+        if (favs.has(btn.getAttribute('data-fav-id'))) btn.classList.add('on');
+      });
+
+      document.addEventListener('click', async (e) => {
+        const play = e.target.closest('button.play[data-spotify-id]');
+        if (play) {
+          const row = play.closest('.event');
+          const existing = row.querySelector('.embed');
+          if (existing) { existing.remove(); return; }
+          const id = play.getAttribute('data-spotify-id');
+          const div = document.createElement('div');
+          div.className = 'embed';
+          div.innerHTML = `<iframe src="https://open.spotify.com/embed/artist/${id}" allow="encrypted-media"></iframe>`;
+          row.appendChild(div);
+          return;
+        }
+        const fav = e.target.closest('button.fav[data-fav-id]');
+        if (fav) {
+          const id = fav.getAttribute('data-fav-id');
+          const set = loadFavs();
+          if (set.has(id)) { set.delete(id); fav.classList.remove('on'); }
+          else { set.add(id); fav.classList.add('on'); }
+          saveFavs(set);
+          return;
+        }
+        const share = e.target.closest('button.share[data-share-text]');
+        if (share) {
+          const text = share.getAttribute('data-share-text');
+          const row = share.closest('.event');
+          const url = location.origin + location.pathname + '#event-' + row.getAttribute('data-event-id');
+          const payload = { title: 'Bands in Town', text, url };
+          try {
+            if (navigator.share) await navigator.share(payload);
+            else { await navigator.clipboard.writeText(`${text}\n${url}`); share.classList.add('on'); setTimeout(() => share.classList.remove('on'), 1000); }
+          } catch {}
+        }
       });
     </script>
   </body>

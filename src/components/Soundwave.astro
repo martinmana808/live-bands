@@ -1,5 +1,5 @@
 ---
-const { events } = Astro.props;
+const { events, today } = Astro.props;
 
 function addDays(iso, n) {
   const d = new Date(iso + 'T00:00:00Z');
@@ -13,50 +13,47 @@ function diffDays(a, b) {
 }
 function monthAbbr(iso) {
   const months = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
-  const m = Number(iso.slice(5, 7));
-  return months[m - 1];
+  return months[Number(iso.slice(5, 7)) - 1];
 }
 
-const buckets = [];
-if (events.length > 0) {
-  const start = events[0].date;
-  const end = events[events.length - 1].date;
-  const totalDays = diffDays(start, end) + 1;
-  const bucketCount = Math.max(1, Math.ceil(totalDays / 3));
+const start = today;
+const lastEvent = events.length > 0 ? events[events.length - 1].date : today;
+const yearEnd = `${start.slice(0, 4)}-12-31`;
+const end = lastEvent > yearEnd ? lastEvent : yearEnd;
+const totalDays = Math.max(1, diffDays(start, end) + 1);
 
-  for (let i = 0; i < bucketCount; i++) {
-    const bucketStart = addDays(start, i * 3);
-    const bucketEnd = addDays(start, (i + 1) * 3);
-    const count = events.filter(e => e.date >= bucketStart && e.date < bucketEnd).length;
-    const day = Number(bucketStart.slice(8, 10));
-    const label = day <= 3 ? monthAbbr(bucketStart) : null;
-    buckets.push({ bucketStart, count, label });
-  }
+const counts = new Array(totalDays).fill(0);
+for (const e of events) {
+  const idx = diffDays(start, e.date);
+  if (idx >= 0 && idx < totalDays) counts[idx]++;
 }
 
-const maxCount = Math.max(1, ...buckets.map(b => b.count));
+const rows = counts.map((count, i) => {
+  const date = addDays(start, i);
+  const day = Number(date.slice(8, 10));
+  return { date, count, label: day === 1 ? monthAbbr(date) : null };
+});
 ---
-{buckets.length > 0 && (
-  <aside class="soundwave" aria-hidden="true">
-    <div class="rail">
-      {buckets.map(b => (
-        <div class="row">
-          {b.label && <span class="label">{b.label}</span>}
-          <button
-            class={`bar${b.count === 0 ? ' empty' : ''}`}
-            style={`width: ${b.count === 0 ? '1px' : Math.max(8, Math.round((b.count / maxCount) * 100)) + '%'};`}
-            data-bucket-start={b.bucketStart}
-            aria-label={`${b.count} events from ${b.bucketStart}`}
-          />
-        </div>
-      ))}
-    </div>
-  </aside>
-)}
+<aside class="soundwave" aria-hidden="true">
+  <div class="rail">
+    {rows.map(r => (
+      <button
+        class={`bar${r.count > 0 ? ' active' : ''}`}
+        style={r.count > 0 ? `--w: ${Math.min(100, 30 + r.count * 25)}%` : ''}
+        data-bucket-start={r.date}
+        data-count={r.count}
+        aria-label={`${r.count} events on ${r.date}`}
+        disabled={r.count === 0}
+      >
+        {r.label && <span class="label">{r.label}</span>}
+      </button>
+    ))}
+  </div>
+</aside>
 
 <script>
   document.addEventListener('click', (e) => {
-    const bar = e.target.closest('button.bar[data-bucket-start]');
+    const bar = e.target.closest('button.bar.active[data-bucket-start]');
     if (!bar) return;
     const start = bar.getAttribute('data-bucket-start');
     const rows = document.querySelectorAll('[data-event-date]');
