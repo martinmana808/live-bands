@@ -1,309 +1,5 @@
 [
   {
-    "id": "elchacalpresentahater-2026-05-06-niceto",
-    "artist": "EL CHACAL PRESENTA HATER",
-    "artistKey": "elchacalpresentahater",
-    "date": "2026-05-06",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/el-chacal-presenta-hater-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "1xFn1xod58AGaSZjrxdiXA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786cc0b99e68a34d5bae154582"
-  },
-  {
-    "id": "ilvetech-2026-05-07-niceto",
-    "artist": "iL💘VE TECH",
-    "artistKey": "ilvetech",
-    "date": "2026-05-07",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/il-ve-tech-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "7zx5Um40vqELG9joJelSPb",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17834e1f95c3c62533dd71d658a"
-  },
-  {
-    "id": "quierenrockjam-2026-05-07-niceto",
-    "artist": "Quieren Rock Jam",
-    "artistKey": "quierenrockjam",
-    "date": "2026-05-07",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/quieren-rock-jam-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "05XQvkBWK5JHvkzWUT5FmK",
-    "spotifyImage": null
-  },
-  {
-    "id": "tuveque-2026-05-07-niceto",
-    "artist": "Tuve que",
-    "artistKey": "tuveque",
-    "date": "2026-05-07",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/tuve-que-en-niceto-humboldt"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": "59yEHQvOsQ6Y6YxdXfxvOZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784f30be30357fb69cd10cd37d"
-  },
-  {
-    "id": "zulan-2026-05-07-niceto",
-    "artist": "ZULAN",
-    "artistKey": "zulan",
-    "date": "2026-05-07",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/zulan-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2Yz9F5lQVc0p6SDxkw2BvF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781990aad605000ba36b1ad725"
-  },
-  {
-    "id": "777oficial-2026-05-08-niceto",
-    "artist": "777 oficial",
-    "artistKey": "777oficial",
-    "date": "2026-05-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/s777-oficial-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7EO6Rc9HCI6V0lAdPxwkt5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17843dbaa090700346a0bef0237"
-  },
-  {
-    "id": "dilo-2026-05-08-niceto",
-    "artist": "Dilo!",
-    "artistKey": "dilo",
-    "date": "2026-05-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/dilo-en-niceto-humboldt"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "4ZIaiuKxYK6A6JwvvwqXoN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780587db8a6a56ac11dacaf0a5"
-  },
-  {
-    "id": "laraxxet8mayo-2026-05-08-niceto",
-    "artist": "La Raxxet  8 MAYO",
-    "artistKey": "laraxxet8mayo",
-    "date": "2026-05-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-raxxet-8-mayo-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7dfFakDQKVTpmdemi5d5hn",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178117affff4df169603c6c6d4c"
-  },
-  {
-    "id": "pepupresentaelalbumdelveranonuevafecha-2026-05-08-niceto",
-    "artist": "Pepu presenta el Album del Verano NUEVA FECHA",
-    "artistKey": "pepupresentaelalbumdelveranonuevafecha",
-    "date": "2026-05-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pepu-presenta-el-album-del-verano-nueva-fecha-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "potenciasonora-2026-05-08-niceto",
-    "artist": "Potencia Sonora",
-    "artistKey": "potenciasonora",
-    "date": "2026-05-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/potencia-sonora-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CU",
-    "spotifyId": "60ILd0M8SlOiECug06wt0u",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178672e6066f819aa05d9dfd0f1"
-  },
-  {
-    "id": "club699may-2026-05-09-niceto",
-    "artist": "Club 69 | 9 MAY",
-    "artistKey": "club699may",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-9-may-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "5nqK7cZdDaWt93uslUgUCY",
-    "spotifyImage": null
-  },
-  {
-    "id": "idolfest95girlgroups-2026-05-09-niceto",
-    "artist": "IDOLFEST 9/5 Girl Groups",
-    "artistKey": "idolfest95girlgroups",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/idolfest-9-5-girl-groups-en-niceto-humboldt"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "XW",
-    "spotifyId": "2AfmfGFbe0A0WsTYm0SDTx",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816051e1b5d6dd8a45b8633e4"
-  },
-  {
-    "id": "kilombosabado9mayo-2026-05-09-niceto",
-    "artist": "KILOMBO Sabado 9 MAYO",
-    "artistKey": "kilombosabado9mayo",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-sabado-9-mayo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf"
-  },
-  {
-    "id": "pepupresentaelalbumdelverano-2026-05-09-niceto",
-    "artist": "Pepu presenta el Album del Verano",
-    "artistKey": "pepupresentaelalbumdelverano",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pepu-presenta-el-album-del-verano-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "sofiagemmaytobiasparselis-2026-05-09-niceto",
-    "artist": "Sofía Gemma y Tobias Parselis",
-    "artistKey": "sofiagemmaytobiasparselis",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/show-en-vivo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "stoltzloscristos-2026-05-09-niceto",
-    "artist": "STÖLTZ + LOS CRISTOS",
-    "artistKey": "stoltzloscristos",
-    "date": "2026-05-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/st-ltz-los-cristos-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6xt9i6cvoL0DbNTcwPPzNG",
-    "spotifyImage": "https://i.scdn.co/image/32bf863aec96acf67e599e10d71b44b7fb2309b5"
-  },
-  {
-    "id": "sentenciaprevia15anos1005-2026-05-10-niceto",
-    "artist": "SENTENCIA PREVIA | 15 Años | 10.05",
-    "artistKey": "sentenciaprevia15anos1005",
-    "date": "2026-05-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/sentencia-previa-15-a-os-10-05-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "5EPWQ2Ol4sOqeoepuxygB6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17822b9de44c35184422a25c33d"
-  },
-  {
-    "id": "ricardoarjona-2026-05-11-movistararena",
-    "artist": "Ricardo Arjona",
-    "artistKey": "ricardoarjona",
-    "date": "2026-05-11",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GT",
-    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
-  },
-  {
     "id": "airsupply-2026-05-12-granrex",
     "artist": "Air Supply",
     "artistKey": "airsupply",
@@ -384,23 +80,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef31d967049e0224b2333616"
   },
   {
-    "id": "7magnificosloscristos-2026-05-14-niceto",
-    "artist": "7 Magnificos&LosCristos",
-    "artistKey": "7magnificosloscristos",
-    "date": "2026-05-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/s7-magnificos-loscristos-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AU",
-    "spotifyId": "3Y9moqv6RpQT8Qd4UJN8Hi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bcaf070c8c7a0026ccd39edf"
-  },
-  {
     "id": "balanceandcomposure-2026-05-14-uniclub",
     "artist": "Balance and Composure",
     "artistKey": "balanceandcomposure",
@@ -429,6 +108,23 @@
     "country": "GB",
     "spotifyId": "4HLWX9kzfraiCsTvrxJEXm",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b24ba09a762dfce961c60d81"
+  },
+  {
+    "id": "kleiodatabase-2026-05-14-niceto",
+    "artist": "KLEIO × DATABASE",
+    "artistKey": "kleiodatabase",
+    "date": "2026-05-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kleio-database-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "BR",
+    "spotifyId": "4JCbjqazoShvulfbE6fZsH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17877901e7c3b2182379f3bf155"
   },
   {
     "id": "pizzayringogalperineldiscooculto-2026-05-14-niceto",
@@ -565,23 +261,6 @@
     "spotifyImage": "https://i.scdn.co/image/87fcf84f50c7e93c9323f5818f99fb49e7708dbb"
   },
   {
-    "id": "rave3000presentakloudjuliannagellayschvartzman-2026-05-15-vorterix",
-    "artist": "RAVE3000 PRESENTA, KLOUD, JULIANNA GELLA Y SCHVARTZ MAN",
-    "artistKey": "rave3000presentakloudjuliannagellayschvartzman",
-    "date": "2026-05-15",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/rave3000-presenta-kloud-julianna-gella-y-schvartz-man"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "GB",
-    "spotifyId": "0YVquC9RaJLYFNmlJFzkTV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780d7932bc5d1d4499ccd3a719"
-  },
-  {
     "id": "viudafederalpresentagloriamorir-2026-05-15-niceto",
     "artist": "Viuda Federal Presenta \"Gloria Morir\"",
     "artistKey": "viudafederalpresentagloriamorir",
@@ -695,6 +374,23 @@
     "country": null,
     "spotifyId": "5nqK7cZdDaWt93uslUgUCY",
     "spotifyImage": null
+  },
+  {
+    "id": "distorted-2026-05-16-niceto",
+    "artist": "Distorted",
+    "artistKey": "distorted",
+    "date": "2026-05-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/distorted-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "IL",
+    "spotifyId": "0sO65fKWTG81xVRZcfe3gS",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048516e7e320d65c35b9597e449ca"
   },
   {
     "id": "fiestaclimaxedicioncamisetas-2026-05-16-vorterix",
@@ -903,6 +599,40 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4d9941b20bbf2bbe3714acc"
   },
   {
+    "id": "previarobadai-2026-05-21-niceto",
+    "artist": "PREVIA ROBADA I",
+    "artistKey": "previarobadai",
+    "date": "2026-05-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/previa-robada-i-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "XW",
+    "spotifyId": "3gG0yOuvHSQVCr3P73bbDc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d59fe29a9da07d2791ea9386"
+  },
+  {
+    "id": "fiestacineclubflorida-2026-05-22-niceto",
+    "artist": "¡FIESTA! CINECLUB FLORIDA",
+    "artistKey": "fiestacineclubflorida",
+    "date": "2026-05-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-cineclub-florida-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "6x2R1jWku9WIqxYar01Nuf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8f9beb1b9947728949d9a5e"
+  },
+  {
     "id": "auroradncflr-2026-05-22-niceto",
     "artist": "AURORA.DNCFLR",
     "artistKey": "auroradncflr",
@@ -1001,6 +731,23 @@
     "country": null,
     "spotifyId": "027ItQs3vdLG019LNccXr2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8"
+  },
+  {
+    "id": "previarobadaii-2026-05-22-niceto",
+    "artist": "PREVIA ROBADA II",
+    "artistKey": "previarobadaii",
+    "date": "2026-05-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/previa-robada-ii-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JP",
+    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad"
   },
   {
     "id": "theamityaffliction-2026-05-22-uniclub",
@@ -1135,6 +882,23 @@
     "spotifyImage": "https://i.scdn.co/image/c198fd84dcd2b4202296ae2ef4b8c95822dde599"
   },
   {
+    "id": "previarobadaiii-2026-05-23-niceto",
+    "artist": "PREVIA ROBADA III",
+    "artistKey": "previarobadaiii",
+    "date": "2026-05-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/previa-robada-iii-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JP",
+    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad"
+  },
+  {
     "id": "recazonomiresmasatras-2026-05-23-niceto",
     "artist": "Recazo ¨No mires mas atras¨",
     "artistKey": "recazonomiresmasatras",
@@ -1214,6 +978,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5f269d55423929f1c717d85"
   },
   {
+    "id": "fiestamachovsfiestapuerca-2026-05-24-niceto",
+    "artist": "FIESTA MACHO vs FIESTA PUERCA",
+    "artistKey": "fiestamachovsfiestapuerca",
+    "date": "2026-05-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-macho-vs-fiesta-puerca-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "HU",
+    "spotifyId": "5Q1vijNjTVhQBoVrZVXms8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f1b38a7d2729f831dc43fb29"
+  },
+  {
     "id": "laberisoenvorterix-2026-05-24-vorterix",
     "artist": "LA BERISO EN VORTERIX!",
     "artistKey": "laberisoenvorterix",
@@ -1261,6 +1042,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
   },
   {
+    "id": "stagesocietyargentinadarkritual-2026-05-24-niceto",
+    "artist": "Stage Society Argentina: Dark Ritual",
+    "artistKey": "stagesocietyargentinadarkritual",
+    "date": "2026-05-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/stage-society-argentina-dark-ritual-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GR",
+    "spotifyId": "3BQDgh6CjxVXMhy00YEx3G",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841bd0b24fc607a072e7dd6bd"
+  },
+  {
     "id": "vinodelmejor-2026-05-24-niceto",
     "artist": "Vino del mejor",
     "artistKey": "vinodelmejor",
@@ -1293,6 +1091,40 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a9481e909429024e6d456fb8"
   },
   {
+    "id": "festivalrefresco25mayo-2026-05-25-niceto",
+    "artist": "FESTIVAL REFRESCO  25 MAYO",
+    "artistKey": "festivalrefresco25mayo",
+    "date": "2026-05-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/festival-refresco-25-mayo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "4SrOTSNS6W6tZNS4kezX6p",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5eb52d8e7451ff1da9038e3"
+  },
+  {
+    "id": "horsegirl-2026-05-26-niceto",
+    "artist": "HORSEGIRL",
+    "artistKey": "horsegirl",
+    "date": "2026-05-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/horsegirl-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0auP293abZeTWwMUi3fZw2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850fd23946deeb6991ef1ee09"
+  },
+  {
     "id": "elcuartetodenos-2026-05-28-movistararena",
     "artist": "El Cuarteto de Nos",
     "artistKey": "elcuartetodenos",
@@ -1306,6 +1138,23 @@
     "country": null,
     "spotifyId": "13JJKrUewC1CJYmIDXQNoH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17858501dc3b756044243523145"
+  },
+  {
+    "id": "feniciarubiymiguegessaghi-2026-05-28-niceto",
+    "artist": "FENICIA RUBÍ Y MIGUE GESSAGHI",
+    "artistKey": "feniciarubiymiguegessaghi",
+    "date": "2026-05-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fenicia-rub-y-migue-gessaghi-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null
   },
   {
     "id": "florpaznuestroorigen-2026-05-28-vorterix",
@@ -1340,6 +1189,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ece315ced51c68c06a2fb33e"
   },
   {
+    "id": "elnueveonce-2026-05-29-niceto",
+    "artist": "ELNUEVEONCE",
+    "artistKey": "elnueveonce",
+    "date": "2026-05-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/elnueveonce-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3Sg4d4kPgf4zotCAq4kEIz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891c68e74542bf9ade02ab911"
+  },
+  {
     "id": "natalialafourcade-2026-05-29-granrex",
     "artist": "Natalia LaFourcade",
     "artistKey": "natalialafourcade",
@@ -1355,6 +1221,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178efb8cc9d57eabb9f1e3f8d0b"
   },
   {
+    "id": "zynth001firstcontact-2026-05-29-niceto",
+    "artist": "ZYNTH -001- FIRST CONTACT",
+    "artistKey": "zynth001firstcontact",
+    "date": "2026-05-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/zynth-001-first-contact-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1ILD1NHBNPbPjN0wKExuOM",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6d3ee188523fe99c08beb53"
+  },
+  {
     "id": "kampfar-2026-05-30-uniclub",
     "artist": "Kampfar",
     "artistKey": "kampfar",
@@ -1368,6 +1251,23 @@
     "country": "NO",
     "spotifyId": "35nZyw3d7OIbhGeqBEPIYQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178078c15f68c3d9a727691e1b2"
+  },
+  {
+    "id": "luhrever-2026-05-30-niceto",
+    "artist": "Luhrever",
+    "artistKey": "luhrever",
+    "date": "2026-05-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/luhrever-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "79ghdkKpilJ7vcN3Kp0tHR",
+    "spotifyImage": null
   },
   {
     "id": "pomme-2026-05-30-vorterix",
@@ -1432,6 +1332,21 @@
     "country": null,
     "spotifyId": "6RyrFvHJPFymCOzrfIyPdR",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783dcc107d08eb42fa4316540f"
+  },
+  {
+    "id": "riel-2026-05-31-strummer",
+    "artist": "Riel",
+    "artistKey": "riel",
+    "date": "2026-05-31",
+    "venue": "Strummer Bar",
+    "venueKey": "strummer",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f"
   },
   {
     "id": "ruggero-2026-05-31-premier",
@@ -1558,6 +1473,23 @@
     "country": "FR",
     "spotifyId": "3oPI0nOC7MHooFy5qDsFrv",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d217957e7e7b7a64ccd03814"
+  },
+  {
+    "id": "sobredosisdechamamebypenitalinda-2026-06-11-vorterix",
+    "artist": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
+    "artistKey": "sobredosisdechamamebypenitalinda",
+    "date": "2026-06-11",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/sobredosis-de-chamame-by-peita-linda"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": "US",
+    "spotifyId": "17L94YcCNKzbgi485DOjsn",
+    "spotifyImage": null
   },
   {
     "id": "jovenespordioserosfesteja25anosderock-2026-06-13-vorterix",
