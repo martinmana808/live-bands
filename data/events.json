@@ -1,22 +1,7 @@
 [
   {
-    "id": "airsupply-2026-05-12-granrex",
-    "artist": "Air Supply",
-    "artistKey": "airsupply",
-    "date": "2026-05-12",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AU",
-    "spotifyId": "4xXCRXOfQKQ2gjWxNhNzYW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af"
-  },
-  {
     "id": "deanwareham-2026-05-12-niceto",
-    "artist": "Dean Wareham",
+    "artist": "DEAN WAREHAM",
     "artistKey": "deanwareham",
     "date": "2026-05-12",
     "venue": "Niceto Club",
@@ -25,27 +10,11 @@
       "https://venti.live/evento/dean-wareham-en-niceto-club"
     ],
     "sources": [
-      "songkick",
       "niceto"
     ],
     "country": "US",
     "spotifyId": "7hR1nc352bF29oLx9nAMuj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782e10bce56d11fba3f4a2c3ba"
-  },
-  {
-    "id": "ricardoarjona-2026-05-12-movistararena",
-    "artist": "Ricardo Arjona",
-    "artistKey": "ricardoarjona",
-    "date": "2026-05-12",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GT",
-    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
   },
   {
     "id": "airsupply-2026-05-13-granrex",
@@ -308,6 +277,21 @@
     "country": "US",
     "spotifyId": "6YQ8bYCjVJcnjbHr4lLata",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17871c5e8d81e21b2f863f11308"
+  },
+  {
+    "id": "astrochile-2026-05-16-jeanjaures318",
+    "artist": "Astro (Chile)",
+    "artistKey": "astrochile",
+    "date": "2026-05-16",
+    "venue": "Jean Jaures 318",
+    "venueKey": "jeanjaures318",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "4jtlM7KkUGZi5N3DWFZLbw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178174298617b92215e1582dac0"
   },
   {
     "id": "beret-2026-05-16-granrex",
@@ -1218,5 +1202,20 @@
     "country": null,
     "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b"
+  },
+  {
+    "id": "meriendaamelie-2026-06-06-pazarriba",
+    "artist": "Merienda Amélie",
+    "artistKey": "meriendaamelie",
+    "date": "2026-06-06",
+    "venue": "La Paz Arriba",
+    "venueKey": "pazarriba",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "FR",
+    "spotifyId": "2UJBuILpXwVqqR90th01fn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fd368c27266e9c685ca26bac"
   }
 ]
