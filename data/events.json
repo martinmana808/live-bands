@@ -17,21 +17,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782e10bce56d11fba3f4a2c3ba"
   },
   {
-    "id": "airsupply-2026-05-13-granrex",
-    "artist": "Air Supply",
-    "artistKey": "airsupply",
-    "date": "2026-05-13",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AU",
-    "spotifyId": "4xXCRXOfQKQ2gjWxNhNzYW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af"
-  },
-  {
     "id": "killflorapresentasuprimerlpentresuenosydistorsiones-2026-05-13-niceto",
     "artist": "Kill Flora presenta su primer LP \"Entre Sueños y Distorsiones\"",
     "artistKey": "killflorapresentasuprimerlpentresuenosydistorsiones",
@@ -1037,6 +1022,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891c68e74542bf9ade02ab911"
   },
   {
+    "id": "losangelesazules-2026-05-29-movistararena",
+    "artist": "Los Angeles Azules",
+    "artistKey": "losangelesazules",
+    "date": "2026-05-29",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "0ZCO8oVkMj897cKgFH7fRW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d751eb2c4670d689d23734e"
+  },
+  {
     "id": "natalialafourcade-2026-05-29-granrex",
     "artist": "Natalia LaFourcade",
     "artistKey": "natalialafourcade",
@@ -1084,6 +1084,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178078c15f68c3d9a727691e1b2"
   },
   {
+    "id": "losangelesazules-2026-05-30-movistararena",
+    "artist": "Los Angeles Azules",
+    "artistKey": "losangelesazules",
+    "date": "2026-05-30",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "0ZCO8oVkMj897cKgFH7fRW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d751eb2c4670d689d23734e"
+  },
+  {
     "id": "ruggero-2026-05-30-premier",
     "artist": "RUGGERO",
     "artistKey": "ruggero",
@@ -1097,6 +1112,21 @@
     "country": "IT",
     "spotifyId": "3YLlfcDiFzKJXhTK4sKuCz",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786f1f90cde21fe13bf1a73786"
+  },
+  {
+    "id": "losangelesazules-2026-05-31-movistararena",
+    "artist": "Los Angeles Azules",
+    "artistKey": "losangelesazules",
+    "date": "2026-05-31",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "0ZCO8oVkMj897cKgFH7fRW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d751eb2c4670d689d23734e"
   },
   {
     "id": "pablosolerandmarceloroascio-2026-05-31-lucille",
@@ -1202,20 +1232,5 @@
     "country": null,
     "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b"
-  },
-  {
-    "id": "meriendaamelie-2026-06-06-pazarriba",
-    "artist": "Merienda Amélie",
-    "artistKey": "meriendaamelie",
-    "date": "2026-06-06",
-    "venue": "La Paz Arriba",
-    "venueKey": "pazarriba",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "FR",
-    "spotifyId": "2UJBuILpXwVqqR90th01fn",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fd368c27266e9c685ca26bac"
   }
 ]
