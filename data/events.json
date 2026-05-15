@@ -34,36 +34,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef31d967049e0224b2333616"
   },
   {
-    "id": "balanceandcomposure-2026-05-14-uniclub",
-    "artist": "Balance and Composure",
-    "artistKey": "balanceandcomposure",
-    "date": "2026-05-14",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "2fgl3me4n9diODTrVfruF3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a836b667df5b1f34d7771380"
-  },
-  {
-    "id": "chameleons-2026-05-14-teatrito",
-    "artist": "Chameleons",
-    "artistKey": "chameleons",
-    "date": "2026-05-14",
-    "venue": "El Teatrito",
-    "venueKey": "teatrito",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "4HLWX9kzfraiCsTvrxJEXm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b24ba09a762dfce961c60d81"
-  },
-  {
     "id": "kilombojueves14mayo-2026-05-14-niceto",
     "artist": "KILOMBO JUEVES 14 Mayo",
     "artistKey": "kilombojueves14mayo",
@@ -390,6 +360,21 @@
     "country": null,
     "spotifyId": "0jdrKEQxJFGk1TUJWr97fI",
     "spotifyImage": "https://i.scdn.co/image/87fcf84f50c7e93c9323f5818f99fb49e7708dbb"
+  },
+  {
+    "id": "rolandobrunoandfiambremoderno-2026-05-16-moscuespaciocultural",
+    "artist": "Rolando Bruno and fiambre moderno",
+    "artistKey": "rolandobrunoandfiambremoderno",
+    "date": "2026-05-16",
+    "venue": "Moscú - Espacio Cultural",
+    "venueKey": "moscuespaciocultural",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6lxsLBQooRKATCql5xjXfP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17875bed8b8828c8f4c6b8c2be6"
   },
   {
     "id": "cultoffire-2026-05-17-uniclub",
@@ -1232,5 +1217,20 @@
     "country": null,
     "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b"
+  },
+  {
+    "id": "meriendaamelie-2026-06-06-pazarriba",
+    "artist": "Merienda Amélie",
+    "artistKey": "meriendaamelie",
+    "date": "2026-06-06",
+    "venue": "La Paz Arriba",
+    "venueKey": "pazarriba",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "FR",
+    "spotifyId": "2UJBuILpXwVqqR90th01fn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fd368c27266e9c685ca26bac"
   }
 ]
