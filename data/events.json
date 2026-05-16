@@ -170,21 +170,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ad866a9a5e3fbacf784d354e"
   },
   {
-    "id": "nedcollette-2026-05-15-galeriamasao",
-    "artist": "Ned Collette",
-    "artistKey": "nedcollette",
-    "date": "2026-05-15",
-    "venue": "galeria masao",
-    "venueKey": "galeriamasao",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0jdrKEQxJFGk1TUJWr97fI",
-    "spotifyImage": "https://i.scdn.co/image/87fcf84f50c7e93c9323f5818f99fb49e7708dbb"
-  },
-  {
     "id": "viudafederalpresentagloriamorir-2026-05-15-niceto",
     "artist": "Viuda Federal Presenta \"Gloria Morir\"",
     "artistKey": "viudafederalpresentagloriamorir",
