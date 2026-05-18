@@ -272,51 +272,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048516e7e320d65c35b9597e449ca"
   },
   {
-    "id": "cultoffire-2026-05-17-uniclub",
-    "artist": "Cult of Fire",
-    "artistKey": "cultoffire",
-    "date": "2026-05-17",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CZ",
-    "spotifyId": "1GNzgaXdYGtEP5xOqCsdSq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178024a9f25a9f20ed7de35da57"
-  },
-  {
-    "id": "leisure-2026-05-17-ccomplejoartmedia",
-    "artist": "Leisure",
-    "artistKey": "leisure",
-    "date": "2026-05-17",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "NZ",
-    "spotifyId": "7b04D0yLktCUpvxQBhmG7R",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6589d1d011c7568f9d8c113"
-  },
-  {
-    "id": "ricardoarjona-2026-05-17-movistararena",
-    "artist": "Ricardo Arjona",
-    "artistKey": "ricardoarjona",
-    "date": "2026-05-17",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GT",
-    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
-  },
-  {
     "id": "ricardoarjona-2026-05-18-movistararena",
     "artist": "Ricardo Arjona",
     "artistKey": "ricardoarjona",
@@ -1442,6 +1397,36 @@
     "country": null,
     "spotifyId": "027ItQs3vdLG019LNccXr2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8"
+  },
+  {
+    "id": "shame-2026-06-17-niceto",
+    "artist": "Shame",
+    "artistKey": "shame",
+    "date": "2026-06-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "4IeWU3NYBI9mISFVhzXG8f",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789668c80b0c623e06486ec7f1"
+  },
+  {
+    "id": "cintiaarevalo-2026-06-19-museoreconquista",
+    "artist": "Cintia Arévalo",
+    "artistKey": "cintiaarevalo",
+    "date": "2026-06-19",
+    "venue": "Museo de la Reconquista",
+    "venueKey": "museoreconquista",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "50SS8HK4rg3PiZckv2Ydff",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e7077cb149e3dbc1cc90a269"
   },
   {
     "id": "queenpormasterstroke-2026-06-19-vorterix",
