@@ -34,21 +34,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b635fdef6e00543df9ae19c6"
   },
   {
-    "id": "debordher-2026-05-20-musicletaespaciocultural",
-    "artist": "DEBORDHER",
-    "artistKey": "debordher",
-    "date": "2026-05-20",
-    "venue": "Musicleta Espacio Cultural",
-    "venueKey": "musicletaespaciocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0PfphN9qB6zSGGP38VjDm7",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ec148c7e52dc12f330d2b401"
-  },
-  {
     "id": "autosrobados21mayo-2026-05-21-niceto",
     "artist": "AUTOS ROBADOS 21 Mayo",
     "artistKey": "autosrobados21mayo",
@@ -1419,6 +1404,36 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789668c80b0c623e06486ec7f1"
   },
   {
+    "id": "cintiaarevalo-2026-06-19-museoreconquista",
+    "artist": "Cintia Arévalo",
+    "artistKey": "cintiaarevalo",
+    "date": "2026-06-19",
+    "venue": "Museo de la Reconquista",
+    "venueKey": "museoreconquista",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "50SS8HK4rg3PiZckv2Ydff",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e7077cb149e3dbc1cc90a269"
+  },
+  {
+    "id": "lucascervetti-2026-06-19-cuerdamecanica",
+    "artist": "Lucas Cervetti",
+    "artistKey": "lucascervetti",
+    "date": "2026-06-19",
+    "venue": "Cuerda Mecánica",
+    "venueKey": "cuerdamecanica",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "UY",
+    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
+  },
+  {
     "id": "queenpormasterstroke-2026-06-19-vorterix",
     "artist": "QUEEN POR MASTER STROKE",
     "artistKey": "queenpormasterstroke",
@@ -1434,6 +1449,23 @@
     "country": null,
     "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423"
+  },
+  {
+    "id": "fiestaclimax-2026-06-20-vorterix",
+    "artist": "FIESTA CLIMAX",
+    "artistKey": "fiestaclimax",
+    "date": "2026-06-20",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/fiesta---climax"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": "US",
+    "spotifyId": "7rqhEhaHFMNST911KdISZR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2"
   },
   {
     "id": "riddimfesteja30anosdemusica-2026-06-20-vorterix",
@@ -1536,6 +1568,23 @@
     "country": "XW",
     "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7"
+  },
+  {
+    "id": "kiddvoodoo-2026-09-26-vorterix",
+    "artist": "Kidd Voodoo",
+    "artistKey": "kiddvoodoo",
+    "date": "2026-09-26",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/kidd-voodoo"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": "CL",
+    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916"
   },
   {
     "id": "chiaraoliver-2026-10-03-vorterix",
