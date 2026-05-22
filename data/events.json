@@ -68,21 +68,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851575ba586a06244f849dd6332"
   },
   {
-    "id": "monlaferte-2026-05-21-movistararena",
-    "artist": "Mon Laferte",
-    "artistKey": "monlaferte",
-    "date": "2026-05-21",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "MX",
-    "spotifyId": "4boI7bJtmB1L3b1cuL75Zr",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4d9941b20bbf2bbe3714acc"
-  },
-  {
     "id": "previarobadai-2026-05-21-niceto",
     "artist": "PREVIA ROBADA I",
     "artistKey": "previarobadai",
@@ -381,6 +366,21 @@
     "country": "GB",
     "spotifyId": "05UwRaoOjJPuGzCtawrORF",
     "spotifyImage": "https://i.scdn.co/image/c198fd84dcd2b4202296ae2ef4b8c95822dde599"
+  },
+  {
+    "id": "morodoandjahnattoh-2026-05-23-groove",
+    "artist": "Morodo and Jah nattoh",
+    "artistKey": "morodoandjahnattoh",
+    "date": "2026-05-23",
+    "venue": "Groove",
+    "venueKey": "groove",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "ES",
+    "spotifyId": "2OnH4HpywAxWkSOEsyjdjn",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b35b08728e12cba98550dda2"
   },
   {
     "id": "previarobadaiii-2026-05-23-niceto",
@@ -1312,6 +1312,21 @@
     "spotifyImage": null
   },
   {
+    "id": "billlauranceandmarklettierigroup-2026-06-11-deseo",
+    "artist": "Bill Laurance and Mark Lettieri Group",
+    "artistKey": "billlauranceandmarklettierigroup",
+    "date": "2026-06-11",
+    "venue": "Deseo",
+    "venueKey": "deseo",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3USL7r0FYOWUiTPQGz3HpP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dc0f0dcdf97c97a835c48b2b"
+  },
+  {
     "id": "pulp-2026-06-12-movistararena",
     "artist": "Pulp",
     "artistKey": "pulp",
@@ -1404,34 +1419,19 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789668c80b0c623e06486ec7f1"
   },
   {
-    "id": "cintiaarevalo-2026-06-19-museoreconquista",
-    "artist": "Cintia Arévalo",
-    "artistKey": "cintiaarevalo",
-    "date": "2026-06-19",
-    "venue": "Museo de la Reconquista",
-    "venueKey": "museoreconquista",
+    "id": "felipeavello-2026-06-18-paseoplaza",
+    "artist": "felipe avello",
+    "artistKey": "felipeavello",
+    "date": "2026-06-18",
+    "venue": "Paseo La Plaza",
+    "venueKey": "paseoplaza",
     "ticketUrls": [],
     "sources": [
       "songkick"
     ],
     "country": null,
-    "spotifyId": "50SS8HK4rg3PiZckv2Ydff",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e7077cb149e3dbc1cc90a269"
-  },
-  {
-    "id": "lucascervetti-2026-06-19-cuerdamecanica",
-    "artist": "Lucas Cervetti",
-    "artistKey": "lucascervetti",
-    "date": "2026-06-19",
-    "venue": "Cuerda Mecánica",
-    "venueKey": "cuerdamecanica",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "UY",
-    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
+    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
   },
   {
     "id": "queenpormasterstroke-2026-06-19-vorterix",
@@ -1571,7 +1571,7 @@
   },
   {
     "id": "kiddvoodoo-2026-09-26-vorterix",
-    "artist": "Kidd Voodoo",
+    "artist": "KIDD VOODOO",
     "artistKey": "kiddvoodoo",
     "date": "2026-09-26",
     "venue": "Vorterix",

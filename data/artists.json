@@ -1,240 +1,786 @@
 {
-  "mon laferte": {
-    "name": "Mon Laferte",
-    "country": "MX",
-    "spotifyId": "4boI7bJtmB1L3b1cuL75Zr",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4d9941b20bbf2bbe3714acc",
-    "lookedUpAt": "2026-05-21"
-  },
   "pez de buenos aires": {
     "name": "Pez De Buenos Aires",
     "country": null,
     "spotifyId": "027ItQs3vdLG019LNccXr2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "the amity affliction": {
     "name": "The Amity Affliction",
     "country": "AU",
     "spotifyId": "6kNKUYGn6VNGsRoXmyoDPK",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785f41952a61ac96d8a846d879",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "ricardo arjona": {
     "name": "Ricardo Arjona",
     "country": "GT",
     "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "chico cesar": {
     "name": "Chico Cesar",
     "country": "BR",
     "spotifyId": "3vlUveVfzPXzhiPGjHHxOH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178374ac16f608bb388d0d671e8",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "trinix": {
     "name": "Trinix",
     "country": null,
     "spotifyId": "3HqP3nd8WI0VfHRhApPlan",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178497a81cdc9c49a1c118539b3",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
+  },
+  "morodo and jah nattoh": {
+    "name": "Morodo and Jah nattoh",
+    "country": "ES",
+    "spotifyId": "2OnH4HpywAxWkSOEsyjdjn",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b35b08728e12cba98550dda2",
+    "lookedUpAt": "2026-05-22"
   },
   "brandee younger": {
     "name": "Brandee Younger",
     "country": null,
     "spotifyId": "1DT11FntvMnaU47ZZWlTpB",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a9481e909429024e6d456fb8",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "rebūke (dj)": {
     "name": "Rebūke (DJ)",
     "country": null,
     "spotifyId": "113reBz1jA6rVxbXl55mlj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5e8554dd363061d0357ee78",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "la bomba de tiempo": {
     "name": "La Bomba De Tiempo",
     "country": "AR",
     "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "el cuarteto de nos": {
     "name": "El Cuarteto de Nos",
     "country": null,
     "spotifyId": "13JJKrUewC1CJYmIDXQNoH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17858501dc3b756044243523145",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "hernán casciari": {
     "name": "Hernán Casciari",
     "country": "AR",
     "spotifyId": "6yCjiAcEkIMGxRynL8Y9xQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17865f896569c6e23a9e649f483",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "nieves rosell": {
     "name": "nieves rosell",
     "country": null,
     "spotifyId": "2pjxL0yQVYP6VBbL9JhhFI",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ece315ced51c68c06a2fb33e",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "natalia lafourcade": {
     "name": "Natalia LaFourcade",
     "country": "MX",
     "spotifyId": "1hcdI2N1023RvSwLzTtdsp",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178efb8cc9d57eabb9f1e3f8d0b",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "los angeles azules": {
     "name": "Los Angeles Azules",
     "country": "MX",
     "spotifyId": "0ZCO8oVkMj897cKgFH7fRW",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d751eb2c4670d689d23734e",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "nicolas btesh": {
     "name": "Nicolas Btesh",
     "country": "AR",
     "spotifyId": "59cMFtA14UADX5IMmEap2p",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178027bf550ae949680c00640d7",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "ruggero": {
     "name": "RUGGERO",
     "country": "IT",
     "spotifyId": "3YLlfcDiFzKJXhTK4sKuCz",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786f1f90cde21fe13bf1a73786",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "kampfar": {
     "name": "Kampfar",
     "country": "NO",
     "spotifyId": "35nZyw3d7OIbhGeqBEPIYQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178078c15f68c3d9a727691e1b2",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "rayos láser": {
     "name": "Rayos Láser",
     "country": "AR",
     "spotifyId": "3WGilHlQrv83h1CbF18BEs",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785cf1c93f1e9e460ed02c0741",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "pablo soler and marcelo roascio": {
     "name": "Pablo Soler and Marcelo Roascio",
     "country": null,
     "spotifyId": "6RyrFvHJPFymCOzrfIyPdR",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783dcc107d08eb42fa4316540f",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "riel": {
     "name": "Riel",
     "country": null,
     "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "superchunk": {
     "name": "Superchunk",
     "country": "US",
     "spotifyId": "7lmde7T1WJPFwv1eR6melP",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787a3c2f05d03f7dd28438f440",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "tygers of pan tang": {
     "name": "Tygers of Pan Tang",
     "country": "GB",
     "spotifyId": "1MZ8NERIuOS610KBhr6yna",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788d023b30ebc4866bf5b50160",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "juanse": {
     "name": "Juanse",
     "country": "AR",
     "spotifyId": "0Xsc2ZIdwp0XGL4Mzr0xcg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885a82492164d3a18749c1a6b",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "soda stereo": {
     "name": "Soda Stereo",
     "country": "AR",
     "spotifyId": "7An4yvF7hDYDolN4m5zKBp",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787c0578274e203f069f5f411c",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "oliver tree": {
     "name": "Oliver Tree",
     "country": "GB",
     "spotifyId": "6TLwD7HPWuiOzvXEa3oCNe",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816af3b79aa9582f36f3c04d4",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "eyka, loca, vanyara, and termocromik": {
     "name": "Eyka, Loca, Vanyara, and Termocromik",
     "country": null,
     "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "kutis, rhinoceronte, roña (arg), and lotre": {
     "name": "Kutis, Rhinoceronte, Roña (Arg), and Lotre",
     "country": "FI",
     "spotifyId": null,
     "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "bersuit vergarabat": {
     "name": "Bersuit Vergarabat",
     "country": "AR",
     "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784bf6a0d26d71a0139a38eabb",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "merienda amélie": {
     "name": "Merienda Amélie",
     "country": "FR",
     "spotifyId": "2UJBuILpXwVqqR90th01fn",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fd368c27266e9c685ca26bac",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
+  },
+  "bill laurance and mark lettieri group": {
+    "name": "Bill Laurance and Mark Lettieri Group",
+    "country": null,
+    "spotifyId": "3USL7r0FYOWUiTPQGz3HpP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dc0f0dcdf97c97a835c48b2b",
+    "lookedUpAt": "2026-05-22"
   },
   "pulp": {
     "name": "Pulp",
     "country": "GB",
     "spotifyId": "36E7oYfz3LLRto6l2WmDcD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782a7e3dfda16364548dfdc915",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "rumbo tumba": {
     "name": "Rumbo Tumba",
     "country": null,
     "spotifyId": "7rure1hFRz36lJv4LSTXxH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17873dfe3deb31afd88dc4b2de4",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "sol bassa and piccolini": {
     "name": "Sol Bassa and Piccolini",
     "country": "AR",
     "spotifyId": "7cAXX8dPKysphjUm4sN0Ru",
     "spotifyImage": "https://i.scdn.co/image/ab67726900008f74727198fb10a59871947abed6",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "anthony b": {
     "name": "Anthony B",
     "country": "JM",
     "spotifyId": "7Lij2ZLJJQOfGojVR3Wmqa",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781923a1ad28a044e62fbf4ef4",
-    "lookedUpAt": "2026-05-21"
+    "lookedUpAt": "2026-05-22"
   },
   "shame": {
     "name": "Shame",
     "country": "GB",
     "spotifyId": "4IeWU3NYBI9mISFVhzXG8f",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789668c80b0c623e06486ec7f1",
+    "lookedUpAt": "2026-05-22"
+  },
+  "felipe avello": {
+    "name": "felipe avello",
+    "country": null,
+    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09",
+    "lookedUpAt": "2026-05-22"
+  },
+  "jauria y lucho al attaque en el teatro vorterix": {
+    "name": "JAURIA Y LUCHO AL ATTAQUE EN EL TEATRO VORTERIX",
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "kidd voodoo": {
+    "name": "KIDD VOODOO",
+    "country": "CL",
+    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta climax": {
+    "name": "FIESTA CLIMAX",
+    "country": "US",
+    "spotifyId": "7rqhEhaHFMNST911KdISZR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2",
+    "lookedUpAt": "2026-05-22"
+  },
+  "bahiano en vorterix": {
+    "name": "BAHIANO EN VORTERIX",
+    "country": "XW",
+    "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7",
+    "lookedUpAt": "2026-05-22"
+  },
+  "juanse festeja su cumpleaños con amigos en vorterix": {
+    "name": "JUANSE FESTEJA SU CUMPLEAÑOS CON AMIGOS EN VORTERIX",
+    "country": "DE",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "100%evolution: show de lucha": {
+    "name": "100%EVOLUTION: SHOW DE LUCHA",
+    "country": "PE",
+    "spotifyId": "46LxO6Eeyjj6gbMlPYgbwX",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f7bce21f8e7819a93c22e4ab",
+    "lookedUpAt": "2026-05-22"
+  },
+  "“sobredosis de chamame” by peñita linda": {
+    "name": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
+    "country": "US",
+    "spotifyId": "17L94YcCNKzbgi485DOjsn",
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "latineo - estrellas eternas – la obra": {
+    "name": "LATINEO - ESTRELLAS ETERNAS – LA OBRA",
+    "country": "SE",
+    "spotifyId": "1h4iSQAKdvAAm07l6FX6dy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840e58c339ecac3919c5944a8",
+    "lookedUpAt": "2026-05-22"
+  },
+  "pogofest – edicion indie-rock": {
+    "name": "POGOFEST – EDICION INDIE-ROCK",
+    "country": "IE",
+    "spotifyId": "3si8Eu6UFP2Gi0NNtUND38",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b635fdef6e00543df9ae19c6",
+    "lookedUpAt": "2026-05-22"
+  },
+  "sabado 6 junio - airod (francia) @ teatro vorterix": {
+    "name": "SABADO 6 JUNIO - AIROD (francia) @ Teatro Vorterix",
+    "country": "FR",
+    "spotifyId": "3oPI0nOC7MHooFy5qDsFrv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d217957e7e7b7a64ccd03814",
+    "lookedUpAt": "2026-05-22"
+  },
+  "ojos locos cierre de gira en vorterix!": {
+    "name": "OJOS LOCOS CIERRE DE GIRA EN VORTERIX!",
+    "country": "AR",
+    "spotifyId": "2DgNOnbtbBDq1mchoEP1nU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c2a075612568a80e1f82205",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta back to the 80s": {
+    "name": "FIESTA BACK TO THE 80s",
+    "country": "BE",
+    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
+    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta forever 90s – edición revolución": {
+    "name": "FIESTA FOREVER 90s – edición REVOLUCIÓN",
+    "country": "MX",
+    "spotifyId": "1FmH6MmsNdjm11V4qa9nMW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5f269d55423929f1c717d85",
+    "lookedUpAt": "2026-05-22"
+  },
+  "festival alerta! vol.2": {
+    "name": "FESTIVAL ALERTA! vol.2",
+    "country": null,
+    "spotifyId": "6Q7ScDIHGcjCymuCd3rQqF",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f81ae0ba451e45480c102cb4",
+    "lookedUpAt": "2026-05-22"
+  },
+  "pomme": {
+    "name": "POMME",
+    "country": "FR",
+    "spotifyId": "6e3pZKXUxrPfnUPJ960Hd9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872871333b776c41403b2f873",
+    "lookedUpAt": "2026-05-22"
+  },
+  "chiara oliver": {
+    "name": "CHIARA OLIVER",
+    "country": "DE",
+    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
+    "lookedUpAt": "2026-05-22"
+  },
+  "kaos rave": {
+    "name": "KAOS RAVE",
+    "country": "JP",
+    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
+    "lookedUpAt": "2026-05-22"
+  },
+  "riddim festeja 30 años de musica!": {
+    "name": "RIDDIM FESTEJA 30 AÑOS DE MUSICA!",
+    "country": null,
+    "spotifyId": "7wFAVuWaJT2euzeBtTzeAM",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785dc589d4da22bf0c36ce0ec2",
+    "lookedUpAt": "2026-05-22"
+  },
+  "rey garufa y sus timadores - obras cumbres & ineditos": {
+    "name": "REY GARUFA Y SUS TIMADORES - OBRAS CUMBRES & INEDITOS",
+    "country": "US",
+    "spotifyId": "02nFFG9OM3C6J5jSSa5zdg",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851827c7321791c88419adf5639",
+    "lookedUpAt": "2026-05-22"
+  },
+  "jovenes pordioseros festeja 25 años de rock!": {
+    "name": "JOVENES PORDIOSEROS FESTEJA 25 AÑOS DE ROCK!",
+    "country": null,
+    "spotifyId": "6UYYp6Xo2NHP7AxNnR0rn4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178be78a5c5d214334f82d9ca61",
+    "lookedUpAt": "2026-05-22"
+  },
+  "flor paz- nuestro origen": {
+    "name": "FLOR PAZ- NUESTRO ORIGEN",
+    "country": null,
+    "spotifyId": "020AiDrZJgVabE3TCb0OX5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd24048092f1ecf533aa7a56",
+    "lookedUpAt": "2026-05-22"
+  },
+  "la beriso en vorterix!": {
+    "name": "LA BERISO EN VORTERIX!",
+    "country": null,
+    "spotifyId": "5f609sV0zZb4kbsxm00cu7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0871e4f7832a13167df86c2",
+    "lookedUpAt": "2026-05-22"
+  },
+  "queen por master stroke": {
+    "name": "QUEEN POR MASTER STROKE",
+    "country": null,
+    "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423",
+    "lookedUpAt": "2026-05-22"
+  },
+  "rescate – “siempre te encuentro tour”": {
+    "name": "RESCATE – “SIEMPRE TE ENCUENTRO TOUR”",
+    "country": "XW",
+    "spotifyId": "1yIESehTCkR9hPmGFKxuV5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd9d2c597cfcc78f75ebc98b",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta fed": {
+    "name": "FIESTA FED",
+    "country": null,
+    "spotifyId": "4Xm39nTtMUEBVewacThrov",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a6fca6176f30e12138cef38",
+    "lookedUpAt": "2026-05-22"
+  },
+  "masters of voices": {
+    "name": "MASTERS OF VOICES",
+    "country": null,
+    "spotifyId": "5R4FpfxykdqRkO17zHhkE2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178207bb3102d5fc03cf6d3bb10",
+    "lookedUpAt": "2026-05-22"
+  },
+  "caifanes": {
+    "name": "CAIFANES",
+    "country": "MX",
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "lookedUpAt": "2026-05-22"
+  },
+  "knower": {
+    "name": "KNOWER",
+    "country": null,
+    "spotifyId": "7fVp0A6oCMfiQJihMnY0SZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781a0f934ffc8688946ce9f019",
+    "lookedUpAt": "2026-05-22"
+  },
+  "paula maffía presenta su nuevo disco \"república afectiva\"": {
+    "name": "Paula Maffía presenta su nuevo disco \"República Afectiva\"",
+    "country": "AR",
+    "spotifyId": "4soieU4IFUQEcYULczxzFa",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787235b0ca84dfb9792c08121e",
+    "lookedUpAt": "2026-05-22"
+  },
+  "autos robados 21 mayo": {
+    "name": "AUTOS ROBADOS 21 Mayo",
+    "country": null,
+    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
+    "lookedUpAt": "2026-05-22"
+  },
+  "previa robada i": {
+    "name": "PREVIA ROBADA I",
+    "country": "XW",
+    "spotifyId": "3gG0yOuvHSQVCr3P73bbDc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d59fe29a9da07d2791ea9386",
+    "lookedUpAt": "2026-05-22"
+  },
+  "sin papeles y volcados - un festival sin 08": {
+    "name": "Sin papeles y Volcados - un festival sin 08",
+    "country": null,
+    "spotifyId": "45kp3DJeh4yjLKe6SiRZoU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a91276f6383065b44edfc369",
+    "lookedUpAt": "2026-05-22"
+  },
+  "deep sessions edicion 5": {
+    "name": "Deep sessions EDICION 5",
+    "country": "US",
+    "spotifyId": "3Tp13lgUseNKhpNGOLZv12",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851575ba586a06244f849dd6332",
+    "lookedUpAt": "2026-05-22"
+  },
+  "afkgoat y kevtk presentando viviendomucho": {
+    "name": "Afkgoat y Kevtk presentando viviendomucho",
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "autos robados 22 mayo": {
+    "name": "AUTOS ROBADOS 22 Mayo",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "valenchi- kaula": {
+    "name": "VALENCHI- KAULA",
+    "country": null,
+    "spotifyId": "71kB1aJYuFEs0kDcwkPk5W",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856c36f09141fd394205b9d77",
+    "lookedUpAt": "2026-05-22"
+  },
+  "previa robada ii": {
+    "name": "PREVIA ROBADA II",
+    "country": "JP",
+    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad",
+    "lookedUpAt": "2026-05-22"
+  },
+  "aurora.dncflr": {
+    "name": "AURORA.DNCFLR",
+    "country": null,
+    "spotifyId": "1WgXqy2Dd70QQOU7Ay074N",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178eefc6f13cec94fe613a6c1c8",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta bahiana": {
+    "name": "FIESTA BAHIANA",
+    "country": "BR",
+    "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dcf65cf8238dacff1d86144d",
+    "lookedUpAt": "2026-05-22"
+  },
+  "¡fiesta! cineclub florida": {
+    "name": "¡FIESTA! CINECLUB FLORIDA",
+    "country": "GB",
+    "spotifyId": "6x2R1jWku9WIqxYar01Nuf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8f9beb1b9947728949d9a5e",
+    "lookedUpAt": "2026-05-22"
+  },
+  "autos robados 23 mayo": {
+    "name": "AUTOS ROBADOS 23 Mayo",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "previa robada iii": {
+    "name": "PREVIA ROBADA III",
+    "country": "JP",
+    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad",
+    "lookedUpAt": "2026-05-22"
+  },
+  "recazo ¨no mires mas atras¨": {
+    "name": "Recazo ¨No mires mas atras¨",
+    "country": null,
+    "spotifyId": "0bxjbhlo7Q3eQ1SWUdSE1a",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511aedb4b6ad52ea5cbde34293",
+    "lookedUpAt": "2026-05-22"
+  },
+  "keep on groove 23/5": {
+    "name": "Keep on Groove 23/5",
+    "country": "GB",
+    "spotifyId": "05UwRaoOjJPuGzCtawrORF",
+    "spotifyImage": "https://i.scdn.co/image/c198fd84dcd2b4202296ae2ef4b8c95822dde599",
+    "lookedUpAt": "2026-05-22"
+  },
+  "after robado": {
+    "name": "AFTER ROBADO",
+    "country": null,
+    "spotifyId": "40oe3PuiYS57cZk7h31VnP",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d0f8ec4537bcbc605159645e",
+    "lookedUpAt": "2026-05-22"
+  },
+  "club 69 | 24 may": {
+    "name": "Club 69 | 24 MAY",
+    "country": "BE",
+    "spotifyId": "4kEAjV4pCBOkoowYYQydvO",
+    "spotifyImage": "https://i.scdn.co/image/01269d331150098cf0b5c7c4b73e841315c638ab",
+    "lookedUpAt": "2026-05-22"
+  },
+  "live raw sessions vol. v [broken rhythms & bass edition]": {
+    "name": "Live Raw Sessions Vol. V [Broken rhythms & Bass edition]",
+    "country": "US",
+    "spotifyId": "59tlsKpLWoLTxjNNS2wdPi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17806a39299e0433bc6a40f100a",
+    "lookedUpAt": "2026-05-22"
+  },
+  "valor interior": {
+    "name": "Valor Interior",
+    "country": "AR",
+    "spotifyId": "2wwzFSrbJhmL5XEt5igLVf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178900760c8015fbaddafe97e66",
+    "lookedUpAt": "2026-05-22"
+  },
+  "la brava x pulpa": {
+    "name": "La brava x Pulpa",
+    "country": "ES",
+    "spotifyId": "4cau2GKPSay8vGzxo5HUlf",
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "vino del mejor": {
+    "name": "Vino del mejor",
+    "country": "US",
+    "spotifyId": "5Bqc3c0Op9Wvv0E5fhuLqX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e18f5105e6f2336f04c631fd",
+    "lookedUpAt": "2026-05-22"
+  },
+  "stage society argentina: dark ritual": {
+    "name": "Stage Society Argentina: Dark Ritual",
+    "country": "GR",
+    "spotifyId": "3BQDgh6CjxVXMhy00YEx3G",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841bd0b24fc607a072e7dd6bd",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta macho vs fiesta puerca": {
+    "name": "FIESTA MACHO vs FIESTA PUERCA",
+    "country": "HU",
+    "spotifyId": "5Q1vijNjTVhQBoVrZVXms8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f1b38a7d2729f831dc43fb29",
+    "lookedUpAt": "2026-05-22"
+  },
+  "festival refresco  25 mayo": {
+    "name": "FESTIVAL REFRESCO  25 MAYO",
+    "country": "GB",
+    "spotifyId": "4SrOTSNS6W6tZNS4kezX6p",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5eb52d8e7451ff1da9038e3",
+    "lookedUpAt": "2026-05-22"
+  },
+  "horsegirl": {
+    "name": "HORSEGIRL",
+    "country": null,
+    "spotifyId": "0auP293abZeTWwMUi3fZw2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850fd23946deeb6991ef1ee09",
+    "lookedUpAt": "2026-05-22"
+  },
+  "maxi espíndola": {
+    "name": "Maxi Espíndola",
+    "country": "AR",
+    "spotifyId": "4Obfe35qOZ6JZmezYo8K0v",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17848ccd4fcafa737ddeb582665",
+    "lookedUpAt": "2026-05-22"
+  },
+  "ariel rot-  tour 2026": {
+    "name": "ARIEL ROT-  TOUR 2026",
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "fenicia rubí y migue gessaghi": {
+    "name": "FENICIA RUBÍ Y MIGUE GESSAGHI",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "elnueveonce": {
+    "name": "ELNUEVEONCE",
+    "country": null,
+    "spotifyId": "3Sg4d4kPgf4zotCAq4kEIz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891c68e74542bf9ade02ab911",
+    "lookedUpAt": "2026-05-22"
+  },
+  "lucas galiñanes y las realidades + virtual frizz": {
+    "name": "LUCAS GALIÑANES Y LAS REALIDADES + VIRTUAL FRIZZ",
+    "country": "AR",
+    "spotifyId": "12qEW07ucxa9crQYgOcA9f",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178369d42f79793d3a612404860",
+    "lookedUpAt": "2026-05-22"
+  },
+  "the flowers music": {
+    "name": "The Flowers Music",
+    "country": null,
+    "spotifyId": "52QgzwyRpxKpLW1baJPaSx",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f1c4b731dbe993675637b06",
+    "lookedUpAt": "2026-05-22"
+  },
+  "zynth -001- first contact": {
+    "name": "ZYNTH -001- FIRST CONTACT",
+    "country": null,
+    "spotifyId": "1ILD1NHBNPbPjN0wKExuOM",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6d3ee188523fe99c08beb53",
+    "lookedUpAt": "2026-05-22"
+  },
+  "misslupe": {
+    "name": "MISSLUPE",
+    "country": "AR",
+    "spotifyId": "4PRzyAvNqlYKSMhsKl2e0j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c8157b14b9ffc0942fe012b",
+    "lookedUpAt": "2026-05-22"
+  },
+  "luhrever": {
+    "name": "Luhrever",
+    "country": null,
+    "spotifyId": "79ghdkKpilJ7vcN3Kp0tHR",
+    "spotifyImage": null,
+    "lookedUpAt": "2026-05-22"
+  },
+  "sonidos rebeldes 30 mayo": {
+    "name": "SONIDOS REBELDES 30 Mayo",
+    "country": "ES",
+    "spotifyId": "3IjUSrMniLqeMXxUgTjLuq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782207bcdd82a34eb5a1847d5a",
+    "lookedUpAt": "2026-05-22"
+  },
+  "sig ragga + crew rod": {
+    "name": "Sig Ragga + Crew Rod",
+    "country": "AR",
+    "spotifyId": "02QYcz7JjwzKiKGHg53rZY",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517368f71a3fd59c3c99f1b7e4",
+    "lookedUpAt": "2026-05-22"
+  },
+  "distrito produce": {
+    "name": "DISTRITO produce",
+    "country": null,
+    "spotifyId": "0fDsWL50lXtP2fc8ayi4KN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cb5e61d87eda5e25a370ca6",
+    "lookedUpAt": "2026-05-22"
+  },
+  "club 69 | 30 may": {
+    "name": "Club 69 | 30 MAY",
+    "country": "BE",
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "lookedUpAt": "2026-05-22"
+  },
+  "an espil + ekathe/tributo a erikah badu": {
+    "name": "AN ESPIL + EKATHE/Tributo a Erikah Badu",
+    "country": "US",
+    "spotifyId": "6WphqUujxKwhp6FlucDjMN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782867f933f71028fdc6a9919c",
+    "lookedUpAt": "2026-05-22"
+  },
+  "san martin vampire + ceretti - 25 años de \"debut y despedida\"": {
+    "name": "SAN MARTIN VAMPIRE + CERETTI - 25 AÑOS DE \"DEBUT Y DESPEDIDA\"",
+    "country": "AR",
+    "spotifyId": "5VQCk9RiLwri99OgOT34kq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f755e0c4ccc54666fe7da169",
+    "lookedUpAt": "2026-05-22"
+  },
+  "polenta solo pop": {
+    "name": "Polenta Solo Pop",
+    "country": "US",
+    "spotifyId": "16LYwGPwl47bMoMQApylLi",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
+    "lookedUpAt": "2026-05-22"
+  },
+  "litoral independiente, música hecha": {
+    "name": "Litoral Independiente, música hecha",
+    "country": "ES",
+    "spotifyId": "5Xy8DsFF2LaQH7Cp8yNrNV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c0842a0d2f8801b74baf1cd7",
+    "lookedUpAt": "2026-05-22"
+  },
+  "musica para volar presenta soda charly y fito, fiesta de hitazos": {
+    "name": "MUSICA PARA VOLAR PRESENTA SODA CHARLY Y FITO, FIESTA DE HITAZOS",
+    "country": "ES",
+    "spotifyId": "2QFzaQjpqjQBtvwZLVMdMG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ed37cc47edfa0988aae48b18",
+    "lookedUpAt": "2026-05-22"
+  },
+  "sujeto no huye + vuelo eterno": {
+    "name": "SUJETO NO HUYE + VUELO ETERNO",
+    "country": null,
+    "spotifyId": "7zWQjnP3V14jgfrIAoA5tF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780cb7598d3902e8c16ef50b6a",
+    "lookedUpAt": "2026-05-22"
+  },
+  "low end  showcase": {
+    "name": "LOW END  Showcase",
+    "country": null,
+    "spotifyId": "4q3lWHEW55hoLJNzZskFVo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850b7b67c987095c6b17ea60b",
+    "lookedUpAt": "2026-05-22"
+  },
+  "fiesta felenica: especial rock nacional": {
+    "name": "FIESTA FELENICA: ESPECIAL ROCK NACIONAL",
+    "country": null,
+    "spotifyId": "5WTJgmKTxGTi6N9KpGH9Yr",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514a2db19ac6e162d4b8c6d1cf",
+    "lookedUpAt": "2026-05-22"
+  },
+  "mon laferte": {
+    "name": "Mon Laferte",
+    "country": "MX",
+    "spotifyId": "4boI7bJtmB1L3b1cuL75Zr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4d9941b20bbf2bbe3714acc",
     "lookedUpAt": "2026-05-21"
   },
   "cintia arévalo": {
@@ -249,531 +795,6 @@
     "country": "UY",
     "spotifyId": "78GTwoOGB8pub6iMy43fYc",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59",
-    "lookedUpAt": "2026-05-21"
-  },
-  "jauria y lucho al attaque en el teatro vorterix": {
-    "name": "JAURIA Y LUCHO AL ATTAQUE EN EL TEATRO VORTERIX",
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta climax": {
-    "name": "FIESTA CLIMAX",
-    "country": "US",
-    "spotifyId": "7rqhEhaHFMNST911KdISZR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2",
-    "lookedUpAt": "2026-05-21"
-  },
-  "kidd voodoo": {
-    "name": "Kidd Voodoo",
-    "country": "CL",
-    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
-    "lookedUpAt": "2026-05-21"
-  },
-  "bahiano en vorterix": {
-    "name": "BAHIANO EN VORTERIX",
-    "country": "XW",
-    "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7",
-    "lookedUpAt": "2026-05-21"
-  },
-  "juanse festeja su cumpleaños con amigos en vorterix": {
-    "name": "JUANSE FESTEJA SU CUMPLEAÑOS CON AMIGOS EN VORTERIX",
-    "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "100%evolution: show de lucha": {
-    "name": "100%EVOLUTION: SHOW DE LUCHA",
-    "country": "PE",
-    "spotifyId": "46LxO6Eeyjj6gbMlPYgbwX",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f7bce21f8e7819a93c22e4ab",
-    "lookedUpAt": "2026-05-21"
-  },
-  "“sobredosis de chamame” by peñita linda": {
-    "name": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
-    "country": "US",
-    "spotifyId": "17L94YcCNKzbgi485DOjsn",
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "latineo - estrellas eternas – la obra": {
-    "name": "LATINEO - ESTRELLAS ETERNAS – LA OBRA",
-    "country": "SE",
-    "spotifyId": "1h4iSQAKdvAAm07l6FX6dy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840e58c339ecac3919c5944a8",
-    "lookedUpAt": "2026-05-21"
-  },
-  "pogofest – edicion indie-rock": {
-    "name": "POGOFEST – EDICION INDIE-ROCK",
-    "country": "IE",
-    "spotifyId": "3si8Eu6UFP2Gi0NNtUND38",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b635fdef6e00543df9ae19c6",
-    "lookedUpAt": "2026-05-21"
-  },
-  "sabado 6 junio - airod (francia) @ teatro vorterix": {
-    "name": "SABADO 6 JUNIO - AIROD (francia) @ Teatro Vorterix",
-    "country": "FR",
-    "spotifyId": "3oPI0nOC7MHooFy5qDsFrv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d217957e7e7b7a64ccd03814",
-    "lookedUpAt": "2026-05-21"
-  },
-  "ojos locos cierre de gira en vorterix!": {
-    "name": "OJOS LOCOS CIERRE DE GIRA EN VORTERIX!",
-    "country": "AR",
-    "spotifyId": "2DgNOnbtbBDq1mchoEP1nU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c2a075612568a80e1f82205",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta back to the 80s": {
-    "name": "FIESTA BACK TO THE 80s",
-    "country": "BE",
-    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
-    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta forever 90s – edición revolución": {
-    "name": "FIESTA FOREVER 90s – edición REVOLUCIÓN",
-    "country": "MX",
-    "spotifyId": "1FmH6MmsNdjm11V4qa9nMW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5f269d55423929f1c717d85",
-    "lookedUpAt": "2026-05-21"
-  },
-  "festival alerta! vol.2": {
-    "name": "FESTIVAL ALERTA! vol.2",
-    "country": null,
-    "spotifyId": "6Q7ScDIHGcjCymuCd3rQqF",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f81ae0ba451e45480c102cb4",
-    "lookedUpAt": "2026-05-21"
-  },
-  "pomme": {
-    "name": "POMME",
-    "country": "FR",
-    "spotifyId": "6e3pZKXUxrPfnUPJ960Hd9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872871333b776c41403b2f873",
-    "lookedUpAt": "2026-05-21"
-  },
-  "chiara oliver": {
-    "name": "CHIARA OLIVER",
-    "country": "DE",
-    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
-    "lookedUpAt": "2026-05-21"
-  },
-  "kaos rave": {
-    "name": "KAOS RAVE",
-    "country": "JP",
-    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
-    "lookedUpAt": "2026-05-21"
-  },
-  "riddim festeja 30 años de musica!": {
-    "name": "RIDDIM FESTEJA 30 AÑOS DE MUSICA!",
-    "country": null,
-    "spotifyId": "7wFAVuWaJT2euzeBtTzeAM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785dc589d4da22bf0c36ce0ec2",
-    "lookedUpAt": "2026-05-21"
-  },
-  "rey garufa y sus timadores - obras cumbres & ineditos": {
-    "name": "REY GARUFA Y SUS TIMADORES - OBRAS CUMBRES & INEDITOS",
-    "country": "US",
-    "spotifyId": "02nFFG9OM3C6J5jSSa5zdg",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851827c7321791c88419adf5639",
-    "lookedUpAt": "2026-05-21"
-  },
-  "jovenes pordioseros festeja 25 años de rock!": {
-    "name": "JOVENES PORDIOSEROS FESTEJA 25 AÑOS DE ROCK!",
-    "country": null,
-    "spotifyId": "6UYYp6Xo2NHP7AxNnR0rn4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178be78a5c5d214334f82d9ca61",
-    "lookedUpAt": "2026-05-21"
-  },
-  "flor paz- nuestro origen": {
-    "name": "FLOR PAZ- NUESTRO ORIGEN",
-    "country": null,
-    "spotifyId": "020AiDrZJgVabE3TCb0OX5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd24048092f1ecf533aa7a56",
-    "lookedUpAt": "2026-05-21"
-  },
-  "la beriso en vorterix!": {
-    "name": "LA BERISO EN VORTERIX!",
-    "country": null,
-    "spotifyId": "5f609sV0zZb4kbsxm00cu7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0871e4f7832a13167df86c2",
-    "lookedUpAt": "2026-05-21"
-  },
-  "queen por master stroke": {
-    "name": "QUEEN POR MASTER STROKE",
-    "country": null,
-    "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423",
-    "lookedUpAt": "2026-05-21"
-  },
-  "rescate – “siempre te encuentro tour”": {
-    "name": "RESCATE – “SIEMPRE TE ENCUENTRO TOUR”",
-    "country": "XW",
-    "spotifyId": "1yIESehTCkR9hPmGFKxuV5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd9d2c597cfcc78f75ebc98b",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta fed": {
-    "name": "FIESTA FED",
-    "country": null,
-    "spotifyId": "4Xm39nTtMUEBVewacThrov",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a6fca6176f30e12138cef38",
-    "lookedUpAt": "2026-05-21"
-  },
-  "masters of voices": {
-    "name": "MASTERS OF VOICES",
-    "country": null,
-    "spotifyId": "5R4FpfxykdqRkO17zHhkE2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178207bb3102d5fc03cf6d3bb10",
-    "lookedUpAt": "2026-05-21"
-  },
-  "caifanes": {
-    "name": "CAIFANES",
-    "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "lookedUpAt": "2026-05-21"
-  },
-  "knower": {
-    "name": "KNOWER",
-    "country": null,
-    "spotifyId": "7fVp0A6oCMfiQJihMnY0SZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781a0f934ffc8688946ce9f019",
-    "lookedUpAt": "2026-05-21"
-  },
-  "paula maffía presenta su nuevo disco \"república afectiva\"": {
-    "name": "Paula Maffía presenta su nuevo disco \"República Afectiva\"",
-    "country": "AR",
-    "spotifyId": "4soieU4IFUQEcYULczxzFa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787235b0ca84dfb9792c08121e",
-    "lookedUpAt": "2026-05-21"
-  },
-  "autos robados 21 mayo": {
-    "name": "AUTOS ROBADOS 21 Mayo",
-    "country": null,
-    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
-    "lookedUpAt": "2026-05-21"
-  },
-  "previa robada i": {
-    "name": "PREVIA ROBADA I",
-    "country": "XW",
-    "spotifyId": "3gG0yOuvHSQVCr3P73bbDc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d59fe29a9da07d2791ea9386",
-    "lookedUpAt": "2026-05-21"
-  },
-  "sin papeles y volcados - un festival sin 08": {
-    "name": "Sin papeles y Volcados - un festival sin 08",
-    "country": null,
-    "spotifyId": "45kp3DJeh4yjLKe6SiRZoU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a91276f6383065b44edfc369",
-    "lookedUpAt": "2026-05-21"
-  },
-  "deep sessions edicion 5": {
-    "name": "Deep sessions EDICION 5",
-    "country": "US",
-    "spotifyId": "3Tp13lgUseNKhpNGOLZv12",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851575ba586a06244f849dd6332",
-    "lookedUpAt": "2026-05-21"
-  },
-  "afkgoat y kevtk presentando viviendomucho": {
-    "name": "Afkgoat y Kevtk presentando viviendomucho",
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "autos robados 22 mayo": {
-    "name": "AUTOS ROBADOS 22 Mayo",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "valenchi- kaula": {
-    "name": "VALENCHI- KAULA",
-    "country": null,
-    "spotifyId": "71kB1aJYuFEs0kDcwkPk5W",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856c36f09141fd394205b9d77",
-    "lookedUpAt": "2026-05-21"
-  },
-  "previa robada ii": {
-    "name": "PREVIA ROBADA II",
-    "country": "JP",
-    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad",
-    "lookedUpAt": "2026-05-21"
-  },
-  "aurora.dncflr": {
-    "name": "AURORA.DNCFLR",
-    "country": null,
-    "spotifyId": "1WgXqy2Dd70QQOU7Ay074N",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178eefc6f13cec94fe613a6c1c8",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta bahiana": {
-    "name": "FIESTA BAHIANA",
-    "country": "BR",
-    "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dcf65cf8238dacff1d86144d",
-    "lookedUpAt": "2026-05-21"
-  },
-  "¡fiesta! cineclub florida": {
-    "name": "¡FIESTA! CINECLUB FLORIDA",
-    "country": "GB",
-    "spotifyId": "6x2R1jWku9WIqxYar01Nuf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8f9beb1b9947728949d9a5e",
-    "lookedUpAt": "2026-05-21"
-  },
-  "autos robados 23 mayo": {
-    "name": "AUTOS ROBADOS 23 Mayo",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "previa robada iii": {
-    "name": "PREVIA ROBADA III",
-    "country": "JP",
-    "spotifyId": "2g440R2CL7PYuRIO0TYPOO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786de8708537482592d4e230ad",
-    "lookedUpAt": "2026-05-21"
-  },
-  "recazo ¨no mires mas atras¨": {
-    "name": "Recazo ¨No mires mas atras¨",
-    "country": null,
-    "spotifyId": "0bxjbhlo7Q3eQ1SWUdSE1a",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511aedb4b6ad52ea5cbde34293",
-    "lookedUpAt": "2026-05-21"
-  },
-  "keep on groove 23/5": {
-    "name": "Keep on Groove 23/5",
-    "country": "GB",
-    "spotifyId": "05UwRaoOjJPuGzCtawrORF",
-    "spotifyImage": "https://i.scdn.co/image/c198fd84dcd2b4202296ae2ef4b8c95822dde599",
-    "lookedUpAt": "2026-05-21"
-  },
-  "after robado": {
-    "name": "AFTER ROBADO",
-    "country": null,
-    "spotifyId": "40oe3PuiYS57cZk7h31VnP",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d0f8ec4537bcbc605159645e",
-    "lookedUpAt": "2026-05-21"
-  },
-  "club 69 | 24 may": {
-    "name": "Club 69 | 24 MAY",
-    "country": "BE",
-    "spotifyId": "4kEAjV4pCBOkoowYYQydvO",
-    "spotifyImage": "https://i.scdn.co/image/01269d331150098cf0b5c7c4b73e841315c638ab",
-    "lookedUpAt": "2026-05-21"
-  },
-  "live raw sessions vol. v [broken rhythms & bass edition]": {
-    "name": "Live Raw Sessions Vol. V [Broken rhythms & Bass edition]",
-    "country": "US",
-    "spotifyId": "59tlsKpLWoLTxjNNS2wdPi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17806a39299e0433bc6a40f100a",
-    "lookedUpAt": "2026-05-21"
-  },
-  "valor interior": {
-    "name": "Valor Interior",
-    "country": "AR",
-    "spotifyId": "2wwzFSrbJhmL5XEt5igLVf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178900760c8015fbaddafe97e66",
-    "lookedUpAt": "2026-05-21"
-  },
-  "la brava x pulpa": {
-    "name": "La brava x Pulpa",
-    "country": "ES",
-    "spotifyId": "4cau2GKPSay8vGzxo5HUlf",
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "vino del mejor": {
-    "name": "Vino del mejor",
-    "country": "US",
-    "spotifyId": "5Bqc3c0Op9Wvv0E5fhuLqX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e18f5105e6f2336f04c631fd",
-    "lookedUpAt": "2026-05-21"
-  },
-  "stage society argentina: dark ritual": {
-    "name": "Stage Society Argentina: Dark Ritual",
-    "country": "GR",
-    "spotifyId": "3BQDgh6CjxVXMhy00YEx3G",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841bd0b24fc607a072e7dd6bd",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta macho vs fiesta puerca": {
-    "name": "FIESTA MACHO vs FIESTA PUERCA",
-    "country": "HU",
-    "spotifyId": "5Q1vijNjTVhQBoVrZVXms8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f1b38a7d2729f831dc43fb29",
-    "lookedUpAt": "2026-05-21"
-  },
-  "festival refresco  25 mayo": {
-    "name": "FESTIVAL REFRESCO  25 MAYO",
-    "country": "GB",
-    "spotifyId": "4SrOTSNS6W6tZNS4kezX6p",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5eb52d8e7451ff1da9038e3",
-    "lookedUpAt": "2026-05-21"
-  },
-  "horsegirl": {
-    "name": "HORSEGIRL",
-    "country": null,
-    "spotifyId": "0auP293abZeTWwMUi3fZw2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850fd23946deeb6991ef1ee09",
-    "lookedUpAt": "2026-05-21"
-  },
-  "maxi espíndola": {
-    "name": "Maxi Espíndola",
-    "country": "AR",
-    "spotifyId": "4Obfe35qOZ6JZmezYo8K0v",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17848ccd4fcafa737ddeb582665",
-    "lookedUpAt": "2026-05-21"
-  },
-  "ariel rot-  tour 2026": {
-    "name": "ARIEL ROT-  TOUR 2026",
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "fenicia rubí y migue gessaghi": {
-    "name": "FENICIA RUBÍ Y MIGUE GESSAGHI",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "elnueveonce": {
-    "name": "ELNUEVEONCE",
-    "country": null,
-    "spotifyId": "3Sg4d4kPgf4zotCAq4kEIz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891c68e74542bf9ade02ab911",
-    "lookedUpAt": "2026-05-21"
-  },
-  "lucas galiñanes y las realidades + virtual frizz": {
-    "name": "LUCAS GALIÑANES Y LAS REALIDADES + VIRTUAL FRIZZ",
-    "country": "AR",
-    "spotifyId": "12qEW07ucxa9crQYgOcA9f",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178369d42f79793d3a612404860",
-    "lookedUpAt": "2026-05-21"
-  },
-  "the flowers music": {
-    "name": "The Flowers Music",
-    "country": null,
-    "spotifyId": "52QgzwyRpxKpLW1baJPaSx",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f1c4b731dbe993675637b06",
-    "lookedUpAt": "2026-05-21"
-  },
-  "zynth -001- first contact": {
-    "name": "ZYNTH -001- FIRST CONTACT",
-    "country": null,
-    "spotifyId": "1ILD1NHBNPbPjN0wKExuOM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6d3ee188523fe99c08beb53",
-    "lookedUpAt": "2026-05-21"
-  },
-  "misslupe": {
-    "name": "MISSLUPE",
-    "country": "AR",
-    "spotifyId": "4PRzyAvNqlYKSMhsKl2e0j",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c8157b14b9ffc0942fe012b",
-    "lookedUpAt": "2026-05-21"
-  },
-  "luhrever": {
-    "name": "Luhrever",
-    "country": null,
-    "spotifyId": "79ghdkKpilJ7vcN3Kp0tHR",
-    "spotifyImage": null,
-    "lookedUpAt": "2026-05-21"
-  },
-  "sonidos rebeldes 30 mayo": {
-    "name": "SONIDOS REBELDES 30 Mayo",
-    "country": "ES",
-    "spotifyId": "3IjUSrMniLqeMXxUgTjLuq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782207bcdd82a34eb5a1847d5a",
-    "lookedUpAt": "2026-05-21"
-  },
-  "sig ragga + crew rod": {
-    "name": "Sig Ragga + Crew Rod",
-    "country": "AR",
-    "spotifyId": "02QYcz7JjwzKiKGHg53rZY",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517368f71a3fd59c3c99f1b7e4",
-    "lookedUpAt": "2026-05-21"
-  },
-  "distrito produce": {
-    "name": "DISTRITO produce",
-    "country": null,
-    "spotifyId": "0fDsWL50lXtP2fc8ayi4KN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cb5e61d87eda5e25a370ca6",
-    "lookedUpAt": "2026-05-21"
-  },
-  "club 69 | 30 may": {
-    "name": "Club 69 | 30 MAY",
-    "country": "BE",
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "lookedUpAt": "2026-05-21"
-  },
-  "an espil + ekathe/tributo a erikah badu": {
-    "name": "AN ESPIL + EKATHE/Tributo a Erikah Badu",
-    "country": "US",
-    "spotifyId": "6WphqUujxKwhp6FlucDjMN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782867f933f71028fdc6a9919c",
-    "lookedUpAt": "2026-05-21"
-  },
-  "san martin vampire + ceretti - 25 años de \"debut y despedida\"": {
-    "name": "SAN MARTIN VAMPIRE + CERETTI - 25 AÑOS DE \"DEBUT Y DESPEDIDA\"",
-    "country": "AR",
-    "spotifyId": "5VQCk9RiLwri99OgOT34kq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f755e0c4ccc54666fe7da169",
-    "lookedUpAt": "2026-05-21"
-  },
-  "polenta solo pop": {
-    "name": "Polenta Solo Pop",
-    "country": "US",
-    "spotifyId": "16LYwGPwl47bMoMQApylLi",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
-    "lookedUpAt": "2026-05-21"
-  },
-  "litoral independiente, música hecha": {
-    "name": "Litoral Independiente, música hecha",
-    "country": "ES",
-    "spotifyId": "5Xy8DsFF2LaQH7Cp8yNrNV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c0842a0d2f8801b74baf1cd7",
-    "lookedUpAt": "2026-05-21"
-  },
-  "musica para volar presenta soda charly y fito, fiesta de hitazos": {
-    "name": "MUSICA PARA VOLAR PRESENTA SODA CHARLY Y FITO, FIESTA DE HITAZOS",
-    "country": "ES",
-    "spotifyId": "2QFzaQjpqjQBtvwZLVMdMG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ed37cc47edfa0988aae48b18",
-    "lookedUpAt": "2026-05-21"
-  },
-  "sujeto no huye + vuelo eterno": {
-    "name": "SUJETO NO HUYE + VUELO ETERNO",
-    "country": null,
-    "spotifyId": "7zWQjnP3V14jgfrIAoA5tF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780cb7598d3902e8c16ef50b6a",
-    "lookedUpAt": "2026-05-21"
-  },
-  "low end  showcase": {
-    "name": "LOW END  Showcase",
-    "country": null,
-    "spotifyId": "4q3lWHEW55hoLJNzZskFVo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850b7b67c987095c6b17ea60b",
-    "lookedUpAt": "2026-05-21"
-  },
-  "fiesta felenica: especial rock nacional": {
-    "name": "FIESTA FELENICA: ESPECIAL ROCK NACIONAL",
-    "country": null,
-    "spotifyId": "5WTJgmKTxGTi6N9KpGH9Yr",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514a2db19ac6e162d4b8c6d1cf",
     "lookedUpAt": "2026-05-21"
   },
   "paula maffia": {
