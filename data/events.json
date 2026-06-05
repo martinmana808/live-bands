@@ -1,20 +1,20 @@
 [
   {
-    "id": "superchunk-2026-06-02-niceto",
-    "artist": "SUPERCHUNK",
-    "artistKey": "superchunk",
-    "date": "2026-06-02",
+    "id": "kilombojueves4jun-2026-06-04-niceto",
+    "artist": "Kilombo Jueves 4 JUN",
+    "artistKey": "kilombojueves4jun",
+    "date": "2026-06-04",
     "venue": "Niceto Club",
     "venueKey": "niceto",
     "ticketUrls": [
-      "https://venti.live/evento/superchunk-en-niceto-club"
+      "https://venti.live/evento/kilombo-jueves-4-jun-en-niceto-bar"
     ],
     "sources": [
       "niceto"
     ],
-    "country": "US",
-    "spotifyId": "7lmde7T1WJPFwv1eR6melP",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787a3c2f05d03f7dd28438f440"
+    "country": null,
+    "spotifyId": "4QGD0m9AGZixhuPAzaBeD7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17806452f0619d6b832bce71fcd"
   },
   {
     "id": "olivertree-2026-06-04-niceto",
@@ -27,7 +27,6 @@
       "https://venti.live/evento/oliver-tree-en-niceto-club"
     ],
     "sources": [
-      "songkick",
       "niceto"
     ],
     "country": "GB",
@@ -346,6 +345,57 @@
     "country": "US",
     "spotifyId": "6RXr66PUU0hbkpcVqvlbbi",
     "spotifyImage": null
+  },
+  {
+    "id": "ilvetech11jun-2026-06-11-niceto",
+    "artist": "iL💘VE TECH  11 JUN",
+    "artistKey": "ilvetech11jun",
+    "date": "2026-06-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/il-ve-tech-11-jun-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6v0qM3UbgdKlzIMRow87s2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789508b912d4b4df71f8245c4e"
+  },
+  {
+    "id": "sinpapelesyvolcados11jununfestivalsin08-2026-06-11-niceto",
+    "artist": "Sin papeles y Volcados  11 JUN - un festival sin 08",
+    "artistKey": "sinpapelesyvolcados11jununfestivalsin08",
+    "date": "2026-06-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/sin-papeles-y-volcados-11-jun-un-festival-sin-08-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "36ZbFpJtT9Fn6S2izBmBaL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485159da5a00c63c6f033b7bf321"
+  },
+  {
+    "id": "777oficial12jun-2026-06-12-niceto",
+    "artist": "777 oficial  12 JUN",
+    "artistKey": "777oficial12jun",
+    "date": "2026-06-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/s777-oficial-12-jun-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "5rGYM7ANoJiyCMOM9BMLmO",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851099215b0a85652c6c4709da8"
   },
   {
     "id": "emisuristassudes-2026-06-12-niceto",
@@ -807,23 +857,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820ddbac4e517816b9d2567cb"
   },
   {
-    "id": "julianbernardpeliculasacidocritico-2026-06-20-niceto",
-    "artist": "JULIAN BERNARD, PELICULAS, ACIDO CRITICO",
-    "artistKey": "julianbernardpeliculasacidocritico",
-    "date": "2026-06-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/julian-bernard-peliculas-acido-citrico-en-niceto-clib"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6TdUG7ecoZQ4y87MO9410f",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803307602dc6565aa36a29db8"
-  },
-  {
     "id": "mexico86presentadiosmaquina-2026-06-20-niceto",
     "artist": "Mexico '86 Presenta \"DIOS MAQUINA\"",
     "artistKey": "mexico86presentadiosmaquina",
@@ -839,6 +872,40 @@
     "country": null,
     "spotifyId": "4iN3Bion7xw9qAHc12VOl6",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851127b058f7418e78e236e7d10"
+  },
+  {
+    "id": "rusterpeliculasacidocritico-2026-06-20-niceto",
+    "artist": "RUSTER, PELICULAS, ACIDO CRITICO",
+    "artistKey": "rusterpeliculasacidocritico",
+    "date": "2026-06-20",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/julian-bernard-peliculas-acido-citrico-en-niceto-clib"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4mwff2VCgOh6Ja0V5Hejie",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d095669dcd63074e5a9822e3"
+  },
+  {
+    "id": "seesawfree4all-2026-06-20-niceto",
+    "artist": "SEE-SAW | FREE4ALL |",
+    "artistKey": "seesawfree4all",
+    "date": "2026-06-20",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/see-saw-free4all-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "BE",
+    "spotifyId": "0l6f9cXGE0K2QbcK1ZBgCY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787cfe858f58c9d054e4b53f69"
   },
   {
     "id": "abatov-2026-06-21-tangente",
@@ -888,74 +955,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3c648417d50840ca10fb05c"
   },
   {
-    "id": "frescajunioyjulio-2026-06-25-niceto",
-    "artist": "FRESCA: Junio y Julio",
-    "artistKey": "frescajunioyjulio",
-    "date": "2026-06-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fresca-junio-y-julio-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "10KOPjcyeuG5e44Ynxz8dS",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c8fd5df510c83e7bbfdfdee2"
-  },
-  {
-    "id": "cicloradioactivxvi-2026-06-26-niceto",
-    "artist": "Ciclo Radioactivx VI",
-    "artistKey": "cicloradioactivxvi",
-    "date": "2026-06-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ciclo-radioactivx-vi-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "2UaLNhXfIpjYUnfGVBF9oL",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d59f23e4ae395216c7043828"
-  },
-  {
-    "id": "dante-2026-06-26-niceto",
-    "artist": "Dante",
-    "artistKey": "dante",
-    "date": "2026-06-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/dante-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "IT",
-    "spotifyId": "60JjUCBeLsuJ95WFvqFiFz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c6ccf712f595a8174ee6418f"
-  },
-  {
-    "id": "trabestiadragclub-2026-06-26-niceto",
-    "artist": "Trabestia, drag club",
-    "artistKey": "trabestiadragclub",
-    "date": "2026-06-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/trabestia-drag-club-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
     "id": "gilsons-2026-06-28-ccomplejoartmedia",
     "artist": "Gilsons",
     "artistKey": "gilsons",
@@ -999,6 +998,21 @@
     "country": "IL",
     "spotifyId": "5ZS223C6JyBfXasXxrRqOk",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ebd0610816b0a89f40cdb4c2"
+  },
+  {
+    "id": "wooyork-2026-07-04-thebow",
+    "artist": "Woo York",
+    "artistKey": "wooyork",
+    "date": "2026-07-04",
+    "venue": "The Bow",
+    "venueKey": "thebow",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "3F4cmqlG4wCV3aEZlHHO8p",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c04a475f9bd3ed38b9db2b4"
   },
   {
     "id": "pigspigspigspigspigspigspigs-2026-07-05-uniclub",
