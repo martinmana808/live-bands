@@ -51,21 +51,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782867f933f71028fdc6a9919c"
   },
   {
-    "id": "eykalocavanyaraandtermocromik-2026-06-05-centroculturalvictorjara",
-    "artist": "Eyka, Loca, Vanyara, and Termocromik",
-    "artistKey": "eykalocavanyaraandtermocromik",
-    "date": "2026-06-05",
-    "venue": "Centro Cultural Victor Jara",
-    "venueKey": "centroculturalvictorjara",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0yG65Hobg0EEGfxqfFq4Jg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178621d25c977ef326059b0457b"
-  },
-  {
     "id": "hypnoticsessionssunsetedition-2026-06-05-niceto",
     "artist": "HYPNOTIC SESSIONS Sunset Edition",
     "artistKey": "hypnoticsessionssunsetedition",
@@ -81,21 +66,6 @@
     "country": "US",
     "spotifyId": "4V6Upc3fY4gIqOH6AogDCW",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e5343c611133e20cde641116"
-  },
-  {
-    "id": "kutisrhinoceronteronaargandlotre-2026-06-05-conjura",
-    "artist": "Kutis, Rhinoceronte, Roña (Arg), and Lotre",
-    "artistKey": "kutisrhinoceronteronaargandlotre",
-    "date": "2026-06-05",
-    "venue": "Club Conjura",
-    "venueKey": "conjura",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "FI",
-    "spotifyId": null,
-    "spotifyImage": null
   },
   {
     "id": "lowendshowcase-2026-06-05-niceto",
@@ -970,6 +940,36 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784fffd9925dc890248c2b51b2"
   },
   {
+    "id": "ricardoarjona-2026-07-01-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-01",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
+    "id": "ricardoarjona-2026-07-02-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-02",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
     "id": "kream-2026-07-03-araoz",
     "artist": "KREAM",
     "artistKey": "kream",
@@ -1030,6 +1030,66 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b68e9206a26f0f2937e227b4"
   },
   {
+    "id": "ricardoarjona-2026-07-05-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-05",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
+    "id": "ricardoarjona-2026-07-06-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-06",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
+    "id": "ricardoarjona-2026-07-07-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-07",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
+    "id": "ricardoarjona-2026-07-09-movistararena",
+    "artist": "Ricardo Arjona",
+    "artistKey": "ricardoarjona",
+    "date": "2026-07-09",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GT",
+    "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
+  },
+  {
     "id": "havok-2026-07-10-theroxylive",
     "artist": "Havok",
     "artistKey": "havok",
@@ -1079,21 +1139,6 @@
     "artist": "Disney on Ice: Frozen & Encanto",
     "artistKey": "disneyonicefrozenencanto",
     "date": "2026-07-18",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
-    "id": "disneyonicefrozenencanto-2026-07-19-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-19",
     "venue": "Movistar Arena",
     "venueKey": "movistararena",
     "ticketUrls": [],
