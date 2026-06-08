@@ -255,23 +255,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780de8df194b66e871b7c21f33"
   },
   {
-    "id": "sobredosisdechamamebypenitalinda-2026-06-11-vorterix",
-    "artist": "“SOBREDOSIS DE CHAMAME” by Peñita Linda",
-    "artistKey": "sobredosisdechamamebypenitalinda",
-    "date": "2026-06-11",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/sobredosis-de-chamame-by-peita-linda"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "US",
-    "spotifyId": "17L94YcCNKzbgi485DOjsn",
-    "spotifyImage": null
-  },
-  {
     "id": "billlauranceandmarklettierigroup-2026-06-11-deseo",
     "artist": "Bill Laurance and Mark Lettieri Group",
     "artistKey": "billlauranceandmarklettierigroup",
@@ -515,40 +498,6 @@
     "country": "JP",
     "spotifyId": "4gUlOT8yUtjFDWKlkEpLI4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784e4462619ddec04d74207e9e"
-  },
-  {
-    "id": "fiestabacktothe80s-2026-06-13-vorterix",
-    "artist": "FIESTA BACK TO THE 80s",
-    "artistKey": "fiestabacktothe80s",
-    "date": "2026-06-13",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-back-to-the-80s-"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "BE",
-    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
-    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7"
-  },
-  {
-    "id": "jovenespordioserosfesteja25anosderock-2026-06-13-vorterix",
-    "artist": "JOVENES PORDIOSEROS FESTEJA 25 AÑOS DE ROCK!",
-    "artistKey": "jovenespordioserosfesteja25anosderock",
-    "date": "2026-06-13",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/jovenes-pordioseros-festeja-25-aos-de-rock"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "6UYYp6Xo2NHP7AxNnR0rn4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178be78a5c5d214334f82d9ca61"
   },
   {
     "id": "juliamur-2026-06-13-niceto",
@@ -846,23 +795,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a15312fe04f8cc0df76df225"
   },
   {
-    "id": "fiestaclimax-2026-06-20-vorterix",
-    "artist": "FIESTA CLIMAX",
-    "artistKey": "fiestaclimax",
-    "date": "2026-06-20",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta---climax"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "US",
-    "spotifyId": "7rqhEhaHFMNST911KdISZR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178955144abf02f57894600f7f2"
-  },
-  {
     "id": "fiestamermeladaespecialnacional-2026-06-20-niceto",
     "artist": "FIESTA MERMELADA — ESPECIAL NACIONAL",
     "artistKey": "fiestamermeladaespecialnacional",
@@ -895,23 +827,6 @@
     "country": null,
     "spotifyId": "4iN3Bion7xw9qAHc12VOl6",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851127b058f7418e78e236e7d10"
-  },
-  {
-    "id": "riddimfesteja30anosdemusica-2026-06-20-vorterix",
-    "artist": "RIDDIM FESTEJA 30 AÑOS DE MUSICA!",
-    "artistKey": "riddimfesteja30anosdemusica",
-    "date": "2026-06-20",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/riddim-festeja-30-aos-de-musica"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "7wFAVuWaJT2euzeBtTzeAM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785dc589d4da22bf0c36ce0ec2"
   },
   {
     "id": "rusterpeliculasacidocritico-2026-06-20-niceto",
@@ -963,23 +878,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787304f037049600513c5439c1"
   },
   {
-    "id": "latineoestrellaseternaslaobra-2026-06-21-vorterix",
-    "artist": "LATINEO - ESTRELLAS ETERNAS – LA OBRA",
-    "artistKey": "latineoestrellaseternaslaobra",
-    "date": "2026-06-21",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/latineo---estrellas-eternas--la-obra"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "SE",
-    "spotifyId": "1h4iSQAKdvAAm07l6FX6dy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840e58c339ecac3919c5944a8"
-  },
-  {
     "id": "she-2026-06-21-niceto",
     "artist": "SHÉ",
     "artistKey": "she",
@@ -1010,23 +908,6 @@
     "country": "US",
     "spotifyId": "1USc9u5yL4tUaQKhGWNuvj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3c648417d50840ca10fb05c"
-  },
-  {
-    "id": "fiestaforever90sedicionhomenajeaitalia90-2026-06-26-vorterix",
-    "artist": "FIESTA FOREVER 90s – Edición HOMENAJE A ITALIA 90",
-    "artistKey": "fiestaforever90sedicionhomenajeaitalia90",
-    "date": "2026-06-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-forever-90s--edicin-homenaje-a-italia-90"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "26T6b8maqEVltcmE4kSDUl",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c5ccdc0da89e063165f0d89"
   },
   {
     "id": "gilsons-2026-06-28-ccomplejoartmedia",
@@ -1072,23 +953,6 @@
     "country": "GT",
     "spotifyId": "0h1zs4CTlU9D2QtgPxptUD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
-  },
-  {
-    "id": "fiestaclickedicioncasacasenteatrovorterix-2026-07-03-vorterix",
-    "artist": "FIESTA CLICK EDICIÓN CASACAS EN TEATRO VORTERIX",
-    "artistKey": "fiestaclickedicioncasacasenteatrovorterix",
-    "date": "2026-07-03",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-click-edicin-casacas-en-teatro-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "GB",
-    "spotifyId": "4YXNdjxgSZTfk6bAc8AOPj",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485160a7c72620e79c2b3e99f4ab"
   },
   {
     "id": "kream-2026-07-03-araoz",
@@ -1196,40 +1060,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
   },
   {
-    "id": "ekisdefest40-2026-07-09-vorterix",
-    "artist": "EKISDE FEST 4.0",
-    "artistKey": "ekisdefest40",
-    "date": "2026-07-09",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/ekisde-fest-40"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "US",
-    "spotifyId": "01Rind7aYaHE6QO5Th1dvb",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e639dea834e6666b955193d6"
-  },
-  {
-    "id": "mastersofvoices-2026-07-09-vorterix",
-    "artist": "MASTERS OF VOICES",
-    "artistKey": "mastersofvoices",
-    "date": "2026-07-09",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/master-of-voices"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "5R4FpfxykdqRkO17zHhkE2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178207bb3102d5fc03cf6d3bb10"
-  },
-  {
     "id": "ricardoarjona-2026-07-09-movistararena",
     "artist": "Ricardo Arjona",
     "artistKey": "ricardoarjona",
@@ -1275,6 +1105,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785af5587f9a5ace605dc681ce"
   },
   {
+    "id": "pestilence-2026-07-14-uniclub",
+    "artist": "Pestilence",
+    "artistKey": "pestilence",
+    "date": "2026-07-14",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "NL",
+    "spotifyId": "6JcFn4PlXFuXmhRXpOpsan",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872a987c6f0ed82c8e9c13fc2"
+  },
+  {
     "id": "disneyonicefrozenencanto-2026-07-17-movistararena",
     "artist": "Disney on Ice: Frozen & Encanto",
     "artistKey": "disneyonicefrozenencanto",
@@ -1288,23 +1133,6 @@
     "country": "BR",
     "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
-    "id": "queenpormasterstroke-2026-07-17-vorterix",
-    "artist": "QUEEN POR MASTER STROKE",
-    "artistKey": "queenpormasterstroke",
-    "date": "2026-07-17",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/queen-por-master-stroke"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "0MaDtBu4Hw0qLH95poDSCk",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786670478f2bf2816e9c125423"
   },
   {
     "id": "disneyonicefrozenencanto-2026-07-18-movistararena",
@@ -1335,107 +1163,5 @@
     "country": "BR",
     "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
-    "id": "fiestafed-2026-08-08-vorterix",
-    "artist": "FIESTA FED",
-    "artistKey": "fiestafed",
-    "date": "2026-08-08",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-fed"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "4Xm39nTtMUEBVewacThrov",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a6fca6176f30e12138cef38"
-  },
-  {
-    "id": "100evolutionshowdelucha-2026-08-09-vorterix",
-    "artist": "100%EVOLUTION: SHOW DE LUCHA",
-    "artistKey": "100evolutionshowdelucha",
-    "date": "2026-08-09",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/100evolution--show-de-lucha"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "PE",
-    "spotifyId": "46LxO6Eeyjj6gbMlPYgbwX",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f7bce21f8e7819a93c22e4ab"
-  },
-  {
-    "id": "caifanes-2026-09-23-vorterix",
-    "artist": "CAIFANES",
-    "artistKey": "caifanes",
-    "date": "2026-09-23",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/caifanes"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0"
-  },
-  {
-    "id": "bahianoenvorterix-2026-09-25-vorterix",
-    "artist": "BAHIANO EN VORTERIX",
-    "artistKey": "bahianoenvorterix",
-    "date": "2026-09-25",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/bahiano-en-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "XW",
-    "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7"
-  },
-  {
-    "id": "kiddvoodoo-2026-09-26-vorterix",
-    "artist": "KIDD VOODOO",
-    "artistKey": "kiddvoodoo",
-    "date": "2026-09-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/kidd-voodoo"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "CL",
-    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916"
-  },
-  {
-    "id": "chiaraoliver-2026-10-03-vorterix",
-    "artist": "CHIARA OLIVER",
-    "artistKey": "chiaraoliver",
-    "date": "2026-10-03",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/chiara-oliver"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "DE",
-    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb"
   }
 ]
