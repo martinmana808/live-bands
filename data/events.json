@@ -170,36 +170,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17852c3a2c1fa4472bb5cf6a9bb"
   },
   {
-    "id": "pulp-2026-06-12-movistararena",
-    "artist": "Pulp",
-    "artistKey": "pulp",
-    "date": "2026-06-12",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "36E7oYfz3LLRto6l2WmDcD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782a7e3dfda16364548dfdc915"
-  },
-  {
-    "id": "rumbotumba-2026-06-12-tangente",
-    "artist": "Rumbo Tumba",
-    "artistKey": "rumbotumba",
-    "date": "2026-06-12",
-    "venue": "La Tangente",
-    "venueKey": "tangente",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7rure1hFRz36lJv4LSTXxH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17873dfe3deb31afd88dc4b2de4"
-  },
-  {
     "id": "andrespilar-2026-06-13-buenosairesarg",
     "artist": "Andres Pilar",
     "artistKey": "andrespilar",
@@ -1201,6 +1171,21 @@
     "artist": "Disney on Ice: Frozen & Encanto",
     "artistKey": "disneyonicefrozenencanto",
     "date": "2026-07-19",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "BR",
+    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
+  },
+  {
+    "id": "disneyonicefrozenencanto-2026-07-21-movistararena",
+    "artist": "Disney on Ice: Frozen & Encanto",
+    "artistKey": "disneyonicefrozenencanto",
+    "date": "2026-07-21",
     "venue": "Movistar Arena",
     "venueKey": "movistararena",
     "ticketUrls": [],
