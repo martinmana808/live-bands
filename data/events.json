@@ -478,5 +478,20 @@
     "country": "BR",
     "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
+  },
+  {
+    "id": "felipeavello-2026-07-25-paseoplaza",
+    "artist": "felipe avello",
+    "artistKey": "felipeavello",
+    "date": "2026-07-25",
+    "venue": "Paseo La Plaza",
+    "venueKey": "paseoplaza",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
   }
 ]
