@@ -391,21 +391,6 @@
     "spotifyImage": null
   },
   {
-    "id": "felipeavello-2026-06-18-paseoplaza",
-    "artist": "felipe avello",
-    "artistKey": "felipeavello",
-    "date": "2026-06-18",
-    "venue": "Paseo La Plaza",
-    "venueKey": "paseoplaza",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
-  },
-  {
     "id": "animajexchantada-2026-06-19-niceto",
     "artist": "ANIMAJE x CHANTADA",
     "artistKey": "animajexchantada",
