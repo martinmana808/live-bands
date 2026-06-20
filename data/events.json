@@ -408,36 +408,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dc4b8c31b4ba908d47a6184a"
   },
   {
-    "id": "cintiaarevalo-2026-06-19-museoreconquista",
-    "artist": "Cintia Arévalo",
-    "artistKey": "cintiaarevalo",
-    "date": "2026-06-19",
-    "venue": "Museo de la Reconquista",
-    "venueKey": "museoreconquista",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "50SS8HK4rg3PiZckv2Ydff",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e7077cb149e3dbc1cc90a269"
-  },
-  {
-    "id": "lucascervetti-2026-06-19-cuerdamecanica",
-    "artist": "Lucas Cervetti",
-    "artistKey": "lucascervetti",
-    "date": "2026-06-19",
-    "venue": "Cuerda Mecánica",
-    "venueKey": "cuerdamecanica",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "UY",
-    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
-  },
-  {
     "id": "pulsepresentapinkfloydselections-2026-06-19-niceto",
     "artist": "PULSE presenta PINK FLOYD SELECTIONS",
     "artistKey": "pulsepresentapinkfloydselections",
@@ -453,21 +423,6 @@
     "country": null,
     "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c9e8c67b087ba0cb5923b78"
-  },
-  {
-    "id": "ramoneson45-2026-06-19-salasciro",
-    "artist": "Ramones on 45",
-    "artistKey": "ramoneson45",
-    "date": "2026-06-19",
-    "venue": "Salas Ciro",
-    "venueKey": "salasciro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "NL",
-    "spotifyId": "1co4F2pPNH8JjTutZkmgSm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b9f46a5c5bf8243179d56b0"
   },
   {
     "id": "claptone-2026-06-20-movistararena",
@@ -1194,5 +1149,35 @@
     "country": "BR",
     "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
+  },
+  {
+    "id": "felipeavello-2026-07-25-paseoplaza",
+    "artist": "felipe avello",
+    "artistKey": "felipeavello",
+    "date": "2026-07-25",
+    "venue": "Paseo La Plaza",
+    "venueKey": "paseoplaza",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
+  },
+  {
+    "id": "paranomorir-2026-07-25-rosetiii",
+    "artist": "Para No Morir",
+    "artistKey": "paranomorir",
+    "date": "2026-07-25",
+    "venue": "Roseti II",
+    "venueKey": "rosetiii",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "7LL0K2qAX8nzEdLX4Estcu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5408b6c1ff6bf96c13af159"
   }
 ]
