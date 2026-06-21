@@ -425,21 +425,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c9e8c67b087ba0cb5923b78"
   },
   {
-    "id": "claptone-2026-06-20-movistararena",
-    "artist": "Claptone",
-    "artistKey": "claptone",
-    "date": "2026-06-20",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "4mncDFjVLUa3s025Tct3Ry",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8bbaf81da9d83a9a186715e"
-  },
-  {
     "id": "club6920jun-2026-06-20-niceto",
     "artist": "Club 69 | 20 JUN",
     "artistKey": "club6920jun",
@@ -721,6 +706,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf"
   },
   {
+    "id": "flow-2026-07-02-groove",
+    "artist": "Flow",
+    "artistKey": "flow",
+    "date": "2026-07-02",
+    "venue": "Groove",
+    "venueKey": "groove",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "JP",
+    "spotifyId": "1JspXUvEv3D9ddMeLNqYWj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178825d1ca6f213da1a88e879d3"
+  },
+  {
     "id": "fresca2julio-2026-07-02-niceto",
     "artist": "FRESCA: 2 Julio",
     "artistKey": "fresca2julio",
@@ -999,6 +999,21 @@
     "country": null,
     "spotifyId": "5lB9hKk7gAgG5tkb9N1LaJ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178659ce1902a8ed295c5f5f954"
+  },
+  {
+    "id": "pezdebuenosaires-2026-07-11-muddys",
+    "artist": "Pez De Buenos Aires",
+    "artistKey": "pezdebuenosaires",
+    "date": "2026-07-11",
+    "venue": "Muddys Club",
+    "venueKey": "muddys",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "027ItQs3vdLG019LNccXr2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8"
   },
   {
     "id": "livkristine-2026-07-14-marquee",
