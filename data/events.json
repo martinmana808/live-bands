@@ -527,21 +527,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787cfe858f58c9d054e4b53f69"
   },
   {
-    "id": "abatov-2026-06-21-tangente",
-    "artist": "Abatov",
-    "artistKey": "abatov",
-    "date": "2026-06-21",
-    "venue": "La Tangente",
-    "venueKey": "tangente",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7mBmAE0wmGAz9AzmPtPttT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787304f037049600513c5439c1"
-  },
-  {
     "id": "she-2026-06-21-niceto",
     "artist": "SHÉ",
     "artistKey": "she",
@@ -798,6 +783,21 @@
     "country": "JP",
     "spotifyId": "5dHdCFMXwl9JofjKjS1MW0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789884a5e1883b934007262152"
+  },
+  {
+    "id": "fabricioroblesandtatalorame-2026-07-04-loedu",
+    "artist": "Fabricio Robles and Tatalo Ramé",
+    "artistKey": "fabricioroblesandtatalorame",
+    "date": "2026-07-04",
+    "venue": "lo de Edu",
+    "venueKey": "loedu",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6rA0XIjCstiheng4tLs3Sc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b219b6ab382799c32fae7dd"
   },
   {
     "id": "factoryfestival-2026-07-04-niceto",
