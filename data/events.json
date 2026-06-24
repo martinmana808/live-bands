@@ -753,6 +753,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b5755d93e148df795007d72"
   },
   {
+    "id": "lapibaberreta-2026-07-03-strummer",
+    "artist": "La Piba Berreta",
+    "artistKey": "lapibaberreta",
+    "date": "2026-07-03",
+    "venue": "Strummer Bar",
+    "venueKey": "strummer",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "4qECsLAGxuTLtPdDtgMCST",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780280ed5ba006e8c6ee82dea5"
+  },
+  {
     "id": "lashistorias-2026-07-03-espaciorincon",
     "artist": "Las Historias",
     "artistKey": "lashistorias",
