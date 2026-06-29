@@ -136,21 +136,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a2c5f275aea7394504e667ba"
   },
   {
-    "id": "gilsons-2026-06-28-ccomplejoartmedia",
-    "artist": "Gilsons",
-    "artistKey": "gilsons",
-    "date": "2026-06-28",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "6q7nMIVgGohQ14mSsq3F8t",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784fffd9925dc890248c2b51b2"
-  },
-  {
     "id": "ricardoarjona-2026-07-01-movistararena",
     "artist": "Ricardo Arjona",
     "artistKey": "ricardoarjona",
@@ -1176,6 +1161,21 @@
     "country": "UY",
     "spotifyId": "78GTwoOGB8pub6iMy43fYc",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
+  },
+  {
+    "id": "darkways-2026-07-29-teatrito",
+    "artist": "DARKWAYS",
+    "artistKey": "darkways",
+    "date": "2026-07-29",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3tzqjcIe3CsvE2pS7utv7B",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3fd78694531b02357364981"
   },
   {
     "id": "piazzollaelectronicoxnicosorin30jul-2026-07-30-niceto",
