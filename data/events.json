@@ -949,6 +949,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ded53da461b13994a9ef8347"
   },
   {
+    "id": "pasajeosakaandsombraschinas-2026-08-08-emergente",
+    "artist": "Pasaje Osaka and Sombras Chinas",
+    "artistKey": "pasajeosakaandsombraschinas",
+    "date": "2026-08-08",
+    "venue": "El Emergente",
+    "venueKey": "emergente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "1GBEy3QAItTZ6DNK9i5ENK",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b9f611353e8cd16e0e5b4f1"
+  },
+  {
     "id": "paskineljuntoamackinayenthropia-2026-08-08-niceto",
     "artist": "PASKINEL junto a MACKINA y ENTHROPIA",
     "artistKey": "paskineljuntoamackinayenthropia",
