@@ -68,36 +68,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4ca70e282d6ce27febfc439"
   },
   {
-    "id": "disneyonicefrozenencanto-2026-07-17-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-17",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
-    "id": "elasandtormentaarrolladora-2026-07-17-casacolombocantina",
-    "artist": "El As and Tormenta Arrolladora",
-    "artistKey": "elasandtormentaarrolladora",
-    "date": "2026-07-17",
-    "venue": "Casa Colombo Cantina Club",
-    "venueKey": "casacolombocantina",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6uQMkB156uIN27tFar9qQl",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780166a080e99c4e6d22371f57"
-  },
-  {
     "id": "frescadia41707fevernovapretoriaficciones-2026-07-17-niceto",
     "artist": "FRESCA  DÍA 4 17.07: Fevernova + Pretoria + Ficciones",
     "artistKey": "frescadia41707fevernovapretoriaficciones",
@@ -147,21 +117,6 @@
     "country": "GB",
     "spotifyId": "3MwedyVPOkgGqQFjDTYBLH",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485189b19ea79ca55c04009a33e3"
-  },
-  {
-    "id": "mujercitasterrorlostelepatassemillademaldadandvoodoo-2026-07-17-salonpueyrredon",
-    "artist": "Mujercitas Terror, Los Telépatas, Semilla de Maldad, and Voo Doo",
-    "artistKey": "mujercitasterrorlostelepatassemillademaldadandvoodoo",
-    "date": "2026-07-17",
-    "venue": "Salón Pueyrredon",
-    "venueKey": "salonpueyrredon",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6zDCcrKdLCpKPtgFcD26rq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780a4be62059eed299495a54de"
   },
   {
     "id": "club6918dejulio-2026-07-18-niceto",
@@ -373,21 +328,6 @@
     "country": "ES",
     "spotifyId": "3EPXl9PGLT7kSDBfaCWAYB",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485172c323b4133204518060fd74"
-  },
-  {
-    "id": "tetrarch-2026-07-23-uniclub",
-    "artist": "Tetrarch",
-    "artistKey": "tetrarch",
-    "date": "2026-07-23",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "5e43m4iYsZF54tHcJNAVU2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c57d4000f92d15d4eeab545"
   },
   {
     "id": "cenitvol01-2026-07-24-niceto",
@@ -840,6 +780,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a7445f459ca3441fa1f48238"
   },
   {
+    "id": "sofiaalvez-2026-08-06-tangente",
+    "artist": "Sofía Alvez",
+    "artistKey": "sofiaalvez",
+    "date": "2026-08-06",
+    "venue": "La Tangente",
+    "venueKey": "tangente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "UY",
+    "spotifyId": "2mOfSQosQk4GNspOTIPx7a",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c7da370cba8d8d264a889183"
+  },
+  {
     "id": "carinleon-2026-08-07-movistararena",
     "artist": "Carin Leon",
     "artistKey": "carinleon",
@@ -1075,6 +1030,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9"
   },
   {
+    "id": "riel-2026-08-15-tangente",
+    "artist": "Riel",
+    "artistKey": "riel",
+    "date": "2026-08-15",
+    "venue": "La Tangente",
+    "venueKey": "tangente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f"
+  },
+  {
     "id": "unratitodeconga15deagosto-2026-08-15-niceto",
     "artist": "Un ratito de conga 15 de  agosto",
     "artistKey": "unratitodeconga15deagosto",
@@ -1141,6 +1111,51 @@
     "country": null,
     "spotifyId": "2WyypmYjOdaXg0bXDP67j7",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788ad7ad49e4dbd8a77b154314"
+  },
+  {
+    "id": "pentagram-2026-08-16-uniclub",
+    "artist": "Pentagram",
+    "artistKey": "pentagram",
+    "date": "2026-08-16",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "0xybuiDEYo3YuT3fLPaIyE",
+    "spotifyImage": "https://i.scdn.co/image/ea453b59493d85eecfa51256882fb3128031f675"
+  },
+  {
+    "id": "rubenblades-2026-08-16-movistararena",
+    "artist": "Ruben Blades",
+    "artistKey": "rubenblades",
+    "date": "2026-08-16",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PA",
+    "spotifyId": "5BwMgvRwlq61SmknvsVIQj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7"
+  },
+  {
+    "id": "sparta-2026-08-16-culturalbula",
+    "artist": "Sparta",
+    "artistKey": "sparta",
+    "date": "2026-08-16",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "3DWWL4kwLZMBLsmVsbZYHR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2f020177ecf68806343df3e"
   },
   {
     "id": "pedrosampaio-2026-08-19-niceto",
