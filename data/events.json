@@ -136,21 +136,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
   },
   {
-    "id": "disneyonicefrozenencanto-2026-07-18-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-18",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
     "id": "dramavantapajarosdesal-2026-07-18-niceto",
     "artist": "DRAMA + VANTA + PAJAROS DE SAL",
     "artistKey": "dramavantapajarosdesal",
@@ -377,6 +362,21 @@
     "country": null,
     "spotifyId": null,
     "spotifyImage": null
+  },
+  {
+    "id": "killflora-2026-07-24-localsupport",
+    "artist": "Kill Flora",
+    "artistKey": "killflora",
+    "date": "2026-07-24",
+    "venue": "Local Support",
+    "venueKey": "localsupport",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "618OuvXwIUhB0xE7XnCiwe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935877bbbc6dd7d60a82ed98"
   },
   {
     "id": "kutiseasiandrhinoceronte-2026-07-24-liverpool",
@@ -1060,6 +1060,21 @@
     "country": null,
     "spotifyId": null,
     "spotifyImage": null
+  },
+  {
+    "id": "eykalovataraxxand777santos-2026-08-16-arkhammultiespacio",
+    "artist": "Eyka, lovataraxx, and 777santos",
+    "artistKey": "eykalovataraxxand777santos",
+    "date": "2026-08-16",
+    "venue": "ARKHAM MULTIESPACIO",
+    "venueKey": "arkhammultiespacio",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "74Gtuc4nf1Z2zRbmIFlUe3",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17893cc4086515d024ab2802752"
   },
   {
     "id": "festipez2026-2026-08-16-niceto",
