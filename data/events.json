@@ -1,241 +1,5 @@
 [
   {
-    "id": "2hfiesta-2026-07-16-niceto",
-    "artist": "2H Fiesta",
-    "artistKey": "2hfiesta",
-    "date": "2026-07-16",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/s2h-fiesta-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "HU",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "doscon17muy-2026-07-16-niceto",
-    "artist": "Dos con 17 - Muy",
-    "artistKey": "doscon17muy",
-    "date": "2026-07-16",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/dos-con-17-muy-en-vivo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "GB",
-    "spotifyId": "6OdWD6aL9ew9xqHencdWrn",
-    "spotifyImage": null
-  },
-  {
-    "id": "ferozica-2026-07-16-niceto",
-    "artist": "Ferozica",
-    "artistKey": "ferozica",
-    "date": "2026-07-16",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ferozica"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7MlaJqW5l4zH0FF5OyaZK8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17853da689cf8e783990510cccb"
-  },
-  {
-    "id": "ilovetech-2026-07-16-niceto",
-    "artist": "iLoveTech",
-    "artistKey": "ilovetech",
-    "date": "2026-07-16",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ilovetech-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4KXuowxUNZQRZC5CoY1Z2P",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4ca70e282d6ce27febfc439"
-  },
-  {
-    "id": "frescadia41707fevernovapretoriaficciones-2026-07-17-niceto",
-    "artist": "FRESCA  DÍA 4 17.07: Fevernova + Pretoria + Ficciones",
-    "artistKey": "frescadia41707fevernovapretoriaficciones",
-    "date": "2026-07-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fresca-17-julio-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CO",
-    "spotifyId": "10KOPjcyeuG5e44Ynxz8dS",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c8fd5df510c83e7bbfdfdee2"
-  },
-  {
-    "id": "genesispresentasafetytrance-2026-07-17-niceto",
-    "artist": "GENESIS PRESENTA: SAFETY TRANCE",
-    "artistKey": "genesispresentasafetytrance",
-    "date": "2026-07-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/genesis-presenta-safety-trance-en-buenos-aires-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7jZM5w05mGhw6wTB1okhD9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17844d7cffab76f55289e92914d"
-  },
-  {
-    "id": "laraxxet17julio-2026-07-17-niceto",
-    "artist": "La Raxxet 17 Julio",
-    "artistKey": "laraxxet17julio",
-    "date": "2026-07-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-raxxet-17-junio-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "GB",
-    "spotifyId": "3MwedyVPOkgGqQFjDTYBLH",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485189b19ea79ca55c04009a33e3"
-  },
-  {
-    "id": "club6918dejulio-2026-07-18-niceto",
-    "artist": "Club 69 | 18 de JULIO",
-    "artistKey": "club6918dejulio",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-18-de-julio-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
-  },
-  {
-    "id": "dramavantapajarosdesal-2026-07-18-niceto",
-    "artist": "DRAMA + VANTA + PAJAROS DE SAL",
-    "artistKey": "dramavantapajarosdesal",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/drama-vanta-pajaros-de-sal-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CO",
-    "spotifyId": "46viJLLMfLC11ZmOch4sX8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178867a7c1d070a4ee32ff38fed"
-  },
-  {
-    "id": "dystopiavi-2026-07-18-niceto",
-    "artist": "DYSTOPIA VI",
-    "artistKey": "dystopiavi",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/dystopia-vi-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "3LP6bf4nhoWQ9TYbvP1zxB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bc700ab09cf20e5fefd3f42c"
-  },
-  {
-    "id": "electrohouse-2026-07-18-niceto",
-    "artist": "Electro House",
-    "artistKey": "electrohouse",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/electro-house-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AU",
-    "spotifyId": "33d2LU92YHYVZ8YUxoG5hk",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804c5b2aa796549e930ca9aab"
-  },
-  {
-    "id": "factoryfest-2026-07-18-niceto",
-    "artist": "Factory Fest",
-    "artistKey": "factoryfest",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/factory-fest-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0p4jOOIvRNOeFf8B28hQ1e",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511827eb32acaf23bb4f964247"
-  },
-  {
-    "id": "pulsepresentapinkfloydselectionsechoesthroughtime-2026-07-18-niceto",
-    "artist": "PULSE presenta: PINK FLOYD SELECTIONS -“ Echoes Through Time”",
-    "artistKey": "pulsepresentapinkfloydselectionsechoesthroughtime",
-    "date": "2026-07-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pulse-presenta-pink-floyd-selections-echoes-through-time-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c9e8c67b087ba0cb5923b78"
-  },
-  {
-    "id": "disneyonicefrozenencanto-2026-07-21-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-21",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
     "id": "disneyonicefrozenencanto-2026-07-22-movistararena",
     "artist": "Disney on Ice: Frozen & Encanto",
     "artistKey": "disneyonicefrozenencanto",
@@ -266,6 +30,23 @@
     "country": null,
     "spotifyId": "73flNW7YBYMrnp83TEl5Hq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178962433754a1108cd3fa834c1"
+  },
+  {
+    "id": "deepsessionsedicion7-2026-07-23-niceto",
+    "artist": "Deep sessions EDICION 7",
+    "artistKey": "deepsessionsedicion7",
+    "date": "2026-07-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-sessions-edicion-7-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AU",
+    "spotifyId": "6vlpT66mbWkGiI3qy2dCdu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b882598472746eda0dfe33f0"
   },
   {
     "id": "disneyonicefrozenencanto-2026-07-23-movistararena",
@@ -300,6 +81,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485172c323b4133204518060fd74"
   },
   {
+    "id": "ilovetech23jul-2026-07-23-niceto",
+    "artist": "iLoveTech 23 JUL",
+    "artistKey": "ilovetech23jul",
+    "date": "2026-07-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ilovetech-23-jul-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FR",
+    "spotifyId": "7xoZSnWLIDwQEuk63j14io",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789e32dc6e1ab90d0e4c882cef"
+  },
+  {
     "id": "cenitvol01-2026-07-24-niceto",
     "artist": "CENIT Vol. 01",
     "artistKey": "cenitvol01",
@@ -330,6 +128,23 @@
     "country": "BR",
     "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
+  },
+  {
+    "id": "flipside-2026-07-24-niceto",
+    "artist": "FLIPSIDE",
+    "artistKey": "flipside",
+    "date": "2026-07-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/flipside-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "6S9rh06VCCIYEvYMFnVMVN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178503a8dd19923fdb5441da3fb"
   },
   {
     "id": "hiedrahxneomarikdiadelamigx-2026-07-24-niceto",
@@ -377,6 +192,40 @@
     "country": null,
     "spotifyId": null,
     "spotifyImage": null
+  },
+  {
+    "id": "luciananegronocheconamigos-2026-07-24-niceto",
+    "artist": "LUCIANA NEGRO \"Noche con Amigos\"",
+    "artistKey": "luciananegronocheconamigos",
+    "date": "2026-07-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/luciana-negro-noche-con-amigos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "3TFc8OzzeYmHntSzculujA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789dc0d795c8fd6cbe1f9ae21e"
+  },
+  {
+    "id": "onlyfunkbybahiana24jul-2026-07-24-niceto",
+    "artist": "ONLY FUNK by Bahiana  24 JUL",
+    "artistKey": "onlyfunkbybahiana24jul",
+    "date": "2026-07-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/only-funk-by-bahiana-24-jul-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FR",
+    "spotifyId": "772qrOP3rf2diFapP3Mujd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17846f23a2ae4c684803031a34a"
   },
   {
     "id": "virus24jul-2026-07-24-niceto",
@@ -479,6 +328,38 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e90b3cdec8a8a9e59320fe36"
   },
   {
+    "id": "jeremyolander-2026-07-25-crobar",
+    "artist": "Jeremy Olander",
+    "artistKey": "jeremyolander",
+    "date": "2026-07-25",
+    "venue": "Crobar",
+    "venueKey": "crobar",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5vdjF79d5d2m12FOkJhxHB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787cd8cb56cff8a2f5b2486c3c"
+  },
+  {
+    "id": "kilomboboilerroom25jul-2026-07-25-niceto",
+    "artist": "KILOMBO BOILER ROOM  25 Jul",
+    "artistKey": "kilomboboilerroom25jul",
+    "date": "2026-07-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-boiler-room-25-jul-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf"
+  },
+  {
     "id": "paranomorir-2026-07-25-rosetiii",
     "artist": "Para No Morir",
     "artistKey": "paranomorir",
@@ -539,6 +420,57 @@
     "country": null,
     "spotifyId": "7dsugSamBB7enWE2IrlbFg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178571b2c4c9be25fa0b9691cac"
+  },
+  {
+    "id": "tonyyduno-2026-07-30-niceto",
+    "artist": "Tony y Duno",
+    "artistKey": "tonyyduno",
+    "date": "2026-07-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/tony-y-duno-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7vWlb4pM85jCHvV771qZZW",
+    "spotifyImage": "https://i.scdn.co/image/3d0bab87ce2176c7417cd6d36b10980df447af1d"
+  },
+  {
+    "id": "fiestacirco-2026-07-31-niceto",
+    "artist": "FIESTA CIRCO",
+    "artistKey": "fiestacirco",
+    "date": "2026-07-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-circo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "PR",
+    "spotifyId": "7mSJaFT4UhbIGfwRAVSmcR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b94f3359b1453bc55a82874f"
+  },
+  {
+    "id": "fiestanebula-2026-07-31-niceto",
+    "artist": "Fiesta Nebula",
+    "artistKey": "fiestanebula",
+    "date": "2026-07-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-nebula-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "2WYAbfZMnJYDFEQ6lJ6cqV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782d2a177d3e4d7c093fbf38ba"
   },
   {
     "id": "lacuritareggaetonromantico-2026-07-31-niceto",
@@ -810,6 +742,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178791349ec326328fcc3b37383"
   },
   {
+    "id": "polentasolopop7deago-2026-08-07-niceto",
+    "artist": "Polenta Solo Pop  7 de AGO",
+    "artistKey": "polentasolopop7deago",
+    "date": "2026-08-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/polenta-solo-pop-7-de-ago-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "4hQyHSkGQVAGwWxwUgKhBF",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518f7bbd234299de1bda8410ec"
+  },
+  {
     "id": "theredjumpsuitapparatus-2026-08-07-uniclub",
     "artist": "The Red Jumpsuit Apparatus",
     "artistKey": "theredjumpsuitapparatus",
@@ -1013,6 +962,23 @@
     "country": "FI",
     "spotifyId": "0ulKlNlo0iPx5ZS6VMTHWQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9"
+  },
+  {
+    "id": "lamaleducada14ago-2026-08-14-niceto",
+    "artist": "La maleducada 14 AGO",
+    "artistKey": "lamaleducada14ago",
+    "date": "2026-08-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-maleducada-14-ago-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "IT",
+    "spotifyId": "3IO3ybxtyH9sVU4Pm3Z7eL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846"
   },
   {
     "id": "riel-2026-08-15-tangente",
@@ -1252,5 +1218,39 @@
     "country": null,
     "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51"
+  },
+  {
+    "id": "palo-2026-08-29-niceto",
+    "artist": "PALO",
+    "artistKey": "palo",
+    "date": "2026-08-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/palo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7rOlQwf8OuFLFQp4aydjBt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dacd0b4eb10d4bea13c096cc"
+  },
+  {
+    "id": "paulalone-2026-08-30-niceto",
+    "artist": "PAUL ALONE",
+    "artistKey": "paulalone",
+    "date": "2026-08-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/paul-alone-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AT",
+    "spotifyId": "6bdtalFIKenjGPCQVI2gtE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db27fa2ddcdf5e96aa9cb3aa"
   }
 ]
