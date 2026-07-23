@@ -1,20 +1,5 @@
 [
   {
-    "id": "disneyonicefrozenencanto-2026-07-22-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-22",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
     "id": "juanarozas-2026-07-22-niceto",
     "artist": "Juana Rozas",
     "artistKey": "juanarozas",
@@ -96,6 +81,23 @@
     "country": "FR",
     "spotifyId": "7xoZSnWLIDwQEuk63j14io",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789e32dc6e1ab90d0e4c882cef"
+  },
+  {
+    "id": "losjovenesdeayernochedeamy-2026-07-23-niceto",
+    "artist": "Los jóvenes de ayer noche de Amy",
+    "artistKey": "losjovenesdeayernochedeamy",
+    "date": "2026-07-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/los-j-venes-de-ayer-noche-de-amy-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2pouXF4sy64F9pdxyZKr3V",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510306e752a337a82ae95dd78e"
   },
   {
     "id": "cenitvol01-2026-07-24-niceto",
@@ -375,6 +377,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5408b6c1ff6bf96c13af159"
   },
   {
+    "id": "pianobarmanupiro-2026-07-25-niceto",
+    "artist": "PIANO BAR: MANU PIRÓ",
+    "artistKey": "pianobarmanupiro",
+    "date": "2026-07-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/piano-bar-manu-pir5-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JP",
+    "spotifyId": "2WPn0emjr8XPmMOT0bBcPe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dd9c371428da68927911ab51"
+  },
+  {
     "id": "lucascervetti-2026-07-26-cuerdamecanica",
     "artist": "Lucas Cervetti",
     "artistKey": "lucascervetti",
@@ -403,6 +422,40 @@
     "country": null,
     "spotifyId": "3tzqjcIe3CsvE2pS7utv7B",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3fd78694531b02357364981"
+  },
+  {
+    "id": "magpresentanotecreologosdjsetdurisimo-2026-07-30-niceto",
+    "artist": "MAG PRESENTA \"NO TE CREO\" + LOGOS + DJ SET DURISIMO",
+    "artistKey": "magpresentanotecreologosdjsetdurisimo",
+    "date": "2026-07-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mag-presenta-no-te-creo-logos-dj-set-durisimo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CO",
+    "spotifyId": "0KNjaoVYJPqVHfl1bTuUs4",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513e99c76a27df7fe54b9f8bd0"
+  },
+  {
+    "id": "musicaparavolar-2026-07-30-niceto",
+    "artist": "MUSICA PARA VOLAR",
+    "artistKey": "musicaparavolar",
+    "date": "2026-07-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/musica-para-volar-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4vVW2SmXAbI5uRRnm7URNa",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780a987ad3f95d69bf1c6d30ac"
   },
   {
     "id": "piazzollaelectronicoxnicosorin30jul-2026-07-30-niceto",
@@ -456,6 +509,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b94f3359b1453bc55a82874f"
   },
   {
+    "id": "fiestalasmaravillas-2026-07-31-niceto",
+    "artist": "Fiesta Las Maravillas",
+    "artistKey": "fiestalasmaravillas",
+    "date": "2026-07-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-las-maravillas-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "MX",
+    "spotifyId": "4eupDeDtyPA8qTEPdfWfn2",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485146916086591398d6f9ad017a"
+  },
+  {
     "id": "fiestanebula-2026-07-31-niceto",
     "artist": "Fiesta Nebula",
     "artistKey": "fiestanebula",
@@ -507,6 +577,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c6c450e2f8d2091be234e75d"
   },
   {
+    "id": "backtoamyxlulatributoaamywinehouse-2026-08-01-niceto",
+    "artist": "Back to Amy (x Lula) tributo a Amy Winehouse",
+    "artistKey": "backtoamyxlulatributoaamywinehouse",
+    "date": "2026-08-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/back-to-amy-x-lula-tributo-a-amy-winehouse-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "6Q192DXotxtaysaqNPy5yR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ceb023b10da17590878e88c"
+  },
+  {
     "id": "buenosairesgroove-2026-08-01-niceto",
     "artist": "Buenos Aires Groove",
     "artistKey": "buenosairesgroove",
@@ -522,23 +609,6 @@
     "country": null,
     "spotifyId": "4ktjqLotjs95qQfTLLmc25",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b2d640c8e5c0e896f6c2a95"
-  },
-  {
-    "id": "joacoburgosyvaleacevedoinauguracionpianobar-2026-08-01-niceto",
-    "artist": "JOACO BURGOS Y VALE ACEVEDO: INAUGURACION PIANO BAR",
-    "artistKey": "joacoburgosyvaleacevedoinauguracionpianobar",
-    "date": "2026-08-01",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/joaco-burgos-y-vale-acevedo-inauguracion-piano-bar-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "39QGocubAYKDY8IlHzs6ZL",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c6bd8f30ab3cd3c4a7b27485"
   },
   {
     "id": "rosalia-2026-08-01-movistararena",
@@ -1184,73 +1254,5 @@
     "country": "VE",
     "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde"
-  },
-  {
-    "id": "corapa22ago-2026-08-22-niceto",
-    "artist": "Corapa 22 AGO",
-    "artistKey": "corapa22ago",
-    "date": "2026-08-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/corapa-22-ago-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "IT",
-    "spotifyId": "0DzLjpgncdMkKw94s1CALE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787f7a3f397bc967ae90530ce3"
-  },
-  {
-    "id": "richardcolemaneltranssiberianexpress-2026-08-22-niceto",
-    "artist": "Richard Coleman & El Trans-Siberian Express",
-    "artistKey": "richardcolemaneltranssiberianexpress",
-    "date": "2026-08-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/richard-coleman-el-trans-siberian-express-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51"
-  },
-  {
-    "id": "palo-2026-08-29-niceto",
-    "artist": "PALO",
-    "artistKey": "palo",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/palo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7rOlQwf8OuFLFQp4aydjBt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dacd0b4eb10d4bea13c096cc"
-  },
-  {
-    "id": "paulalone-2026-08-30-niceto",
-    "artist": "PAUL ALONE",
-    "artistKey": "paulalone",
-    "date": "2026-08-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/paul-alone-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AT",
-    "spotifyId": "6bdtalFIKenjGPCQVI2gtE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db27fa2ddcdf5e96aa9cb3aa"
   }
 ]
