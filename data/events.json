@@ -34,21 +34,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b882598472746eda0dfe33f0"
   },
   {
-    "id": "disneyonicefrozenencanto-2026-07-23-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-23",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
-  },
-  {
     "id": "festivalcrudo-2026-07-23-niceto",
     "artist": "Festival Crudo",
     "artistKey": "festivalcrudo",
@@ -1245,6 +1230,21 @@
     "artist": "Rawayana",
     "artistKey": "rawayana",
     "date": "2026-08-20",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "VE",
+    "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde"
+  },
+  {
+    "id": "rawayana-2026-08-21-movistararena",
+    "artist": "Rawayana",
+    "artistKey": "rawayana",
+    "date": "2026-08-21",
     "venue": "Movistar Arena",
     "venueKey": "movistararena",
     "ticketUrls": [],
