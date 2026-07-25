@@ -1,90 +1,5 @@
 [
   {
-    "id": "juanarozas-2026-07-22-niceto",
-    "artist": "Juana Rozas",
-    "artistKey": "juanarozas",
-    "date": "2026-07-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/juana-rozas-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "73flNW7YBYMrnp83TEl5Hq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178962433754a1108cd3fa834c1"
-  },
-  {
-    "id": "deepsessionsedicion7-2026-07-23-niceto",
-    "artist": "Deep sessions EDICION 7",
-    "artistKey": "deepsessionsedicion7",
-    "date": "2026-07-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-sessions-edicion-7-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AU",
-    "spotifyId": "6vlpT66mbWkGiI3qy2dCdu",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b882598472746eda0dfe33f0"
-  },
-  {
-    "id": "festivalcrudo-2026-07-23-niceto",
-    "artist": "Festival Crudo",
-    "artistKey": "festivalcrudo",
-    "date": "2026-07-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-crudo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "3EPXl9PGLT7kSDBfaCWAYB",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485172c323b4133204518060fd74"
-  },
-  {
-    "id": "ilovetech23jul-2026-07-23-niceto",
-    "artist": "iLoveTech 23 JUL",
-    "artistKey": "ilovetech23jul",
-    "date": "2026-07-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ilovetech-23-jul-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "7xoZSnWLIDwQEuk63j14io",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789e32dc6e1ab90d0e4c882cef"
-  },
-  {
-    "id": "losjovenesdeayernochedeamy-2026-07-23-niceto",
-    "artist": "Los jóvenes de ayer noche de Amy",
-    "artistKey": "losjovenesdeayernochedeamy",
-    "date": "2026-07-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/los-j-venes-de-ayer-noche-de-amy-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2pouXF4sy64F9pdxyZKr3V",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510306e752a337a82ae95dd78e"
-  },
-  {
     "id": "cenitvol01-2026-07-24-niceto",
     "artist": "CENIT Vol. 01",
     "artistKey": "cenitvol01",
@@ -100,21 +15,6 @@
     "country": null,
     "spotifyId": "4oA33WGYnsqe9zJANC717g",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863f8889db6faf3b809af2aea"
-  },
-  {
-    "id": "disneyonicefrozenencanto-2026-07-24-movistararena",
-    "artist": "Disney on Ice: Frozen & Encanto",
-    "artistKey": "disneyonicefrozenencanto",
-    "date": "2026-07-24",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "3xvaSlT4xsyk6lY1ESOspO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc"
   },
   {
     "id": "flipside-2026-07-24-niceto",
@@ -145,36 +45,6 @@
     ],
     "sources": [
       "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "killflora-2026-07-24-localsupport",
-    "artist": "Kill Flora",
-    "artistKey": "killflora",
-    "date": "2026-07-24",
-    "venue": "Local Support",
-    "venueKey": "localsupport",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "618OuvXwIUhB0xE7XnCiwe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935877bbbc6dd7d60a82ed98"
-  },
-  {
-    "id": "kutiseasiandrhinoceronte-2026-07-24-liverpool",
-    "artist": "Kutis, Easí, and Rhinoceronte",
-    "artistKey": "kutiseasiandrhinoceronte",
-    "date": "2026-07-24",
-    "venue": "Liverpool Club",
-    "venueKey": "liverpool",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
     ],
     "country": null,
     "spotifyId": null,
@@ -797,6 +667,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178791349ec326328fcc3b37383"
   },
   {
+    "id": "maxstyler-2026-08-07-thebow",
+    "artist": "Max Styler",
+    "artistKey": "maxstyler",
+    "date": "2026-08-07",
+    "venue": "The Bow",
+    "venueKey": "thebow",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3NKKngINK1tP6BFy0WOyWk",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ded53da461b13994a9ef8347"
+  },
+  {
     "id": "polentasolopop7deago-2026-08-07-niceto",
     "artist": "Polenta Solo Pop  7 de AGO",
     "artistKey": "polentasolopop7deago",
@@ -1002,6 +887,23 @@
     "country": null,
     "spotifyId": "3zJriU41e7xy7PVHIhflBo",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e59d34cbc6ed1aa096675608"
+  },
+  {
+    "id": "experienciaroce-2026-08-13-niceto",
+    "artist": "EXPERIENCIA ROCE",
+    "artistKey": "experienciaroce",
+    "date": "2026-08-13",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/experiencia-roce-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FR",
+    "spotifyId": "0aULg7LximLNhI6lLzxcXI",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b"
   },
   {
     "id": "swallowthesun-2026-08-13-teatrito",
@@ -1241,6 +1143,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde"
   },
   {
+    "id": "chuchorivas-2026-08-21-tangente",
+    "artist": "Chucho Rivas",
+    "artistKey": "chuchorivas",
+    "date": "2026-08-21",
+    "venue": "La Tangente",
+    "venueKey": "tangente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "1tClPu7uXdaZEQ32vihyJ1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff45b9f82dde5acb7a0e386f"
+  },
+  {
     "id": "rawayana-2026-08-21-movistararena",
     "artist": "Rawayana",
     "artistKey": "rawayana",
@@ -1254,5 +1171,56 @@
     "country": "VE",
     "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde"
+  },
+  {
+    "id": "romphonicssuplicia-2026-08-21-niceto",
+    "artist": "Romphonics + Suplicia",
+    "artistKey": "romphonicssuplicia",
+    "date": "2026-08-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/romphonics-suplicia-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "SE",
+    "spotifyId": "09KZU0NsS7jRa5p0SflmGY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ebdbb3fdc77696fc954be09f"
+  },
+  {
+    "id": "corapa22ago-2026-08-22-niceto",
+    "artist": "Corapa 22 AGO",
+    "artistKey": "corapa22ago",
+    "date": "2026-08-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/corapa-22-ago-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "IT",
+    "spotifyId": "0DzLjpgncdMkKw94s1CALE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787f7a3f397bc967ae90530ce3"
+  },
+  {
+    "id": "richardcolemaneltranssiberianexpress-2026-08-22-niceto",
+    "artist": "Richard Coleman & El Trans-Siberian Express",
+    "artistKey": "richardcolemaneltranssiberianexpress",
+    "date": "2026-08-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/richard-coleman-el-trans-siberian-express-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51"
   }
 ]
