@@ -1,4 +1,606 @@
 {
+  "lucas cervetti": {
+    "name": "Lucas Cervetti",
+    "country": "UY",
+    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59",
+    "lookedUpAt": "2026-07-26"
+  },
+  "la bomba de tiempo": {
+    "name": "La Bomba De Tiempo",
+    "country": "AR",
+    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
+    "lookedUpAt": "2026-07-26"
+  },
+  "darkways": {
+    "name": "DARKWAYS",
+    "country": null,
+    "spotifyId": "3tzqjcIe3CsvE2pS7utv7B",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3fd78694531b02357364981",
+    "lookedUpAt": "2026-07-26"
+  },
+  "rosalia": {
+    "name": "ROSALIA",
+    "country": "ES",
+    "spotifyId": "7ltDVBr6mKbRvohxheJ9h1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789354faf80eb87961466edfbf",
+    "lookedUpAt": "2026-07-26"
+  },
+  "roman hope and dj4zmin": {
+    "name": "Roman Hope and DJ4ZMIN",
+    "country": null,
+    "spotifyId": "1GBhDrmf2fvZOEjKLUobEF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782dee8b27638955226611b904",
+    "lookedUpAt": "2026-07-26"
+  },
+  "a.n.i.m.a.l.": {
+    "name": "A.N.I.M.A.L.",
+    "country": "US",
+    "spotifyId": "6eoz7BtTcC5Q303xQtSgj9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17897802bf01ffdd7a28b6e08b1",
+    "lookedUpAt": "2026-07-26"
+  },
+  "feisor": {
+    "name": "Feisor",
+    "country": null,
+    "spotifyId": "0uOzT741MBjN6gvf5ixY1D",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a85604c189034a0607d4a0a5",
+    "lookedUpAt": "2026-07-26"
+  },
+  "santiago moraes": {
+    "name": "Santiago Moraes",
+    "country": null,
+    "spotifyId": "2pfLPT9ZTkPrLd8ZJiDBld",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a7445f459ca3441fa1f48238",
+    "lookedUpAt": "2026-07-26"
+  },
+  "sofía alvez": {
+    "name": "Sofía Alvez",
+    "country": "UY",
+    "spotifyId": "2mOfSQosQk4GNspOTIPx7a",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c7da370cba8d8d264a889183",
+    "lookedUpAt": "2026-07-26"
+  },
+  "carin leon": {
+    "name": "Carin Leon",
+    "country": null,
+    "spotifyId": "66ihevNkSYNzRAl44dx6jJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17888ec94d53e13848c7a6a5f1c",
+    "lookedUpAt": "2026-07-26"
+  },
+  "the red jumpsuit apparatus": {
+    "name": "The Red Jumpsuit Apparatus",
+    "country": "US",
+    "spotifyId": "1SImpQO0GbjRgvlwCcCtFo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b579588b5cd5582f6c83f6f7",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fransia": {
+    "name": "Fransia",
+    "country": null,
+    "spotifyId": "3wuwaLRUrbF4nI4NQ4Vet7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178791349ec326328fcc3b37383",
+    "lookedUpAt": "2026-07-26"
+  },
+  "max styler": {
+    "name": "Max Styler",
+    "country": null,
+    "spotifyId": "3NKKngINK1tP6BFy0WOyWk",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ded53da461b13994a9ef8347",
+    "lookedUpAt": "2026-07-26"
+  },
+  "pasaje osaka and sombras chinas": {
+    "name": "Pasaje Osaka and Sombras Chinas",
+    "country": null,
+    "spotifyId": "1GBEy3QAItTZ6DNK9i5ENK",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b9f611353e8cd16e0e5b4f1",
+    "lookedUpAt": "2026-07-26"
+  },
+  "juanse": {
+    "name": "Juanse",
+    "country": "AR",
+    "spotifyId": "0Xsc2ZIdwp0XGL4Mzr0xcg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885a82492164d3a18749c1a6b",
+    "lookedUpAt": "2026-07-26"
+  },
+  "wraith knight": {
+    "name": "Wraith Knight",
+    "country": null,
+    "spotifyId": "53543oQ8rPTCCMBRmK2Szh",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514a2c9a36a52eb47004a994bb",
+    "lookedUpAt": "2026-07-26"
+  },
+  "greeicy": {
+    "name": "Greeicy",
+    "country": "CO",
+    "spotifyId": "5dbaLmK5SHLLg8Z4CcTJpX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780f6d1ee45acbe57984752ebf",
+    "lookedUpAt": "2026-07-26"
+  },
+  "sofi posse": {
+    "name": "Sofi Posse",
+    "country": "US",
+    "spotifyId": "4ty9dAE0nkeSnSEfmSLkCd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788cbf95879691d8d4e2c3a809",
+    "lookedUpAt": "2026-07-26"
+  },
+  "shawn james": {
+    "name": "Shawn James",
+    "country": "DE",
+    "spotifyId": "2HPYUQ6GsPbZHvkyYe2jdm",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787068121a2b6b8b86bbcb95f0",
+    "lookedUpAt": "2026-07-26"
+  },
+  "soda stereo": {
+    "name": "Soda Stereo",
+    "country": "AR",
+    "spotifyId": "7An4yvF7hDYDolN4m5zKBp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787c0578274e203f069f5f411c",
+    "lookedUpAt": "2026-07-26"
+  },
+  "el kuelgue": {
+    "name": "El Kuelgue",
+    "country": "AR",
+    "spotifyId": "6jRUKVZllu1wtgXHbqvUmT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a433d43e07c06ab3dae3a35",
+    "lookedUpAt": "2026-07-26"
+  },
+  "swallow the sun": {
+    "name": "Swallow the Sun",
+    "country": "FI",
+    "spotifyId": "0ulKlNlo0iPx5ZS6VMTHWQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9",
+    "lookedUpAt": "2026-07-26"
+  },
+  "florencia bertotti": {
+    "name": "Florencia Bertotti",
+    "country": "AR",
+    "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
+    "lookedUpAt": "2026-07-26"
+  },
+  "riel": {
+    "name": "Riel",
+    "country": null,
+    "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f",
+    "lookedUpAt": "2026-07-26"
+  },
+  "ruben blades": {
+    "name": "Ruben Blades",
+    "country": "PA",
+    "spotifyId": "5BwMgvRwlq61SmknvsVIQj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7",
+    "lookedUpAt": "2026-07-26"
+  },
+  "pentagram": {
+    "name": "Pentagram",
+    "country": "US",
+    "spotifyId": "0xybuiDEYo3YuT3fLPaIyE",
+    "spotifyImage": "https://i.scdn.co/image/ea453b59493d85eecfa51256882fb3128031f675",
+    "lookedUpAt": "2026-07-26"
+  },
+  "sparta": {
+    "name": "Sparta",
+    "country": "US",
+    "spotifyId": "3DWWL4kwLZMBLsmVsbZYHR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2f020177ecf68806343df3e",
+    "lookedUpAt": "2026-07-26"
+  },
+  "eyka, lovataraxx, and 777santos": {
+    "name": "Eyka, lovataraxx, and 777santos",
+    "country": null,
+    "spotifyId": "74Gtuc4nf1Z2zRbmIFlUe3",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17893cc4086515d024ab2802752",
+    "lookedUpAt": "2026-07-26"
+  },
+  "pez de buenos aires, litto nebbia, rotman, sol bassa, and sur": {
+    "name": "Pez De Buenos Aires, Litto Nebbia, Rotman, Sol Bassa, and Sur",
+    "country": "AR",
+    "spotifyId": "01sY3iLJZtSBa0BIbcpddJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178152e46e6fc577215e58b3b08",
+    "lookedUpAt": "2026-07-26"
+  },
+  "rawayana": {
+    "name": "Rawayana",
+    "country": "VE",
+    "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde",
+    "lookedUpAt": "2026-07-26"
+  },
+  "eva ayllón and daniela darcourt": {
+    "name": "Eva Ayllón and Daniela Darcourt",
+    "country": "PE",
+    "spotifyId": "6AQFORISOneOZkh6r1sGS2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17810c3353ef8ccd1a27dd11d35",
+    "lookedUpAt": "2026-07-26"
+  },
+  "diles que no me maten": {
+    "name": "Diles Que No Me Maten",
+    "country": null,
+    "spotifyId": "22Gr8D6d3DlHfUYjbqtIev",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e16e50112a6f5477fad5af8d",
+    "lookedUpAt": "2026-07-26"
+  },
+  "bandalos chinos": {
+    "name": "Bandalos Chinos",
+    "country": "AR",
+    "spotifyId": "0wn2qDKzeFlhjRUtJAwJjp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08d44f4ab003d35e169804c",
+    "lookedUpAt": "2026-07-26"
+  },
+  "chucho rivas": {
+    "name": "Chucho Rivas",
+    "country": "MX",
+    "spotifyId": "1tClPu7uXdaZEQ32vihyJ1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff45b9f82dde5acb7a0e386f",
+    "lookedUpAt": "2026-07-26"
+  },
+  "bersuit vergarabat and andando descalzo": {
+    "name": "Bersuit Vergarabat and Andando Descalzo",
+    "country": "AR",
+    "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784bf6a0d26d71a0139a38eabb",
+    "lookedUpAt": "2026-07-26"
+  },
+  "la delio valdez": {
+    "name": "La Delio Valdez",
+    "country": "AR",
+    "spotifyId": "3tzacGOmngxUV8W8lU9h3Q",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816be488c5b0d75957806a65b",
+    "lookedUpAt": "2026-07-26"
+  },
+  "virus 24 jul": {
+    "name": "Virus 24 JUL",
+    "country": "FR",
+    "spotifyId": "7y1c1v6qIteNhUWckcJfgw",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517457499a4868f4bce16f3fc5",
+    "lookedUpAt": "2026-07-26"
+  },
+  "luciana negro \"noche con amigos\"": {
+    "name": "LUCIANA NEGRO \"Noche con Amigos\"",
+    "country": "GB",
+    "spotifyId": "3TFc8OzzeYmHntSzculujA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789dc0d795c8fd6cbe1f9ae21e",
+    "lookedUpAt": "2026-07-26"
+  },
+  "cenit vol. 01": {
+    "name": "CENIT Vol. 01",
+    "country": null,
+    "spotifyId": "4oA33WGYnsqe9zJANC717g",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863f8889db6faf3b809af2aea",
+    "lookedUpAt": "2026-07-26"
+  },
+  "flipside": {
+    "name": "FLIPSIDE",
+    "country": "US",
+    "spotifyId": "6S9rh06VCCIYEvYMFnVMVN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178503a8dd19923fdb5441da3fb",
+    "lookedUpAt": "2026-07-26"
+  },
+  "hiedrah x neomarik: día del amigx": {
+    "name": "HIEDRAH X NEOMARIK: DÍA DEL AMIGX",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-07-26"
+  },
+  "only funk by bahiana  24 jul": {
+    "name": "ONLY FUNK by Bahiana  24 JUL",
+    "country": "FR",
+    "spotifyId": "772qrOP3rf2diFapP3Mujd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17846f23a2ae4c684803031a34a",
+    "lookedUpAt": "2026-07-26"
+  },
+  "alan lez": {
+    "name": "Alan Lez",
+    "country": "JP",
+    "spotifyId": "2NNTPPCTbWZxnk2bS8gLD6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17854c8f85b27e8eca5c4084815",
+    "lookedUpAt": "2026-07-26"
+  },
+  "piano bar: manu piró": {
+    "name": "PIANO BAR: MANU PIRÓ",
+    "country": "JP",
+    "spotifyId": "2WPn0emjr8XPmMOT0bBcPe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dd9c371428da68927911ab51",
+    "lookedUpAt": "2026-07-26"
+  },
+  "el mundo de siempre vol. 3: las tussi + miedo puro + hombre 2000": {
+    "name": "EL MUNDO DE SIEMPRE VOL. 3: LAS TUSSI + MIEDO PURO + HOMBRE 2000",
+    "country": "AR",
+    "spotifyId": "3cjEOnq8YXtjt7QiCEMhMO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e28d8d9915c01917505a2a30",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fiesta mermelada — dia del amigo": {
+    "name": "FIESTA MERMELADA — DIA DEL AMIGO",
+    "country": "ES",
+    "spotifyId": "18xacmB7GVCrXxcPX9IILZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863aaf22f008658c9ff41c615",
+    "lookedUpAt": "2026-07-26"
+  },
+  "i.e.s - electronic music sessions": {
+    "name": "I.E.S - Electronic Music Sessions",
+    "country": "GB",
+    "spotifyId": "2tUUqZeqBYInHt3aDp3a1B",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e90b3cdec8a8a9e59320fe36",
+    "lookedUpAt": "2026-07-26"
+  },
+  "kilombo boiler room  25 jul": {
+    "name": "KILOMBO BOILER ROOM  25 Jul",
+    "country": "US",
+    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf",
+    "lookedUpAt": "2026-07-26"
+  },
+  "club 69 | 25 de julio": {
+    "name": "Club 69 | 25 de JULIO",
+    "country": "ES",
+    "spotifyId": "5nqK7cZdDaWt93uslUgUCY",
+    "spotifyImage": null,
+    "lookedUpAt": "2026-07-26"
+  },
+  "piazzolla electrónico x nico sorin 30jul": {
+    "name": "Piazzolla Electrónico x Nico Sorin 30Jul",
+    "country": null,
+    "spotifyId": "7dsugSamBB7enWE2IrlbFg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178571b2c4c9be25fa0b9691cac",
+    "lookedUpAt": "2026-07-26"
+  },
+  "tony y duno": {
+    "name": "Tony y Duno",
+    "country": null,
+    "spotifyId": "7vWlb4pM85jCHvV771qZZW",
+    "spotifyImage": "https://i.scdn.co/image/3d0bab87ce2176c7417cd6d36b10980df447af1d",
+    "lookedUpAt": "2026-07-26"
+  },
+  "musica para volar": {
+    "name": "MUSICA PARA VOLAR",
+    "country": null,
+    "spotifyId": "4vVW2SmXAbI5uRRnm7URNa",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780a987ad3f95d69bf1c6d30ac",
+    "lookedUpAt": "2026-07-26"
+  },
+  "mag presenta \"no te creo\" + logos + dj set durisimo": {
+    "name": "MAG PRESENTA \"NO TE CREO\" + LOGOS + DJ SET DURISIMO",
+    "country": "CO",
+    "spotifyId": "0KNjaoVYJPqVHfl1bTuUs4",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513e99c76a27df7fe54b9f8bd0",
+    "lookedUpAt": "2026-07-26"
+  },
+  "maxi espíndola": {
+    "name": "Maxi Espíndola",
+    "country": "AR",
+    "spotifyId": "4Obfe35qOZ6JZmezYo8K0v",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17848ccd4fcafa737ddeb582665",
+    "lookedUpAt": "2026-07-26"
+  },
+  "le cúspide & tomajök": {
+    "name": "LE CÚSPIDE & TOMAJÖK",
+    "country": null,
+    "spotifyId": "4AkvX4eyI2fKSCq3aisk3u",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c6c450e2f8d2091be234e75d",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fiesta nebula": {
+    "name": "Fiesta Nebula",
+    "country": "US",
+    "spotifyId": "2WYAbfZMnJYDFEQ6lJ6cqV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782d2a177d3e4d7c093fbf38ba",
+    "lookedUpAt": "2026-07-26"
+  },
+  "la curíta (reggaetón romántico)": {
+    "name": "LA CURÍTA (reggaetón romántico)",
+    "country": null,
+    "spotifyId": "3E6xrwgnVfYCrCs0ePERDz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b0446d66cb8dff19ea33ff5",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fiesta las maravillas": {
+    "name": "Fiesta Las Maravillas",
+    "country": "MX",
+    "spotifyId": "4eupDeDtyPA8qTEPdfWfn2",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485146916086591398d6f9ad017a",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fiesta circo": {
+    "name": "FIESTA CIRCO",
+    "country": "PR",
+    "spotifyId": "7mSJaFT4UhbIGfwRAVSmcR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b94f3359b1453bc55a82874f",
+    "lookedUpAt": "2026-07-26"
+  },
+  "salas flaco": {
+    "name": "Salas flaco",
+    "country": null,
+    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
+    "lookedUpAt": "2026-07-26"
+  },
+  "back to amy (x lula) tributo a amy winehouse": {
+    "name": "Back to Amy (x Lula) tributo a Amy Winehouse",
+    "country": "GB",
+    "spotifyId": "6Q192DXotxtaysaqNPy5yR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ceb023b10da17590878e88c",
+    "lookedUpAt": "2026-07-26"
+  },
+  "buenos aires groove": {
+    "name": "Buenos Aires Groove",
+    "country": null,
+    "spotifyId": "4ktjqLotjs95qQfTLLmc25",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b2d640c8e5c0e896f6c2a95",
+    "lookedUpAt": "2026-07-26"
+  },
+  "muerdo & amigos-  volver a donde nacen las canciones": {
+    "name": "MUERDO & AMIGOS-  volver a donde nacen las canciones",
+    "country": "DE",
+    "spotifyId": "3Tn4gmQQde9am94ntk2NBq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178efcae1d3913dec52828bd679",
+    "lookedUpAt": "2026-07-26"
+  },
+  "dos voces. dos mundos. una noche": {
+    "name": "DOS VOCES. DOS MUNDOS. UNA NOCHE",
+    "country": null,
+    "spotifyId": "10qDQKbmh8qV5LDCFtHLIw",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485137e3b4a9d8a5c566ad70daf3",
+    "lookedUpAt": "2026-07-26"
+  },
+  "renzo leali": {
+    "name": "RENZO LEALI",
+    "country": "AR",
+    "spotifyId": "7AI5dLLPePzrlTZxksv8HE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a97af1b4eba65f35365bbc44",
+    "lookedUpAt": "2026-07-26"
+  },
+  "utah + yasar + rosa profunda": {
+    "name": "UTAH + YASAR + ROSA PROFUNDA",
+    "country": "CO",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-07-26"
+  },
+  "ciclo roto": {
+    "name": "CICLO ROTO",
+    "country": "AR",
+    "spotifyId": "1sT9FnxwM9qNKssNYLvZGw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178487e90b229735560f870c723",
+    "lookedUpAt": "2026-07-26"
+  },
+  "polenta solo pop  7 de ago": {
+    "name": "Polenta Solo Pop  7 de AGO",
+    "country": "US",
+    "spotifyId": "4hQyHSkGQVAGwWxwUgKhBF",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518f7bbd234299de1bda8410ec",
+    "lookedUpAt": "2026-07-26"
+  },
+  "umami x totopo": {
+    "name": "UMAMI x totopo",
+    "country": null,
+    "spotifyId": "1REE9BqYD17mMNEiDorZYw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f451741ffa638bda954ace12",
+    "lookedUpAt": "2026-07-26"
+  },
+  "boom boom kid 8  de agosto": {
+    "name": "Boom Boom Kid 8  de Agosto",
+    "country": "AR",
+    "spotifyId": "2h2frsYL6pssri5AZdlMUU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178554a4a4aa43e76214055452f",
+    "lookedUpAt": "2026-07-26"
+  },
+  "e mill: entre ciclos": {
+    "name": "E MILL: ENTRE CICLOS",
+    "country": null,
+    "spotifyId": "0O5Tmdyq2Imd8Lt1Ny5qHX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cadb07daed4fd43f6c3eef83",
+    "lookedUpAt": "2026-07-26"
+  },
+  "paskinel junto a mackina y enthropia": {
+    "name": "PASKINEL junto a MACKINA y ENTHROPIA",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-07-26"
+  },
+  "delfines entrenados para matar aniversario": {
+    "name": "Delfines entrenados para matar aniversario",
+    "country": "AR",
+    "spotifyId": "3XhuCg7NlHiT3zafRVZdc9",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851deb978aa86889153148694f2",
+    "lookedUpAt": "2026-07-26"
+  },
+  "buenos vampiros": {
+    "name": "Buenos Vampiros",
+    "country": null,
+    "spotifyId": "3zJriU41e7xy7PVHIhflBo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e59d34cbc6ed1aa096675608",
+    "lookedUpAt": "2026-07-26"
+  },
+  "experiencia roce": {
+    "name": "EXPERIENCIA ROCE",
+    "country": "FR",
+    "spotifyId": "0aULg7LximLNhI6lLzxcXI",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b",
+    "lookedUpAt": "2026-07-26"
+  },
+  "la maleducada 14 ago": {
+    "name": "La maleducada 14 AGO",
+    "country": "IT",
+    "spotifyId": "3IO3ybxtyH9sVU4Pm3Z7eL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846",
+    "lookedUpAt": "2026-07-26"
+  },
+  "un ratito de conga 15 de  agosto": {
+    "name": "Un ratito de conga 15 de  agosto",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-07-26"
+  },
+  "festipez 2026": {
+    "name": "Festipez 2026",
+    "country": null,
+    "spotifyId": "4t6A8HQsZdZgsfnNFlDODj",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485175e99534a5d734f9fdfe1e89",
+    "lookedUpAt": "2026-07-26"
+  },
+  "more fayah feat fiesta de la flor": {
+    "name": "MORE FAYAH feat FIESTA DE LA FLOR",
+    "country": null,
+    "spotifyId": "2WyypmYjOdaXg0bXDP67j7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788ad7ad49e4dbd8a77b154314",
+    "lookedUpAt": "2026-07-26"
+  },
+  "fiesta trevi": {
+    "name": "FIESTA TREVI",
+    "country": "MX",
+    "spotifyId": "3cVf7DmnXolzTUC4HCBAfv",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485164aab9e62943e4eefe87c35d",
+    "lookedUpAt": "2026-07-26"
+  },
+  "pedro sampaio": {
+    "name": "Pedro Sampaio",
+    "country": "BR",
+    "spotifyId": "5wbf52LA6kcaboHSN6NEF1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178034bc070c2bfa742a1e788ff",
+    "lookedUpAt": "2026-07-26"
+  },
+  "mugre presenta su nuevo disco": {
+    "name": "Mugre presenta su nuevo disco",
+    "country": "AR",
+    "spotifyId": "2mJNVPV7WxtrVrPSddTW6V",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780ec46e87f2b50ac5ca736e41",
+    "lookedUpAt": "2026-07-26"
+  },
+  "romphonics + suplicia": {
+    "name": "Romphonics + Suplicia",
+    "country": "SE",
+    "spotifyId": "09KZU0NsS7jRa5p0SflmGY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ebdbb3fdc77696fc954be09f",
+    "lookedUpAt": "2026-07-26"
+  },
+  "richard coleman & el trans-siberian express": {
+    "name": "Richard Coleman & El Trans-Siberian Express",
+    "country": null,
+    "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51",
+    "lookedUpAt": "2026-07-26"
+  },
+  "corapa 22 ago": {
+    "name": "Corapa 22 AGO",
+    "country": "IT",
+    "spotifyId": "0DzLjpgncdMkKw94s1CALE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787f7a3f397bc967ae90530ce3",
+    "lookedUpAt": "2026-07-26"
+  },
+  "renacer del tiempo presenta \"aunque me cueste el alma\"": {
+    "name": "Renacer del Tiempo presenta \"Aunque Me Cueste El Alma\"",
+    "country": "AR",
+    "spotifyId": "17bNERCfWJgB8V58mVrPsS",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048512176f6d312f51e92aaa5a6fe",
+    "lookedUpAt": "2026-07-26"
+  },
   "para no morir": {
     "name": "Para No Morir",
     "country": null,
@@ -18,601 +620,6 @@
     "country": null,
     "spotifyId": "5vdjF79d5d2m12FOkJhxHB",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787cd8cb56cff8a2f5b2486c3c",
-    "lookedUpAt": "2026-07-25"
-  },
-  "lucas cervetti": {
-    "name": "Lucas Cervetti",
-    "country": "UY",
-    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59",
-    "lookedUpAt": "2026-07-25"
-  },
-  "la bomba de tiempo": {
-    "name": "La Bomba De Tiempo",
-    "country": "AR",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "lookedUpAt": "2026-07-25"
-  },
-  "darkways": {
-    "name": "DARKWAYS",
-    "country": null,
-    "spotifyId": "3tzqjcIe3CsvE2pS7utv7B",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3fd78694531b02357364981",
-    "lookedUpAt": "2026-07-25"
-  },
-  "rosalia": {
-    "name": "ROSALIA",
-    "country": "ES",
-    "spotifyId": "7ltDVBr6mKbRvohxheJ9h1",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789354faf80eb87961466edfbf",
-    "lookedUpAt": "2026-07-25"
-  },
-  "a.n.i.m.a.l.": {
-    "name": "A.N.I.M.A.L.",
-    "country": "US",
-    "spotifyId": "6eoz7BtTcC5Q303xQtSgj9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17897802bf01ffdd7a28b6e08b1",
-    "lookedUpAt": "2026-07-25"
-  },
-  "feisor": {
-    "name": "Feisor",
-    "country": null,
-    "spotifyId": "0uOzT741MBjN6gvf5ixY1D",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a85604c189034a0607d4a0a5",
-    "lookedUpAt": "2026-07-25"
-  },
-  "santiago moraes": {
-    "name": "Santiago Moraes",
-    "country": null,
-    "spotifyId": "2pfLPT9ZTkPrLd8ZJiDBld",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a7445f459ca3441fa1f48238",
-    "lookedUpAt": "2026-07-25"
-  },
-  "sofía alvez": {
-    "name": "Sofía Alvez",
-    "country": "UY",
-    "spotifyId": "2mOfSQosQk4GNspOTIPx7a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c7da370cba8d8d264a889183",
-    "lookedUpAt": "2026-07-25"
-  },
-  "carin leon": {
-    "name": "Carin Leon",
-    "country": null,
-    "spotifyId": "66ihevNkSYNzRAl44dx6jJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17888ec94d53e13848c7a6a5f1c",
-    "lookedUpAt": "2026-07-25"
-  },
-  "the red jumpsuit apparatus": {
-    "name": "The Red Jumpsuit Apparatus",
-    "country": "US",
-    "spotifyId": "1SImpQO0GbjRgvlwCcCtFo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b579588b5cd5582f6c83f6f7",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fransia": {
-    "name": "Fransia",
-    "country": null,
-    "spotifyId": "3wuwaLRUrbF4nI4NQ4Vet7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178791349ec326328fcc3b37383",
-    "lookedUpAt": "2026-07-25"
-  },
-  "max styler": {
-    "name": "Max Styler",
-    "country": null,
-    "spotifyId": "3NKKngINK1tP6BFy0WOyWk",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ded53da461b13994a9ef8347",
-    "lookedUpAt": "2026-07-25"
-  },
-  "pasaje osaka and sombras chinas": {
-    "name": "Pasaje Osaka and Sombras Chinas",
-    "country": null,
-    "spotifyId": "1GBEy3QAItTZ6DNK9i5ENK",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b9f611353e8cd16e0e5b4f1",
-    "lookedUpAt": "2026-07-25"
-  },
-  "juanse": {
-    "name": "Juanse",
-    "country": "AR",
-    "spotifyId": "0Xsc2ZIdwp0XGL4Mzr0xcg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885a82492164d3a18749c1a6b",
-    "lookedUpAt": "2026-07-25"
-  },
-  "wraith knight": {
-    "name": "Wraith Knight",
-    "country": null,
-    "spotifyId": "53543oQ8rPTCCMBRmK2Szh",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514a2c9a36a52eb47004a994bb",
-    "lookedUpAt": "2026-07-25"
-  },
-  "greeicy": {
-    "name": "Greeicy",
-    "country": "CO",
-    "spotifyId": "5dbaLmK5SHLLg8Z4CcTJpX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780f6d1ee45acbe57984752ebf",
-    "lookedUpAt": "2026-07-25"
-  },
-  "sofi posse": {
-    "name": "Sofi Posse",
-    "country": "US",
-    "spotifyId": "4ty9dAE0nkeSnSEfmSLkCd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788cbf95879691d8d4e2c3a809",
-    "lookedUpAt": "2026-07-25"
-  },
-  "shawn james": {
-    "name": "Shawn James",
-    "country": "DE",
-    "spotifyId": "2HPYUQ6GsPbZHvkyYe2jdm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787068121a2b6b8b86bbcb95f0",
-    "lookedUpAt": "2026-07-25"
-  },
-  "soda stereo": {
-    "name": "Soda Stereo",
-    "country": "AR",
-    "spotifyId": "7An4yvF7hDYDolN4m5zKBp",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787c0578274e203f069f5f411c",
-    "lookedUpAt": "2026-07-25"
-  },
-  "el kuelgue": {
-    "name": "El Kuelgue",
-    "country": "AR",
-    "spotifyId": "6jRUKVZllu1wtgXHbqvUmT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a433d43e07c06ab3dae3a35",
-    "lookedUpAt": "2026-07-25"
-  },
-  "swallow the sun": {
-    "name": "Swallow the Sun",
-    "country": "FI",
-    "spotifyId": "0ulKlNlo0iPx5ZS6VMTHWQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9",
-    "lookedUpAt": "2026-07-25"
-  },
-  "florencia bertotti": {
-    "name": "Florencia Bertotti",
-    "country": "AR",
-    "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
-    "lookedUpAt": "2026-07-25"
-  },
-  "riel": {
-    "name": "Riel",
-    "country": null,
-    "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f",
-    "lookedUpAt": "2026-07-25"
-  },
-  "ruben blades": {
-    "name": "Ruben Blades",
-    "country": "PA",
-    "spotifyId": "5BwMgvRwlq61SmknvsVIQj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7",
-    "lookedUpAt": "2026-07-25"
-  },
-  "pentagram": {
-    "name": "Pentagram",
-    "country": "US",
-    "spotifyId": "0xybuiDEYo3YuT3fLPaIyE",
-    "spotifyImage": "https://i.scdn.co/image/ea453b59493d85eecfa51256882fb3128031f675",
-    "lookedUpAt": "2026-07-25"
-  },
-  "sparta": {
-    "name": "Sparta",
-    "country": "US",
-    "spotifyId": "3DWWL4kwLZMBLsmVsbZYHR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2f020177ecf68806343df3e",
-    "lookedUpAt": "2026-07-25"
-  },
-  "eyka, lovataraxx, and 777santos": {
-    "name": "Eyka, lovataraxx, and 777santos",
-    "country": null,
-    "spotifyId": "74Gtuc4nf1Z2zRbmIFlUe3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17893cc4086515d024ab2802752",
-    "lookedUpAt": "2026-07-25"
-  },
-  "pez de buenos aires, litto nebbia, rotman, sol bassa, and sur": {
-    "name": "Pez De Buenos Aires, Litto Nebbia, Rotman, Sol Bassa, and Sur",
-    "country": "AR",
-    "spotifyId": "01sY3iLJZtSBa0BIbcpddJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178152e46e6fc577215e58b3b08",
-    "lookedUpAt": "2026-07-25"
-  },
-  "rawayana": {
-    "name": "Rawayana",
-    "country": "VE",
-    "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde",
-    "lookedUpAt": "2026-07-25"
-  },
-  "eva ayllón and daniela darcourt": {
-    "name": "Eva Ayllón and Daniela Darcourt",
-    "country": "PE",
-    "spotifyId": "6AQFORISOneOZkh6r1sGS2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17810c3353ef8ccd1a27dd11d35",
-    "lookedUpAt": "2026-07-25"
-  },
-  "diles que no me maten": {
-    "name": "Diles Que No Me Maten",
-    "country": null,
-    "spotifyId": "22Gr8D6d3DlHfUYjbqtIev",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e16e50112a6f5477fad5af8d",
-    "lookedUpAt": "2026-07-25"
-  },
-  "bandalos chinos": {
-    "name": "Bandalos Chinos",
-    "country": "AR",
-    "spotifyId": "0wn2qDKzeFlhjRUtJAwJjp",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08d44f4ab003d35e169804c",
-    "lookedUpAt": "2026-07-25"
-  },
-  "chucho rivas": {
-    "name": "Chucho Rivas",
-    "country": "MX",
-    "spotifyId": "1tClPu7uXdaZEQ32vihyJ1",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff45b9f82dde5acb7a0e386f",
-    "lookedUpAt": "2026-07-25"
-  },
-  "bersuit vergarabat and andando descalzo": {
-    "name": "Bersuit Vergarabat and Andando Descalzo",
-    "country": "AR",
-    "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784bf6a0d26d71a0139a38eabb",
-    "lookedUpAt": "2026-07-25"
-  },
-  "la delio valdez": {
-    "name": "La Delio Valdez",
-    "country": "AR",
-    "spotifyId": "3tzacGOmngxUV8W8lU9h3Q",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816be488c5b0d75957806a65b",
-    "lookedUpAt": "2026-07-25"
-  },
-  "virus 24 jul": {
-    "name": "Virus 24 JUL",
-    "country": "FR",
-    "spotifyId": "7y1c1v6qIteNhUWckcJfgw",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517457499a4868f4bce16f3fc5",
-    "lookedUpAt": "2026-07-25"
-  },
-  "luciana negro \"noche con amigos\"": {
-    "name": "LUCIANA NEGRO \"Noche con Amigos\"",
-    "country": "GB",
-    "spotifyId": "3TFc8OzzeYmHntSzculujA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789dc0d795c8fd6cbe1f9ae21e",
-    "lookedUpAt": "2026-07-25"
-  },
-  "cenit vol. 01": {
-    "name": "CENIT Vol. 01",
-    "country": null,
-    "spotifyId": "4oA33WGYnsqe9zJANC717g",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863f8889db6faf3b809af2aea",
-    "lookedUpAt": "2026-07-25"
-  },
-  "flipside": {
-    "name": "FLIPSIDE",
-    "country": "US",
-    "spotifyId": "6S9rh06VCCIYEvYMFnVMVN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178503a8dd19923fdb5441da3fb",
-    "lookedUpAt": "2026-07-25"
-  },
-  "hiedrah x neomarik: día del amigx": {
-    "name": "HIEDRAH X NEOMARIK: DÍA DEL AMIGX",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-07-25"
-  },
-  "only funk by bahiana  24 jul": {
-    "name": "ONLY FUNK by Bahiana  24 JUL",
-    "country": "FR",
-    "spotifyId": "772qrOP3rf2diFapP3Mujd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17846f23a2ae4c684803031a34a",
-    "lookedUpAt": "2026-07-25"
-  },
-  "alan lez": {
-    "name": "Alan Lez",
-    "country": "JP",
-    "spotifyId": "2NNTPPCTbWZxnk2bS8gLD6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17854c8f85b27e8eca5c4084815",
-    "lookedUpAt": "2026-07-25"
-  },
-  "piano bar: manu piró": {
-    "name": "PIANO BAR: MANU PIRÓ",
-    "country": "JP",
-    "spotifyId": "2WPn0emjr8XPmMOT0bBcPe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dd9c371428da68927911ab51",
-    "lookedUpAt": "2026-07-25"
-  },
-  "el mundo de siempre vol. 3: las tussi + miedo puro + hombre 2000": {
-    "name": "EL MUNDO DE SIEMPRE VOL. 3: LAS TUSSI + MIEDO PURO + HOMBRE 2000",
-    "country": "AR",
-    "spotifyId": "3cjEOnq8YXtjt7QiCEMhMO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e28d8d9915c01917505a2a30",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fiesta mermelada — dia del amigo": {
-    "name": "FIESTA MERMELADA — DIA DEL AMIGO",
-    "country": "ES",
-    "spotifyId": "18xacmB7GVCrXxcPX9IILZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863aaf22f008658c9ff41c615",
-    "lookedUpAt": "2026-07-25"
-  },
-  "i.e.s - electronic music sessions": {
-    "name": "I.E.S - Electronic Music Sessions",
-    "country": "GB",
-    "spotifyId": "2tUUqZeqBYInHt3aDp3a1B",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e90b3cdec8a8a9e59320fe36",
-    "lookedUpAt": "2026-07-25"
-  },
-  "kilombo boiler room  25 jul": {
-    "name": "KILOMBO BOILER ROOM  25 Jul",
-    "country": "US",
-    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf",
-    "lookedUpAt": "2026-07-25"
-  },
-  "club 69 | 25 de julio": {
-    "name": "Club 69 | 25 de JULIO",
-    "country": "ES",
-    "spotifyId": "5nqK7cZdDaWt93uslUgUCY",
-    "spotifyImage": null,
-    "lookedUpAt": "2026-07-25"
-  },
-  "piazzolla electrónico x nico sorin 30jul": {
-    "name": "Piazzolla Electrónico x Nico Sorin 30Jul",
-    "country": null,
-    "spotifyId": "7dsugSamBB7enWE2IrlbFg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178571b2c4c9be25fa0b9691cac",
-    "lookedUpAt": "2026-07-25"
-  },
-  "tony y duno": {
-    "name": "Tony y Duno",
-    "country": null,
-    "spotifyId": "7vWlb4pM85jCHvV771qZZW",
-    "spotifyImage": "https://i.scdn.co/image/3d0bab87ce2176c7417cd6d36b10980df447af1d",
-    "lookedUpAt": "2026-07-25"
-  },
-  "musica para volar": {
-    "name": "MUSICA PARA VOLAR",
-    "country": null,
-    "spotifyId": "4vVW2SmXAbI5uRRnm7URNa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780a987ad3f95d69bf1c6d30ac",
-    "lookedUpAt": "2026-07-25"
-  },
-  "mag presenta \"no te creo\" + logos + dj set durisimo": {
-    "name": "MAG PRESENTA \"NO TE CREO\" + LOGOS + DJ SET DURISIMO",
-    "country": "CO",
-    "spotifyId": "0KNjaoVYJPqVHfl1bTuUs4",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513e99c76a27df7fe54b9f8bd0",
-    "lookedUpAt": "2026-07-25"
-  },
-  "maxi espíndola": {
-    "name": "Maxi Espíndola",
-    "country": "AR",
-    "spotifyId": "4Obfe35qOZ6JZmezYo8K0v",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17848ccd4fcafa737ddeb582665",
-    "lookedUpAt": "2026-07-25"
-  },
-  "le cúspide & tomajök": {
-    "name": "LE CÚSPIDE & TOMAJÖK",
-    "country": null,
-    "spotifyId": "4AkvX4eyI2fKSCq3aisk3u",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c6c450e2f8d2091be234e75d",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fiesta nebula": {
-    "name": "Fiesta Nebula",
-    "country": "US",
-    "spotifyId": "2WYAbfZMnJYDFEQ6lJ6cqV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782d2a177d3e4d7c093fbf38ba",
-    "lookedUpAt": "2026-07-25"
-  },
-  "la curíta (reggaetón romántico)": {
-    "name": "LA CURÍTA (reggaetón romántico)",
-    "country": null,
-    "spotifyId": "3E6xrwgnVfYCrCs0ePERDz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b0446d66cb8dff19ea33ff5",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fiesta las maravillas": {
-    "name": "Fiesta Las Maravillas",
-    "country": "MX",
-    "spotifyId": "4eupDeDtyPA8qTEPdfWfn2",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485146916086591398d6f9ad017a",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fiesta circo": {
-    "name": "FIESTA CIRCO",
-    "country": "PR",
-    "spotifyId": "7mSJaFT4UhbIGfwRAVSmcR",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b94f3359b1453bc55a82874f",
-    "lookedUpAt": "2026-07-25"
-  },
-  "salas flaco": {
-    "name": "Salas flaco",
-    "country": null,
-    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
-    "lookedUpAt": "2026-07-25"
-  },
-  "back to amy (x lula) tributo a amy winehouse": {
-    "name": "Back to Amy (x Lula) tributo a Amy Winehouse",
-    "country": "GB",
-    "spotifyId": "6Q192DXotxtaysaqNPy5yR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ceb023b10da17590878e88c",
-    "lookedUpAt": "2026-07-25"
-  },
-  "buenos aires groove": {
-    "name": "Buenos Aires Groove",
-    "country": null,
-    "spotifyId": "4ktjqLotjs95qQfTLLmc25",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b2d640c8e5c0e896f6c2a95",
-    "lookedUpAt": "2026-07-25"
-  },
-  "muerdo & amigos-  volver a donde nacen las canciones": {
-    "name": "MUERDO & AMIGOS-  volver a donde nacen las canciones",
-    "country": "DE",
-    "spotifyId": "3Tn4gmQQde9am94ntk2NBq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178efcae1d3913dec52828bd679",
-    "lookedUpAt": "2026-07-25"
-  },
-  "dos voces. dos mundos. una noche": {
-    "name": "DOS VOCES. DOS MUNDOS. UNA NOCHE",
-    "country": null,
-    "spotifyId": "10qDQKbmh8qV5LDCFtHLIw",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485137e3b4a9d8a5c566ad70daf3",
-    "lookedUpAt": "2026-07-25"
-  },
-  "renzo leali": {
-    "name": "RENZO LEALI",
-    "country": "AR",
-    "spotifyId": "7AI5dLLPePzrlTZxksv8HE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a97af1b4eba65f35365bbc44",
-    "lookedUpAt": "2026-07-25"
-  },
-  "utah + yasar + rosa profunda": {
-    "name": "UTAH + YASAR + ROSA PROFUNDA",
-    "country": "CO",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-07-25"
-  },
-  "ciclo roto": {
-    "name": "CICLO ROTO",
-    "country": "AR",
-    "spotifyId": "1sT9FnxwM9qNKssNYLvZGw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178487e90b229735560f870c723",
-    "lookedUpAt": "2026-07-25"
-  },
-  "polenta solo pop  7 de ago": {
-    "name": "Polenta Solo Pop  7 de AGO",
-    "country": "US",
-    "spotifyId": "4hQyHSkGQVAGwWxwUgKhBF",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518f7bbd234299de1bda8410ec",
-    "lookedUpAt": "2026-07-25"
-  },
-  "umami x totopo": {
-    "name": "UMAMI x totopo",
-    "country": null,
-    "spotifyId": "1REE9BqYD17mMNEiDorZYw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f451741ffa638bda954ace12",
-    "lookedUpAt": "2026-07-25"
-  },
-  "boom boom kid 8  de agosto": {
-    "name": "Boom Boom Kid 8  de Agosto",
-    "country": "AR",
-    "spotifyId": "2h2frsYL6pssri5AZdlMUU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178554a4a4aa43e76214055452f",
-    "lookedUpAt": "2026-07-25"
-  },
-  "e mill: entre ciclos": {
-    "name": "E MILL: ENTRE CICLOS",
-    "country": null,
-    "spotifyId": "0O5Tmdyq2Imd8Lt1Ny5qHX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cadb07daed4fd43f6c3eef83",
-    "lookedUpAt": "2026-07-25"
-  },
-  "paskinel junto a mackina y enthropia": {
-    "name": "PASKINEL junto a MACKINA y ENTHROPIA",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-07-25"
-  },
-  "delfines entrenados para matar aniversario": {
-    "name": "Delfines entrenados para matar aniversario",
-    "country": "AR",
-    "spotifyId": "3XhuCg7NlHiT3zafRVZdc9",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851deb978aa86889153148694f2",
-    "lookedUpAt": "2026-07-25"
-  },
-  "buenos vampiros": {
-    "name": "Buenos Vampiros",
-    "country": null,
-    "spotifyId": "3zJriU41e7xy7PVHIhflBo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e59d34cbc6ed1aa096675608",
-    "lookedUpAt": "2026-07-25"
-  },
-  "experiencia roce": {
-    "name": "EXPERIENCIA ROCE",
-    "country": "FR",
-    "spotifyId": "0aULg7LximLNhI6lLzxcXI",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b",
-    "lookedUpAt": "2026-07-25"
-  },
-  "la maleducada 14 ago": {
-    "name": "La maleducada 14 AGO",
-    "country": "IT",
-    "spotifyId": "3IO3ybxtyH9sVU4Pm3Z7eL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846",
-    "lookedUpAt": "2026-07-25"
-  },
-  "un ratito de conga 15 de  agosto": {
-    "name": "Un ratito de conga 15 de  agosto",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-07-25"
-  },
-  "festipez 2026": {
-    "name": "Festipez 2026",
-    "country": null,
-    "spotifyId": "4t6A8HQsZdZgsfnNFlDODj",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485175e99534a5d734f9fdfe1e89",
-    "lookedUpAt": "2026-07-25"
-  },
-  "more fayah feat fiesta de la flor": {
-    "name": "MORE FAYAH feat FIESTA DE LA FLOR",
-    "country": null,
-    "spotifyId": "2WyypmYjOdaXg0bXDP67j7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788ad7ad49e4dbd8a77b154314",
-    "lookedUpAt": "2026-07-25"
-  },
-  "fiesta trevi": {
-    "name": "FIESTA TREVI",
-    "country": "MX",
-    "spotifyId": "3cVf7DmnXolzTUC4HCBAfv",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485164aab9e62943e4eefe87c35d",
-    "lookedUpAt": "2026-07-25"
-  },
-  "pedro sampaio": {
-    "name": "Pedro Sampaio",
-    "country": "BR",
-    "spotifyId": "5wbf52LA6kcaboHSN6NEF1",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178034bc070c2bfa742a1e788ff",
-    "lookedUpAt": "2026-07-25"
-  },
-  "mugre presenta su nuevo disco": {
-    "name": "Mugre presenta su nuevo disco",
-    "country": "AR",
-    "spotifyId": "2mJNVPV7WxtrVrPSddTW6V",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780ec46e87f2b50ac5ca736e41",
-    "lookedUpAt": "2026-07-25"
-  },
-  "romphonics + suplicia": {
-    "name": "Romphonics + Suplicia",
-    "country": "SE",
-    "spotifyId": "09KZU0NsS7jRa5p0SflmGY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ebdbb3fdc77696fc954be09f",
-    "lookedUpAt": "2026-07-25"
-  },
-  "richard coleman & el trans-siberian express": {
-    "name": "Richard Coleman & El Trans-Siberian Express",
-    "country": null,
-    "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51",
-    "lookedUpAt": "2026-07-25"
-  },
-  "corapa 22 ago": {
-    "name": "Corapa 22 AGO",
-    "country": "IT",
-    "spotifyId": "0DzLjpgncdMkKw94s1CALE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787f7a3f397bc967ae90530ce3",
-    "lookedUpAt": "2026-07-25"
-  },
-  "renacer del tiempo presenta \"aunque me cueste el alma\"": {
-    "name": "Renacer del Tiempo presenta \"Aunque Me Cueste El Alma\"",
-    "country": "AR",
-    "spotifyId": "17bNERCfWJgB8V58mVrPsS",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048512176f6d312f51e92aaa5a6fe",
     "lookedUpAt": "2026-07-25"
   },
   "bestia bebé": {

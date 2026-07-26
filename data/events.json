@@ -136,21 +136,6 @@
     "spotifyImage": null
   },
   {
-    "id": "felipeavello-2026-07-25-paseoplaza",
-    "artist": "felipe avello",
-    "artistKey": "felipeavello",
-    "date": "2026-07-25",
-    "venue": "Paseo La Plaza",
-    "venueKey": "paseoplaza",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
-  },
-  {
     "id": "fiestamermeladadiadelamigo-2026-07-25-niceto",
     "artist": "FIESTA MERMELADA — DIA DEL AMIGO",
     "artistKey": "fiestamermeladadiadelamigo",
@@ -185,21 +170,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e90b3cdec8a8a9e59320fe36"
   },
   {
-    "id": "jeremyolander-2026-07-25-crobar",
-    "artist": "Jeremy Olander",
-    "artistKey": "jeremyolander",
-    "date": "2026-07-25",
-    "venue": "Crobar",
-    "venueKey": "crobar",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "5vdjF79d5d2m12FOkJhxHB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787cd8cb56cff8a2f5b2486c3c"
-  },
-  {
     "id": "kilomboboilerroom25jul-2026-07-25-niceto",
     "artist": "KILOMBO BOILER ROOM  25 Jul",
     "artistKey": "kilomboboilerroom25jul",
@@ -215,21 +185,6 @@
     "country": "US",
     "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf"
-  },
-  {
-    "id": "paranomorir-2026-07-25-rosetiii",
-    "artist": "Para No Morir",
-    "artistKey": "paranomorir",
-    "date": "2026-07-25",
-    "venue": "Roseti II",
-    "venueKey": "rosetiii",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7LL0K2qAX8nzEdLX4Estcu",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5408b6c1ff6bf96c13af159"
   },
   {
     "id": "pianobarmanupiro-2026-07-25-niceto",
@@ -464,6 +419,21 @@
     "country": null,
     "spotifyId": "4ktjqLotjs95qQfTLLmc25",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b2d640c8e5c0e896f6c2a95"
+  },
+  {
+    "id": "romanhopeanddj4zmin-2026-08-01-localsupport",
+    "artist": "Roman Hope and DJ4ZMIN",
+    "artistKey": "romanhopeanddj4zmin",
+    "date": "2026-08-01",
+    "venue": "Local Support",
+    "venueKey": "localsupport",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "1GBhDrmf2fvZOEjKLUobEF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782dee8b27638955226611b904"
   },
   {
     "id": "rosalia-2026-08-01-movistararena",
@@ -1188,6 +1158,21 @@
     "country": "SE",
     "spotifyId": "09KZU0NsS7jRa5p0SflmGY",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ebdbb3fdc77696fc954be09f"
+  },
+  {
+    "id": "santiagomoraes-2026-08-21-finisterresocial",
+    "artist": "Santiago Moraes",
+    "artistKey": "santiagomoraes",
+    "date": "2026-08-21",
+    "venue": "Finisterre Social Club",
+    "venueKey": "finisterresocial",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "2pfLPT9ZTkPrLd8ZJiDBld",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a7445f459ca3441fa1f48238"
   },
   {
     "id": "corapa22ago-2026-08-22-niceto",
