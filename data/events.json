@@ -204,21 +204,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dd9c371428da68927911ab51"
   },
   {
-    "id": "lucascervetti-2026-07-26-cuerdamecanica",
-    "artist": "Lucas Cervetti",
-    "artistKey": "lucascervetti",
-    "date": "2026-07-26",
-    "venue": "Cuerda Mecánica",
-    "venueKey": "cuerdamecanica",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "UY",
-    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
-  },
-  {
     "id": "darkways-2026-07-29-teatrito",
     "artist": "DARKWAYS",
     "artistKey": "darkways",
