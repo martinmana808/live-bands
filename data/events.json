@@ -1,209 +1,5 @@
 [
   {
-    "id": "cenitvol01-2026-07-24-niceto",
-    "artist": "CENIT Vol. 01",
-    "artistKey": "cenitvol01",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/cenit-vol-01-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4oA33WGYnsqe9zJANC717g",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863f8889db6faf3b809af2aea"
-  },
-  {
-    "id": "flipside-2026-07-24-niceto",
-    "artist": "FLIPSIDE",
-    "artistKey": "flipside",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/flipside-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "6S9rh06VCCIYEvYMFnVMVN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178503a8dd19923fdb5441da3fb"
-  },
-  {
-    "id": "hiedrahxneomarikdiadelamigx-2026-07-24-niceto",
-    "artist": "HIEDRAH X NEOMARIK: DÍA DEL AMIGX",
-    "artistKey": "hiedrahxneomarikdiadelamigx",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/hiedrah-x-neomarik-d-a-del-amigx-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "luciananegronocheconamigos-2026-07-24-niceto",
-    "artist": "LUCIANA NEGRO \"Noche con Amigos\"",
-    "artistKey": "luciananegronocheconamigos",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/luciana-negro-noche-con-amigos-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "GB",
-    "spotifyId": "3TFc8OzzeYmHntSzculujA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789dc0d795c8fd6cbe1f9ae21e"
-  },
-  {
-    "id": "onlyfunkbybahiana24jul-2026-07-24-niceto",
-    "artist": "ONLY FUNK by Bahiana  24 JUL",
-    "artistKey": "onlyfunkbybahiana24jul",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/only-funk-by-bahiana-24-jul-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "772qrOP3rf2diFapP3Mujd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17846f23a2ae4c684803031a34a"
-  },
-  {
-    "id": "virus24jul-2026-07-24-niceto",
-    "artist": "Virus 24 JUL",
-    "artistKey": "virus24jul",
-    "date": "2026-07-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/virus-24-jul-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "7y1c1v6qIteNhUWckcJfgw",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517457499a4868f4bce16f3fc5"
-  },
-  {
-    "id": "alanlez-2026-07-25-niceto",
-    "artist": "Alan Lez",
-    "artistKey": "alanlez",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/alan-lez-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": "2NNTPPCTbWZxnk2bS8gLD6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17854c8f85b27e8eca5c4084815"
-  },
-  {
-    "id": "club6925dejulio-2026-07-25-niceto",
-    "artist": "Club 69 | 25 de JULIO",
-    "artistKey": "club6925dejulio",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-25-de-julio-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "5nqK7cZdDaWt93uslUgUCY",
-    "spotifyImage": null
-  },
-  {
-    "id": "fiestamermeladadiadelamigo-2026-07-25-niceto",
-    "artist": "FIESTA MERMELADA — DIA DEL AMIGO",
-    "artistKey": "fiestamermeladadiadelamigo",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-mermelada-dia-del-amigo-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "18xacmB7GVCrXxcPX9IILZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863aaf22f008658c9ff41c615"
-  },
-  {
-    "id": "ieselectronicmusicsessions-2026-07-25-niceto",
-    "artist": "I.E.S - Electronic Music Sessions",
-    "artistKey": "ieselectronicmusicsessions",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/i-e-s-electronic-music-sessions-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "GB",
-    "spotifyId": "2tUUqZeqBYInHt3aDp3a1B",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e90b3cdec8a8a9e59320fe36"
-  },
-  {
-    "id": "kilomboboilerroom25jul-2026-07-25-niceto",
-    "artist": "KILOMBO BOILER ROOM  25 Jul",
-    "artistKey": "kilomboboilerroom25jul",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-boiler-room-25-jul-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "3QCw2zv0Mo4hqMJa3kCMbw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780c1131569f0003051e6ceebf"
-  },
-  {
-    "id": "pianobarmanupiro-2026-07-25-niceto",
-    "artist": "PIANO BAR: MANU PIRÓ",
-    "artistKey": "pianobarmanupiro",
-    "date": "2026-07-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/piano-bar-manu-pir5-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": "2WPn0emjr8XPmMOT0bBcPe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dd9c371428da68927911ab51"
-  },
-  {
     "id": "darkways-2026-07-29-teatrito",
     "artist": "DARKWAYS",
     "artistKey": "darkways",
@@ -404,6 +200,23 @@
     "country": null,
     "spotifyId": "4ktjqLotjs95qQfTLLmc25",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b2d640c8e5c0e896f6c2a95"
+  },
+  {
+    "id": "ilovetech1ago-2026-08-01-niceto",
+    "artist": "iLoveTech 1 AGO",
+    "artistKey": "ilovetech1ago",
+    "date": "2026-08-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ilovetech-1-ago-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "IT",
+    "spotifyId": "3aGFCoR8xGN6DKwvdzeSja",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780269a2c7e7e4e895abc670bb"
   },
   {
     "id": "romanhopeanddj4zmin-2026-08-01-localsupport",
@@ -1098,12 +911,12 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d52d93053343dc60653bbde"
   },
   {
-    "id": "chuchorivas-2026-08-21-tangente",
+    "id": "chuchorivas-2026-08-21-congo",
     "artist": "Chucho Rivas",
     "artistKey": "chuchorivas",
     "date": "2026-08-21",
-    "venue": "La Tangente",
-    "venueKey": "tangente",
+    "venue": "Congo Bar",
+    "venueKey": "congo",
     "ticketUrls": [],
     "sources": [
       "songkick"
@@ -1192,5 +1005,175 @@
     "country": null,
     "spotifyId": "2SDs98YfrEGBbh5PK98HvL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51"
+  },
+  {
+    "id": "abrilinterlucis-2026-08-28-niceto",
+    "artist": "ABRIL + INTERLUCIS",
+    "artistKey": "abrilinterlucis",
+    "date": "2026-08-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/abril-interlucis-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "SE",
+    "spotifyId": "7HNpdpSzEr0e88c60UTUEJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784940419dc03616be716a8b60"
+  },
+  {
+    "id": "palo-2026-08-29-niceto",
+    "artist": "PALO",
+    "artistKey": "palo",
+    "date": "2026-08-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/palo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7rOlQwf8OuFLFQp4aydjBt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dacd0b4eb10d4bea13c096cc"
+  },
+  {
+    "id": "paulalone-2026-08-30-niceto",
+    "artist": "PAUL ALONE",
+    "artistKey": "paulalone",
+    "date": "2026-08-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/paul-alone-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AT",
+    "spotifyId": "6bdtalFIKenjGPCQVI2gtE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db27fa2ddcdf5e96aa9cb3aa"
+  },
+  {
+    "id": "lauta-2026-09-03-niceto",
+    "artist": "LAUTA",
+    "artistKey": "lauta",
+    "date": "2026-09-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/lauta-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "5ELYwDwhy00ecTXhfsKWci",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784153f7ca4ef7e43fe78b6018"
+  },
+  {
+    "id": "elclubdelacumbia4deseptiembre-2026-09-04-niceto",
+    "artist": "El Club de la Cumbia 4 de septiembre",
+    "artistKey": "elclubdelacumbia4deseptiembre",
+    "date": "2026-09-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/el-club-de-la-cumbia-4-de-septiembre-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "01sY3iLJZtSBa0BIbcpddJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178152e46e6fc577215e58b3b08"
+  },
+  {
+    "id": "lamontanacaba0409doppelgangsb2bygnacyoggexportdjsetmabel-2026-09-04-niceto",
+    "artist": "la montaña * caba 04.09  doppel gangs b2b ygnacyo / gg export dj set / mabel",
+    "artistKey": "lamontanacaba0409doppelgangsb2bygnacyoggexportdjsetmabel",
+    "date": "2026-09-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-monta-a-caba-04-09-doppel-gangs-dj-set-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0F3tUZeb9dLNEpxCpzEBQt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef10e43db4544af5d3aab762"
+  },
+  {
+    "id": "1915-2026-09-05-niceto",
+    "artist": "1915",
+    "artistKey": "1915",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/s1915-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4jwnlVc9Lj5vMkL32978d1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7"
+  },
+  {
+    "id": "caniche-2026-09-05-niceto",
+    "artist": "Caniche",
+    "artistKey": "caniche",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/caniche-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da"
+  },
+  {
+    "id": "trinidadshow-2026-09-05-niceto",
+    "artist": "TRINIDAD- SHOW",
+    "artistKey": "trinidadshow",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/trinidad-show-en-vivo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "2gEfAIki83F9mzam0iVBda",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117b59e2062364ec45d527b1c"
+  },
+  {
+    "id": "choosey-2026-09-12-niceto",
+    "artist": "CHOOSEY",
+    "artistKey": "choosey",
+    "date": "2026-09-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/choosey-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9"
   }
 ]
