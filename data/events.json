@@ -420,6 +420,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17888ec94d53e13848c7a6a5f1c"
   },
   {
+    "id": "ceciliazabalaandagostinaelzegbe-2026-08-07-hastatrilce",
+    "artist": "Cecilia Zabala and Agostina Elzegbe",
+    "artistKey": "ceciliazabalaandagostinaelzegbe",
+    "date": "2026-08-07",
+    "venue": "Hasta Trilce",
+    "venueKey": "hastatrilce",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0nZHjqvdLoBy50ZzUH5FNU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782bb888d0e35c14349c369625"
+  },
+  {
     "id": "fransia-2026-08-07-margaritaxirgu",
     "artist": "Fransia",
     "artistKey": "fransia",
