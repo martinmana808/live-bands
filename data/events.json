@@ -221,36 +221,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303"
   },
   {
-    "id": "animal-2026-08-02-flores",
-    "artist": "A.N.I.M.A.L.",
-    "artistKey": "animal",
-    "date": "2026-08-02",
-    "venue": "El Teatro Flores",
-    "venueKey": "flores",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "6eoz7BtTcC5Q303xQtSgj9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17897802bf01ffdd7a28b6e08b1"
-  },
-  {
-    "id": "rosalia-2026-08-02-movistararena",
-    "artist": "ROSALIA",
-    "artistKey": "rosalia",
-    "date": "2026-08-02",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "ES",
-    "spotifyId": "7ltDVBr6mKbRvohxheJ9h1",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789354faf80eb87961466edfbf"
-  },
-  {
     "id": "rosalia-2026-08-04-movistararena",
     "artist": "ROSALIA",
     "artistKey": "rosalia",
@@ -1005,6 +975,21 @@
     "country": "US",
     "spotifyId": "7cNNNhdJDrt3vgQjwSavNf",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17897b338006d09399d93512ad3"
+  },
+  {
+    "id": "kanygarcia-2026-08-27-movistararena",
+    "artist": "Kany García",
+    "artistKey": "kanygarcia",
+    "date": "2026-08-27",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "69UypehHabb68utzfjAVlV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c5f037cedcefcab8adc27929"
   },
   {
     "id": "abrilinterlucis-2026-08-28-niceto",
