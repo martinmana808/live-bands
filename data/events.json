@@ -1009,6 +1009,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784940419dc03616be716a8b60"
   },
   {
+    "id": "arcangel-2026-08-28-movistararena",
+    "artist": "Arcangel",
+    "artistKey": "arcangel",
+    "date": "2026-08-28",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
+  },
+  {
     "id": "palo-2026-08-29-niceto",
     "artist": "PALO",
     "artistKey": "palo",
