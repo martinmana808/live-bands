@@ -83,6 +83,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846"
   },
   {
+    "id": "metadron-2026-08-14-batacazocultural",
+    "artist": "Metadron",
+    "artistKey": "metadron",
+    "date": "2026-08-14",
+    "venue": "Batacazo Cultural",
+    "venueKey": "batacazocultural",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "7mmROkCNNn74e2AdjYk7mz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788bfba7d163620dcdadc02328"
+  },
+  {
     "id": "vanessaalanis-2026-08-14-abrazandocuentos",
     "artist": "Vanessa Alanís",
     "artistKey": "vanessaalanis",
@@ -401,6 +416,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17894de3b464a999a50d4611220"
   },
   {
+    "id": "northgroove-2026-08-21-niceto",
+    "artist": "NORTH GROOVE",
+    "artistKey": "northgroove",
+    "date": "2026-08-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/north-groove-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "1IHadvTpb1JrZ5VxqH4FzS",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17839469f5a487a73dec7bc3dbd"
+  },
+  {
     "id": "rawayana-2026-08-21-movistararena",
     "artist": "Rawayana",
     "artistKey": "rawayana",
@@ -512,6 +544,23 @@
     "country": null,
     "spotifyId": "4hsviYm29ZjWspJ2deCk70",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838"
+  },
+  {
+    "id": "lowenddeepatechnoprevia-2026-08-22-niceto",
+    "artist": "LOW END DEEP A TECHNO + PREVIA",
+    "artistKey": "lowenddeepatechnoprevia",
+    "date": "2026-08-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/low-end-deep-a-techno-previa-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "0F3tUZeb9dLNEpxCpzEBQt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef10e43db4544af5d3aab762"
   },
   {
     "id": "richardcolemaneltranssiberianexpress-2026-08-22-niceto",
@@ -655,6 +704,21 @@
     "country": "ES",
     "spotifyId": "4t6A8HQsZdZgsfnNFlDODj",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485175e99534a5d734f9fdfe1e89"
+  },
+  {
+    "id": "sofitukker-2026-08-28-deseo",
+    "artist": "SOFI TUKKER",
+    "artistKey": "sofitukker",
+    "date": "2026-08-28",
+    "venue": "Deseo",
+    "venueKey": "deseo",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "586uxXMyD5ObPuzjtrzO1Q",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178061cb05553134ad154422127"
   },
   {
     "id": "agustinlayus-2026-08-29-clasicamoderna",
@@ -1031,39 +1095,5 @@
     "country": null,
     "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7"
-  },
-  {
-    "id": "festivalpardoddtfantasmagoriaplayanudista-2026-09-11-niceto",
-    "artist": "FESTIVAL PARDO: DDT - FANTASMAGORIA - PLAYA NUDISTA -",
-    "artistKey": "festivalpardoddtfantasmagoriaplayanudista",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-pardo-ddt-fantasmagoria-playa-nudista-uno-x-uno-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2"
-  },
-  {
-    "id": "choosey-2026-09-12-niceto",
-    "artist": "CHOOSEY",
-    "artistKey": "choosey",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/choosey-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9"
   }
 ]
