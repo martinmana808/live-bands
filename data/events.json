@@ -34,6 +34,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b"
   },
   {
+    "id": "kilombojue13ago-2026-08-13-niceto",
+    "artist": "KILOMBO Jue 13 AGO",
+    "artistKey": "kilombojue13ago",
+    "date": "2026-08-13",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-13-ago-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7GgksABPSRltrXK2Pf7nd7",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d02822bd2802c66cd1fcdc42"
+  },
+  {
     "id": "swallowthesun-2026-08-13-teatrito",
     "artist": "Swallow the Sun",
     "artistKey": "swallowthesun",
@@ -47,6 +64,23 @@
     "country": "FI",
     "spotifyId": "0ulKlNlo0iPx5ZS6VMTHWQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9"
+  },
+  {
+    "id": "andyburunpianobar-2026-08-14-niceto",
+    "artist": "Andy Burun PIANO BAR",
+    "artistKey": "andyburunpianobar",
+    "date": "2026-08-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/andu-barun-piano-bar-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0QiOtbuT3B1A7Xa5gaKhfW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a52578b218d1482130b2cd4"
   },
   {
     "id": "fiestabahianaedicionriodejaneiro-2026-08-14-niceto",
@@ -111,6 +145,23 @@
     "country": "CA",
     "spotifyId": "4gHmnAQVQHI9TmJ5lM2VMq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881a7bbc07a43cb63867a5fe3"
+  },
+  {
+    "id": "yendo-2026-08-14-niceto",
+    "artist": "Yendo",
+    "artistKey": "yendo",
+    "date": "2026-08-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/yendo-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FR",
+    "spotifyId": "4pergvNsYlbWJg7TX6ISbp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e06a7733b9dc89661d3fb5e9"
   },
   {
     "id": "club6915ago-2026-08-15-niceto",
@@ -305,6 +356,23 @@
     "country": "PA",
     "spotifyId": "5BwMgvRwlq61SmknvsVIQj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7"
+  },
+  {
+    "id": "solazullupretiniaastrokate-2026-08-16-niceto",
+    "artist": "SOL AZUL + LUPRETINIA + ASTROKATE",
+    "artistKey": "solazullupretiniaastrokate",
+    "date": "2026-08-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/sol-azul-lupretinia-astrokate-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CO",
+    "spotifyId": "2Ria5v36cXvqvOmFKIcHVP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17864aece963dfb56f3d37d2ab3"
   },
   {
     "id": "sparta-2026-08-16-culturalbula",
@@ -817,6 +885,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dacd0b4eb10d4bea13c096cc"
   },
   {
+    "id": "saliendodelcirculovoli-2026-08-29-niceto",
+    "artist": "Saliendo del Círculo Vol. I",
+    "artistKey": "saliendodelcirculovoli",
+    "date": "2026-08-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/saliendo-del-c-rculo-vol-i-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "PT",
+    "spotifyId": "28Xu4RFKQ55dsVOJig12rE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856ac256c7993dafcf98c31b3"
+  },
+  {
     "id": "arcangel-2026-08-30-movistararena",
     "artist": "Arcangel",
     "artistKey": "arcangel",
@@ -893,6 +978,23 @@
     "country": "US",
     "spotifyId": "6YQ8bYCjVJcnjbHr4lLata",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17871c5e8d81e21b2f863f11308"
+  },
+  {
+    "id": "kobrakeileroysergiorotmanyasiadelsurdjset-2026-09-03-niceto",
+    "artist": "Kobra Kei - Leroy - Sergio Rotman y Asia del Sur Dj Set",
+    "artistKey": "kobrakeileroysergiorotmanyasiadelsurdjset",
+    "date": "2026-09-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kobra-kei-leroy-sergio-rotman-y-asia-del-sur-dj-set-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "SE",
+    "spotifyId": "21XIemkkDaJTZ362piIHdv",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851a84e96d49db319ec9d56f988"
   },
   {
     "id": "lauta-2026-09-03-niceto",
@@ -995,40 +1097,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7"
   },
   {
-    "id": "caniche-2026-09-05-niceto",
-    "artist": "Caniche",
-    "artistKey": "caniche",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/caniche-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da"
-  },
-  {
-    "id": "distritoproduce5sep-2026-09-05-niceto",
-    "artist": "DISTRITO produce 5 SEP",
-    "artistKey": "distritoproduce5sep",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/distrito-produce-5-sep-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "16ipv8FYQFOAf7DsPRBxXy",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851be50a576178124b4dde0d299"
-  },
-  {
     "id": "trinidadshow-2026-09-05-niceto",
     "artist": "TRINIDAD- SHOW",
     "artistKey": "trinidadshow",
@@ -1044,56 +1112,5 @@
     "country": "US",
     "spotifyId": "2gEfAIki83F9mzam0iVBda",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117b59e2062364ec45d527b1c"
-  },
-  {
-    "id": "salasflaco-2026-09-06-niceto",
-    "artist": "Salas flaco",
-    "artistKey": "salasflaco",
-    "date": "2026-09-06",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/salas-flaco-en-vivo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303"
-  },
-  {
-    "id": "joystickpresentadiariosdehumo-2026-09-10-niceto",
-    "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
-    "artistKey": "joystickpresentadiariosdehumo",
-    "date": "2026-09-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/joystick-presenta-diarios-de-humo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "4hsviYm29ZjWspJ2deCk70",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838"
-  },
-  {
-    "id": "chinosancheznotodotratadeunotour2026argentina-2026-09-11-niceto",
-    "artist": "CHINO SANCHEZ & NO TODO TRATA DE UNO TOUR 2026 (ARGENTINA)",
-    "artistKey": "chinosancheznotodotratadeunotour2026argentina",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/chino-sanchez-no-todo-trata-de-uno-tour-2026-argentina-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7"
   }
 ]
