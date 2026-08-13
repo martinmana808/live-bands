@@ -83,6 +83,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a52578b218d1482130b2cd4"
   },
   {
+    "id": "deepsession11viernes148-2026-08-14-niceto",
+    "artist": "DEEP SESSION #11 - VIERNES 14/8",
+    "artistKey": "deepsession11viernes148",
+    "date": "2026-08-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-session-11-viernes-14-8-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4FRUdOCdgipvj69Ldv6kVQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ac003f63aa707d2e41206e6b"
+  },
+  {
     "id": "fiestabahianaedicionriodejaneiro-2026-08-14-niceto",
     "artist": "FIESTA BAHIANA - edición Río de Janeiro",
     "artistKey": "fiestabahianaedicionriodejaneiro",
@@ -162,6 +179,23 @@
     "country": "FR",
     "spotifyId": "4pergvNsYlbWJg7TX6ISbp",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e06a7733b9dc89661d3fb5e9"
+  },
+  {
+    "id": "adrianpaolettinicolasmateo-2026-08-15-niceto",
+    "artist": "Adrian Paoletti, Nicolas Mateo",
+    "artistKey": "adrianpaolettinicolasmateo",
+    "date": "2026-08-15",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/adrian-paoletti-nicolas-mateo-y-yul-acri-en-vivo-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "07YivsJVCrmhhjzBcBtMGv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d74298305c51afdfeb8afe3b"
   },
   {
     "id": "club6915ago-2026-08-15-niceto",
@@ -836,6 +870,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
   },
   {
+    "id": "conejonegrooasiskeepongroove-2026-08-29-niceto",
+    "artist": "CONEJO NEGRO - OASIS - KEEP ON GROOVE",
+    "artistKey": "conejonegrooasiskeepongroove",
+    "date": "2026-08-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/conejo-negro-oasis-keep-on-groove-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "SE",
+    "spotifyId": "3mndTMiP2EOug7cIjq177j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c1d97f330e3b0c743ca861a"
+  },
+  {
     "id": "felipeavello-2026-08-29-paseoplaza",
     "artist": "felipe avello",
     "artistKey": "felipeavello",
@@ -1095,22 +1146,5 @@
     "country": null,
     "spotifyId": "4jwnlVc9Lj5vMkL32978d1",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7"
-  },
-  {
-    "id": "trinidadshow-2026-09-05-niceto",
-    "artist": "TRINIDAD- SHOW",
-    "artistKey": "trinidadshow",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/trinidad-show-en-vivo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "2gEfAIki83F9mzam0iVBda",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117b59e2062364ec45d527b1c"
   }
 ]
