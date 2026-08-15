@@ -1,71 +1,5 @@
 [
   {
-    "id": "buenosvampiros-2026-08-13-niceto",
-    "artist": "Buenos Vampiros",
-    "artistKey": "buenosvampiros",
-    "date": "2026-08-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/buenos-vampiros-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3zJriU41e7xy7PVHIhflBo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e59d34cbc6ed1aa096675608"
-  },
-  {
-    "id": "experienciaroce-2026-08-13-niceto",
-    "artist": "EXPERIENCIA ROCE",
-    "artistKey": "experienciaroce",
-    "date": "2026-08-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/experiencia-roce-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "0aULg7LximLNhI6lLzxcXI",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b"
-  },
-  {
-    "id": "kilombojue13ago-2026-08-13-niceto",
-    "artist": "KILOMBO Jue 13 AGO",
-    "artistKey": "kilombojue13ago",
-    "date": "2026-08-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-jue-13-ago-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7GgksABPSRltrXK2Pf7nd7",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d02822bd2802c66cd1fcdc42"
-  },
-  {
-    "id": "swallowthesun-2026-08-13-teatrito",
-    "artist": "Swallow the Sun",
-    "artistKey": "swallowthesun",
-    "date": "2026-08-13",
-    "venue": "El Teatrito",
-    "venueKey": "teatrito",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "FI",
-    "spotifyId": "0ulKlNlo0iPx5ZS6VMTHWQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b419635be69e96f6538520a9"
-  },
-  {
     "id": "andyburunpianobar-2026-08-14-niceto",
     "artist": "Andy Burun PIANO BAR",
     "artistKey": "andyburunpianobar",
@@ -100,6 +34,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ac003f63aa707d2e41206e6b"
   },
   {
+    "id": "estrenonomepertenecemicu-2026-08-14-niceto",
+    "artist": "ESTRENO NO ME PERTENECE | MICU",
+    "artistKey": "estrenonomepertenecemicu",
+    "date": "2026-08-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/estreno-no-me-pertenece-micu-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0fS34PoMiyBECUJ3YoYj2Y",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c8a031ca01c781d04be27c40"
+  },
+  {
     "id": "fiestabahianaedicionriodejaneiro-2026-08-14-niceto",
     "artist": "FIESTA BAHIANA - edición Río de Janeiro",
     "artistKey": "fiestabahianaedicionriodejaneiro",
@@ -132,36 +83,6 @@
     "country": "IT",
     "spotifyId": "3IO3ybxtyH9sVU4Pm3Z7eL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846"
-  },
-  {
-    "id": "metadron-2026-08-14-batacazocultural",
-    "artist": "Metadron",
-    "artistKey": "metadron",
-    "date": "2026-08-14",
-    "venue": "Batacazo Cultural",
-    "venueKey": "batacazocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7mmROkCNNn74e2AdjYk7mz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788bfba7d163620dcdadc02328"
-  },
-  {
-    "id": "vanessaalanis-2026-08-14-abrazandocuentos",
-    "artist": "Vanessa Alanís",
-    "artistKey": "vanessaalanis",
-    "date": "2026-08-14",
-    "venue": "Abrazandocuentos",
-    "venueKey": "abrazandocuentos",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CA",
-    "spotifyId": "4gHmnAQVQHI9TmJ5lM2VMq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881a7bbc07a43cb63867a5fe3"
   },
   {
     "id": "yendo-2026-08-14-niceto",
@@ -409,6 +330,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17864aece963dfb56f3d37d2ab3"
   },
   {
+    "id": "somsocialclub002-2026-08-16-niceto",
+    "artist": "SOM SOCIAL CLUB 002",
+    "artistKey": "somsocialclub002",
+    "date": "2026-08-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/som-social-club-002-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "5DLFklO4kWXvm0M3cyQXIG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781643fd994e50b3d16409a011"
+  },
+  {
     "id": "sparta-2026-08-16-culturalbula",
     "artist": "Sparta",
     "artistKey": "sparta",
@@ -516,6 +454,21 @@
     "country": null,
     "spotifyId": "6sLwRSXSUF5JTUnQaFenyj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17894de3b464a999a50d4611220"
+  },
+  {
+    "id": "losaltaresanddinastiamoon-2026-08-21-humboldtnicetoladob",
+    "artist": "Los Altares and Dinastía Moon",
+    "artistKey": "losaltaresanddinastiamoon",
+    "date": "2026-08-21",
+    "venue": "Humboldt (Niceto Lado B)",
+    "venueKey": "humboldtnicetoladob",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5AgZ9r9ZdWm7mD9t03KZZu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c560b033b2019747afa1dd6"
   },
   {
     "id": "northgroove-2026-08-21-niceto",
@@ -682,6 +635,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048519cdac5648e296578bccbbc51"
   },
   {
+    "id": "yotto-2026-08-22-mandarinetent",
+    "artist": "Yotto",
+    "artistKey": "yotto",
+    "date": "2026-08-22",
+    "venue": "Mandarine Tent",
+    "venueKey": "mandarinetent",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "FI",
+    "spotifyId": "5Dyfxq0ZrFjjeFBdSNxDbo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17859637fd7dbb6f078545d08da"
+  },
+  {
     "id": "vanessaalanis-2026-08-23-quintatrabuccovicentelopez",
     "artist": "Vanessa Alanís",
     "artistKey": "vanessaalanis",
@@ -789,6 +757,21 @@
     "country": "PR",
     "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
+  },
+  {
+    "id": "danasalguero-2026-08-28-nempla",
+    "artist": "dana salguero",
+    "artistKey": "danasalguero",
+    "date": "2026-08-28",
+    "venue": "Nempla",
+    "venueKey": "nempla",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6HJEc6AsDuEYTineo8CZuA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812876878b797f42b5ae11929"
   },
   {
     "id": "fiestamermelada-2026-08-28-niceto",
@@ -1080,6 +1063,38 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178899500e05f3a4b30475b6ca5"
   },
   {
+    "id": "blackeyedpeas-2026-09-04-movistararena",
+    "artist": "Black Eyed Peas",
+    "artistKey": "blackeyedpeas",
+    "date": "2026-09-04",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "1yxSLGMDHlW21z4YXirZDS",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787a135c757d5b9c7aeb7609d0"
+  },
+  {
+    "id": "caprichopugiodjleroyrotmanxgalopeproducciones-2026-09-04-niceto",
+    "artist": "CAPRICHO + PUGIO + Dj Leroy Rotman x Galope.Producciones",
+    "artistKey": "caprichopugiodjleroyrotmanxgalopeproducciones",
+    "date": "2026-09-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/capricho-pugio-dj-leroy-rotman-x-galope-producciones-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CO",
+    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7"
+  },
+  {
     "id": "elclubdelacumbia4deseptiembre-2026-09-04-niceto",
     "artist": "El Club de la Cumbia 4 de septiembre",
     "artistKey": "elclubdelacumbia4deseptiembre",
@@ -1129,6 +1144,21 @@
     "country": null,
     "spotifyId": "0F3tUZeb9dLNEpxCpzEBQt",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef10e43db4544af5d3aab762"
+  },
+  {
+    "id": "lenineandmitu-2026-09-04-trastienda",
+    "artist": "Lenine and Mitú",
+    "artistKey": "lenineandmitu",
+    "date": "2026-09-04",
+    "venue": "La Trastienda",
+    "venueKey": "trastienda",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "4YLBdrR3DVSMncm785NH6C",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178585bb6ace0ecb38716039b02"
   },
   {
     "id": "1915-2026-09-05-niceto",
