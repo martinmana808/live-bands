@@ -1,107 +1,5 @@
 [
   {
-    "id": "andyburunpianobar-2026-08-14-niceto",
-    "artist": "Andy Burun PIANO BAR",
-    "artistKey": "andyburunpianobar",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/andu-barun-piano-bar-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0QiOtbuT3B1A7Xa5gaKhfW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a52578b218d1482130b2cd4"
-  },
-  {
-    "id": "deepsession11viernes148-2026-08-14-niceto",
-    "artist": "DEEP SESSION #11 - VIERNES 14/8",
-    "artistKey": "deepsession11viernes148",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-session-11-viernes-14-8-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4FRUdOCdgipvj69Ldv6kVQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ac003f63aa707d2e41206e6b"
-  },
-  {
-    "id": "estrenonomepertenecemicu-2026-08-14-niceto",
-    "artist": "ESTRENO NO ME PERTENECE | MICU",
-    "artistKey": "estrenonomepertenecemicu",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/estreno-no-me-pertenece-micu-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0fS34PoMiyBECUJ3YoYj2Y",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c8a031ca01c781d04be27c40"
-  },
-  {
-    "id": "fiestabahianaedicionriodejaneiro-2026-08-14-niceto",
-    "artist": "FIESTA BAHIANA - edición Río de Janeiro",
-    "artistKey": "fiestabahianaedicionriodejaneiro",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-bahiana-edici-n-r-o-de-janeiro-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BR",
-    "spotifyId": "1ADFyan08VIwFUGwGXDxNe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8a1d402286254eaadb33c02"
-  },
-  {
-    "id": "lamaleducada14ago-2026-08-14-niceto",
-    "artist": "La maleducada 14 AGO",
-    "artistKey": "lamaleducada14ago",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-maleducada-14-ago-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "IT",
-    "spotifyId": "3IO3ybxtyH9sVU4Pm3Z7eL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851bfb8a2895f550b6dd041d846"
-  },
-  {
-    "id": "yendo-2026-08-14-niceto",
-    "artist": "Yendo",
-    "artistKey": "yendo",
-    "date": "2026-08-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/yendo-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "4pergvNsYlbWJg7TX6ISbp",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e06a7733b9dc89661d3fb5e9"
-  },
-  {
     "id": "adrianpaolettinicolasmateo-2026-08-15-niceto",
     "artist": "Adrian Paoletti, Nicolas Mateo",
     "artistKey": "adrianpaolettinicolasmateo",
@@ -153,21 +51,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178643f6fbbf4fbf88ad2105a04"
   },
   {
-    "id": "riel-2026-08-15-tangente",
-    "artist": "Riel",
-    "artistKey": "riel",
-    "date": "2026-08-15",
-    "venue": "La Tangente",
-    "venueKey": "tangente",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "59xlizZFIFUvLC0I8iV2Jv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b69606b097d76dec0722783f"
-  },
-  {
     "id": "unratitodeconga15deagosto-2026-08-15-niceto",
     "artist": "Un ratito de conga 15 de  agosto",
     "artistKey": "unratitodeconga15deagosto",
@@ -183,21 +66,6 @@
     "country": null,
     "spotifyId": null,
     "spotifyImage": null
-  },
-  {
-    "id": "vanessaalanis-2026-08-15-betyginoliberria",
-    "artist": "Vanessa Alanís",
-    "artistKey": "vanessaalanis",
-    "date": "2026-08-15",
-    "venue": "Betygino Liberría",
-    "venueKey": "betyginoliberria",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CA",
-    "spotifyId": "4gHmnAQVQHI9TmJ5lM2VMq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881a7bbc07a43cb63867a5fe3"
   },
   {
     "id": "eykalovataraxxand777santos-2026-08-16-arkhammultiespacio",
@@ -247,6 +115,23 @@
     "country": "MX",
     "spotifyId": "3cVf7DmnXolzTUC4HCBAfv",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485164aab9e62943e4eefe87c35d"
+  },
+  {
+    "id": "hardarenasideshowpresniotechb2bdist-2026-08-16-niceto",
+    "artist": "HARD ARENA SIDE SHOW Pres. Niotech B2B Dist",
+    "artistKey": "hardarenasideshowpresniotechb2bdist",
+    "date": "2026-08-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/hard-arena-side-show-pres-niotech-b2b-dist-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6a3jFv7dkvf9HWPD5wjkof",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178367ce8c4f738b4c0b51758b0"
   },
   {
     "id": "juanabestardpianobar-2026-08-16-niceto",
@@ -437,6 +322,23 @@
     "country": "MX",
     "spotifyId": "1tClPu7uXdaZEQ32vihyJ1",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff45b9f82dde5acb7a0e386f"
+  },
+  {
+    "id": "dinastiamoonlosaltares-2026-08-21-niceto",
+    "artist": "Dinastía Moon + Los Altares",
+    "artistKey": "dinastiamoonlosaltares",
+    "date": "2026-08-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/dinast-a-moon-los-altares-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "7EOpIcFOVG2PedJgVbCHJ2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856a091fec2eded0a787f03f5"
   },
   {
     "id": "lasantavaciledebut-2026-08-21-niceto",
@@ -1161,6 +1063,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178585bb6ace0ecb38716039b02"
   },
   {
+    "id": "tomaunociclodecantautoresnicolashernaniacovinolucadavidcastro-2026-09-04-niceto",
+    "artist": "TOMA UNO: Ciclo de Cantautores — Nicolás + Hernán Iacovino + Luca David Castro",
+    "artistKey": "tomaunociclodecantautoresnicolashernaniacovinolucadavidcastro",
+    "date": "2026-09-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/toma-uno-ciclo-de-cantautores-nicol-s-hern-n-iacovino-luca-david-castro-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CO",
+    "spotifyId": "1k1AM2ESRQseVAj6rvBdtx",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872e8fee8cbf1205f27ad216c"
+  },
+  {
     "id": "1915-2026-09-05-niceto",
     "artist": "1915",
     "artistKey": "1915",
@@ -1176,5 +1095,101 @@
     "country": null,
     "spotifyId": "4jwnlVc9Lj5vMkL32978d1",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7"
+  },
+  {
+    "id": "caniche-2026-09-05-niceto",
+    "artist": "Caniche",
+    "artistKey": "caniche",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/caniche-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da"
+  },
+  {
+    "id": "distritoproduce5sep-2026-09-05-niceto",
+    "artist": "DISTRITO produce 5 SEP",
+    "artistKey": "distritoproduce5sep",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/distrito-produce-5-sep-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "16ipv8FYQFOAf7DsPRBxXy",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851be50a576178124b4dde0d299"
+  },
+  {
+    "id": "fatboyslim-2026-09-05-movistararena",
+    "artist": "Fatboy Slim",
+    "artistKey": "fatboyslim",
+    "date": "2026-09-05",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "4Y7tXHSEejGu1vQ9bwDdXW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c20ed3229eeced918966a009"
+  },
+  {
+    "id": "thisismichael-2026-09-05-granrex",
+    "artist": "This is Michael",
+    "artistKey": "thisismichael",
+    "date": "2026-09-05",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "BR",
+    "spotifyId": "0eWhRhvBW94MH8qB7VSwRM",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851dd3aeca464241b2f25bb8241"
+  },
+  {
+    "id": "trinidadshow-2026-09-05-niceto",
+    "artist": "TRINIDAD- SHOW",
+    "artistKey": "trinidadshow",
+    "date": "2026-09-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/trinidad-show-en-vivo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "2gEfAIki83F9mzam0iVBda",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117b59e2062364ec45d527b1c"
+  },
+  {
+    "id": "poseidoticasurocultomephistofelesfraterandpasodesombra-2026-09-06-vorterix",
+    "artist": "Poseidotica, Sur Oculto, Mephistofeles, Frater, and Paso de Sombra",
+    "artistKey": "poseidoticasurocultomephistofelesfraterandpasodesombra",
+    "date": "2026-09-06",
+    "venue": "Teatro Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "7lv3S4wbdU3j2xC8qFvbIU",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ad8c6e250a7b4c3e8f3f9a42"
   }
 ]
