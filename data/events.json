@@ -1,88 +1,5 @@
 [
   {
-    "id": "adrianpaolettinicolasmateo-2026-08-15-niceto",
-    "artist": "Adrian Paoletti, Nicolas Mateo",
-    "artistKey": "adrianpaolettinicolasmateo",
-    "date": "2026-08-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/adrian-paoletti-nicolas-mateo-y-yul-acri-en-vivo-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "07YivsJVCrmhhjzBcBtMGv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d74298305c51afdfeb8afe3b"
-  },
-  {
-    "id": "club6915ago-2026-08-15-niceto",
-    "artist": "Club 69 | 15 AGO",
-    "artistKey": "club6915ago",
-    "date": "2026-08-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-16-ago-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
-  },
-  {
-    "id": "ninety-2026-08-15-niceto",
-    "artist": "NINETY",
-    "artistKey": "ninety",
-    "date": "2026-08-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ninety-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4ZhOoRZ0JE0enmVPAjkEU2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178643f6fbbf4fbf88ad2105a04"
-  },
-  {
-    "id": "unratitodeconga15deagosto-2026-08-15-niceto",
-    "artist": "Un ratito de conga 15 de  agosto",
-    "artistKey": "unratitodeconga15deagosto",
-    "date": "2026-08-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/un-ratito-de-conga-15-de-agosot-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  {
-    "id": "eykalovataraxxand777santos-2026-08-16-arkhammultiespacio",
-    "artist": "Eyka, lovataraxx, and 777santos",
-    "artistKey": "eykalovataraxxand777santos",
-    "date": "2026-08-16",
-    "venue": "ARKHAM MULTIESPACIO",
-    "venueKey": "arkhammultiespacio",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "74Gtuc4nf1Z2zRbmIFlUe3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17893cc4086515d024ab2802752"
-  },
-  {
     "id": "festipez2026-2026-08-16-niceto",
     "artist": "Festipez 2026",
     "artistKey": "festipez2026",
@@ -168,36 +85,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788ad7ad49e4dbd8a77b154314"
   },
   {
-    "id": "pentagram-2026-08-16-uniclub",
-    "artist": "Pentagram",
-    "artistKey": "pentagram",
-    "date": "2026-08-16",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "0xybuiDEYo3YuT3fLPaIyE",
-    "spotifyImage": "https://i.scdn.co/image/ea453b59493d85eecfa51256882fb3128031f675"
-  },
-  {
-    "id": "rubenblades-2026-08-16-movistararena",
-    "artist": "Ruben Blades",
-    "artistKey": "rubenblades",
-    "date": "2026-08-16",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PA",
-    "spotifyId": "5BwMgvRwlq61SmknvsVIQj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dea0cd678edd47fe4b31e3c7"
-  },
-  {
     "id": "solazullupretiniaastrokate-2026-08-16-niceto",
     "artist": "SOL AZUL + LUPRETINIA + ASTROKATE",
     "artistKey": "solazullupretiniaastrokate",
@@ -230,21 +117,6 @@
     "country": null,
     "spotifyId": "5DLFklO4kWXvm0M3cyQXIG",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781643fd994e50b3d16409a011"
-  },
-  {
-    "id": "sparta-2026-08-16-culturalbula",
-    "artist": "Sparta",
-    "artistKey": "sparta",
-    "date": "2026-08-16",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "3DWWL4kwLZMBLsmVsbZYHR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2f020177ecf68806343df3e"
   },
   {
     "id": "pedrosampaio-2026-08-19-niceto",
@@ -1191,5 +1063,88 @@
     "country": null,
     "spotifyId": "7lv3S4wbdU3j2xC8qFvbIU",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ad8c6e250a7b4c3e8f3f9a42"
+  },
+  {
+    "id": "salasflaco-2026-09-06-niceto",
+    "artist": "Salas flaco",
+    "artistKey": "salasflaco",
+    "date": "2026-09-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/salas-flaco-en-vivo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303"
+  },
+  {
+    "id": "bloodbath-2026-09-09-uniclub",
+    "artist": "Bloodbath",
+    "artistKey": "bloodbath",
+    "date": "2026-09-09",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "SE",
+    "spotifyId": "7eYmDBinb760MUIfoRdlGQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17844fc4d7d272e9e468c930cbe"
+  },
+  {
+    "id": "chinoyconciertoacusticojuntoajulietadiaz-2026-09-10-niceto",
+    "artist": "Chinoy- concierto acústico junto a Julieta Díaz",
+    "artistKey": "chinoyconciertoacusticojuntoajulietadiaz",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/chinoy-concierto-ac-stico-junto-a-julieta-d-azen-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null
+  },
+  {
+    "id": "glasepresentaalmibar-2026-09-10-niceto",
+    "artist": "Glasé presenta “Almíbar”",
+    "artistKey": "glasepresentaalmibar",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/glas-presenta-alm-bar-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7yUPH32eGSMdpgc2hi4pHo",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485123dbc0d210b8b1944b5d32ea"
+  },
+  {
+    "id": "joystickpresentadiariosdehumo-2026-09-10-niceto",
+    "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
+    "artistKey": "joystickpresentadiariosdehumo",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/joystick-presenta-diarios-de-humo-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "ES",
+    "spotifyId": "4hsviYm29ZjWspJ2deCk70",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838"
   }
 ]
