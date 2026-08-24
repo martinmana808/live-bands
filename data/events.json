@@ -1,37 +1,5 @@
 [
   {
-    "id": "club6922ago-2026-08-22-niceto",
-    "artist": "Club 69 | 22 AGO",
-    "artistKey": "club6922ago",
-    "date": "2026-08-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-22-ago-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
-  },
-  {
-    "id": "vanessaalanis-2026-08-23-quintatrabuccovicentelopez",
-    "artist": "Vanessa Alanís",
-    "artistKey": "vanessaalanis",
-    "date": "2026-08-23",
-    "venue": "Quinta Trabucco - Vicente Lopez",
-    "venueKey": "quintatrabuccovicentelopez",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CA",
-    "spotifyId": "4gHmnAQVQHI9TmJ5lM2VMq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881a7bbc07a43cb63867a5fe3"
-  },
-  {
     "id": "junny-2026-08-25-palermoh",
     "artist": "Junny",
     "artistKey": "junny",
@@ -1121,6 +1089,21 @@
     "country": "RU",
     "spotifyId": "3ZVW9s2Xb8NQDzwEqElbNq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178333fda74021bc99bfe28e0df"
+  },
+  {
+    "id": "helloween-2026-09-13-movistararena",
+    "artist": "Helloween",
+    "artistKey": "helloween",
+    "date": "2026-09-13",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "DE",
+    "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3"
   },
   {
     "id": "toe-2026-09-13-niceto",
