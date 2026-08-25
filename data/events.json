@@ -1107,7 +1107,7 @@
   },
   {
     "id": "toe-2026-09-13-niceto",
-    "artist": "TOE",
+    "artist": "Toe",
     "artistKey": "toe",
     "date": "2026-09-13",
     "venue": "Niceto Club",
@@ -1116,6 +1116,7 @@
       "https://venti.live/evento/toe-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": "JP",
@@ -1138,6 +1139,23 @@
     "country": "US",
     "spotifyId": "3cdHu4v5C71IttGubSDzKO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178435c1930fff0de852d9958e1"
+  },
+  {
+    "id": "pedroaguilaryamigos-2026-09-17-niceto",
+    "artist": "Pedro Aguilar y amigos",
+    "artistKey": "pedroaguilaryamigos",
+    "date": "2026-09-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/pedro-aguilar-y-amigos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7y33enVLfDvft6HGNmcxdV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783783f1a7b601a7421915ebce"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
