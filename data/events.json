@@ -1,35 +1,5 @@
 [
   {
-    "id": "junny-2026-08-25-palermoh",
-    "artist": "Junny",
-    "artistKey": "junny",
-    "date": "2026-08-25",
-    "venue": "Palermo H",
-    "venueKey": "palermoh",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0lgENJQUkqkDbpsTYEayOr",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dabd43e65e450dcacd973bc5"
-  },
-  {
-    "id": "memphismayfire-2026-08-25-flores",
-    "artist": "Memphis May Fire",
-    "artistKey": "memphismayfire",
-    "date": "2026-08-25",
-    "venue": "El Teatro Flores",
-    "venueKey": "flores",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "7cNNNhdJDrt3vgQjwSavNf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17897b338006d09399d93512ad3"
-  },
-  {
     "id": "kanygarcia-2026-08-27-movistararena",
     "artist": "Kany García",
     "artistKey": "kanygarcia",
@@ -141,6 +111,23 @@
     "country": "PR",
     "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
+  },
+  {
+    "id": "daemonpopup-2026-08-28-niceto",
+    "artist": "DAEMON - POP UP!",
+    "artistKey": "daemonpopup",
+    "date": "2026-08-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/daemon-pop-up-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "BR",
+    "spotifyId": "4IUqCINWiy7WQ6LrkhBmdt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782fdefef8fdd0926250ee66cf"
   },
   {
     "id": "danasalguero-2026-08-28-nempla",
@@ -1091,6 +1078,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178333fda74021bc99bfe28e0df"
   },
   {
+    "id": "donolimpionadialarcherandrespilarjuanpablodileonemilagroscalivajuanmanuelcolomboagustinlumermandiegoameriseandfedericorandazzo-2026-09-13-salaalejandrocasona",
+    "artist": "Don Olimpio, Nadia Larcher, Andres Pilar, Juan Pablo Di Leone, Milagros Caliva, Juan Manuel Colombo, Agustin Lumerman, Diego Amerise, and Federico Randazzo",
+    "artistKey": "donolimpionadialarcherandrespilarjuanpablodileonemilagroscalivajuanmanuelcolomboagustinlumermandiegoameriseandfedericorandazzo",
+    "date": "2026-09-13",
+    "venue": "Sala Alejandro Casona",
+    "venueKey": "salaalejandrocasona",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "43770QbwXpTzoxm8pErVkA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786ceed43ebccc717cff37c03c"
+  },
+  {
     "id": "helloween-2026-09-13-movistararena",
     "artist": "Helloween",
     "artistKey": "helloween",
@@ -1122,6 +1124,21 @@
     "country": "JP",
     "spotifyId": "0rpKM0MniNkXM1SLSglYUZ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898fbfdf3a15710fa2e4fa68d"
+  },
+  {
+    "id": "straykids-2026-09-14-hipodromosanisidro",
+    "artist": "Stray Kids",
+    "artistKey": "straykids",
+    "date": "2026-09-14",
+    "venue": "Hipódromo de San Isidro",
+    "venueKey": "hipodromosanisidro",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "KR",
+    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb"
   },
   {
     "id": "martinamarpegan-2026-09-17-niceto",
@@ -1190,22 +1207,5 @@
     "country": "SE",
     "spotifyId": "3r7VhSKMedZrOa3zCD3e7X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787ac4e4a5011bd98e8db3f503"
-  },
-  {
-    "id": "virus19sep-2026-09-19-niceto",
-    "artist": "Virus 19 SEP",
-    "artistKey": "virus19sep",
-    "date": "2026-09-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": "0NV5eY4Jzg4ldg2ikGnV4n",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782273d7aad61e500d329c546e"
   }
 ]
