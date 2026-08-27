@@ -113,6 +113,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
   },
   {
+    "id": "bendmusicmuzzio-2026-08-28-niceto",
+    "artist": "Bend Music & Muzzio",
+    "artistKey": "bendmusicmuzzio",
+    "date": "2026-08-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bend-music-muzzio-en-la-terraza-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0md3NIXueJZSFZ82HMu26M",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bc5768d2471b0166cb049ae6"
+  },
+  {
     "id": "daemonpopup-2026-08-28-niceto",
     "artist": "DAEMON - POP UP!",
     "artistKey": "daemonpopup",
@@ -1014,6 +1031,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178856a4c8434bc80e2518a1091"
   },
   {
+    "id": "electra-2026-09-12-niceto",
+    "artist": "Electra",
+    "artistKey": "electra",
+    "date": "2026-09-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/electra-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7ulIMfVKiXh8ecEpAVHIAY",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485100e4decab546af050b8ded05"
+  },
+  {
     "id": "ether-2026-09-12-niceto",
     "artist": "ETHER",
     "artistKey": "ether",
@@ -1190,22 +1224,5 @@
     "country": "US",
     "spotifyId": "2Ci2xZujkctdJedWBZ9Udi",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fd8dc009014987cebbe7c6b0"
-  },
-  {
-    "id": "trabestiadragclub18sep-2026-09-18-niceto",
-    "artist": "Trabestia, drag club  18 SEP",
-    "artistKey": "trabestiadragclub18sep",
-    "date": "2026-09-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/trabestia-drag-club-18-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "3r7VhSKMedZrOa3zCD3e7X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787ac4e4a5011bd98e8db3f503"
   }
 ]
