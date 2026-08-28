@@ -1,69 +1,5 @@
 [
   {
-    "id": "kanygarcia-2026-08-27-movistararena",
-    "artist": "Kany García",
-    "artistKey": "kanygarcia",
-    "date": "2026-08-27",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "69UypehHabb68utzfjAVlV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c5f037cedcefcab8adc27929"
-  },
-  {
-    "id": "kilomboftebonysunset-2026-08-27-niceto",
-    "artist": "KILOMBO FT. EBONY SUNSET",
-    "artistKey": "kilomboftebonysunset",
-    "date": "2026-08-27",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-ft-ebony-sunset-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BR",
-    "spotifyId": "70fL7XxXl5nMIKAuSCKwgA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c1e2d37059476765e15074e5"
-  },
-  {
-    "id": "loslolosdechile-2026-08-27-niceto",
-    "artist": "Los Lolos de Chile",
-    "artistKey": "loslolosdechile",
-    "date": "2026-08-27",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/los-lolos-de-chile-en-argentina-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3W3dL9NiYGVxstJNqvwBVW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850bfac7be4094eaa2a0715ec"
-  },
-  {
-    "id": "sangredebarroanddinastiamoon-2026-08-27-biribiri",
-    "artist": "Sangre de Barro and Dinastía Moon",
-    "artistKey": "sangredebarroanddinastiamoon",
-    "date": "2026-08-27",
-    "venue": "Biri Biri",
-    "venueKey": "biribiri",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "1cJzdZm46jZ8jjQVAuZEbt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780fd520ec99453a01cfa29519"
-  },
-  {
     "id": "abrilinterlucis-2026-08-28-niceto",
     "artist": "ABRIL + INTERLUCIS",
     "artistKey": "abrilinterlucis",
@@ -160,6 +96,21 @@
     "country": null,
     "spotifyId": "6HJEc6AsDuEYTineo8CZuA",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812876878b797f42b5ae11929"
+  },
+  {
+    "id": "elas-2026-08-28-thehouseadrogue",
+    "artist": "El As",
+    "artistKey": "elas",
+    "date": "2026-08-28",
+    "venue": "The House Bar Adrogué",
+    "venueKey": "thehouseadrogue",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6uQMkB156uIN27tFar9qQl",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780166a080e99c4e6d22371f57"
   },
   {
     "id": "fiestamermelada-2026-08-28-niceto",
@@ -1224,5 +1175,39 @@
     "country": "US",
     "spotifyId": "2Ci2xZujkctdJedWBZ9Udi",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fd8dc009014987cebbe7c6b0"
+  },
+  {
+    "id": "trabestiadragclub18sep-2026-09-18-niceto",
+    "artist": "Trabestia, drag club  18 SEP",
+    "artistKey": "trabestiadragclub18sep",
+    "date": "2026-09-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/trabestia-drag-club-18-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "SE",
+    "spotifyId": "3r7VhSKMedZrOa3zCD3e7X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787ac4e4a5011bd98e8db3f503"
+  },
+  {
+    "id": "virus19sep-2026-09-19-niceto",
+    "artist": "Virus 19 SEP",
+    "artistKey": "virus19sep",
+    "date": "2026-09-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JP",
+    "spotifyId": "0NV5eY4Jzg4ldg2ikGnV4n",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782273d7aad61e500d329c546e"
   }
 ]
