@@ -34,21 +34,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787837a2efde75ecd3c60c0d24"
   },
   {
-    "id": "arcangel-2026-08-28-movistararena",
-    "artist": "Arcangel",
-    "artistKey": "arcangel",
-    "date": "2026-08-28",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
-  },
-  {
     "id": "bendmusicmuzzio-2026-08-28-niceto",
     "artist": "Bend Music & Muzzio",
     "artistKey": "bendmusicmuzzio",
@@ -83,36 +68,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782fdefef8fdd0926250ee66cf"
   },
   {
-    "id": "danasalguero-2026-08-28-nempla",
-    "artist": "dana salguero",
-    "artistKey": "danasalguero",
-    "date": "2026-08-28",
-    "venue": "Nempla",
-    "venueKey": "nempla",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6HJEc6AsDuEYTineo8CZuA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812876878b797f42b5ae11929"
-  },
-  {
-    "id": "elas-2026-08-28-thehouseadrogue",
-    "artist": "El As",
-    "artistKey": "elas",
-    "date": "2026-08-28",
-    "venue": "The House Bar Adrogué",
-    "venueKey": "thehouseadrogue",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6uQMkB156uIN27tFar9qQl",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780166a080e99c4e6d22371f57"
-  },
-  {
     "id": "fiestamermelada-2026-08-28-niceto",
     "artist": "FIESTA MERMELADA",
     "artistKey": "fiestamermelada",
@@ -145,21 +100,6 @@
     "country": "CO",
     "spotifyId": "1t2hTwJHcHPH4ItjW3Ry3r",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b2f4b19719edd1639db021c5"
-  },
-  {
-    "id": "sofitukker-2026-08-28-deseo",
-    "artist": "SOFI TUKKER",
-    "artistKey": "sofitukker",
-    "date": "2026-08-28",
-    "venue": "Deseo",
-    "venueKey": "deseo",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "586uxXMyD5ObPuzjtrzO1Q",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178061cb05553134ad154422127"
   },
   {
     "id": "agustinlayus-2026-08-29-clasicamoderna",
@@ -1124,6 +1064,36 @@
     "country": "KR",
     "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb"
+  },
+  {
+    "id": "straykids-2026-09-15-hipodromosanisidro",
+    "artist": "Stray Kids",
+    "artistKey": "straykids",
+    "date": "2026-09-15",
+    "venue": "Hipódromo de San Isidro",
+    "venueKey": "hipodromosanisidro",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "KR",
+    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb"
+  },
+  {
+    "id": "5secondsofsummer-2026-09-16-movistararena",
+    "artist": "5 Seconds of Summer",
+    "artistKey": "5secondsofsummer",
+    "date": "2026-09-16",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02"
   },
   {
     "id": "martinamarpegan-2026-09-17-niceto",
