@@ -1,137 +1,5 @@
 [
   {
-    "id": "abrilinterlucis-2026-08-28-niceto",
-    "artist": "ABRIL + INTERLUCIS",
-    "artistKey": "abrilinterlucis",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/abril-interlucis-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "7HNpdpSzEr0e88c60UTUEJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784940419dc03616be716a8b60"
-  },
-  {
-    "id": "afromama-2026-08-28-niceto",
-    "artist": "Afromama",
-    "artistKey": "afromama",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/afromama-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7jSATcOaLux4k5T2TTc2tN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787837a2efde75ecd3c60c0d24"
-  },
-  {
-    "id": "bendmusicmuzzio-2026-08-28-niceto",
-    "artist": "Bend Music & Muzzio",
-    "artistKey": "bendmusicmuzzio",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/bend-music-muzzio-en-la-terraza-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0md3NIXueJZSFZ82HMu26M",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bc5768d2471b0166cb049ae6"
-  },
-  {
-    "id": "daemonpopup-2026-08-28-niceto",
-    "artist": "DAEMON - POP UP!",
-    "artistKey": "daemonpopup",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/daemon-pop-up-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BR",
-    "spotifyId": "4IUqCINWiy7WQ6LrkhBmdt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782fdefef8fdd0926250ee66cf"
-  },
-  {
-    "id": "fiestamermelada-2026-08-28-niceto",
-    "artist": "FIESTA MERMELADA",
-    "artistKey": "fiestamermelada",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-mermelada-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "4t6A8HQsZdZgsfnNFlDODj",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485175e99534a5d734f9fdfe1e89"
-  },
-  {
-    "id": "savethepopulationabsentaluminax-2026-08-28-niceto",
-    "artist": "SAVE THE POPULATION + ABSENTA + LUMINAX",
-    "artistKey": "savethepopulationabsentaluminax",
-    "date": "2026-08-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/save-the-population-absenta-luminax-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CO",
-    "spotifyId": "1t2hTwJHcHPH4ItjW3Ry3r",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b2f4b19719edd1639db021c5"
-  },
-  {
-    "id": "agustinlayus-2026-08-29-clasicamoderna",
-    "artist": "Agustín Layús",
-    "artistKey": "agustinlayus",
-    "date": "2026-08-29",
-    "venue": "Clasica & Moderna",
-    "venueKey": "clasicamoderna",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "6YQ8bYCjVJcnjbHr4lLata",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17871c5e8d81e21b2f863f11308"
-  },
-  {
-    "id": "arcangel-2026-08-29-movistararena",
-    "artist": "Arcangel",
-    "artistKey": "arcangel",
-    "date": "2026-08-29",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
-  },
-  {
     "id": "club6929ago-2026-08-29-niceto",
     "artist": "Club 69 | 29 AGO",
     "artistKey": "club6929ago",
@@ -166,55 +34,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c1d97f330e3b0c743ca861a"
   },
   {
-    "id": "felipeavello-2026-08-29-paseoplaza",
-    "artist": "felipe avello",
-    "artistKey": "felipeavello",
-    "date": "2026-08-29",
-    "venue": "Paseo La Plaza",
-    "venueKey": "paseoplaza",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09"
-  },
-  {
-    "id": "joniboisyflorentina-2026-08-29-niceto",
-    "artist": "JONI BOIS y FLORENTINA",
-    "artistKey": "joniboisyflorentina",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/joni-bois-y-florentina-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6ujdUiRqkbfZy3Hl0AdZF4",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048512664a7575c2c69cacbeab471"
-  },
-  {
-    "id": "palo-2026-08-29-niceto",
-    "artist": "PALO",
-    "artistKey": "palo",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/palo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7rOlQwf8OuFLFQp4aydjBt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dacd0b4eb10d4bea13c096cc"
-  },
-  {
     "id": "saliendodelcirculovoli-2026-08-29-niceto",
     "artist": "Saliendo del Círculo Vol. I",
     "artistKey": "saliendodelcirculovoli",
@@ -230,21 +49,6 @@
     "country": "PT",
     "spotifyId": "28Xu4RFKQ55dsVOJig12rE",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856ac256c7993dafcf98c31b3"
-  },
-  {
-    "id": "sanctuary-2026-08-29-teatrito",
-    "artist": "Sanctuary",
-    "artistKey": "sanctuary",
-    "date": "2026-08-29",
-    "venue": "El Teatrito",
-    "venueKey": "teatrito",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "1XolQApHVLzp4L8AeOZ7nx",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178540263a2c524ec4497d49c2a"
   },
   {
     "id": "arcangel-2026-08-30-movistararena",
@@ -1096,6 +900,51 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02"
   },
   {
+    "id": "jamiroquai-2026-09-17-hipodromosanisidro",
+    "artist": "Jamiroquai",
+    "artistKey": "jamiroquai",
+    "date": "2026-09-17",
+    "venue": "Hipódromo de San Isidro",
+    "venueKey": "hipodromosanisidro",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6J7biCazzYhU3gM9j1wfid",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d"
+  },
+  {
+    "id": "kapo-2026-09-17-movistararena",
+    "artist": "Kapo",
+    "artistKey": "kapo",
+    "date": "2026-09-17",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3UTF2no3muGdiFXVujl94i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7"
+  },
+  {
+    "id": "lefttodie-2026-09-17-uniclub",
+    "artist": "Left to Die",
+    "artistKey": "lefttodie",
+    "date": "2026-09-17",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6"
+  },
+  {
     "id": "martinamarpegan-2026-09-17-niceto",
     "artist": "Martina Marpegán",
     "artistKey": "martinamarpegan",
@@ -1128,6 +977,23 @@
     "country": null,
     "spotifyId": "7y33enVLfDvft6HGNmcxdV",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783783f1a7b601a7421915ebce"
+  },
+  {
+    "id": "kalibrereczolanochedelencuentro-2026-09-18-niceto",
+    "artist": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
+    "artistKey": "kalibrereczolanochedelencuentro",
+    "date": "2026-09-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kalibre-rec-zo-la-noche-del-encuentro-en-humboldt-niceto-club-18-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CL",
+    "spotifyId": "0eAi7fHzkxtHItb95AY4lP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780708a7e8319a7fc5bea7ce3b"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
@@ -1179,5 +1045,141 @@
     "country": "JP",
     "spotifyId": "0NV5eY4Jzg4ldg2ikGnV4n",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782273d7aad61e500d329c546e"
+  },
+  {
+    "id": "sudanarchives-2026-09-24-niceto",
+    "artist": "SUDAN ARCHIVES",
+    "artistKey": "sudanarchives",
+    "date": "2026-09-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/sudan-archives-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2MPHBxznH1fj59jbOWY38u",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7"
+  },
+  {
+    "id": "latinpianobar-2026-09-25-niceto",
+    "artist": "LATIN PIANO BAR",
+    "artistKey": "latinpianobar",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/latin-piano-bar-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6Nt0thMQrEBbBTasSfkrhG",
+    "spotifyImage": "https://i.scdn.co/image/ed0e7fc8604c2294d700bae4fd4903f29af10d50"
+  },
+  {
+    "id": "pedropastor-2026-09-25-niceto",
+    "artist": "PEDRO PASTOR",
+    "artistKey": "pedropastor",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/pedro-pastor-en-buenos-aires-10-locos-a-os-descalzos-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d"
+  },
+  {
+    "id": "pelusones-2026-09-25-niceto",
+    "artist": "Pelusones",
+    "artistKey": "pelusones",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/pelusones-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1vW3322paTGEEBrcuD5J8r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1"
+  },
+  {
+    "id": "camigalzlicoretzalupuspresentacionoficial-2026-09-26-niceto",
+    "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
+    "artistKey": "camigalzlicoretzalupuspresentacionoficial",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "XW",
+    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2"
+  },
+  {
+    "id": "cuasifunky-2026-09-26-niceto",
+    "artist": "CUASIFUNKY",
+    "artistKey": "cuasifunky",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cuasifunky-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0YsLR3SQd5QTXAhGIGX7cl",
+    "spotifyImage": "https://i.scdn.co/image/6130249da83481926006ffa955d14071daba3833"
+  },
+  {
+    "id": "fungipresjosemonsalveaugustobrunoledesma-2026-09-26-niceto",
+    "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+    "artistKey": "fungipresjosemonsalveaugustobrunoledesma",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3RO77ACEhRNve0HzfCaW9r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f"
+  },
+  {
+    "id": "valenvargascumbiabuenaparanochesmalas-2026-09-26-niceto",
+    "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
+    "artistKey": "valenvargascumbiabuenaparanochesmalas",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403"
   }
 ]
