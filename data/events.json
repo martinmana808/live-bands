@@ -1,134 +1,5 @@
 [
   {
-    "id": "club6929ago-2026-08-29-niceto",
-    "artist": "Club 69 | 29 AGO",
-    "artistKey": "club6929ago",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-29-ago-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BE",
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
-  },
-  {
-    "id": "conejonegrooasiskeepongroove-2026-08-29-niceto",
-    "artist": "CONEJO NEGRO - OASIS - KEEP ON GROOVE",
-    "artistKey": "conejonegrooasiskeepongroove",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/conejo-negro-oasis-keep-on-groove-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "3mndTMiP2EOug7cIjq177j",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c1d97f330e3b0c743ca861a"
-  },
-  {
-    "id": "saliendodelcirculovoli-2026-08-29-niceto",
-    "artist": "Saliendo del Círculo Vol. I",
-    "artistKey": "saliendodelcirculovoli",
-    "date": "2026-08-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/saliendo-del-c-rculo-vol-i-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "PT",
-    "spotifyId": "28Xu4RFKQ55dsVOJig12rE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856ac256c7993dafcf98c31b3"
-  },
-  {
-    "id": "arcangel-2026-08-30-movistararena",
-    "artist": "Arcangel",
-    "artistKey": "arcangel",
-    "date": "2026-08-30",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "4SsVbpTthjScTS7U2hmr1X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1"
-  },
-  {
-    "id": "friedriich-2026-08-30-casabrandon",
-    "artist": "FRIEDRIICH",
-    "artistKey": "friedriich",
-    "date": "2026-08-30",
-    "venue": "Casa Brandon",
-    "venueKey": "casabrandon",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "4v1w0wohImiZWLUENo0nif",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4"
-  },
-  {
-    "id": "lucascervetti-2026-08-30-cuerdamecanica",
-    "artist": "Lucas Cervetti",
-    "artistKey": "lucascervetti",
-    "date": "2026-08-30",
-    "venue": "Cuerda Mecánica",
-    "venueKey": "cuerdamecanica",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "UY",
-    "spotifyId": "78GTwoOGB8pub6iMy43fYc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de1c2c8c44718706e8961e59"
-  },
-  {
-    "id": "paulalone-2026-08-30-niceto",
-    "artist": "Paul Alone",
-    "artistKey": "paulalone",
-    "date": "2026-08-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/paul-alone-en-niceto-club"
-    ],
-    "sources": [
-      "songkick",
-      "niceto"
-    ],
-    "country": "AT",
-    "spotifyId": "6bdtalFIKenjGPCQVI2gtE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db27fa2ddcdf5e96aa9cb3aa"
-  },
-  {
-    "id": "tiesto-2026-08-30-creamfields",
-    "artist": "Tiësto",
-    "artistKey": "tiesto",
-    "date": "2026-08-30",
-    "venue": "Creamfields",
-    "venueKey": "creamfields",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "NL",
-    "spotifyId": "2o5jDhtHVPhrJdv3cEQ99Z",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f4973f7346a2f35e56b63d57"
-  },
-  {
     "id": "agustinlayus-2026-09-03-fondocultural",
     "artist": "Agustín Layús",
     "artistKey": "agustinlayus",
@@ -979,6 +850,51 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783783f1a7b601a7421915ebce"
   },
   {
+    "id": "alexanwandter-2026-09-18-granrex",
+    "artist": "Alex Anwandter",
+    "artistKey": "alexanwandter",
+    "date": "2026-09-18",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0M8uC0u1YRUGCieOKmQF02",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a"
+  },
+  {
+    "id": "cristianlopez-2026-09-18-noblezaobliga",
+    "artist": "Cristian Lopez",
+    "artistKey": "cristianlopez",
+    "date": "2026-09-18",
+    "venue": "Nobleza Obliga",
+    "venueKey": "noblezaobliga",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "3e8IMERodcohHljxfksJ04",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fac20ee2c2b444baad273a6a"
+  },
+  {
+    "id": "culturaprofetica-2026-09-18-movistararena",
+    "artist": "Cultura Profetica",
+    "artistKey": "culturaprofetica",
+    "date": "2026-09-18",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "65HuWBUC1d8ty1q6J42Nfi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8160fc4f468b818c167660e"
+  },
+  {
     "id": "kalibrereczolanochedelencuentro-2026-09-18-niceto",
     "artist": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
     "artistKey": "kalibrereczolanochedelencuentro",
@@ -994,6 +910,21 @@
     "country": "CL",
     "spotifyId": "0eAi7fHzkxtHItb95AY4lP",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780708a7e8319a7fc5bea7ce3b"
+  },
+  {
+    "id": "laytongiordani-2026-09-18-crobar",
+    "artist": "Layton Giordani",
+    "artistKey": "laytongiordani",
+    "date": "2026-09-18",
+    "venue": "Crobar",
+    "venueKey": "crobar",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
@@ -1132,6 +1063,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2"
   },
   {
+    "id": "club69aniversario26sep-2026-09-26-niceto",
+    "artist": "Club 69 | ANIVERSARIO 26 SEP",
+    "artistKey": "club69aniversario26sep",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95"
+  },
+  {
     "id": "cuasifunky-2026-09-26-niceto",
     "artist": "CUASIFUNKY",
     "artistKey": "cuasifunky",
@@ -1166,6 +1114,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f"
   },
   {
+    "id": "lalifestbymandalay26sep-2026-09-26-niceto",
+    "artist": "LALIFEST by MANDALAY  26 SEP",
+    "artistKey": "lalifestbymandalay26sep",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3J8kwFlwdHp6dwAaK7RxLr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788b47f19c583b11fab92509aa"
+  },
+  {
     "id": "valenvargascumbiabuenaparanochesmalas-2026-09-26-niceto",
     "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
     "artistKey": "valenvargascumbiabuenaparanochesmalas",
@@ -1181,5 +1146,39 @@
     "country": null,
     "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403"
+  },
+  {
+    "id": "baritalia-2026-09-27-niceto",
+    "artist": "BAR ITALIA",
+    "artistKey": "baritalia",
+    "date": "2026-09-27",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bar-italia-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6tYmTHApvspl6KAgTfHjAY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0cfddd94131d3fbb5443b0e"
+  },
+  {
+    "id": "greenvalleymeetsalborosie-2026-09-29-niceto",
+    "artist": "Green Valley meets Alborosie",
+    "artistKey": "greenvalleymeetsalborosie",
+    "date": "2026-09-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "IT",
+    "spotifyId": "78u1jLVBjPSXQVmHBV43yG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4453f1cdf38e47002889202"
   }
 ]
