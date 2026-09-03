@@ -614,6 +614,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485132b61adaa9dbc7c07c98e56a"
   },
   {
+    "id": "mambaclvb11sep-2026-09-11-niceto",
+    "artist": "Mamba Clvb 11 Sep",
+    "artistKey": "mambaclvb11sep",
+    "date": "2026-09-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mamba-clvb-21-ago-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1jeV31VvZIYSW736ZElqZY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17809ce4b45b263462d98886973"
+  },
+  {
     "id": "sensoria-2026-09-11-niceto",
     "artist": "SENSORIA",
     "artistKey": "sensoria",
@@ -1097,6 +1114,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e8e81f555036df4443f2285"
   },
   {
+    "id": "mariatorpecerettimattmontero-2026-09-19-niceto",
+    "artist": "Maria Torpe + Ceretti + Matt Montero",
+    "artistKey": "mariatorpecerettimattmontero",
+    "date": "2026-09-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/maria-torpe-ceretti-matt-montero-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CO",
+    "spotifyId": "6iKiDPed4LAQEcPZpvf00m",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ee5cc1eefed0b934282f8523"
+  },
+  {
     "id": "virus19sep-2026-09-19-niceto",
     "artist": "Virus 19 SEP",
     "artistKey": "virus19sep",
@@ -1146,39 +1180,5 @@
     "country": null,
     "spotifyId": "2MPHBxznH1fj59jbOWY38u",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7"
-  },
-  {
-    "id": "latinpianobar-2026-09-25-niceto",
-    "artist": "LATIN PIANO BAR",
-    "artistKey": "latinpianobar",
-    "date": "2026-09-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/latin-piano-bar-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6Nt0thMQrEBbBTasSfkrhG",
-    "spotifyImage": "https://i.scdn.co/image/ed0e7fc8604c2294d700bae4fd4903f29af10d50"
-  },
-  {
-    "id": "pedropastor-2026-09-25-niceto",
-    "artist": "PEDRO PASTOR",
-    "artistKey": "pedropastor",
-    "date": "2026-09-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pedro-pastor-en-buenos-aires-10-locos-a-os-descalzos-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d"
   }
 ]
