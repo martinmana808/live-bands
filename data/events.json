@@ -1,86 +1,5 @@
 [
   {
-    "id": "agustinlayus-2026-09-03-fondocultural",
-    "artist": "Agustín Layús",
-    "artistKey": "agustinlayus",
-    "date": "2026-09-03",
-    "venue": "Bar de Fondo Cultural",
-    "venueKey": "fondocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "6YQ8bYCjVJcnjbHr4lLata",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17871c5e8d81e21b2f863f11308"
-  },
-  {
-    "id": "kobrakeileroysergiorotmanyasiadelsurdjset-2026-09-03-niceto",
-    "artist": "Kobra Kei - Leroy - Sergio Rotman y Asia del Sur Dj Set",
-    "artistKey": "kobrakeileroysergiorotmanyasiadelsurdjset",
-    "date": "2026-09-03",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kobra-kei-leroy-sergio-rotman-y-asia-del-sur-dj-set-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "SE",
-    "spotifyId": "21XIemkkDaJTZ362piIHdv",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851a84e96d49db319ec9d56f988"
-  },
-  {
-    "id": "lauta-2026-09-03-niceto",
-    "artist": "LAUTA",
-    "artistKey": "lauta",
-    "date": "2026-09-03",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/lauta-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "5ELYwDwhy00ecTXhfsKWci",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784153f7ca4ef7e43fe78b6018"
-  },
-  {
-    "id": "metalenguacarlosbraile-2026-09-03-niceto",
-    "artist": "METALENGUA + CARLOS BRAILE",
-    "artistKey": "metalenguacarlosbraile",
-    "date": "2026-09-03",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/metalengua-carlos-braile-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2U91giuAaIVd0WyV05Knn7",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485148bf9168b5e5936667ff8e0a"
-  },
-  {
-    "id": "thyantichrist-2026-09-03-marquee",
-    "artist": "THY ANTICHRIST",
-    "artistKey": "thyantichrist",
-    "date": "2026-09-03",
-    "venue": "Marquee",
-    "venueKey": "marquee",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "1o11G051GtkuSKbBMdHxc2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178899500e05f3a4b30475b6ca5"
-  },
-  {
     "id": "auroradncflrweekendoffliners-2026-09-04-niceto",
     "artist": "Aurora DNCFLR: Weekend offliners",
     "artistKey": "auroradncflrweekendoffliners",
@@ -486,6 +405,23 @@
     "spotifyImage": null
   },
   {
+    "id": "ciclo23hsfiestamermeladaafterjostick-2026-09-10-niceto",
+    "artist": "CICLO23HS - FIESTA MERMELADA AFTER JOSTICK",
+    "artistKey": "ciclo23hsfiestamermeladaafterjostick",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ciclo23hs-fiesta-mermelada-after-jostick-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "ES",
+    "spotifyId": "1vOTVnnyLvVTeuwrZLghCN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ede1fa2b73f3ec85fb70c450"
+  },
+  {
     "id": "glasepresentaalmibar-2026-09-10-niceto",
     "artist": "Glasé presenta “Almíbar”",
     "artistKey": "glasepresentaalmibar",
@@ -621,7 +557,7 @@
     "venue": "Niceto Club",
     "venueKey": "niceto",
     "ticketUrls": [
-      "https://venti.live/evento/mamba-clvb-21-ago-en-niceto-club"
+      "https://venti.live/evento/mamba-clvb-21-sep-en-niceto-club"
     ],
     "sources": [
       "niceto"
@@ -982,6 +918,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a"
   },
   {
+    "id": "cristianlopez-2026-09-18-noblezaobliga",
+    "artist": "Cristian Lopez",
+    "artistKey": "cristianlopez",
+    "date": "2026-09-18",
+    "venue": "Nobleza Obliga",
+    "venueKey": "noblezaobliga",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "3e8IMERodcohHljxfksJ04",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fac20ee2c2b444baad273a6a"
+  },
+  {
     "id": "culturaprofetica-2026-09-18-movistararena",
     "artist": "Cultura Profetica",
     "artistKey": "culturaprofetica",
@@ -1012,6 +963,21 @@
     "country": "CL",
     "spotifyId": "0eAi7fHzkxtHItb95AY4lP",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780708a7e8319a7fc5bea7ce3b"
+  },
+  {
+    "id": "lastussiandsakatumba-2026-09-18-espacioculturallaberinto",
+    "artist": "Las Tussi and Sakatumba",
+    "artistKey": "lastussiandsakatumba",
+    "date": "2026-09-18",
+    "venue": "Espacio Cultural Laberinto",
+    "venueKey": "espacioculturallaberinto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5EBHFUWkDWg7EqzTk0yP1d",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6a002bad4fb5213f5c69d60"
   },
   {
     "id": "laytongiordani-2026-09-18-crobar",
@@ -1165,6 +1131,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782f846e6392cc20197d9bc5b9"
   },
   {
+    "id": "laplayground-2026-09-24-niceto",
+    "artist": "LA PLAYGROUND",
+    "artistKey": "laplayground",
+    "date": "2026-09-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-playground-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "67tuLuJ6EoOTR1KntyUnHQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a397e644319517700e84e57"
+  },
+  {
     "id": "sudanarchives-2026-09-24-niceto",
     "artist": "SUDAN ARCHIVES",
     "artistKey": "sudanarchives",
@@ -1180,5 +1163,22 @@
     "country": null,
     "spotifyId": "2MPHBxznH1fj59jbOWY38u",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7"
+  },
+  {
+    "id": "latinpianobar-2026-09-25-niceto",
+    "artist": "LATIN PIANO BAR",
+    "artistKey": "latinpianobar",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/latin-piano-bar-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6Nt0thMQrEBbBTasSfkrhG",
+    "spotifyImage": "https://i.scdn.co/image/ed0e7fc8604c2294d700bae4fd4903f29af10d50"
   }
 ]
