@@ -1,103 +1,5 @@
 [
   {
-    "id": "auroradncflrweekendoffliners-2026-09-04-niceto",
-    "artist": "Aurora DNCFLR: Weekend offliners",
-    "artistKey": "auroradncflrweekendoffliners",
-    "date": "2026-09-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/aurora-dncflr-weekend-offliners-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "4PRv41OfpEkorKofIv7DV8",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851acef21dd0b63c0c499c1f9b9"
-  },
-  {
-    "id": "blackeyedpeas-2026-09-04-movistararena",
-    "artist": "Black Eyed Peas",
-    "artistKey": "blackeyedpeas",
-    "date": "2026-09-04",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "1yxSLGMDHlW21z4YXirZDS",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787a135c757d5b9c7aeb7609d0"
-  },
-  {
-    "id": "caprichopugiodjleroyrotmanxgalopeproducciones-2026-09-04-niceto",
-    "artist": "CAPRICHO + PUGIO + Dj Leroy Rotman x Galope.Producciones",
-    "artistKey": "caprichopugiodjleroyrotmanxgalopeproducciones",
-    "date": "2026-09-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/capricho-pugio-dj-leroy-rotman-x-galope-producciones-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CO",
-    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7"
-  },
-  {
-    "id": "elclubdelacumbia4deseptiembre-2026-09-04-niceto",
-    "artist": "El Club de la Cumbia 4 de septiembre",
-    "artistKey": "elclubdelacumbia4deseptiembre",
-    "date": "2026-09-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/el-club-de-la-cumbia-4-de-septiembre-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "01sY3iLJZtSBa0BIbcpddJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178152e46e6fc577215e58b3b08"
-  },
-  {
-    "id": "friedriich-2026-09-04-feliza",
-    "artist": "FRIEDRIICH",
-    "artistKey": "friedriich",
-    "date": "2026-09-04",
-    "venue": "FELIZA",
-    "venueKey": "feliza",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "4v1w0wohImiZWLUENo0nif",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4"
-  },
-  {
-    "id": "hedonepresentaecosdeunextasis-2026-09-04-niceto",
-    "artist": "HEDONÉ presenta ECOS DE UN ÉXTASIS",
-    "artistKey": "hedonepresentaecosdeunextasis",
-    "date": "2026-09-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/hedon-presenta-ecos-de-un-xtasis-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": "28Xu4RFKQ55dsVOJig12rE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17856ac256c7993dafcf98c31b3"
-  },
-  {
     "id": "kench-2026-09-04-niceto",
     "artist": "KENCH",
     "artistKey": "kench",
@@ -130,38 +32,6 @@
     "country": null,
     "spotifyId": "0F3tUZeb9dLNEpxCpzEBQt",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef10e43db4544af5d3aab762"
-  },
-  {
-    "id": "lenineandmitu-2026-09-04-trastienda",
-    "artist": "Lenine and Mitú",
-    "artistKey": "lenineandmitu",
-    "date": "2026-09-04",
-    "venue": "La Trastienda",
-    "venueKey": "trastienda",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CO",
-    "spotifyId": "4YLBdrR3DVSMncm785NH6C",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178585bb6ace0ecb38716039b02"
-  },
-  {
-    "id": "tomaunociclodecantautoresnicolashernaniacovinolucadavidcasado-2026-09-04-niceto",
-    "artist": "TOMA UNO: Ciclo de Cantautores — Nicolás + Hernán Iacovino + Luca David Casado",
-    "artistKey": "tomaunociclodecantautoresnicolashernaniacovinolucadavidcasado",
-    "date": "2026-09-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/toma-uno-ciclo-de-cantautores-nicol-s-hern-n-iacovino-luca-david-castro-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CO",
-    "spotifyId": "4XBctiZfMg9kgOPlqfLgFA",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510c2095997811f937e72025d5"
   },
   {
     "id": "1915-2026-09-05-niceto",
@@ -456,6 +326,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838"
   },
   {
+    "id": "punchisession-2026-09-10-niceto",
+    "artist": "PUNCHI SESSION",
+    "artistKey": "punchisession",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/punchi-session-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1N0ACznriUeiiOJWN8hHC7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a3ba16533a5f4bad74ec034c"
+  },
+  {
     "id": "campamento-2026-09-11-lalala",
     "artist": "Campamento",
     "artistKey": "campamento",
@@ -565,6 +452,23 @@
     "country": null,
     "spotifyId": "1jeV31VvZIYSW736ZElqZY",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17809ce4b45b263462d98886973"
+  },
+  {
+    "id": "northgroove11sep-2026-09-11-niceto",
+    "artist": "NORTH GROOVE  11SEP",
+    "artistKey": "northgroove11sep",
+    "date": "2026-09-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/north-groove-11sep-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "5VgqZF1Hh98txNLr04HUVc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c78e62fba240c1d6e9d6df7"
   },
   {
     "id": "sensoria-2026-09-11-niceto",
@@ -697,6 +601,23 @@
     "country": null,
     "spotifyId": "5HU1WFkKf9oQALh78niuwh",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891714311ed4718848801627a"
+  },
+  {
+    "id": "intigarcialamultifaceticaproyectanensayoabiertolivesession-2026-09-12-niceto",
+    "artist": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
+    "artistKey": "intigarcialamultifaceticaproyectanensayoabiertolivesession",
+    "date": "2026-09-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/inti-garc-a-la-multifac-tica-proyectan-ensayo-abierto-live-session-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "US",
+    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7"
   },
   {
     "id": "johnsummit-2026-09-12-mandarinetent",
@@ -965,6 +886,23 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780708a7e8319a7fc5bea7ce3b"
   },
   {
+    "id": "laraxxet18sep-2026-09-18-niceto",
+    "artist": "La Raxxet 18 Sep",
+    "artistKey": "laraxxet18sep",
+    "date": "2026-09-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-raxxet-18-sep-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "KR",
+    "spotifyId": "5eYz6isXDqYy3S5UxS7RAj",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485179a95644846dd2df75b3491c"
+  },
+  {
     "id": "lastussiandsakatumba-2026-09-18-espacioculturallaberinto",
     "artist": "Las Tussi and Sakatumba",
     "artistKey": "lastussiandsakatumba",
@@ -993,6 +931,23 @@
     "country": null,
     "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61"
+  },
+  {
+    "id": "rayuelaycampotraviesa-2026-09-18-niceto",
+    "artist": "RAYUELA Y CAMPO TRAVIESA",
+    "artistKey": "rayuelaycampotraviesa",
+    "date": "2026-09-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/rayuela-y-campo-traviesa-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "CU",
+    "spotifyId": "6jkTyboTPLnIBkRGFmHSyl",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f586e95987cc623a63f1919c"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
@@ -1080,6 +1035,21 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e8e81f555036df4443f2285"
   },
   {
+    "id": "johndigweed-2026-09-19-autodromobuenosaires",
+    "artist": "John Digweed",
+    "artistKey": "johndigweed",
+    "date": "2026-09-19",
+    "venue": "Autódromo de Buenos Aires",
+    "venueKey": "autodromobuenosaires",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17"
+  },
+  {
     "id": "mariatorpecerettimattmontero-2026-09-19-niceto",
     "artist": "Maria Torpe + Ceretti + Matt Montero",
     "artistKey": "mariatorpecerettimattmontero",
@@ -1095,6 +1065,36 @@
     "country": "CO",
     "spotifyId": "6iKiDPed4LAQEcPZpvf00m",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ee5cc1eefed0b934282f8523"
+  },
+  {
+    "id": "nosvemosenaustralia-2026-09-19-poloculturaltacheles",
+    "artist": "Nos vemos en Australia",
+    "artistKey": "nosvemosenaustralia",
+    "date": "2026-09-19",
+    "venue": "Polo cultural Tacheles",
+    "venueKey": "poloculturaltacheles",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087"
+  },
+  {
+    "id": "pezdebuenosaires-2026-09-19-mutar",
+    "artist": "Pez De Buenos Aires",
+    "artistKey": "pezdebuenosaires",
+    "date": "2026-09-19",
+    "venue": "Mutar Bar",
+    "venueKey": "mutar",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "027ItQs3vdLG019LNccXr2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8"
   },
   {
     "id": "virus19sep-2026-09-19-niceto",
