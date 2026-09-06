@@ -1,217 +1,9 @@
 [
   {
-    "id": "1915-2026-09-05-niceto",
-    "artist": "1915",
-    "artistKey": "1915",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/s1915-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4jwnlVc9Lj5vMkL32978d1",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7",
-    "firstSeenAt": "2026-07-28"
-  },
-  {
-    "id": "caniche-2026-09-05-niceto",
-    "artist": "Caniche",
-    "artistKey": "caniche",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/caniche-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da",
-    "firstSeenAt": "2026-07-28"
-  },
-  {
-    "id": "club69-2026-09-05-niceto",
-    "artist": "Club 69",
-    "artistKey": "club69",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-5-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "firstSeenAt": "2026-09-02"
-  },
-  {
-    "id": "deepsession13-2026-09-05-niceto",
-    "artist": "DEEP SESSION #13",
-    "artistKey": "deepsession13",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-session-13-sab-5-sep-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "firstSeenAt": "2026-09-01"
-  },
-  {
-    "id": "distritoproduce-2026-09-05-niceto",
-    "artist": "DISTRITO produce",
-    "artistKey": "distritoproduce",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/distrito-produce-5-sep-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0fDsWL50lXtP2fc8ayi4KN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cb5e61d87eda5e25a370ca6",
-    "firstSeenAt": "2026-08-10"
-  },
-  {
-    "id": "fatboyslim-2026-09-05-movistararena",
-    "artist": "Fatboy Slim",
-    "artistKey": "fatboyslim",
-    "date": "2026-09-05",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "4Y7tXHSEejGu1vQ9bwDdXW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c20ed3229eeced918966a009",
-    "firstSeenAt": "2026-08-16"
-  },
-  {
-    "id": "festivalpardopeligrososgorrionesduointermitente-2026-09-05-niceto",
-    "artist": "FESTIVAL PARDO: PELIGROSOS GORRIONES + DUO INTERMITENTE",
-    "artistKey": "festivalpardopeligrososgorrionesduointermitente",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-pardo-peligrosos-gorriones-duo-intermitente-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "killfloraandlastussi-2026-09-05-tangente",
-    "artist": "Kill Flora and Las Tussi",
-    "artistKey": "killfloraandlastussi",
-    "date": "2026-09-05",
-    "venue": "La Tangente",
-    "venueKey": "tangente",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "618OuvXwIUhB0xE7XnCiwe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935877bbbc6dd7d60a82ed98",
-    "firstSeenAt": "2026-08-19"
-  },
-  {
-    "id": "thisismichael-2026-09-05-granrex",
-    "artist": "This is Michael",
-    "artistKey": "thisismichael",
-    "date": "2026-09-05",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "0eWhRhvBW94MH8qB7VSwRM",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851dd3aeca464241b2f25bb8241",
-    "firstSeenAt": "2026-08-16"
-  },
-  {
-    "id": "trinidad-2026-09-05-niceto",
-    "artist": "TRINIDAD",
-    "artistKey": "trinidad",
-    "date": "2026-09-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/trinidad-show-en-vivo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "firstSeenAt": "2026-07-28"
-  },
-  {
-    "id": "vivapsicodelia2026-2026-09-05-emergentealmagro",
-    "artist": "Viva Psicodelia 2026",
-    "artistKey": "vivapsicodelia2026",
-    "date": "2026-09-05",
-    "venue": "El Emergente Almagro",
-    "venueKey": "emergentealmagro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0G5RcG5HO44YF05jMpCzU5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a1bce03b0392a33e66d5847",
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "festivalxperimenta-2026-09-05-vorterix",
-    "artist": "Festival Xperimenta",
-    "artistKey": "festivalxperimenta",
-    "date": "2026-09-05",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/festival-xperimenta"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "friedriich-2026-09-05-greco",
+    "id": "friedriich-2026-09-06-greco",
     "artist": "FRIEDRIICH",
     "artistKey": "friedriich",
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "venue": "La Greco",
     "venueKey": "greco",
     "ticketUrls": [],
@@ -221,13 +13,13 @@
     "country": null,
     "spotifyId": "4v1w0wohImiZWLUENo0nif",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4",
-    "firstSeenAt": "2026-08-21"
+    "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "salasflaco-2026-09-05-niceto",
+    "id": "salasflaco-2026-09-06-niceto",
     "artist": "Salas flaco",
     "artistKey": "salasflaco",
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "venue": "Niceto Club",
     "venueKey": "niceto",
     "ticketUrls": [
@@ -239,7 +31,7 @@
     "country": null,
     "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
-    "firstSeenAt": "2026-08-10"
+    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "ozuna-2026-09-08-movistararena",
@@ -1395,6 +1187,70 @@
     "firstSeenAt": "2026-09-05"
   },
   {
+    "id": "tvtoficialandpantalonesrotos-2026-09-20-portal",
+    "artist": "TVT oficial and Pantalones Rotos",
+    "artistKey": "tvtoficialandpantalonesrotos",
+    "date": "2026-09-20",
+    "venue": "El Portal Teatro",
+    "venueKey": "portal",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5O5qjKWtduHgXxeEYbbSxz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b57101f15bbdc410add8799b",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "landmvrks-2026-09-22-teatrito",
+    "artist": "LANDMVRKS",
+    "artistKey": "landmvrks",
+    "date": "2026-09-22",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "FR",
+    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "noeliasinkunasandlucypatane-2026-09-22-fabrica",
+    "artist": "Noelia Sinkunas and Lucy Patané",
+    "artistKey": "noeliasinkunasandlucypatane",
+    "date": "2026-09-22",
+    "venue": "La Fábrica",
+    "venueKey": "fabrica",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0K9pSmFx0kWESA9jqx8aCW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dca57195545e371ae4c537a2",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "samiam-2026-09-22-culturalbula",
+    "artist": "Samiam",
+    "artistKey": "samiam",
+    "date": "2026-09-22",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
     "id": "dennisbovellclubhats-2026-09-24-niceto",
     "artist": "DENNIS BOVELL/CLUB HATS",
     "artistKey": "dennisbovellclubhats",
@@ -1539,6 +1395,78 @@
     "firstSeenAt": "2026-08-30"
   },
   {
+    "id": "polentasolopop-2026-09-25-niceto",
+    "artist": "Polenta Solo Pop",
+    "artistKey": "polentasolopop",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/polenta-solo-pop-25-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "16LYwGPwl47bMoMQApylLi",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "camigalzlicoretzalupuspresentacionoficial-2026-09-26-niceto",
+    "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
+    "artistKey": "camigalzlicoretzalupuspresentacionoficial",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "club69aniversario-2026-09-26-niceto",
+    "artist": "Club 69 | ANIVERSARIO",
+    "artistKey": "club69aniversario",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "cuasifunky-2026-09-26-niceto",
+    "artist": "CUASIFUNKY",
+    "artistKey": "cuasifunky",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cuasifunky-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0YsLR3SQd5QTXAhGIGX7cl",
+    "spotifyImage": "https://i.scdn.co/image/6130249da83481926006ffa955d14071daba3833",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
     "artist": "FIESTA DEBAR 20 AÑOS",
     "artistKey": "fiestadebar20anos",
@@ -1557,6 +1485,24 @@
     "firstSeenAt": "2026-09-05"
   },
   {
+    "id": "fungipresjosemonsalveaugustobrunoledesma-2026-09-26-niceto",
+    "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+    "artistKey": "fungipresjosemonsalveaugustobrunoledesma",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3RO77ACEhRNve0HzfCaW9r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
     "id": "kiddvoodoo-2026-09-26-vorterix",
     "artist": "KIDD VOODOO",
     "artistKey": "kiddvoodoo",
@@ -1573,6 +1519,42 @@
     "spotifyId": "10VBp06W8NIgMW4JruLCC4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
     "firstSeenAt": "2026-05-21"
+  },
+  {
+    "id": "lalifestbymandalay-2026-09-26-niceto",
+    "artist": "LALIFEST by MANDALAY",
+    "artistKey": "lalifestbymandalay",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2RgldIVB6hgTzEjSXWNFE2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789ceaf2588a1fa2bf9fe57466",
+    "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "valenvargascumbiabuenaparanochesmalas-2026-09-26-niceto",
+    "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
+    "artistKey": "valenvargascumbiabuenaparanochesmalas",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403",
+    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "ekisdefest-2026-10-02-vorterix",

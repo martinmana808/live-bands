@@ -7,38 +7,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7",
     "lookedUpAt": "2026-09-06"
   },
-  "fatboy slim": {
-    "name": "Fatboy Slim",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "4Y7tXHSEejGu1vQ9bwDdXW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c20ed3229eeced918966a009",
-    "lookedUpAt": "2026-09-06"
-  },
-  "this is michael": {
-    "name": "This is Michael",
-    "country": "BR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "0eWhRhvBW94MH8qB7VSwRM",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851dd3aeca464241b2f25bb8241",
-    "lookedUpAt": "2026-09-06"
-  },
-  "kill flora and las tussi": {
-    "name": "Kill Flora and Las Tussi",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "618OuvXwIUhB0xE7XnCiwe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935877bbbc6dd7d60a82ed98",
-    "lookedUpAt": "2026-09-06"
-  },
-  "viva psicodelia 2026": {
-    "name": "Viva Psicodelia 2026",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "0G5RcG5HO44YF05jMpCzU5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a1bce03b0392a33e66d5847",
-    "lookedUpAt": "2026-09-06"
-  },
   "poseidotica": {
     "name": "Poseidotica",
     "country": "AR",
@@ -327,8 +295,40 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
     "lookedUpAt": "2026-09-06"
   },
-  "pogofest – especial metal": {
-    "name": "POGOFEST – ESPECIAL METAL",
+  "tvt oficial and pantalones rotos": {
+    "name": "TVT oficial and Pantalones Rotos",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5O5qjKWtduHgXxeEYbbSxz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b57101f15bbdc410add8799b",
+    "lookedUpAt": "2026-09-06"
+  },
+  "landmvrks": {
+    "name": "LANDMVRKS",
+    "country": "FR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
+    "lookedUpAt": "2026-09-06"
+  },
+  "samiam": {
+    "name": "Samiam",
+    "country": "US",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
+    "lookedUpAt": "2026-09-06"
+  },
+  "noelia sinkunas and lucy patané": {
+    "name": "Noelia Sinkunas and Lucy Patané",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0K9pSmFx0kWESA9jqx8aCW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dca57195545e371ae4c537a2",
+    "lookedUpAt": "2026-09-06"
+  },
+  "fiesta debar 20 años": {
+    "name": "FIESTA DEBAR 20 AÑOS",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
@@ -407,17 +407,17 @@
     "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
-  "los caligaris": {
-    "name": "LOS CALIGARIS",
-    "country": "AR",
+  "pogofest – especial metal": {
+    "name": "POGOFEST – ESPECIAL METAL",
+    "country": null,
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
-  "fiesta debar 20 años": {
-    "name": "FIESTA DEBAR 20 AÑOS",
-    "country": null,
+  "los caligaris": {
+    "name": "LOS CALIGARIS",
+    "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
@@ -495,12 +495,12 @@
     "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
-  "kaos rave": {
-    "name": "KAOS RAVE",
+  "lagos – buenos aires": {
+    "name": "LAGOS – BUENOS AIRES",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
+    "spotifyId": null,
+    "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
   "chiara oliver": {
@@ -575,20 +575,20 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
     "lookedUpAt": "2026-09-06"
   },
-  "lagos – buenos aires": {
-    "name": "LAGOS – BUENOS AIRES",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
   "caifanes": {
     "name": "CAIFANES",
     "country": "MX",
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "1GImnM7WYVp95431ypofy9",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "lookedUpAt": "2026-09-06"
+  },
+  "kaos rave": {
+    "name": "KAOS RAVE",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
     "lookedUpAt": "2026-09-06"
   },
   "erick brian": {
@@ -641,62 +641,6 @@
   },
   "neurofest": {
     "name": "NEUROFEST",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
-  "festival xperimenta": {
-    "name": "Festival Xperimenta",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
-  "trinidad": {
-    "name": "TRINIDAD",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
-  "festival pardo: peligrosos gorriones + duo intermitente": {
-    "name": "FESTIVAL PARDO: PELIGROSOS GORRIONES + DUO INTERMITENTE",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
-  "caniche": {
-    "name": "Caniche",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da",
-    "lookedUpAt": "2026-09-06"
-  },
-  "deep session #13": {
-    "name": "DEEP SESSION #13",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-09-06"
-  },
-  "distrito produce": {
-    "name": "DISTRITO produce",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "0fDsWL50lXtP2fc8ayi4KN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cb5e61d87eda5e25a370ca6",
-    "lookedUpAt": "2026-09-06"
-  },
-  "club 69": {
-    "name": "Club 69",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
@@ -853,6 +797,14 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "3ZVW9s2Xb8NQDzwEqElbNq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178333fda74021bc99bfe28e0df",
+    "lookedUpAt": "2026-09-06"
+  },
+  "club 69": {
+    "name": "Club 69",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
   "piazzolla electrónico x nico sorin": {
@@ -1021,6 +973,142 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "1vW3322paTGEEBrcuD5J8r",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
+    "lookedUpAt": "2026-09-06"
+  },
+  "polenta solo pop": {
+    "name": "Polenta Solo Pop",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "16LYwGPwl47bMoMQApylLi",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
+    "lookedUpAt": "2026-09-06"
+  },
+  "valen vargas - cumbia buena para noches malas": {
+    "name": "Valen Vargas - Cumbia Buena para Noches Malas",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403",
+    "lookedUpAt": "2026-09-06"
+  },
+  "cami galz: licoretza lupus - presentación oficial": {
+    "name": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2",
+    "lookedUpAt": "2026-09-06"
+  },
+  "cuasifunky": {
+    "name": "CUASIFUNKY",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0YsLR3SQd5QTXAhGIGX7cl",
+    "spotifyImage": "https://i.scdn.co/image/6130249da83481926006ffa955d14071daba3833",
+    "lookedUpAt": "2026-09-06"
+  },
+  "fungi pres. josé monsalve / augusto / bruno ledesma": {
+    "name": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3RO77ACEhRNve0HzfCaW9r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f",
+    "lookedUpAt": "2026-09-06"
+  },
+  "lalifest by mandalay": {
+    "name": "LALIFEST by MANDALAY",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2RgldIVB6hgTzEjSXWNFE2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789ceaf2588a1fa2bf9fe57466",
+    "lookedUpAt": "2026-09-06"
+  },
+  "club 69 | aniversario": {
+    "name": "Club 69 | ANIVERSARIO",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "lookedUpAt": "2026-09-06"
+  },
+  "fatboy slim": {
+    "name": "Fatboy Slim",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4Y7tXHSEejGu1vQ9bwDdXW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c20ed3229eeced918966a009",
+    "lookedUpAt": "2026-09-06"
+  },
+  "this is michael": {
+    "name": "This is Michael",
+    "country": "BR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0eWhRhvBW94MH8qB7VSwRM",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851dd3aeca464241b2f25bb8241",
+    "lookedUpAt": "2026-09-06"
+  },
+  "kill flora and las tussi": {
+    "name": "Kill Flora and Las Tussi",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "618OuvXwIUhB0xE7XnCiwe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935877bbbc6dd7d60a82ed98",
+    "lookedUpAt": "2026-09-06"
+  },
+  "viva psicodelia 2026": {
+    "name": "Viva Psicodelia 2026",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0G5RcG5HO44YF05jMpCzU5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a1bce03b0392a33e66d5847",
+    "lookedUpAt": "2026-09-06"
+  },
+  "festival xperimenta": {
+    "name": "Festival Xperimenta",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-09-06"
+  },
+  "trinidad": {
+    "name": "TRINIDAD",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-09-06"
+  },
+  "festival pardo: peligrosos gorriones + duo intermitente": {
+    "name": "FESTIVAL PARDO: PELIGROSOS GORRIONES + DUO INTERMITENTE",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-09-06"
+  },
+  "caniche": {
+    "name": "Caniche",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7bjWDo609PibcmGuLvPKWR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e2ddb1b564e5591f1d6f56da",
+    "lookedUpAt": "2026-09-06"
+  },
+  "deep session #13": {
+    "name": "DEEP SESSION #13",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "lookedUpAt": "2026-09-06"
+  },
+  "distrito produce": {
+    "name": "DISTRITO produce",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0fDsWL50lXtP2fc8ayi4KN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cb5e61d87eda5e25a370ca6",
     "lookedUpAt": "2026-09-06"
   },
   "felipe barrozo y el farolito juntos en vorterix!": {
@@ -1298,34 +1386,6 @@
     "spotifyId": "21XIemkkDaJTZ362piIHdv",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851a84e96d49db319ec9d56f988",
     "lookedUpAt": "2026-09-03"
-  },
-  "valen vargas - cumbia buena para noches malas": {
-    "name": "Valen Vargas - Cumbia Buena para Noches Malas",
-    "country": null,
-    "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403",
-    "lookedUpAt": "2026-09-01"
-  },
-  "cami galz: licoretza lupus - presentación oficial": {
-    "name": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-    "country": "XW",
-    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2",
-    "lookedUpAt": "2026-09-01"
-  },
-  "cuasifunky": {
-    "name": "CUASIFUNKY",
-    "country": null,
-    "spotifyId": "0YsLR3SQd5QTXAhGIGX7cl",
-    "spotifyImage": "https://i.scdn.co/image/6130249da83481926006ffa955d14071daba3833",
-    "lookedUpAt": "2026-09-01"
-  },
-  "fungi pres. josé monsalve / augusto / bruno ledesma": {
-    "name": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
-    "country": null,
-    "spotifyId": "3RO77ACEhRNve0HzfCaW9r",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f",
-    "lookedUpAt": "2026-09-01"
   },
   "lalifest by mandalay  26 sep": {
     "name": "LALIFEST by MANDALAY  26 SEP",
@@ -3707,13 +3767,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850b7b67c987095c6b17ea60b",
     "lookedUpAt": "2026-06-09"
   },
-  "polenta solo pop": {
-    "name": "Polenta Solo Pop",
-    "country": "US",
-    "spotifyId": "16LYwGPwl47bMoMQApylLi",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
-    "lookedUpAt": "2026-06-09"
-  },
   "musica para volar presenta soda charly y fito, fiesta de hitazos": {
     "name": "MUSICA PARA VOLAR PRESENTA SODA CHARLY Y FITO, FIESTA DE HITAZOS",
     "country": "ES",
@@ -4763,34 +4816,6 @@
     "spotifyId": "7iPersMHyZFs7sFOe8SXl3",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df2c5d307a17075b2a04497b",
     "lookedUpAt": "2026-05-10"
-  },
-  "tvt oficial and pantalones rotos": {
-    "name": "TVT oficial and Pantalones Rotos",
-    "country": null,
-    "spotifyId": "5O5qjKWtduHgXxeEYbbSxz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b57101f15bbdc410add8799b",
-    "lookedUpAt": "2026-09-06"
-  },
-  "landmvrks": {
-    "name": "LANDMVRKS",
-    "country": "FR",
-    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
-    "lookedUpAt": "2026-09-06"
-  },
-  "samiam": {
-    "name": "Samiam",
-    "country": null,
-    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
-    "lookedUpAt": "2026-09-06"
-  },
-  "noelia sinkunas and lucy patané": {
-    "name": "Noelia Sinkunas and Lucy Patané",
-    "country": "AR",
-    "spotifyId": "0K9pSmFx0kWESA9jqx8aCW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dca57195545e371ae4c537a2",
-    "lookedUpAt": "2026-09-06"
   },
   "north groove  11sep": {
     "name": "NORTH GROOVE  11SEP",
