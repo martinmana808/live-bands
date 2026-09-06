@@ -6,7 +6,7 @@ import { filterInternational, filterTimeWindow } from './filter.js';
 import { applyFirstSeen } from './firstseen.js';
 import { checkAdapterHealth, updateHealth } from './health.js';
 import { buildCountryCache, buildSpotifyCache, mergeArtistEntry } from './cache.js';
-import { resolveAdapterEvents } from './sourcecache.js';
+import { resolveAdapterEvents, MAX_CACHE_AGE_DAYS } from './sourcecache.js';
 import { lookupCountry } from './enrichers/musicbrainz.js';
 import { createSpotifyEnricher } from './enrichers/spotify.js';
 
@@ -27,7 +27,7 @@ const HEALTH_PATH = 'data/health.json';
 const SOURCES_DIR = 'data/sources';
 const STALE_THRESHOLD = 0.10;
 
-async function runAdapter(name, adapter, previous) {
+async function runAdapter(name, adapter, today) {
   let fetched = [];
   try {
     fetched = await adapter.fetch();
@@ -37,10 +37,18 @@ async function runAdapter(name, adapter, previous) {
   }
 
   const cached = await loadJson(`${SOURCES_DIR}/${name}.json`, null);
-  const resolved = resolveAdapterEvents({ fetched, cached: cached?.events ?? null, previous });
+  const resolved = resolveAdapterEvents({
+    fetched,
+    cached: cached?.events ?? null,
+    cachedAt: cached?.fetchedAt ?? null,
+    today,
+  });
 
   if (resolved.usedCache) {
     console.warn(`[${name}] falling back to ${resolved.events.length} cached events from ${cached.fetchedAt}`);
+  }
+  if (resolved.cacheExpired) {
+    console.error(`[${name}] cache from ${cached.fetchedAt} is older than ${MAX_CACHE_AGE_DAYS} days - serving nothing`);
   }
   return { name, ...resolved };
 }
@@ -65,9 +73,10 @@ async function main() {
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET || '',
   });
 
+  const today = todayInBuenosAires();
   const prevHealth = await loadJson(HEALTH_PATH, {});
   const results = await Promise.all(
-    ADAPTERS.map(([name, ad]) => runAdapter(name, ad, prevHealth[name]))
+    ADAPTERS.map(([name, ad]) => runAdapter(name, ad, today))
   );
 
   // Health records what each source actually returned, not what we served.
@@ -81,7 +90,6 @@ async function main() {
     console.error(`[health] REGRESSION: ${r.name} returned 0 events but produced ${r.previous} on ${r.lastHealthyAt}`);
   }
 
-  const today = todayInBuenosAires();
   await mkdir(SOURCES_DIR, { recursive: true });
   for (const r of results) {
     if (r.fetchedCount > 0) {
