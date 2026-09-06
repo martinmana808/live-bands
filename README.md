@@ -15,6 +15,13 @@ Two things keep the daily job honest:
   from the previous `events.json` means a source outage erases the history and every returning show
   looks brand new. The ledger remembers an id for 450 days even while it is missing from the site.
 
+## The page
+
+Three filters, persisted per browser: **All**, **Next 14 days**, and **New this week**.
+The fortnight window is the same helper the digest uses (`fetcher/display.js` and
+`fetcher/digest.js` agree on what 14 days means), so the page and the notification can
+never disagree. Events first seen in the last 7 days carry a `NEW` badge.
+
 ## Digest
 
 `npm run digest` builds two lists — what is on in the **next fortnight**, and everything **added since the last digest was actually sent** — and pushes them to Telegram.

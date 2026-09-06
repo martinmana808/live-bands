@@ -1,5 +1,5 @@
 ---
-const { event, today } = Astro.props;
+const { event, today, fortnight = false, recent = false } = Astro.props;
 const past = event.date < today;
 
 function countryFlag(code) {
@@ -18,7 +18,14 @@ const dateLabel = formatDate(event.date);
 const ticket = event.ticketUrls?.[0];
 const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
 ---
-<div id={`event-${event.id}`} class={`event${past ? ' past' : ''}`} data-event-id={event.id} data-event-date={event.date}>
+<div
+  id={`event-${event.id}`}
+  class={`event${past ? ' past' : ''}`}
+  data-event-id={event.id}
+  data-event-date={event.date}
+  data-fortnight={fortnight ? '' : undefined}
+  data-recent={recent ? '' : undefined}
+>
   <div class="left-action">
     {ticket && !past ? (
       <a href={ticket} target="_blank" rel="noopener" aria-label="Buy ticket" title="Buy ticket">
@@ -36,7 +43,7 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
   </div>
   <div class="date">{dateLabel}</div>
   <div class="info">
-    <div class="artist">{event.artist} {flag}</div>
+    <div class="artist">{event.artist} {flag}{recent && <span class="badge-new">NEW</span>}</div>
     <div class="venue">{event.venue}{past ? ' (past)' : ''}</div>
   </div>
   <div class="actions">

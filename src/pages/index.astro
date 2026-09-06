@@ -5,6 +5,7 @@ import EventRow from '../components/EventRow.astro';
 import Soundwave from '../components/Soundwave.astro';
 import events from '../../data/events.json';
 import { todayInBuenosAires } from '../../fetcher/today.js';
+import { isWithinDays, isRecentlyAdded } from '../../fetcher/display.js';
 
 const today = todayInBuenosAires();
 
@@ -13,6 +14,10 @@ function monthLabel(yyyymm) {
   const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
   return `${months[m-1]} ${y}`;
 }
+
+const FORTNIGHT_DAYS = 14;
+const fortnightCount = events.filter(e => isWithinDays(e.date, today, FORTNIGHT_DAYS)).length;
+const recentCount = events.filter(e => isRecentlyAdded(e, today)).length;
 
 const groups = [];
 let currentKey = null;
@@ -35,10 +40,29 @@ for (const e of events) {
     <Soundwave events={events} today={today} />
     <main>
       <h1>International bands in Buenos Aires</h1>
+      <nav class="filters" aria-label="Filter shows">
+        <button type="button" class="filter on" data-filter="all" aria-pressed="true">
+          All <span class="count">{events.length}</span>
+        </button>
+        <button type="button" class="filter" data-filter="fortnight" aria-pressed="false">
+          Next 14 days <span class="count">{fortnightCount}</span>
+        </button>
+        <button type="button" class="filter" data-filter="new" aria-pressed="false">
+          New this week <span class="count">{recentCount}</span>
+        </button>
+      </nav>
+      <p class="empty" hidden>Nothing matches that filter.</p>
       {groups.map(g => (
         <section>
           <MonthHeading label={g.label} />
-          {g.events.map(e => <EventRow event={e} today={today} />)}
+          {g.events.map(e => (
+            <EventRow
+              event={e}
+              today={today}
+              fortnight={isWithinDays(e.date, today, FORTNIGHT_DAYS)}
+              recent={isRecentlyAdded(e, today)}
+            />
+          ))}
         </section>
       ))}
       <footer>
@@ -47,6 +71,40 @@ for (const e of events) {
     </main>
 
     <script>
+      const FILTER_KEY = 'bit:filter';
+
+      function applyFilter(name) {
+        document.querySelectorAll('button.filter').forEach(b => {
+          const on = b.getAttribute('data-filter') === name;
+          b.classList.toggle('on', on);
+          b.setAttribute('aria-pressed', String(on));
+        });
+        let shown = 0;
+        document.querySelectorAll('.event').forEach(row => {
+          const ok = name === 'all'
+            || (name === 'fortnight' && row.hasAttribute('data-fortnight'))
+            || (name === 'new' && row.hasAttribute('data-recent'));
+          row.hidden = !ok;
+          if (ok) shown++;
+        });
+        // A month heading with nothing under it reads as a bug.
+        document.querySelectorAll('main section').forEach(sec => {
+          sec.hidden = ![...sec.querySelectorAll('.event')].some(r => !r.hidden);
+        });
+        const empty = document.querySelector('p.empty');
+        if (empty) empty.hidden = shown > 0;
+        try { localStorage.setItem(FILTER_KEY, name); } catch {}
+      }
+
+      document.querySelectorAll('button.filter').forEach(btn => {
+        btn.addEventListener('click', () => applyFilter(btn.getAttribute('data-filter')));
+      });
+
+      try {
+        const saved = localStorage.getItem(FILTER_KEY);
+        if (saved && saved !== 'all') applyFilter(saved);
+      } catch {}
+
       const FAV_KEY = 'bit:favs';
       const loadFavs = () => { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); } catch { return new Set(); } };
       const saveFavs = (s) => localStorage.setItem(FAV_KEY, JSON.stringify([...s]));
