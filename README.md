@@ -10,7 +10,10 @@ Two things keep the daily job honest:
 
 - **Adapter health** (`data/health.json`) records how many events each source actually returned. A source that produced events on its last run and returns none today opens a `source-down` issue — after the deploy, so one blocked scraper never holds up a good build.
 - **Per-source fallback** (`data/sources/*.json`) keeps each source's last successful raw listings. `allaccess.com.ar` (Vorterix) and `nicetoclub.com` both refuse the GitHub runner's datacenter IP while answering a home connection fine, so when a scrape is blocked the site keeps serving that venue's last known shows instead of dropping them. They age out of the time window on their own.
-- **`firstSeenAt`** is stamped on every event the first time it is observed and carried forward across rebuilds, which is what makes "newly added shows" possible.
+- **`firstSeenAt`** is stamped on every event the first time it is observed, from a ledger
+  (`data/first-seen.json`) kept separately from the event list. That separation matters: deriving it
+  from the previous `events.json` means a source outage erases the history and every returning show
+  looks brand new. The ledger remembers an id for 450 days even while it is missing from the site.
 
 ## Digest
 
@@ -60,7 +63,9 @@ npm run dev                                      # preview at http://localhost:4
   after changing the matching rules.
 - `data/health.json` — per-adapter event counts and the last date each source worked.
 - `data/sources/<name>.json` — last successful raw fetch per source, used as a fallback when a
-  scrape is blocked. Refresh them from a machine that can reach the sites (`npm run fetch`).
+  scrape is blocked, for up to 14 days. Refresh them from a machine that can reach the sites
+  (`npm run fetch`).
+- `data/first-seen.json` — event id to the date it was first observed. Survives a source outage.
 - `data/digest-state.json` — when the last digest was sent.
 
 ## Spec & plan

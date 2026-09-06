@@ -3,7 +3,7 @@ import { existsSync } from 'node:fs';
 import { normalize } from './normalize.js';
 import { dedupe } from './dedupe.js';
 import { filterInternational, filterTimeWindow } from './filter.js';
-import { applyFirstSeen } from './firstseen.js';
+import { applyFirstSeen, seedLedger } from './firstseen.js';
 import { checkAdapterHealth, updateHealth } from './health.js';
 import { buildCountryCache, buildSpotifyCache, mergeArtistEntry } from './cache.js';
 import { resolveAdapterEvents, MAX_CACHE_AGE_DAYS } from './sourcecache.js';
@@ -24,6 +24,7 @@ const ADAPTERS = [
 const EVENTS_PATH = 'data/events.json';
 const ARTISTS_PATH = 'data/artists.json';
 const HEALTH_PATH = 'data/health.json';
+const LEDGER_PATH = 'data/first-seen.json';
 const SOURCES_DIR = 'data/sources';
 const STALE_THRESHOLD = 0.10;
 
@@ -124,11 +125,14 @@ async function main() {
     process.exit(1);
   }
 
-  const stamped = applyFirstSeen(within, prev, today);
+  // Migrate from the old in-file representation the first time through.
+  const ledgerIn = await loadJson(LEDGER_PATH, null) ?? seedLedger(prev);
+  const { events: stamped, ledger } = applyFirstSeen(within, ledgerIn, today);
   const newCount = stamped.filter(e => e.firstSeenAt === today).length;
   console.log(`Newly seen today: ${newCount}`);
 
   await writeFile(EVENTS_PATH, JSON.stringify(stamped, null, 2) + '\n');
+  await writeFile(LEDGER_PATH, JSON.stringify(ledger, null, 2) + '\n');
 
   /** @type {Record<string, import('./types.js').ArtistCacheEntry>} */
   const artistsOut = {};
