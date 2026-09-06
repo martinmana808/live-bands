@@ -41,6 +41,7 @@
  * @property {string} name
  * @property {string|null} country
  * @property {string} [countryResolvedBy] - resolver version that produced `country`
+ * @property {string} [spotifyResolvedBy] - resolver version that produced a null `spotifyId`
  * @property {string|null} spotifyId
  * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null
  * @property {string} lookedUpAt     - ISO date

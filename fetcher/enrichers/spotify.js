@@ -52,15 +52,16 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
   async function lookup(artistName, cache) {
     const key = artistName.toLowerCase();
     if (cache.has(key)) return cache.get(key);
+    // A missing token, a rate limit or a dropped connection is not evidence
+    // that the artist has no Spotify page. Leaving the cache alone keeps the
+    // lookup retryable instead of freezing a blank thumbnail in for good.
     const tk = await getToken();
-    if (!tk) {
-      cache.set(key, null);
-      return null;
-    }
+    if (!tk) return null;
+
     try {
       const url = `https://api.spotify.com/v1/search?type=artist&limit=1&q=${encodeURIComponent(artistName)}`;
       const res = await fetch(url, { headers: { Authorization: `Bearer ${tk}` } });
-      if (!res.ok) { cache.set(key, null); return null; }
+      if (!res.ok) return null;
       const data = await res.json();
       const item = data?.artists?.items?.[0];
       if (!item) { cache.set(key, null); return null; }
@@ -68,7 +69,6 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
       cache.set(key, result);
       return result;
     } catch {
-      cache.set(key, null);
       return null;
     }
   }

@@ -5,7 +5,7 @@ import { dedupe } from './dedupe.js';
 import { filterInternational, filterTimeWindow } from './filter.js';
 import { applyFirstSeen } from './firstseen.js';
 import { checkAdapterHealth, updateHealth } from './health.js';
-import { buildCountryCache, COUNTRY_RESOLVER } from './cache.js';
+import { buildCountryCache, buildSpotifyCache, mergeArtistEntry } from './cache.js';
 import { resolveAdapterEvents } from './sourcecache.js';
 import { lookupCountry } from './enrichers/musicbrainz.js';
 import { createSpotifyEnricher } from './enrichers/spotify.js';
@@ -58,9 +58,7 @@ async function loadCache() {
 async function main() {
   const cache = await loadCache();
   const countryCache = buildCountryCache(Object.fromEntries(cache));
-  const spotifyCache = new Map(
-    [...cache.entries()].map(([k, v]) => [k, v.spotifyId ? { id: v.spotifyId, image: v.spotifyImage ?? null } : null])
-  );
+  const spotifyCache = buildSpotifyCache(Object.fromEntries(cache));
 
   const spotify = createSpotifyEnricher({
     clientId: process.env.SPOTIFY_CLIENT_ID || '',
@@ -128,15 +126,9 @@ async function main() {
   const artistsOut = {};
   for (const e of enriched) {
     const k = e.artist.toLowerCase();
-    const cached = spotifyCache.get(k);
-    artistsOut[k] = {
-      name: e.artist,
-      country: countryCache.get(k) ?? null,
-      countryResolvedBy: COUNTRY_RESOLVER,
-      spotifyId: cached?.id ?? null,
-      spotifyImage: cached?.image ?? null,
-      lookedUpAt: today,
-    };
+    artistsOut[k] = mergeArtistEntry({
+      key: k, name: e.artist, prior: cache.get(k), countryCache, spotifyCache, today,
+    });
   }
   for (const [k, v] of cache.entries()) {
     if (!artistsOut[k]) artistsOut[k] = v;

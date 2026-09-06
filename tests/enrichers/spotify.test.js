@@ -76,3 +76,59 @@ describe('createSpotifyEnricher', () => {
     expect(await enrich.lookup('Korn', new Map())).toBe(null);
   });
 });
+
+describe('createSpotifyEnricher does not bake in transient failures', () => {
+  beforeEach(() => { vi.restoreAllMocks(); });
+
+  const token = { ok: true, json: async () => ({ access_token: 'tok', expires_in: 3600 }) };
+  const found = { ok: true, json: async () => ({ artists: { items: [{ id: 'sp1', images: [] }] } }) };
+
+  it('leaves the cache untouched when credentials are missing', async () => {
+    const enrich = createSpotifyEnricher({ clientId: '', clientSecret: '' });
+    const cache = new Map();
+    await enrich.lookup('Korn', cache);
+    expect(cache.has('korn')).toBe(false);
+  });
+
+  it('leaves the cache untouched when the search request fails', async () => {
+    vi.stubGlobal('fetch', vi.fn()
+      .mockResolvedValueOnce(token)
+      .mockResolvedValueOnce({ ok: false, status: 429, text: async () => '' }));
+    const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
+    const cache = new Map();
+    await enrich.lookup('Korn', cache);
+    expect(cache.has('korn')).toBe(false);
+  });
+
+  it('leaves the cache untouched on a network error', async () => {
+    vi.stubGlobal('fetch', vi.fn()
+      .mockResolvedValueOnce(token)
+      .mockRejectedValueOnce(new Error('ECONNRESET')));
+    const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
+    const cache = new Map();
+    await enrich.lookup('Korn', cache);
+    expect(cache.has('korn')).toBe(false);
+  });
+
+  it('retries an artist a later run once credentials are available', async () => {
+    const noCreds = createSpotifyEnricher({ clientId: '', clientSecret: '' });
+    const cache = new Map();
+    await noCreds.lookup('Korn', cache);
+
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValueOnce(token).mockResolvedValueOnce(found));
+    const withCreds = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
+    expect(await withCreds.lookup('Korn', cache)).toEqual({ id: 'sp1', image: null });
+  });
+
+  it('still caches a definitive no-match so it is not re-queried', async () => {
+    const empty = { ok: true, json: async () => ({ artists: { items: [] } }) };
+    const fetchMock = vi.fn().mockResolvedValueOnce(token).mockResolvedValue(empty);
+    vi.stubGlobal('fetch', fetchMock);
+    const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
+    const cache = new Map();
+    await enrich.lookup('Nobody At All', cache);
+    await enrich.lookup('Nobody At All', cache);
+    expect(cache.get('nobody at all')).toBeNull();
+    expect(fetchMock).toHaveBeenCalledTimes(2); // token + one search
+  });
+});
