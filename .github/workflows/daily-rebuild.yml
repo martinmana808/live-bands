@@ -14,6 +14,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 concurrency:
   group: pages
@@ -60,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/events.json data/artists.json data/health.json
+          git add data/events.json data/artists.json data/health.json data/sources
           if git diff --cached --quiet; then
             echo "No data changes"
           else
@@ -106,17 +107,41 @@ jobs:
       - uses: actions/deploy-pages@v4
         id: deployment
 
-  notify-on-stale:
-    runs-on: ubuntu-latest
-    needs: build-and-deploy
-    if: failure()
-    steps:
-      - uses: actions/github-script@v7
+      - name: Report adapter regressions
+        if: always()
+        uses: actions/github-script@v7
         with:
           script: |
-            github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `Daily rebuild failed (${new Date().toISOString().slice(0,10)})`,
-              body: `A source that worked previously returned nothing, the stale-data safety net tripped, or the build failed.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\nCheck data/health.json for per-adapter counts.`,
+            const fs = require('fs');
+            if (!fs.existsSync('data/health.json')) return;
+            const health = JSON.parse(fs.readFileSync('data/health.json', 'utf8'));
+            const broken = Object.entries(health)
+              .filter(([, h]) => h.count === 0 && h.lastHealthyAt)
+              .map(([name, h]) => `- **${name}** — last returned events on ${h.lastHealthyAt}`);
+            if (broken.length === 0) return;
+
+            const title = 'Source down: ' + Object.entries(health)
+              .filter(([, h]) => h.count === 0 && h.lastHealthyAt).map(([n]) => n).join(', ');
+            const body = [
+              'These sources returned nothing on the latest run:',
+              '',
+              ...broken,
+              '',
+              'The site is still serving their last known listings, so nothing disappeared —',
+              'but those listings stop being refreshed until the scraper works again.',
+              '',
+              `Run: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+            ].join('\n');
+
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'source-down',
+            });
+            if (existing.data.some(i => i.title === title)) {
+              core.warning(`Already tracking: ${title}`);
+              return;
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner, repo: context.repo.repo,
+              title, body, labels: ['source-down'],
             });

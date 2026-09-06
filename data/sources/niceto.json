@@ -1,0 +1,355 @@
+{
+  "fetchedAt": "2026-09-06",
+  "events": [
+    {
+      "artist": "Salas flaco",
+      "venue": "Niceto Club",
+      "date": "2026-09-06",
+      "ticketUrl": "https://venti.live/evento/salas-flaco-en-vivo-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/joystick-presenta-diarios-de-humo-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Chinoy- concierto acústico junto a Julieta Díaz",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/chinoy-concierto-ac-stico-junto-a-julieta-d-azen-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Glasé presenta “Almíbar”",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/glas-presenta-alm-bar-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CICLO23HS - FIESTA MERMELADA AFTER JOSTICK",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/ciclo23hs-fiesta-mermelada-after-jostick-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "PUNCHI SESSION",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/punchi-session-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Los Espíritus 11 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/los-esp-ritus-11-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "CHINO SANCHEZ & NO TODO TRATA DE UNO TOUR 2026 (ARGENTINA)",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/chino-sanchez-no-todo-trata-de-uno-tour-2026-argentina-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "FESTIVAL PARDO: DDT - FANTASMAGORIA - PLAYA NUDISTA -",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/festival-pardo-ddt-fantasmagoria-playa-nudista-uno-x-uno-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Mamba Clvb 11 Sep",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/mamba-clvb-21-sep-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SENSORIA",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/sensoria-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "NORTH GROOVE  11SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/north-groove-11sep-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "CHOOSEY",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/choosey-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/inti-garc-a-la-multifac-tica-proyectan-ensayo-abierto-live-session-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "BROKE CARREY presenta Hijo del País",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "DESORDEN",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/desorden-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Electra",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/electra-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "ETHER",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/ether-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "ROSE NIGHT",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/rose-night-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | 12 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-12",
+      "ticketUrl": "https://venti.live/evento/club-69-12-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "TOE",
+      "venue": "Niceto Club",
+      "date": "2026-09-13",
+      "ticketUrl": "https://venti.live/evento/toe-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Piazzolla Electrónico x Nico Sorin 17 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-17",
+      "ticketUrl": "https://venti.live/evento/piazzolla-electr-nico-x-nico-sorin-17-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Pedro Aguilar y amigos",
+      "venue": "Niceto Club",
+      "date": "2026-09-17",
+      "ticketUrl": "https://venti.live/evento/pedro-aguilar-y-amigos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Martina Marpegán",
+      "venue": "Niceto Club",
+      "date": "2026-09-17",
+      "ticketUrl": "https://venti.live/evento/martina-marpeg-n-presenta-posdata-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SELF-TITLED AFTERGLOW",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/self-titled-afterglow-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Massacre",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/massacre-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RAYUELA Y CAMPO TRAVIESA",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/rayuela-y-campo-traviesa-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/kalibre-rec-zo-la-noche-del-encuentro-en-humboldt-niceto-club-18-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Trabestia, drag club  18 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/trabestia-drag-club-18-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "La Raxxet 18 Sep",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/la-raxxet-18-sep-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Virus 19 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "EXPERIENCIA ROCE 19 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/experiencia-roce-19-sep-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FIESTA MERMELADA 19 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/fiesta-mermelada-19-sep-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Maria Torpe + Ceretti + Matt Montero",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/maria-torpe-ceretti-matt-montero-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | 19  SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/club-69-19-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Boom Boom Kid 20 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-20",
+      "ticketUrl": "https://venti.live/evento/boom-boom-kid-20-sep-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "MARTTEIN",
+      "venue": "Niceto Club",
+      "date": "2026-09-23",
+      "ticketUrl": "https://venti.live/evento/marttein-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SUDAN ARCHIVES",
+      "venue": "Niceto Club",
+      "date": "2026-09-24",
+      "ticketUrl": "https://venti.live/evento/sudan-archives-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "DENNIS BOVELL/CLUB HATS",
+      "venue": "Niceto Club",
+      "date": "2026-09-24",
+      "ticketUrl": "https://venti.live/evento/dennis-bovell-club-hats-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "LA PLAYGROUND",
+      "venue": "Niceto Club",
+      "date": "2026-09-24",
+      "ticketUrl": "https://venti.live/evento/la-playground-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "LATIN PIANO BAR",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/latin-piano-bar-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "PEDRO PASTOR",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/pedro-pastor-en-buenos-aires-10-locos-a-os-descalzos-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Pelusones",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/pelusones-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Polenta Solo Pop 25 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/polenta-solo-pop-25-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CUASIFUNKY",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/cuasifunky-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "LALIFEST by MANDALAY  26 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | ANIVERSARIO 26 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    }
+  ]
+}

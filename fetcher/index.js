@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { normalize } from './normalize.js';
 import { dedupe } from './dedupe.js';
@@ -6,6 +6,7 @@ import { filterInternational, filterTimeWindow } from './filter.js';
 import { applyFirstSeen } from './firstseen.js';
 import { checkAdapterHealth, updateHealth } from './health.js';
 import { buildCountryCache, COUNTRY_RESOLVER } from './cache.js';
+import { resolveAdapterEvents } from './sourcecache.js';
 import { lookupCountry } from './enrichers/musicbrainz.js';
 import { createSpotifyEnricher } from './enrichers/spotify.js';
 
@@ -23,17 +24,25 @@ const ADAPTERS = [
 const EVENTS_PATH = 'data/events.json';
 const ARTISTS_PATH = 'data/artists.json';
 const HEALTH_PATH = 'data/health.json';
+const SOURCES_DIR = 'data/sources';
 const STALE_THRESHOLD = 0.10;
 
-async function runAdapter(name, adapter) {
+async function runAdapter(name, adapter, previous) {
+  let fetched = [];
   try {
-    const events = await adapter.fetch();
-    console.log(`[${name}] ${events.length} events`);
-    return { name, events };
+    fetched = await adapter.fetch();
+    console.log(`[${name}] ${fetched.length} events`);
   } catch (err) {
     console.warn(`[${name}] FAILED: ${err.message}`);
-    return { name, events: [] };
   }
+
+  const cached = await loadJson(`${SOURCES_DIR}/${name}.json`, null);
+  const resolved = resolveAdapterEvents({ fetched, cached: cached?.events ?? null, previous });
+
+  if (resolved.usedCache) {
+    console.warn(`[${name}] falling back to ${resolved.events.length} cached events from ${cached.fetchedAt}`);
+  }
+  return { name, ...resolved };
 }
 
 async function loadJson(path, fallback) {
@@ -58,27 +67,31 @@ async function main() {
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET || '',
   });
 
+  const prevHealth = await loadJson(HEALTH_PATH, {});
   const results = await Promise.all(
-    ADAPTERS.map(([name, ad]) => runAdapter(name, ad))
+    ADAPTERS.map(([name, ad]) => runAdapter(name, ad, prevHealth[name]))
   );
 
-  const counts = Object.fromEntries(results.map(r => [r.name, r.events.length]));
-  const prevHealth = await loadJson(HEALTH_PATH, {});
+  // Health records what each source actually returned, not what we served.
+  const counts = Object.fromEntries(results.map(r => [r.name, r.fetchedCount]));
   const { regressions, down } = checkAdapterHealth(prevHealth, counts);
 
   for (const d of down) {
     console.warn(`[health] ${d.name} is still down (last worked ${d.lastHealthyAt ?? 'never'})`);
   }
+  for (const r of regressions) {
+    console.error(`[health] REGRESSION: ${r.name} returned 0 events but produced ${r.previous} on ${r.lastHealthyAt}`);
+  }
 
   const today = todayInBuenosAires();
-  await writeFile(HEALTH_PATH, JSON.stringify(updateHealth(prevHealth, counts, today), null, 2) + '\n');
-
-  if (regressions.length > 0) {
-    for (const r of regressions) {
-      console.error(`[health] REGRESSION: ${r.name} returned 0 events but produced ${r.previous} on ${r.lastHealthyAt}`);
+  await mkdir(SOURCES_DIR, { recursive: true });
+  for (const r of results) {
+    if (r.fetchedCount > 0) {
+      await writeFile(`${SOURCES_DIR}/${r.name}.json`,
+        JSON.stringify({ fetchedAt: today, events: r.events }, null, 2) + '\n');
     }
-    process.exit(1);
   }
+  await writeFile(HEALTH_PATH, JSON.stringify(updateHealth(prevHealth, counts, today), null, 2) + '\n');
 
   const raw = results.flatMap(r => r.events);
   console.log(`Total raw events: ${raw.length}`);
