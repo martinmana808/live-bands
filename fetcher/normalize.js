@@ -1,3 +1,5 @@
+import { cleanArtistName } from './artistname.js';
+
 const VENUE_STOPWORDS = new Set(['club', 'teatro', 'estadio', 'bar', 'el', 'la', 'de']);
 
 function slug(s) {
@@ -19,11 +21,12 @@ function venueSlug(s) {
  * @returns {import('./types.js').NormalizedEvent}
  */
 export function normalize(raw) {
-  const artistKey = slug(raw.artist);
+  const artist = cleanArtistName(raw.artist);
+  const artistKey = slug(artist);
   const venueKey = venueSlug(raw.venue);
   return {
     id: `${artistKey}-${raw.date}-${venueKey}`,
-    artist: raw.artist,
+    artist,
     artistKey,
     date: raw.date,
     venue: raw.venue,

@@ -4,8 +4,9 @@ import MonthHeading from '../components/MonthHeading.astro';
 import EventRow from '../components/EventRow.astro';
 import Soundwave from '../components/Soundwave.astro';
 import events from '../../data/events.json';
+import { todayInBuenosAires } from '../../fetcher/today.js';
 
-const today = new Date().toISOString().slice(0, 10);
+const today = todayInBuenosAires();
 
 function monthLabel(yyyymm) {
   const [y, m] = yyyymm.split('-').map(Number);

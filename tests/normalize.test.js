@@ -42,3 +42,22 @@ describe('normalize', () => {
     expect(out.sources).toEqual(['bandsintown']);
   });
 });
+
+describe('normalize cleans the artist name', () => {
+  it('strips a date tail before building the display name', () => {
+    const out = normalize({ artist: 'Club 69 | 5 SEP', date: '2026-09-05', venue: 'Niceto Club', source: 'niceto' });
+    expect(out.artist).toBe('Club 69');
+  });
+
+  it('builds the key and id from the cleaned name', () => {
+    const out = normalize({ artist: 'Mamba Clvb 11 Sep', date: '2026-09-11', venue: 'Niceto Club', source: 'niceto' });
+    expect(out.artistKey).toBe('mambaclvb');
+    expect(out.id).toBe('mambaclvb-2026-09-11-niceto');
+  });
+
+  it('lets two listings of the same show under different date tails collapse to one id', () => {
+    const a = normalize({ artist: 'Club 69 | 5 SEP', date: '2026-09-05', venue: 'Niceto Club', source: 'niceto' });
+    const b = normalize({ artist: 'Club 69', date: '2026-09-05', venue: 'Niceto Club', source: 'songkick' });
+    expect(a.id).toBe(b.id);
+  });
+});

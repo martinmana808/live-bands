@@ -262,3 +262,8 @@ bands-in-town/
 2. **Phase 2:** Add ticketing platform adapters (Tier 2). This is the biggest coverage win.
 3. **Phase 3:** Expand venue adapters until coverage feels complete.
 4. **Phase 4 (optional):** Filters, genre tags, archive view.
+
+## Ideas for the future
+- After events have happened, a youtube video of the live concert. Or photos. Or a review from someone who was there (found on the web - NOT MADE in this platform)
+- Connect your spotify? create playlists? Like artists?
+- AND MANY MORE. this will start coming through with usage

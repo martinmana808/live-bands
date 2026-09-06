@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio';
+import { fetchHtml } from '../http.js';
 
 const URL_BA = 'https://www.songkick.com/metro-areas/32911-argentina-buenos-aires';
 
@@ -21,11 +22,5 @@ export function parse(html) {
 }
 
 export async function fetch() {
-  const res = await globalThis.fetch(URL_BA, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-    },
-  });
-  if (!res.ok) throw new Error(`songkick HTTP ${res.status}`);
-  return parse(await res.text());
+  return parse(await fetchHtml(URL_BA));
 }

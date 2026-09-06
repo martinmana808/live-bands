@@ -12,7 +12,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "digest": "node fetcher/notify/send.js",
+    "digest:dry": "node fetcher/notify/send.js --dry-run"
   },
   "engines": {
     "node": ">=22"
