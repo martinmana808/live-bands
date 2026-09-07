@@ -7,13 +7,13 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c496bfb00eeef3d4cba9eb7",
     "lookedUpAt": "2026-09-06"
   },
-  "poseidotica": {
-    "name": "Poseidotica",
+  "la bomba de tiempo": {
+    "name": "La Bomba De Tiempo",
     "lookedUpAt": "2026-09-07",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "35c7I7m05XIsgtiCq1o99U",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b97b596a04768e7110c6e3c0",
+    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
     "spotifyResolvedBy": "search-v1"
   },
   "florencia bertotti": {
@@ -23,24 +23,6 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
-    "spotifyResolvedBy": "search-v1"
-  },
-  "friedriich": {
-    "name": "FRIEDRIICH",
-    "lookedUpAt": "2026-09-07",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "4v1w0wohImiZWLUENo0nif",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4",
-    "spotifyResolvedBy": "search-v1"
-  },
-  "la bomba de tiempo": {
-    "name": "La Bomba De Tiempo",
-    "lookedUpAt": "2026-09-07",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
     "spotifyResolvedBy": "search-v1"
   },
   "ozuna": {
@@ -196,6 +178,15 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
     "spotifyResolvedBy": "search-v1"
   },
+  "kapo": {
+    "name": "Kapo",
+    "lookedUpAt": "2026-09-07",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3UTF2no3muGdiFXVujl94i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
+    "spotifyResolvedBy": "search-v1"
+  },
   "nenagenix": {
     "name": "Nenagenix",
     "lookedUpAt": "2026-09-07",
@@ -212,15 +203,6 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6",
-    "spotifyResolvedBy": "search-v1"
-  },
-  "kapo": {
-    "name": "Kapo",
-    "lookedUpAt": "2026-09-07",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "3UTF2no3muGdiFXVujl94i",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
     "spotifyResolvedBy": "search-v1"
   },
   "hernán casciari": {
@@ -365,6 +347,33 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "0K9pSmFx0kWESA9jqx8aCW",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dca57195545e371ae4c537a2",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "caifanes": {
+    "name": "CAIFANES",
+    "lookedUpAt": "2026-09-07",
+    "country": "MX",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "bandana": {
+    "name": "Bandana",
+    "lookedUpAt": "2026-09-07",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5SqghR4PmacEuzlpIOQI2k",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb8f3b5ebf9ab4e0bc82f19d",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "morat": {
+    "name": "Morat",
+    "lookedUpAt": "2026-09-07",
+    "country": "CO",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
     "spotifyResolvedBy": "search-v1"
   },
   "fiesta debar 20 años": {
@@ -646,15 +655,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
     "spotifyResolvedBy": "search-v1"
   },
-  "caifanes": {
-    "name": "CAIFANES",
-    "lookedUpAt": "2026-09-07",
-    "country": "MX",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "spotifyResolvedBy": "search-v1"
-  },
   "kaos rave": {
     "name": "KAOS RAVE",
     "lookedUpAt": "2026-09-07",
@@ -725,15 +725,6 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "3oVSD2qVvvT9HhWDlFk4Hv",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17888934fd32b6de19c1416c5b8",
-    "spotifyResolvedBy": "search-v1"
-  },
-  "salas flaco": {
-    "name": "Salas flaco",
-    "lookedUpAt": "2026-09-07",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
     "spotifyResolvedBy": "search-v1"
   },
   "joystick presenta diarios de humo": {
@@ -1096,6 +1087,15 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
     "spotifyResolvedBy": "search-v1"
   },
+  "danceteria": {
+    "name": "DANCETERIA",
+    "lookedUpAt": "2026-09-07",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6tbjWDEIzxoDsBA1FuhfPW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ed2208b41d49ebd24687985b",
+    "spotifyResolvedBy": "search-v1"
+  },
   "polenta solo pop": {
     "name": "Polenta Solo Pop",
     "lookedUpAt": "2026-09-07",
@@ -1157,6 +1157,33 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "poseidotica": {
+    "name": "Poseidotica",
+    "lookedUpAt": "2026-09-07",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "35c7I7m05XIsgtiCq1o99U",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b97b596a04768e7110c6e3c0",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "friedriich": {
+    "name": "FRIEDRIICH",
+    "lookedUpAt": "2026-09-07",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4v1w0wohImiZWLUENo0nif",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4",
+    "spotifyResolvedBy": "search-v1"
+  },
+  "salas flaco": {
+    "name": "Salas flaco",
+    "lookedUpAt": "2026-09-07",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
     "spotifyResolvedBy": "search-v1"
   },
   "fatboy slim": {

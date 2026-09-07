@@ -2,24 +2,6 @@
   "fetchedAt": "2026-09-07",
   "events": [
     {
-      "artist": "Poseidotica, Sur Oculto, Mephistofeles, Frater, and Paso de Sombra",
-      "venue": "Teatro Vorterix",
-      "date": "2026-09-06",
-      "source": "songkick"
-    },
-    {
-      "artist": "Florencia Bertotti",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-06",
-      "source": "songkick"
-    },
-    {
-      "artist": "FRIEDRIICH",
-      "venue": "La Greco",
-      "date": "2026-09-06",
-      "source": "songkick"
-    },
-    {
       "artist": "La Bomba De Tiempo",
       "venue": "Ciudad Cultural Konex",
       "date": "2026-09-07",
@@ -176,6 +158,12 @@
       "source": "songkick"
     },
     {
+      "artist": "Kapo",
+      "venue": "Movistar Arena",
+      "date": "2026-09-17",
+      "source": "songkick"
+    },
+    {
       "artist": "Nenagenix",
       "venue": "Cooperativa Cultural Qi",
       "date": "2026-09-17",
@@ -184,12 +172,6 @@
     {
       "artist": "Left to Die",
       "venue": "Uniclub",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Kapo",
-      "venue": "Movistar Arena",
       "date": "2026-09-17",
       "source": "songkick"
     },
@@ -293,6 +275,24 @@
       "artist": "Noelia Sinkunas and Lucy Patané",
       "venue": "La Fábrica",
       "date": "2026-09-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Caifanes",
+      "venue": "Teatro Vorterix",
+      "date": "2026-09-23",
+      "source": "songkick"
+    },
+    {
+      "artist": "Bandana (AR)",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-23",
+      "source": "songkick"
+    },
+    {
+      "artist": "Morat",
+      "venue": "Movistar Arena",
+      "date": "2026-09-24",
       "source": "songkick"
     }
   ]

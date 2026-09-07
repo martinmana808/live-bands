@@ -2,13 +2,6 @@
   "fetchedAt": "2026-09-07",
   "events": [
     {
-      "artist": "Salas flaco",
-      "venue": "Niceto Club",
-      "date": "2026-09-06",
-      "ticketUrl": "https://venti.live/evento/salas-flaco-en-vivo-en-niceto-club",
-      "source": "niceto"
-    },
-    {
       "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
       "venue": "Niceto Club",
       "date": "2026-09-10",
@@ -300,6 +293,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-25",
       "ticketUrl": "https://venti.live/evento/pelusones-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "DANCETERIA",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/danceteria-en-humboldt-niceto-club",
       "source": "niceto"
     },
     {

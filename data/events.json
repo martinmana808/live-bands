@@ -1,39 +1,5 @@
 [
   {
-    "id": "friedriich-2026-09-06-greco",
-    "artist": "FRIEDRIICH",
-    "artistKey": "friedriich",
-    "date": "2026-09-06",
-    "venue": "La Greco",
-    "venueKey": "greco",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "4v1w0wohImiZWLUENo0nif",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f5b140a43915c18f3a81bbb4",
-    "firstSeenAt": "2026-08-21"
-  },
-  {
-    "id": "salasflaco-2026-09-06-niceto",
-    "artist": "Salas flaco",
-    "artistKey": "salasflaco",
-    "date": "2026-09-06",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/salas-flaco-en-vivo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "35DjUjNHUUlFxsEPS3kF6a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178169e2fcd57a3969dd9520303",
-    "firstSeenAt": "2026-08-10"
-  },
-  {
     "id": "ozuna-2026-09-08-movistararena",
     "artist": "Ozuna",
     "artistKey": "ozuna",
@@ -1251,6 +1217,22 @@
     "firstSeenAt": "2026-09-06"
   },
   {
+    "id": "caifanes-2026-09-23-vorterix",
+    "artist": "Caifanes",
+    "artistKey": "caifanes",
+    "date": "2026-09-23",
+    "venue": "Teatro Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "firstSeenAt": "2026-05-09"
+  },
+  {
     "id": "dennisbovellclubhats-2026-09-24-niceto",
     "artist": "DENNIS BOVELL/CLUB HATS",
     "artistKey": "dennisbovellclubhats",
@@ -1287,6 +1269,22 @@
     "firstSeenAt": "2026-09-04"
   },
   {
+    "id": "morat-2026-09-24-movistararena",
+    "artist": "Morat",
+    "artistKey": "morat",
+    "date": "2026-09-24",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "firstSeenAt": "2026-09-07"
+  },
+  {
     "id": "sudanarchives-2026-09-24-niceto",
     "artist": "SUDAN ARCHIVES",
     "artistKey": "sudanarchives",
@@ -1321,6 +1319,24 @@
     "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7",
     "firstSeenAt": "2026-05-17"
+  },
+  {
+    "id": "danceteria-2026-09-25-niceto",
+    "artist": "DANCETERIA",
+    "artistKey": "danceteria",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/danceteria-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6tbjWDEIzxoDsBA1FuhfPW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ed2208b41d49ebd24687985b",
+    "firstSeenAt": "2026-09-07"
   },
   {
     "id": "kaosrave-2026-09-25-vorterix",
