@@ -7,6 +7,7 @@ import { todayInBuenosAires } from '../today.js';
 
 const EVENTS_PATH = 'data/events.json';
 const STATE_PATH = 'data/digest-state.json';
+const MUTED_PATH = 'data/muted.json';
 const SITE_URL = 'https://martinmana808.github.io/live-bands/';
 
 async function loadState() {
@@ -23,10 +24,11 @@ async function main() {
   // "New" means new since the last digest actually sent, not since yesterday's
   // rebuild — so a weekly reader still sees everything added during the week.
   const since = state.lastSentAt ?? today;
-  const digest = buildDigest(events, { today, since });
+  const muted = existsSync(MUTED_PATH) ? JSON.parse(await readFile(MUTED_PATH, 'utf8')) : [];
+  const digest = buildDigest(events, { today, since, muted });
   const text = formatDigest(digest, { siteUrl: SITE_URL });
 
-  console.log(`digest: ${digest.fortnight.length} in the next fortnight, ${digest.newlyAdded.length} new since ${since}`);
+  console.log(`digest: ${digest.fortnight.length} in the next fortnight, ${digest.newlyAdded.length} new since ${since}${muted.length ? `, ${muted.length} artists muted` : ''}`);
 
   if (dryRun) {
     console.log('--- dry run, not sending ---');

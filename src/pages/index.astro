@@ -6,6 +6,7 @@ import Soundwave from '../components/Soundwave.astro';
 import events from '../../data/events.json';
 import { todayInBuenosAires } from '../../fetcher/today.js';
 import { isWithinDays, isRecentlyAdded } from '../../fetcher/display.js';
+import committedMuted from '../../data/muted.json';
 
 const today = todayInBuenosAires();
 
@@ -40,6 +41,10 @@ for (const e of events) {
     <Soundwave events={events} today={today} />
     <main>
       <h1>International bands in Buenos Aires</h1>
+      <div class="searchbar">
+        <input type="search" id="q" placeholder="Search artist, venue or country…" autocomplete="off" spellcheck="false" aria-label="Search shows" />
+        <button type="button" id="q-clear" aria-label="Clear search" hidden>&times;</button>
+      </div>
       <nav class="filters" aria-label="Filter shows">
         <button type="button" class="filter on" data-filter="all" aria-pressed="true">
           All <span class="count">{events.length}</span>
@@ -50,8 +55,21 @@ for (const e of events) {
         <button type="button" class="filter" data-filter="new" aria-pressed="false">
           New this week <span class="count">{recentCount}</span>
         </button>
+        <button type="button" class="filter muted-filter" data-filter="muted" aria-pressed="false" hidden>
+          Hidden <span class="count">0</span>
+        </button>
       </nav>
-      <p class="empty" hidden>Nothing matches that filter.</p>
+      <p class="result-count" aria-live="polite" hidden></p>
+      <section id="muted-panel" hidden>
+        <h2>Hidden artists</h2>
+        <p class="muted-help">These never show up in the list or the Telegram digest. Click to bring one back.</p>
+        <ul id="muted-list"></ul>
+        <p class="muted-sync">
+          To hide these in the digest too, commit them to <code>data/muted.json</code>:
+          <button type="button" id="muted-copy">Copy list</button>
+        </p>
+      </section>
+      <p class="empty" hidden>Nothing matches.</p>
       {groups.map(g => (
         <section>
           <MonthHeading label={g.label} />
@@ -70,40 +88,10 @@ for (const e of events) {
       </footer>
     </main>
 
+    <script type="application/json" id="committed-muted" set:html={JSON.stringify(committedMuted)}></script>
     <script>
-      const FILTER_KEY = 'bit:filter';
-
-      function applyFilter(name) {
-        document.querySelectorAll('button.filter').forEach(b => {
-          const on = b.getAttribute('data-filter') === name;
-          b.classList.toggle('on', on);
-          b.setAttribute('aria-pressed', String(on));
-        });
-        let shown = 0;
-        document.querySelectorAll('.event').forEach(row => {
-          const ok = name === 'all'
-            || (name === 'fortnight' && row.hasAttribute('data-fortnight'))
-            || (name === 'new' && row.hasAttribute('data-recent'));
-          row.hidden = !ok;
-          if (ok) shown++;
-        });
-        // A month heading with nothing under it reads as a bug.
-        document.querySelectorAll('main section').forEach(sec => {
-          sec.hidden = ![...sec.querySelectorAll('.event')].some(r => !r.hidden);
-        });
-        const empty = document.querySelector('p.empty');
-        if (empty) empty.hidden = shown > 0;
-        try { localStorage.setItem(FILTER_KEY, name); } catch {}
-      }
-
-      document.querySelectorAll('button.filter').forEach(btn => {
-        btn.addEventListener('click', () => applyFilter(btn.getAttribute('data-filter')));
-      });
-
-      try {
-        const saved = localStorage.getItem(FILTER_KEY);
-        if (saved && saved !== 'all') applyFilter(saved);
-      } catch {}
+      import { createApp } from '../scripts/filters.js';
+      createApp({ doc: document, storage: localStorage }).attach().render();
 
       const FAV_KEY = 'bit:favs';
       const loadFavs = () => { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); } catch { return new Set(); } };

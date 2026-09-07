@@ -126,3 +126,32 @@ describe('buildDigest only reports confirmed international acts', () => {
     expect(d.fortnight).toHaveLength(1);
   });
 });
+
+describe('buildDigest respects the muted list', () => {
+  it('leaves a muted artist out of the fortnight', () => {
+    const d = buildDigest([ev({ artistKey: 'ozuna', date: '2026-09-12' })], { today, muted: ['ozuna'] });
+    expect(d.fortnight).toEqual([]);
+  });
+
+  it('leaves a muted artist out of newly added', () => {
+    const d = buildDigest([ev({ artistKey: 'ozuna', firstSeenAt: today })], { today, muted: ['ozuna'] });
+    expect(d.newlyAdded).toEqual([]);
+  });
+
+  it('does not count a muted show as an unconfirmed one you are missing', () => {
+    const d = buildDigest([ev({ artistKey: 'ozuna', country: null, date: '2026-09-12' })], { today, muted: ['ozuna'] });
+    expect(d.unconfirmedInWindow).toBe(0);
+  });
+
+  it('keeps everyone else', () => {
+    const d = buildDigest([
+      ev({ id: 'a', artistKey: 'ozuna', date: '2026-09-12' }),
+      ev({ id: 'b', artistKey: 'slowdive', date: '2026-09-12' }),
+    ], { today, muted: ['ozuna'] });
+    expect(d.fortnight.map(e => e.id)).toEqual(['b']);
+  });
+
+  it('works with no muted list at all', () => {
+    expect(buildDigest([ev({ date: '2026-09-12' })], { today }).fortnight).toHaveLength(1);
+  });
+});

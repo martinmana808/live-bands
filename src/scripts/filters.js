@@ -1,0 +1,207 @@
+import { fold } from '../../fetcher/search.js';
+
+const FILTER_KEY = 'bit:filter';
+const MUTE_KEY = 'bit:muted';
+
+const key = (s) => fold(s).replace(/ /g, '');
+
+/**
+ * The page's filter/search/mute controller.
+ *
+ * Takes its document and storage as arguments so the whole thing can be driven
+ * under jsdom - this is the one part of the project a user interacts with
+ * directly, and three composing filters is more than can be checked by eye.
+ *
+ * @param {{doc: Document, storage: Storage, committedMuted?: string[]}} deps
+ */
+export function createApp({ doc, storage, committedMuted }) {
+  const read = (k, fallback) => {
+    try { return JSON.parse(storage.getItem(k)) ?? fallback; } catch { return fallback; }
+  };
+  const write = (k, v) => { try { storage.setItem(k, JSON.stringify(v)); } catch {} };
+
+  const committed = committedMuted
+    ?? JSON.parse(doc.getElementById('committed-muted')?.textContent || '[]');
+
+  let filter = 'all';
+  let query = '';
+  // Committed mutes apply everywhere including the digest; browser mutes are
+  // only this device, which is why the Hidden panel distinguishes them.
+  let localMuted = read(MUTE_KEY, []);
+
+  const mutedSet = () => new Set([...committed, ...localMuted].map(key).filter(Boolean));
+
+  const matches = (row, words) => {
+    if (words.length === 0) return true;
+    const hay = fold(row.getAttribute('data-search'));
+    return words.every(w => hay.includes(w));
+  };
+
+  function renderMutedList() {
+    const muted = mutedSet();
+    const names = new Map();
+    for (const b of doc.querySelectorAll('[data-mute-key]')) {
+      const k = b.getAttribute('data-mute-key');
+      if (muted.has(k)) names.set(k, b.getAttribute('data-mute-name'));
+    }
+    // An artist can be muted with no current listing to read a name from.
+    for (const k of muted) if (!names.has(k)) names.set(k, k);
+
+    const ul = doc.getElementById('muted-list');
+    if (!ul) return;
+
+    if (names.size === 0) {
+      const li = doc.createElement('li');
+      li.textContent = 'Nothing hidden.';
+      ul.replaceChildren(li);
+      return;
+    }
+
+    const committedKeys = new Set(committed.map(key));
+    ul.replaceChildren(...[...names.entries()]
+      .sort((a, b) => String(a[1]).localeCompare(String(b[1])))
+      .map(([k, name]) => {
+        const li = doc.createElement('li');
+        const btn = doc.createElement('button');
+        btn.type = 'button';
+        btn.className = 'unmute';
+        btn.textContent = name;
+        btn.title = `Show ${name} again`;
+        btn.setAttribute('data-unmute-key', k);
+        btn.addEventListener('click', () => unmute(k));
+        li.append(btn);
+        if (committedKeys.has(k)) {
+          const tag = doc.createElement('span');
+          tag.className = 'tag';
+          tag.textContent = 'in repo';
+          tag.title = 'Muted in data/muted.json — remove it there to bring this back everywhere';
+          li.append(tag);
+        }
+        return li;
+      }));
+  }
+
+  function render() {
+    const muted = mutedSet();
+    const words = fold(query).split(' ').filter(Boolean);
+    let shown = 0;
+
+    for (const row of doc.querySelectorAll('.event')) {
+      const isMuted = muted.has(row.getAttribute('data-artist-key'));
+      const inFilter = filter === 'all'
+        || (filter === 'fortnight' && row.hasAttribute('data-fortnight'))
+        || (filter === 'new' && row.hasAttribute('data-recent'));
+      // The Hidden view is the one place muted rows are meant to be visible.
+      const ok = filter === 'muted'
+        ? isMuted && matches(row, words)
+        : inFilter && !isMuted && matches(row, words);
+      row.hidden = !ok;
+      if (ok) shown++;
+    }
+
+    for (const sec of doc.querySelectorAll('main section:not(#muted-panel)')) {
+      sec.hidden = ![...sec.querySelectorAll('.event')].some(r => !r.hidden);
+    }
+
+    for (const b of doc.querySelectorAll('button.filter')) {
+      const on = b.getAttribute('data-filter') === filter;
+      b.classList.toggle('on', on);
+      b.setAttribute('aria-pressed', String(on));
+    }
+
+    const mutedBtn = doc.querySelector('.muted-filter');
+    if (mutedBtn) {
+      mutedBtn.hidden = muted.size === 0;
+      const c = mutedBtn.querySelector('.count');
+      if (c) c.textContent = String(muted.size);
+    }
+
+    const panel = doc.getElementById('muted-panel');
+    if (panel) panel.hidden = filter !== 'muted';
+    if (filter === 'muted') renderMutedList();
+
+    const rc = doc.querySelector('.result-count');
+    if (rc) {
+      rc.hidden = !(query || filter !== 'all');
+      rc.textContent = `${shown} ${shown === 1 ? 'show' : 'shows'}`;
+    }
+    const empty = doc.querySelector('p.empty');
+    if (empty) empty.hidden = shown > 0;
+    const clear = doc.getElementById('q-clear');
+    if (clear) clear.hidden = query === '';
+
+    return shown;
+  }
+
+  function mute(k) {
+    if (!k) return;
+    if (!localMuted.map(key).includes(k)) localMuted.push(k);
+    write(MUTE_KEY, localMuted);
+    render();
+  }
+
+  function unmute(k) {
+    localMuted = localMuted.filter(m => key(m) !== k);
+    write(MUTE_KEY, localMuted);
+    // Leaving the empty Hidden view up with no explanation is disorienting.
+    if (filter === 'muted' && mutedSet().size === 0) setFilter('all');
+    else render();
+  }
+
+  function setFilter(name) {
+    filter = name;
+    write(FILTER_KEY, name);
+    render();
+  }
+
+  function setQuery(value) {
+    query = value;
+    render();
+  }
+
+  function attach() {
+    for (const btn of doc.querySelectorAll('button.filter')) {
+      btn.addEventListener('click', () => setFilter(btn.getAttribute('data-filter')));
+    }
+
+    const q = doc.getElementById('q');
+    if (q) {
+      q.addEventListener('input', () => setQuery(q.value));
+      q.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') { q.value = ''; setQuery(''); }
+      });
+    }
+    const clear = doc.getElementById('q-clear');
+    if (clear && q) {
+      clear.addEventListener('click', () => { q.value = ''; setQuery(''); q.focus(); });
+    }
+
+    doc.addEventListener('click', (e) => {
+      const btn = e.target.closest?.('button.mute[data-mute-key]');
+      if (btn) mute(btn.getAttribute('data-mute-key'));
+    });
+
+    const copy = doc.getElementById('muted-copy');
+    if (copy) {
+      copy.addEventListener('click', async () => {
+        try {
+          await doc.defaultView.navigator.clipboard.writeText(
+            JSON.stringify([...mutedSet()].sort(), null, 2));
+          copy.textContent = 'Copied';
+          doc.defaultView.setTimeout(() => { copy.textContent = 'Copy list'; }, 1200);
+        } catch {}
+      });
+    }
+
+    const saved = read(FILTER_KEY, 'all');
+    if (typeof saved === 'string') filter = saved;
+    return api;
+  }
+
+  const api = {
+    render, attach, mute, unmute, setFilter, setQuery,
+    get filter() { return filter; },
+    get muted() { return [...mutedSet()]; },
+  };
+  return api;
+}

@@ -25,6 +25,8 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
   data-event-date={event.date}
   data-fortnight={fortnight ? '' : undefined}
   data-recent={recent ? '' : undefined}
+  data-artist-key={event.artistKey}
+  data-search={`${event.artist} ${event.venue} ${event.country ?? ''}`}
 >
   <div class="left-action">
     {ticket && !past ? (
@@ -50,6 +52,13 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
     <button class="icon-btn fav" data-fav-id={event.id} aria-label="Save" title="Save">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
         <path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 1 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/>
+      </svg>
+    </button>
+    <button class="icon-btn mute" data-mute-key={event.artistKey} data-mute-name={event.artist} aria-label={`Hide ${event.artist}`} title={`Hide ${event.artist}`}>
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/>
+        <circle cx="12" cy="12" r="3"/>
+        <path d="M3 3l18 18"/>
       </svg>
     </button>
     <button class="icon-btn share" data-share-text={shareText} aria-label="Share" title="Share">

@@ -17,10 +17,31 @@ Two things keep the daily job honest:
 
 ## The page
 
-Three filters, persisted per browser: **All**, **Next 14 days**, and **New this week**.
-The fortnight window is the same helper the digest uses (`fetcher/display.js` and
-`fetcher/digest.js` agree on what 14 days means), so the page and the notification can
-never disagree. Events first seen in the last 7 days carry a `NEW` badge.
+Search by artist, venue or country code (accent-insensitive), plus filters persisted per
+browser: **All**, **Next 14 days**, **New this week**, and **Hidden**. Search composes with
+the active filter rather than replacing it. The fortnight window is the same helper the
+digest uses (`fetcher/display.js` and `fetcher/digest.js` agree on what 14 days means), so
+the page and the notification can never disagree. Events first seen in the last 7 days
+carry a `NEW` badge.
+
+The page controller lives in `src/scripts/filters.js` rather than inline in the Astro
+component, so it can be driven under jsdom — three composing filters is more than can be
+checked by eye. See `tests/filters.test.js`.
+
+### Hiding artists you do not care about
+
+The eye icon on a row hides that artist. Hidden artists disappear from every filter and
+from search, and the **Hidden** tab lists them all with a click to bring one back.
+
+Hiding works at two levels:
+
+- **In your browser** (`localStorage`) — instant, this device only, does *not* affect the digest.
+- **In the repo** (`data/muted.json`) — applies everywhere, including the Telegram digest.
+  Entries may be display names or keys; `"Ozuna"` and `"ozuna"` both work.
+
+The **Hidden** tab has a *Copy list* button that yields JSON ready to paste into
+`data/muted.json`. Repo-level mutes are tagged `in repo` there, since the browser cannot
+lift them — remove them from the file instead.
 
 ## Digest
 
