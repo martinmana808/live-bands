@@ -104,6 +104,24 @@
     "firstSeenAt": "2026-08-10"
   },
   {
+    "id": "mercadodemusicapatagonico-2026-09-10-niceto",
+    "artist": "MERCADO DE MÚSICA PATAGÓNICO",
+    "artistKey": "mercadodemusicapatagonico",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3xKAHg1dVWyKSvYyd7ZvvT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d73d1e7a59d9f54bf2313d40",
+    "firstSeenAt": "2026-09-08"
+  },
+  {
     "id": "noeliasinkunasandflorenciaruiz-2026-09-10-bibliotecacafe",
     "artist": "Noelia Sinkunas and Florencia Ruiz",
     "artistKey": "noeliasinkunasandflorenciaruiz",
@@ -791,6 +809,24 @@
     "firstSeenAt": "2026-09-06"
   },
   {
+    "id": "presentaciondellibroinvencionessobrebabasonicos-2026-09-17-niceto",
+    "artist": "Presentación del libro Invenciones sobre Babasónicos",
+    "artistKey": "presentaciondellibroinvencionessobrebabasonicos",
+    "date": "2026-09-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/presentaci-n-del-libro-invenciones-sobre-babas-nicos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6vP0W1WisgwHQBBIZf1gH7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788627efb7e7c65d9f46bbb767",
+    "firstSeenAt": "2026-09-08"
+  },
+  {
     "id": "alexanwandter-2026-09-18-granrex",
     "artist": "Alex Anwandter",
     "artistKey": "alexanwandter",
@@ -925,6 +961,24 @@
     "firstSeenAt": "2026-08-31"
   },
   {
+    "id": "oasis-2026-09-18-niceto",
+    "artist": "Oasis",
+    "artistKey": "oasis",
+    "date": "2026-09-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/oasis-18-sep-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
+    "firstSeenAt": "2026-09-08"
+  },
+  {
     "id": "pogofestespecialmetal-2026-09-18-vorterix",
     "artist": "POGOFEST – ESPECIAL METAL",
     "artistKey": "pogofestespecialmetal",
@@ -995,6 +1049,24 @@
     "spotifyId": "4zXroEby35IgWPERRcW4Ay",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17864ed9630fd36c863e2b3e3c1",
     "firstSeenAt": "2026-08-23"
+  },
+  {
+    "id": "acostadetodopianobar-2026-09-19-niceto",
+    "artist": "ACOSTADETODO PIANO BAR",
+    "artistKey": "acostadetodopianobar",
+    "date": "2026-09-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/acostadetodo-piano-bar-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7qKxhFTGcJ7w7JEFGqqWwK",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780d08dd29a025e7990f366121",
+    "firstSeenAt": "2026-09-08"
   },
   {
     "id": "club69-2026-09-19-niceto",
@@ -1285,6 +1357,22 @@
     "firstSeenAt": "2026-09-07"
   },
   {
+    "id": "oldmanschild-2026-09-24-groove",
+    "artist": "Old Man's Child",
+    "artistKey": "oldmanschild",
+    "date": "2026-09-24",
+    "venue": "Groove",
+    "venueKey": "groove",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "NO",
+    "spotifyId": "4LT73i2bqTazQQkmODMaYf",
+    "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
+    "firstSeenAt": "2026-09-08"
+  },
+  {
     "id": "sudanarchives-2026-09-24-niceto",
     "artist": "SUDAN ARCHIVES",
     "artistKey": "sudanarchives",
@@ -1375,6 +1463,22 @@
     "firstSeenAt": "2026-08-30"
   },
   {
+    "id": "morat-2026-09-25-movistararena",
+    "artist": "Morat",
+    "artistKey": "morat",
+    "date": "2026-09-25",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "firstSeenAt": "2026-09-08"
+  },
+  {
     "id": "pedropastor-2026-09-25-niceto",
     "artist": "PEDRO PASTOR",
     "artistKey": "pedropastor",
@@ -1447,42 +1551,6 @@
     "firstSeenAt": "2026-08-30"
   },
   {
-    "id": "club69aniversario-2026-09-26-niceto",
-    "artist": "Club 69 | ANIVERSARIO",
-    "artistKey": "club69aniversario",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "cuasifunky-2026-09-26-niceto",
-    "artist": "CUASIFUNKY",
-    "artistKey": "cuasifunky",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/cuasifunky-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0YsLR3SQd5QTXAhGIGX7cl",
-    "spotifyImage": "https://i.scdn.co/image/6130249da83481926006ffa955d14071daba3833",
-    "firstSeenAt": "2026-08-30"
-  },
-  {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
     "artist": "FIESTA DEBAR 20 AÑOS",
     "artistKey": "fiestadebar20anos",
@@ -1501,24 +1569,6 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "fungipresjosemonsalveaugustobrunoledesma-2026-09-26-niceto",
-    "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
-    "artistKey": "fungipresjosemonsalveaugustobrunoledesma",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3RO77ACEhRNve0HzfCaW9r",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d196fcaed3d37aac83e1368f",
-    "firstSeenAt": "2026-08-30"
-  },
-  {
     "id": "kiddvoodoo-2026-09-26-vorterix",
     "artist": "KIDD VOODOO",
     "artistKey": "kiddvoodoo",
@@ -1535,24 +1585,6 @@
     "spotifyId": "10VBp06W8NIgMW4JruLCC4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
     "firstSeenAt": "2026-05-21"
-  },
-  {
-    "id": "lalifestbymandalay-2026-09-26-niceto",
-    "artist": "LALIFEST by MANDALAY",
-    "artistKey": "lalifestbymandalay",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2RgldIVB6hgTzEjSXWNFE2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789ceaf2588a1fa2bf9fe57466",
-    "firstSeenAt": "2026-08-31"
   },
   {
     "id": "valenvargascumbiabuenaparanochesmalas-2026-09-26-niceto",

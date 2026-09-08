@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-09-07",
+  "fetchedAt": "2026-09-08",
   "events": [
+    {
+      "artist": "MERCADO DE MÚSICA PATAGÓNICO",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad",
+      "source": "niceto"
+    },
     {
       "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
       "venue": "Niceto Club",
@@ -142,6 +149,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Presentación del libro Invenciones sobre Babasónicos",
+      "venue": "Niceto Club",
+      "date": "2026-09-17",
+      "ticketUrl": "https://venti.live/evento/presentaci-n-del-libro-invenciones-sobre-babas-nicos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Piazzolla Electrónico x Nico Sorin 17 SEP",
       "venue": "Niceto Club",
       "date": "2026-09-17",
@@ -191,6 +205,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Oasis 18 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/oasis-18-sep-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Trabestia, drag club  18 SEP",
       "venue": "Niceto Club",
       "date": "2026-09-18",
@@ -209,6 +230,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-19",
       "ticketUrl": "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "ACOSTADETODO PIANO BAR",
+      "venue": "Niceto Club",
+      "date": "2026-09-19",
+      "ticketUrl": "https://venti.live/evento/acostadetodo-piano-bar-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -321,34 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-09-26",
       "ticketUrl": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "CUASIFUNKY",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/cuasifunky-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "LALIFEST by MANDALAY  26 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "Club 69 | ANIVERSARIO 26 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]
