@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-10",
   "events": [
-    {
-      "artist": "Ozuna",
-      "venue": "Movistar Arena",
-      "date": "2026-09-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "Bloodbath",
-      "venue": "Uniclub",
-      "date": "2026-09-09",
-      "source": "songkick"
-    },
-    {
-      "artist": "Florencia Bertotti",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-09",
-      "source": "songkick"
-    },
     {
       "artist": "Florencia Bertotti",
       "venue": "Teatro Gran Rex",
@@ -152,6 +134,12 @@
       "source": "songkick"
     },
     {
+      "artist": "Hernán Casciari",
+      "venue": "Paseo La Plaza",
+      "date": "2026-09-17",
+      "source": "songkick"
+    },
+    {
       "artist": "Nenagenix",
       "venue": "Cooperativa Cultural Qi",
       "date": "2026-09-17",
@@ -160,12 +148,6 @@
     {
       "artist": "Left to Die",
       "venue": "Uniclub",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Hernán Casciari",
-      "venue": "Paseo La Plaza",
       "date": "2026-09-17",
       "source": "songkick"
     },
@@ -292,6 +274,24 @@
     {
       "artist": "Morat",
       "venue": "Movistar Arena",
+      "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Conociendo Rusia",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Las Historias",
+      "venue": "Club Cultural Bula",
+      "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Pedro Pastor and Los Locos Descalzos",
+      "venue": "Niceto Club",
       "date": "2026-09-25",
       "source": "songkick"
     }

@@ -1,14 +1,14 @@
 {
   "songkick": {
-    "count": 0,
-    "lastHealthyAt": "2026-09-08"
+    "count": 49,
+    "lastHealthyAt": "2026-09-10"
   },
   "vorterix": {
     "count": 0,
     "lastHealthyAt": "2026-09-05"
   },
   "niceto": {
-    "count": 0,
-    "lastHealthyAt": "2026-09-08"
+    "count": 50,
+    "lastHealthyAt": "2026-09-10"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-10",
   "events": [
     {
       "artist": "MERCADO DE MÚSICA PATAGÓNICO",
@@ -41,6 +41,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-10",
       "ticketUrl": "https://venti.live/evento/punchi-session-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "KILOMBO 10 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-10",
+      "ticketUrl": "https://venti.live/evento/kilombo-10-sep-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -342,13 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-09-26",
       "ticketUrl": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
       "source": "niceto"
     }
   ]

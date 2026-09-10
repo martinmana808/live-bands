@@ -1,37 +1,5 @@
 [
   {
-    "id": "ozuna-2026-09-08-movistararena",
-    "artist": "Ozuna",
-    "artistKey": "ozuna",
-    "date": "2026-09-08",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "1i8SpTcr7yvPOmcqrbnVXY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4284179078e2529b1630e2",
-    "firstSeenAt": "2026-08-21"
-  },
-  {
-    "id": "bloodbath-2026-09-09-uniclub",
-    "artist": "Bloodbath",
-    "artistKey": "bloodbath",
-    "date": "2026-09-09",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "SE",
-    "spotifyId": "7eYmDBinb760MUIfoRdlGQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17844fc4d7d272e9e468c930cbe",
-    "firstSeenAt": "2026-08-17"
-  },
-  {
     "id": "chinoy-2026-09-10-niceto",
     "artist": "Chinoy",
     "artistKey": "chinoy",
@@ -102,6 +70,24 @@
     "spotifyId": "4hsviYm29ZjWspJ2deCk70",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838",
     "firstSeenAt": "2026-08-10"
+  },
+  {
+    "id": "kilombo-2026-09-10-niceto",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-10-sep-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2y2zsEIM0NTeGwkxcnGmvo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a2c5f275aea7394504e667ba",
+    "firstSeenAt": "2026-09-10"
   },
   {
     "id": "mercadodemusicapatagonico-2026-09-10-niceto",
@@ -1445,6 +1431,22 @@
     "firstSeenAt": "2026-06-28"
   },
   {
+    "id": "lashistorias-2026-09-25-culturalbula",
+    "artist": "Las Historias",
+    "artistKey": "lashistorias",
+    "date": "2026-09-25",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
+    "firstSeenAt": "2026-09-10"
+  },
+  {
     "id": "latinpianobar-2026-09-25-niceto",
     "artist": "LATIN PIANO BAR",
     "artistKey": "latinpianobar",
@@ -1497,6 +1499,22 @@
     "firstSeenAt": "2026-08-30"
   },
   {
+    "id": "pedropastorandloslocosdescalzos-2026-09-25-niceto",
+    "artist": "Pedro Pastor and Los Locos Descalzos",
+    "artistKey": "pedropastorandloslocosdescalzos",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6OWapcJm9xd55ci9CYbAuT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ac4404f853105ca0ae098306",
+    "firstSeenAt": "2026-09-10"
+  },
+  {
     "id": "pelusones-2026-09-25-niceto",
     "artist": "Pelusones",
     "artistKey": "pelusones",
@@ -1531,24 +1549,6 @@
     "spotifyId": "16LYwGPwl47bMoMQApylLi",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
     "firstSeenAt": "2026-09-06"
-  },
-  {
-    "id": "camigalzlicoretzalupuspresentacionoficial-2026-09-26-niceto",
-    "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-    "artistKey": "camigalzlicoretzalupuspresentacionoficial",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2",
-    "firstSeenAt": "2026-08-30"
   },
   {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
