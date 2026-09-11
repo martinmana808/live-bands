@@ -1,5 +1,65 @@
 [
   {
+    "id": "ciclo23hs-2026-09-10-niceto",
+    "artist": "CICLO23HS",
+    "artistKey": "ciclo23hs",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ciclo23hs-fiesta-mermelada-after-jostick-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11",
+    "shortId": "8o92hto"
+  },
+  {
+    "id": "kilombo-2026-09-10-niceto",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-10-sep-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1nola9x"
+  },
+  {
+    "id": "punchisession-2026-09-10-niceto",
+    "artist": "PUNCHI SESSION",
+    "artistKey": "punchisession",
+    "date": "2026-09-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/punchi-session-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-05",
+    "shortId": "zmkwjz3"
+  },
+  {
     "id": "autosrobados-2026-09-11-operalp",
     "artist": "AUTOS ROBADOS",
     "artistKey": "autosrobados",
@@ -16,7 +76,8 @@
     "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "qqyn07t"
   },
   {
     "id": "blackdog-2026-09-11-cafeberlin",
@@ -39,7 +100,8 @@
       "ambient techno",
       "techno"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "20cvc20"
   },
   {
     "id": "campamento-2026-09-11-lalala",
@@ -56,7 +118,8 @@
     "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
     "genres": [],
-    "firstSeenAt": "2026-08-22"
+    "firstSeenAt": "2026-08-22",
+    "shortId": "1ss16ra"
   },
   {
     "id": "celeste-2026-09-11-culturalbula",
@@ -77,7 +140,8 @@
       "contemporary r&b",
       "r&b"
     ],
-    "firstSeenAt": "2026-08-22"
+    "firstSeenAt": "2026-08-22",
+    "shortId": "1iwbwhq"
   },
   {
     "id": "chinosancheznotodotratadeuno-2026-09-11-niceto",
@@ -96,7 +160,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-10"
+    "firstSeenAt": "2026-08-10",
+    "shortId": "se2w1f8"
   },
   {
     "id": "chrisluno-2026-09-11-catamaranlibertad",
@@ -116,7 +181,8 @@
       "electronic",
       "organic house"
     ],
-    "firstSeenAt": "2026-08-22"
+    "firstSeenAt": "2026-08-22",
+    "shortId": "1gz4uiq"
   },
   {
     "id": "erickbrian-2026-09-11-vorterix",
@@ -135,7 +201,8 @@
     "spotifyId": "4tSDK2ySq41vxwERzxVRZH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff2542a0c8b51e333059d99d",
     "genres": [],
-    "firstSeenAt": "2026-07-02"
+    "firstSeenAt": "2026-07-02",
+    "shortId": "1o4vsgf"
   },
   {
     "id": "festivalpardoddt-2026-09-11-niceto",
@@ -154,7 +221,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2636nrs"
   },
   {
     "id": "fiestaclickenvorterix-2026-09-11-vorterix",
@@ -173,7 +241,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "1czrg6x"
   },
   {
     "id": "lauandrade-2026-09-11-ccnu",
@@ -192,7 +261,28 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "j5bytsd"
+  },
+  {
+    "id": "losespiritus-2026-09-11-niceto",
+    "artist": "Los Espíritus",
+    "artistKey": "losespiritus",
+    "date": "2026-09-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/los-esp-ritus-11-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
+    "genres": [],
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1iq3vic"
   },
   {
     "id": "lossub-2026-09-11-cubo",
@@ -209,7 +299,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "l25wvj7"
   },
   {
     "id": "mambaclvb-2026-09-11-niceto",
@@ -228,7 +319,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-03"
+    "firstSeenAt": "2026-09-03",
+    "shortId": "1oe56ed"
   },
   {
     "id": "marianocastroclerici5tet-2026-09-11-ccnu",
@@ -247,26 +339,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "mercadodemusicapatagonico-2026-09-11-niceto",
-    "artist": "MERCADO DE MÚSICA PATAGÓNICO",
-    "artistKey": "mercadodemusicapatagonico",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "i6v6nhy"
   },
   {
     "id": "northgroove-2026-09-11-niceto",
@@ -285,7 +359,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "cu8ipk7"
   },
   {
     "id": "sensoria-2026-09-11-niceto",
@@ -306,7 +381,8 @@
     "genres": [
       "trance"
     ],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "1gqkqkq"
   },
   {
     "id": "autosrobados-2026-09-12-operalp",
@@ -325,7 +401,8 @@
     "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "5me4fdn"
   },
   {
     "id": "choosey-2026-09-12-niceto",
@@ -346,7 +423,8 @@
     "genres": [
       "hip hop"
     ],
-    "firstSeenAt": "2026-07-28"
+    "firstSeenAt": "2026-07-28",
+    "shortId": "2lo8yuu"
   },
   {
     "id": "chrisluno-2026-09-12-nativebeachcardales",
@@ -366,7 +444,8 @@
       "electronic",
       "organic house"
     ],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "20sne4c"
   },
   {
     "id": "club69-2026-09-12-niceto",
@@ -385,7 +464,8 @@
     "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "1q0219n"
   },
   {
     "id": "desorden-2026-09-12-niceto",
@@ -404,7 +484,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-18"
+    "firstSeenAt": "2026-08-18",
+    "shortId": "bcsiuvb"
   },
   {
     "id": "electra-2026-09-12-niceto",
@@ -423,7 +504,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-27"
+    "firstSeenAt": "2026-08-27",
+    "shortId": "1bjemym"
   },
   {
     "id": "ether-2026-09-12-niceto",
@@ -445,7 +527,8 @@
       "alternative rock",
       "britpop"
     ],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "17m0lp4"
   },
   {
     "id": "fedecabral-2026-09-12-muddys",
@@ -462,7 +545,8 @@
     "spotifyId": "3AiQjychmM933C9dY4S8It",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-22"
+    "firstSeenAt": "2026-08-22",
+    "shortId": "9pcngcy"
   },
   {
     "id": "fiestaforever90s-2026-09-12-vorterix",
@@ -481,7 +565,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1o6hsde"
   },
   {
     "id": "intigarcialamultifaceticaproyectanensayoabiertolivesession-2026-09-12-niceto",
@@ -500,7 +585,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "gwg4l18"
   },
   {
     "id": "johnsummit-2026-09-12-mandarinetent",
@@ -521,7 +607,8 @@
       "edm",
       "house"
     ],
-    "firstSeenAt": "2026-08-22"
+    "firstSeenAt": "2026-08-22",
+    "shortId": "2l8it3k"
   },
   {
     "id": "leiparty-2026-09-12-quilmes",
@@ -540,7 +627,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "tgnpqhl"
   },
   {
     "id": "nilocos-2026-09-12-cafeberlin",
@@ -559,7 +647,8 @@
     "spotifyId": "6FuVoI0I9rIsRLlRmftbxX",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d9ee8bc281cb9ec0711f306c",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "22awisw"
   },
   {
     "id": "nochesdeteatro-2026-09-12-cafeberlin",
@@ -578,7 +667,8 @@
     "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1gvba7h"
   },
   {
     "id": "oeisis-2026-09-12-guajiralp",
@@ -597,7 +687,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "qrs94mv"
   },
   {
     "id": "rosenight-2026-09-12-niceto",
@@ -616,7 +707,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "1gonxs5"
   },
   {
     "id": "sobredosisdesodaintimoyalacarta-2026-09-12-cafeberlin",
@@ -635,7 +727,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "rzod9f2"
   },
   {
     "id": "standardsessionamericansongbookessentials-2026-09-12-ccnu",
@@ -654,7 +747,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "va7zj9b"
   },
   {
     "id": "treasuresofclassicjazz-2026-09-12-ccnu",
@@ -673,7 +767,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "ecfcsmc"
   },
   {
     "id": "chicojotasextetoplaysmosaic-2026-09-13-ccnu",
@@ -692,7 +787,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "3af9j2n"
   },
   {
     "id": "donolimpio-2026-09-13-salaalejandrocasona",
@@ -709,7 +805,8 @@
     "spotifyId": "0S9BuBCtPWNNiQgvXvk1y9",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898edabfe51534cc725e623eb",
     "genres": [],
-    "firstSeenAt": "2026-08-26"
+    "firstSeenAt": "2026-08-26",
+    "shortId": "jqzm66a"
   },
   {
     "id": "duotrixieymeteoro-2026-09-13-ccnu",
@@ -728,7 +825,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "6c0wqun"
   },
   {
     "id": "francia98-2026-09-13-cafeberlin",
@@ -747,7 +845,8 @@
     "spotifyId": "6me7j5R08ARYKASHiqhvcu",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6c53e7f52db38ba8a810c15",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "11to18h"
   },
   {
     "id": "helloween-2026-09-13-movistararena",
@@ -768,7 +867,8 @@
       "heavy metal",
       "speed metal"
     ],
-    "firstSeenAt": "2026-08-24"
+    "firstSeenAt": "2026-08-24",
+    "shortId": "27z6bdc"
   },
   {
     "id": "inakiurlezaga-2026-09-13-salaginasteraargentinolp",
@@ -787,7 +887,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "i32odxj"
   },
   {
     "id": "toe-2026-09-13-niceto",
@@ -810,7 +911,8 @@
       "post-rock",
       "math rock"
     ],
-    "firstSeenAt": "2026-08-18"
+    "firstSeenAt": "2026-08-18",
+    "shortId": "9ic146k"
   },
   {
     "id": "straykids-2026-09-14-hipodromosanisidro",
@@ -831,7 +933,8 @@
       "electropop",
       "pop rap"
     ],
-    "firstSeenAt": "2026-08-26"
+    "firstSeenAt": "2026-08-26",
+    "shortId": "24l6e2y"
   },
   {
     "id": "robertoantier-2026-09-15-cafeberlin",
@@ -850,7 +953,8 @@
     "spotifyId": "0veXXp2k4dPCQcgEFQWqas",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1nwvtsa"
   },
   {
     "id": "straykids-2026-09-15-hipodromosanisidro",
@@ -871,7 +975,8 @@
       "electropop",
       "pop rap"
     ],
-    "firstSeenAt": "2026-08-29"
+    "firstSeenAt": "2026-08-29",
+    "shortId": "wbzwmho"
   },
   {
     "id": "5secondsofsummer-2026-09-16-movistararena",
@@ -892,7 +997,8 @@
       "pop punk",
       "pop"
     ],
-    "firstSeenAt": "2026-08-29"
+    "firstSeenAt": "2026-08-29",
+    "shortId": "2qg1a77"
   },
   {
     "id": "dolarblues-2026-09-16-cafeberlin",
@@ -911,7 +1017,8 @@
     "spotifyId": "5uQZuKfOyl8ooW5Qbd6HqV",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd67b6d238c0d35574544eb7",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2puwcnu"
   },
   {
     "id": "pjmorton-2026-09-16-vorterix",
@@ -932,7 +1039,8 @@
     "genres": [
       "soul"
     ],
-    "firstSeenAt": "2026-06-14"
+    "firstSeenAt": "2026-06-14",
+    "shortId": "eysfmxo"
   },
   {
     "id": "deepsession16-2026-09-17-niceto",
@@ -951,7 +1059,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "7ybd4iy"
   },
   {
     "id": "gyomaratrio-2026-09-17-ccnu",
@@ -970,7 +1079,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1r6m0jf"
   },
   {
     "id": "hernancasciari-2026-09-17-paseoplaza",
@@ -987,7 +1097,8 @@
     "spotifyId": "6yCjiAcEkIMGxRynL8Y9xQ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17865f896569c6e23a9e649f483",
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2kdo2sy"
   },
   {
     "id": "jamiroquai-2026-09-17-hipodromosanisidro",
@@ -1008,7 +1119,8 @@
       "funk",
       "disco"
     ],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "zmd6fvc"
   },
   {
     "id": "kapo-2026-09-17-movistararena",
@@ -1025,7 +1137,8 @@
     "spotifyId": "3UTF2no3muGdiFXVujl94i",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
     "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "2dsbtuk"
   },
   {
     "id": "lefttodie-2026-09-17-uniclub",
@@ -1044,7 +1157,8 @@
     "genres": [
       "death metal"
     ],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "1ce76vf"
   },
   {
     "id": "leonardoamuedodanielmaza-2026-09-17-cafeberlin",
@@ -1063,7 +1177,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "jmwwjrt"
   },
   {
     "id": "martinamarpegan-2026-09-17-niceto",
@@ -1082,7 +1197,8 @@
     "spotifyId": "3cdHu4v5C71IttGubSDzKO",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178435c1930fff0de852d9958e1",
     "genres": [],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "2nx2pew"
   },
   {
     "id": "missrapsody-2026-09-17-cafeberlin",
@@ -1101,7 +1217,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "27ofgcx"
   },
   {
     "id": "pedroaguilaryamigos-2026-09-17-niceto",
@@ -1120,7 +1237,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-25"
+    "firstSeenAt": "2026-08-25",
+    "shortId": "7zte7kg"
   },
   {
     "id": "piazzollaelectronicoxnicosorin-2026-09-17-niceto",
@@ -1139,7 +1257,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2ddyrw7"
   },
   {
     "id": "presentaciondellibroinvencionessobrebabasonicos-2026-09-17-niceto",
@@ -1158,7 +1277,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "162ljuv"
   },
   {
     "id": "singersinjam-2026-09-17-ccnu",
@@ -1177,7 +1297,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "7e6dxkr"
   },
   {
     "id": "alexanwandter-2026-09-18-granrex",
@@ -1196,7 +1317,8 @@
     "genres": [
       "singer-songwriter"
     ],
-    "firstSeenAt": "2026-08-31"
+    "firstSeenAt": "2026-08-31",
+    "shortId": "2f64upk"
   },
   {
     "id": "cristianlopez-2026-09-18-noblezaobliga",
@@ -1213,7 +1335,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-31"
+    "firstSeenAt": "2026-08-31",
+    "shortId": "k45kv7a"
   },
   {
     "id": "culturaprofetica-2026-09-18-movistararena",
@@ -1233,7 +1356,8 @@
       "reggae",
       "latin"
     ],
-    "firstSeenAt": "2026-08-31"
+    "firstSeenAt": "2026-08-31",
+    "shortId": "j84sd0b"
   },
   {
     "id": "ernestodmitrukcuarteto-2026-09-18-ccnu",
@@ -1252,7 +1376,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "ub4vmwg"
   },
   {
     "id": "gustavocorderafestejasucumpleanosenvorterix-2026-09-18-vorterix",
@@ -1271,7 +1396,28 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "1y2l73f"
+  },
+  {
+    "id": "hecatombe-2026-09-18-salapiazzollaargentinolp",
+    "artist": "HECATOMBE",
+    "artistKey": "hecatombe",
+    "date": "2026-09-18",
+    "venue": "Sala Piazzolla - Teatro Argentino LP",
+    "venueKey": "salapiazzollaargentinolp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "FR",
+    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
+    "genres": [],
+    "firstSeenAt": "2026-09-11",
+    "shortId": "128myog"
   },
   {
     "id": "kalibrereczolanochedelencuentro-2026-09-18-niceto",
@@ -1290,7 +1436,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "zzgnlkl"
   },
   {
     "id": "laraxxet-2026-09-18-niceto",
@@ -1309,7 +1456,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "20748fy"
   },
   {
     "id": "lastussiandsakatumba-2026-09-18-espacioculturallaberinto",
@@ -1326,7 +1474,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-04"
+    "firstSeenAt": "2026-09-04",
+    "shortId": "1vjxcci"
   },
   {
     "id": "laytongiordani-2026-09-18-crobar",
@@ -1343,7 +1492,8 @@
     "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61",
     "genres": [],
-    "firstSeenAt": "2026-08-31"
+    "firstSeenAt": "2026-08-31",
+    "shortId": "6g841ob"
   },
   {
     "id": "modo5-2026-09-18-ccnu",
@@ -1362,7 +1512,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "i6tare2"
   },
   {
     "id": "oasis-2026-09-18-niceto",
@@ -1385,7 +1536,8 @@
       "alternative rock",
       "rock"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2mz075d"
   },
   {
     "id": "pogofest-2026-09-18-vorterix",
@@ -1404,7 +1556,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "l2o5xur"
   },
   {
     "id": "rayuelaycampotraviesa-2026-09-18-niceto",
@@ -1423,7 +1576,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "1p8xmli"
   },
   {
     "id": "reygarufa-2026-09-18-operalp",
@@ -1442,7 +1596,8 @@
     "spotifyId": "7BGe9KQ5WlCQReyqBtM9OR",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178916f463d6c64e3f0e695fff3",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "k112xea"
   },
   {
     "id": "santiagomolina-2026-09-18-cafeberlin",
@@ -1461,7 +1616,8 @@
     "spotifyId": "1Tc1jnGXaRCu62tn1t1k2w",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea501cfe19eb36c3b3a7c1bf",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "29uqi1j"
   },
   {
     "id": "sarahlenore-2026-09-18-cafeberlin",
@@ -1480,7 +1636,8 @@
     "spotifyId": "4H2xPnLZ6qdTlQzf3XF6r7",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17875ff028003d2cdb6e83d43eb",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "kekof4v"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
@@ -1499,7 +1656,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "wr5w5sk"
   },
   {
     "id": "trabestiadragclub-2026-09-18-niceto",
@@ -1518,7 +1676,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-23"
+    "firstSeenAt": "2026-08-23",
+    "shortId": "2hnoiqu"
   },
   {
     "id": "acostadetodopianobar-2026-09-19-niceto",
@@ -1537,7 +1696,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2m886b8"
   },
   {
     "id": "club69-2026-09-19-niceto",
@@ -1556,7 +1716,8 @@
     "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "jko6jg4"
   },
   {
     "id": "experienciaroce-2026-09-19-niceto",
@@ -1575,7 +1736,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-01"
+    "firstSeenAt": "2026-09-01",
+    "shortId": "t6hfikq"
   },
   {
     "id": "fiestaclimax-2026-09-19-vorterix",
@@ -1594,7 +1756,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2rjimkq"
   },
   {
     "id": "fiestamermelada-2026-09-19-niceto",
@@ -1613,7 +1776,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "953vf7d"
   },
   {
     "id": "johnpaulthebeatlesexperience-2026-09-19-ccnu",
@@ -1632,7 +1796,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1dnwsy6"
   },
   {
     "id": "johndigweed-2026-09-19-autodromobuenosaires",
@@ -1653,7 +1818,8 @@
       "house",
       "progressive house"
     ],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "e21etmq"
   },
   {
     "id": "mariatorpecerettimattmontero-2026-09-19-niceto",
@@ -1672,7 +1838,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-03"
+    "firstSeenAt": "2026-09-03",
+    "shortId": "12tqplu"
   },
   {
     "id": "nochesdeteatro-2026-09-19-cafeberlin",
@@ -1691,7 +1858,8 @@
     "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "t56fo25"
   },
   {
     "id": "nosvemosenaustralia-2026-09-19-poloculturaltacheles",
@@ -1708,7 +1876,8 @@
     "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "211up6m"
   },
   {
     "id": "nuevasflores-2026-09-19-ccnu",
@@ -1727,7 +1896,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "yepgefo"
   },
   {
     "id": "pezdebuenosaires-2026-09-19-mutar",
@@ -1744,7 +1914,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-05"
+    "firstSeenAt": "2026-09-05",
+    "shortId": "dlwqzcp"
   },
   {
     "id": "marchiappetta-2026-09-20-ccnu",
@@ -1763,7 +1934,8 @@
     "spotifyId": "31PGsnmcXsq96YG0S0AWTC",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783e4332a60bc5df1496a394eb",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1av5krr"
   },
   {
     "id": "masmusica-2026-09-20-cafeberlin",
@@ -1782,7 +1954,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "yqq6v53"
   },
   {
     "id": "mestizajegrupo-2026-09-20-ccnu",
@@ -1801,7 +1974,8 @@
     "spotifyId": "1fQwzWKmFPhYjDT9dpeZSR",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048510fb6488ba00566a4f1e14b66",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "17hoqyl"
   },
   {
     "id": "tvtoficialandpantalonesrotos-2026-09-20-portal",
@@ -1818,7 +1992,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "x8xcopd"
   },
   {
     "id": "landmvrks-2026-09-22-teatrito",
@@ -1838,7 +2013,8 @@
       "metalcore",
       "post-hardcore"
     ],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "3depfae"
   },
   {
     "id": "noeliasinkunasandlucypatane-2026-09-22-fabrica",
@@ -1855,7 +2031,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2dlxb3e"
   },
   {
     "id": "samiam-2026-09-22-culturalbula",
@@ -1876,7 +2053,8 @@
       "emo pop",
       "hardcore punk"
     ],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2izb5k5"
   },
   {
     "id": "waltercolonnaband-2026-09-22-cafeberlin",
@@ -1895,7 +2073,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "26ebhd8"
   },
   {
     "id": "caifanes-2026-09-23-vorterix",
@@ -1916,7 +2095,8 @@
       "cumbia mexicana",
       "gothic rock"
     ],
-    "firstSeenAt": "2026-05-09"
+    "firstSeenAt": "2026-05-09",
+    "shortId": "mcb4d8g"
   },
   {
     "id": "rikyn-2026-09-23-cafeberlin",
@@ -1935,7 +2115,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "cvezv4y"
   },
   {
     "id": "5planetas-2026-09-24-cafeberlin",
@@ -1954,7 +2135,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2b30fi0"
   },
   {
     "id": "abrilcormerytrio-2026-09-24-ccnu",
@@ -1973,7 +2155,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1jp0sd6"
   },
   {
     "id": "dennisbovellclubhats-2026-09-24-niceto",
@@ -1992,7 +2175,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-02"
+    "firstSeenAt": "2026-09-02",
+    "shortId": "1licuaf"
   },
   {
     "id": "gestionmusicalelartedeconstruirunacarrera-2026-09-24-niceto",
@@ -2011,7 +2195,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2001and"
   },
   {
     "id": "januve-2026-09-24-cafeberlin",
@@ -2030,7 +2215,8 @@
     "spotifyId": "7hWXE61toZRP69BB1bQgDe",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1c156a08448c8925321159b",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "19k4fru"
   },
   {
     "id": "laplayground-2026-09-24-niceto",
@@ -2049,7 +2235,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-04"
+    "firstSeenAt": "2026-09-04",
+    "shortId": "1fnt7b2"
   },
   {
     "id": "morat-2026-09-24-movistararena",
@@ -2069,7 +2256,8 @@
       "latin",
       "latin pop"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "29izilh"
   },
   {
     "id": "oldmanschild-2026-09-24-groove",
@@ -2088,7 +2276,8 @@
     "genres": [
       "melodic black metal"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2aw5uoq"
   },
   {
     "id": "sudanarchives-2026-09-24-niceto",
@@ -2111,7 +2300,8 @@
       "alternative folk",
       "electro"
     ],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "s4lw8cu"
   },
   {
     "id": "swinginclassics-2026-09-24-ccnu",
@@ -2130,7 +2320,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "28uecp5"
   },
   {
     "id": "antoniaadem-2026-09-25-ccnu",
@@ -2149,7 +2340,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2mcdrjn"
   },
   {
     "id": "bahianoenvorterix-2026-09-25-vorterix",
@@ -2168,7 +2360,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-05-17"
+    "firstSeenAt": "2026-05-17",
+    "shortId": "20gcepu"
   },
   {
     "id": "ceremoniarocknacional-2026-09-25-sanmiguel",
@@ -2187,7 +2380,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1e18beh"
   },
   {
     "id": "danceteria-2026-09-25-niceto",
@@ -2206,7 +2400,8 @@
     "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "tvtctzy"
   },
   {
     "id": "franbusso-2026-09-25-puraespaciocultural",
@@ -2223,7 +2418,8 @@
     "spotifyId": "3ulWAHPDwSvZ0G6eaprCuy",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788e59a3b6486c3d1b67a5616e",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "13pscc7"
   },
   {
     "id": "hermanosmartinez-2026-09-25-cafeberlin",
@@ -2242,7 +2438,8 @@
     "spotifyId": "4t75tim4RSC1FXQJcHXS4x",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178352f66eed1020dee8d83dcf7",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1ql6fwt"
   },
   {
     "id": "kaosrave-2026-09-25-vorterix",
@@ -2261,7 +2458,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-06-28"
+    "firstSeenAt": "2026-06-28",
+    "shortId": "1x4rw1t"
   },
   {
     "id": "lashistorias-2026-09-25-culturalbula",
@@ -2282,7 +2480,8 @@
       "rock",
       "stoner metal"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1g0rs5j"
   },
   {
     "id": "latinpianobar-2026-09-25-niceto",
@@ -2301,7 +2500,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "24k1jcv"
   },
   {
     "id": "morat-2026-09-25-movistararena",
@@ -2321,7 +2521,8 @@
       "latin",
       "latin pop"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2p104yh"
   },
   {
     "id": "nanndos-2026-09-25-v",
@@ -2338,7 +2539,8 @@
     "spotifyId": "6gx9AATbFhFQ3INOgS7BDh",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "oq05ol8"
   },
   {
     "id": "pedropastor-2026-09-25-niceto",
@@ -2359,7 +2561,8 @@
     "genres": [
       "singer-songwriter"
     ],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "1fgzq79"
   },
   {
     "id": "pedropastorandloslocosdescalzos-2026-09-25-niceto",
@@ -2376,7 +2579,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "18twpcn"
   },
   {
     "id": "pelusones-2026-09-25-niceto",
@@ -2395,7 +2599,8 @@
     "spotifyId": "1vW3322paTGEEBrcuD5J8r",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
     "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "1235cj8"
   },
   {
     "id": "polentasolopop-2026-09-25-niceto",
@@ -2414,7 +2619,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "im8aaaq"
   },
   {
     "id": "quarterquartet-2026-09-25-ccnu",
@@ -2433,7 +2639,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "12ixlsq"
   },
   {
     "id": "rompiendoespejos-2026-09-25-operalp",
@@ -2452,26 +2659,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "vulkaomora-2026-09-25-niceto",
-    "artist": "VULKA + OMORA",
-    "artistKey": "vulkaomora",
-    "date": "2026-09-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/vulka-omora-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "jivy1s8"
   },
   {
     "id": "alekurz-2026-09-26-sanmiguel",
@@ -2490,7 +2679,8 @@
     "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1c7lxwo"
   },
   {
     "id": "camigalzlicoretzalupus-2026-09-26-niceto",
@@ -2509,7 +2699,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "13bin0b"
   },
   {
     "id": "cuasifunky-2026-09-26-niceto",
@@ -2528,7 +2719,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-08-30",
+    "shortId": "d41km5k"
   },
   {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
@@ -2547,7 +2739,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "t793y4m"
   },
   {
     "id": "fiestaplophomenajeamoriacasan-2026-09-26-operalp",
@@ -2566,26 +2759,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "fungipresjosemonsalveaugustobrunoledesma-2026-09-26-niceto",
-    "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
-    "artistKey": "fungipresjosemonsalveaugustobrunoledesma",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-30"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "23pw28n"
   },
   {
     "id": "kiddvoodoo-2026-09-26-vorterix",
@@ -2600,11 +2775,12 @@
     "sources": [
       "vorterix"
     ],
-    "country": "CL",
+    "country": null,
     "spotifyId": "10VBp06W8NIgMW4JruLCC4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
     "genres": [],
-    "firstSeenAt": "2026-05-21"
+    "firstSeenAt": "2026-05-21",
+    "shortId": "12jjzue"
   },
   {
     "id": "pauladorrego-2026-09-26-ccnu",
@@ -2623,7 +2799,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "131qr2q"
   },
   {
     "id": "valenvargas-2026-09-26-niceto",
@@ -2642,7 +2819,8 @@
     "spotifyId": "67oZkRi3cta1wNxN3KoFt5",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "6i3v2x0"
   },
   {
     "id": "viticoylosleones-2026-09-26-cafeberlin",
@@ -2661,7 +2839,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2gxxf5q"
   },
   {
     "id": "espiritupescado-2026-09-27-cafeberlin",
@@ -2680,7 +2859,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "tffbuts"
   },
   {
     "id": "hayplan-2026-09-27-livepass",
@@ -2699,26 +2879,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hecatombe-2026-09-27-salapiazzollaargentinolp",
-    "artist": "HECATOMBE",
-    "artistKey": "hecatombe",
-    "date": "2026-09-27",
-    "venue": "Sala Piazzolla - Teatro Argentino LP",
-    "venueKey": "salapiazzollaargentinolp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "FR",
-    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "4anhhi5"
   },
   {
     "id": "sebastianbraseroswingbook-2026-09-27-ccnu",
@@ -2737,7 +2899,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1ktwwll"
   },
   {
     "id": "simongoni-2026-09-27-ccnu",
@@ -2756,7 +2919,8 @@
     "spotifyId": "6qU5ciXhWiK9cRsJawsEhu",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c3ceeac0ceac5a139879108",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2o2g4nv"
   },
   {
     "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
@@ -2775,7 +2939,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2opfcyb"
   },
   {
     "id": "danielmazayleonardoamuedo-2026-09-30-gualeguaychu",
@@ -2794,26 +2959,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "doubledragon4tet-2026-09-30-ccnu",
-    "artist": "Double Dragon 4tet",
-    "artistKey": "doubledragon4tet",
-    "date": "2026-09-30",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/double-dragon-4tet-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1a2qsrh"
   },
   {
     "id": "farolero-2026-09-30-ccnu",
@@ -2832,7 +2979,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "xsdnz2k"
   },
   {
     "id": "bandadeheroes-2026-10-01-cafeberlin",
@@ -2851,7 +2999,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "3m1e8cm"
   },
   {
     "id": "dyango-2026-10-01-salaginasteraargentinolp",
@@ -2872,7 +3021,8 @@
     "genres": [
       "latin ballad"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2izg4gi"
   },
   {
     "id": "maddabergeret-2026-10-01-cafeberlin",
@@ -2891,7 +3041,8 @@
     "spotifyId": "4Rs6WsGT2sb4bHYev3bMSl",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787fd2d2c3255013ab5ca5b662",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "pr148lk"
   },
   {
     "id": "placeresculposos100programasdenda-2026-10-01-ccnu",
@@ -2910,7 +3061,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "nf5uk17"
   },
   {
     "id": "ekisdefest-2026-10-02-vorterix",
@@ -2929,7 +3081,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2carsvb"
   },
   {
     "id": "emanero-2026-10-02-salaginasteraargentinoplata",
@@ -2948,7 +3101,8 @@
     "spotifyId": "2BTS8Np1YzPQuXjgdlqsBB",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fe9296edc2bd005aef00f5a5",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1g3pwl1"
   },
   {
     "id": "lafocafunk4-2026-10-02-cafeberlin",
@@ -2967,7 +3121,8 @@
     "spotifyId": "0IMtMBz3Onu0VEPxsOaav5",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485125e49e329eb1780638fd18b3",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1gg9o83"
   },
   {
     "id": "lecturaclairekeeganporclairekeegan-2026-10-02-malba",
@@ -2986,7 +3141,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "11z3z6f"
   },
   {
     "id": "porelsur-2026-10-02-cafeberlin",
@@ -3005,7 +3161,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "11ny1z9"
   },
   {
     "id": "sindatos-2026-10-02-guajiralp",
@@ -3024,7 +3181,8 @@
     "spotifyId": "6nR7tpxkxQxYjiYXMoETcj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783531be399fedf45bd347ef68",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2qj7oo4"
   },
   {
     "id": "1915mujercebraterroresnocturnos-2026-10-03-sanmiguel",
@@ -3043,7 +3201,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "m1mc1y7"
   },
   {
     "id": "airbag-2026-10-03-rosario",
@@ -3065,7 +3224,8 @@
       "pop punk",
       "power pop"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "nm96aw7"
   },
   {
     "id": "carrerecronista-2026-10-03-malba",
@@ -3084,7 +3244,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "13lzhd9"
   },
   {
     "id": "chiaraoliver-2026-10-03-vorterix",
@@ -3103,7 +3264,8 @@
     "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
     "genres": [],
-    "firstSeenAt": "2026-05-09"
+    "firstSeenAt": "2026-05-09",
+    "shortId": "271eb8w"
   },
   {
     "id": "fiestabacktothe80s-2026-10-03-vorterix",
@@ -3122,7 +3284,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "9zyf3cv"
   },
   {
     "id": "klezmerporlavidaylapazentrelospueblos-2026-10-03-operalp",
@@ -3141,7 +3304,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1x2u1qp"
   },
   {
     "id": "losendos-2026-10-03-cafeberlin",
@@ -3160,26 +3324,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "patcoriatrio-2026-10-03-ccnu",
-    "artist": "PAT CORIA TRIO",
-    "artistKey": "patcoriatrio",
-    "date": "2026-10-03",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pat-coria-trio-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2bm3zyk"
   },
   {
     "id": "waduwadu-2026-10-03-cafeberlin",
@@ -3198,7 +3344,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "23s1in1"
   },
   {
     "id": "chuecasylocas-2026-10-04-cafeberlin",
@@ -3217,7 +3364,8 @@
     "spotifyId": "5YJaNTGKkgRkWGzGxizJhn",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851185fc71ccf70a27fef866f49",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "11eodle"
   },
   {
     "id": "gicelamendezribeiroaluisiorockembach-2026-10-06-cafeberlin",
@@ -3236,7 +3384,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1rjldt0"
   },
   {
     "id": "thecrimsonkings-2026-10-07-cafeberlin",
@@ -3255,7 +3404,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "h05jtqz"
   },
   {
     "id": "sentimentalsyncopators-2026-10-08-cafeberlin",
@@ -3274,7 +3424,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2k6nbbv"
   },
   {
     "id": "cameratarosario-2026-10-09-auditoriumsalaastorpiazzollamardelplata",
@@ -3293,26 +3444,8 @@
     "spotifyId": "3mqu2Fl7QheVXdN26GUa4o",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881685df246381f22823d1261",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "cuartetoaraoz-2026-10-09-ccnu",
-    "artist": "Cuarteto Aráoz",
-    "artistKey": "cuartetoaraoz",
-    "date": "2026-10-09",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/cuarteto-araoz-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1v1abai"
   },
   {
     "id": "feinesahnefischfilet-2026-10-09-vorterix",
@@ -3334,7 +3467,8 @@
       "punk",
       "punk rock"
     ],
-    "firstSeenAt": "2026-06-09"
+    "firstSeenAt": "2026-06-09",
+    "shortId": "1tbk2ve"
   },
   {
     "id": "fiestarockdelpais-2026-10-09-vorterix",
@@ -3353,7 +3487,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "10rkqs7"
   },
   {
     "id": "gauchitoclub-2026-10-09-operalp",
@@ -3372,7 +3507,8 @@
     "spotifyId": "58gIcdW6E0jd0846aI1sVj",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786468693d374cf86dc9f7eb8d",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2kjmk7c"
   },
   {
     "id": "julietarada-2026-10-09-cafeberlin",
@@ -3391,7 +3527,8 @@
     "spotifyId": "5KA95SZBQeMgNMTuqnxzJd",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804d81f58e8378881e906318a",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2adxpn4"
   },
   {
     "id": "airbag-2026-10-10-cordoba",
@@ -3413,7 +3550,8 @@
       "pop punk",
       "power pop"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "5phwfeu"
   },
   {
     "id": "lamaisonferres-2026-10-10-cafeberlin",
@@ -3432,7 +3570,8 @@
     "spotifyId": "7cdPKcQfDd8nWDOMxsmgpN",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812149e5ce01e10341187d240",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "s046e0s"
   },
   {
     "id": "suroculto-2026-10-10-cafeberlin",
@@ -3455,7 +3594,8 @@
       "jazz fusion",
       "progressive metal"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "5q0mfzs"
   },
   {
     "id": "tkenbuenosaires-2026-10-11-vorterix",
@@ -3474,7 +3614,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2guzjo3"
   },
   {
     "id": "festivaldecocinayteatrojudio-2026-10-13-cafeberlin",
@@ -3493,7 +3634,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1bkrc2b"
   },
   {
     "id": "leandrobarralessexteto-2026-10-14-cafeberlin",
@@ -3512,7 +3654,8 @@
     "spotifyId": "6XipvyZWONz5EEJe2Uj7Q0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879e36c2c4af714ceb50659ba",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "19iv6hh"
   },
   {
     "id": "localbluesallstars-2026-10-15-cafeberlin",
@@ -3531,26 +3674,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "axelscheinsohncuarteto-2026-10-16-ccnu",
-    "artist": "Axel Scheinsohn Cuarteto",
-    "artistKey": "axelscheinsohncuarteto",
-    "date": "2026-10-16",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/axel-scheinsohn-cuarteto-en-ccnu-2026-10-16-20-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2gmhtab"
   },
   {
     "id": "fernandosanjiao-2026-10-16-cafeberlin",
@@ -3569,7 +3694,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2pfha0t"
   },
   {
     "id": "nanostern-2026-10-16-cafeberlin",
@@ -3588,7 +3714,8 @@
     "spotifyId": "6WcoLUYMQyttg3fFIkou6X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786ed2f11bc156a15f61fa8224",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1eqb2um"
   },
   {
     "id": "viejaslocasxfyacumplemilshowsy15anosdeldiscocontralapared-2026-10-16-vorterix",
@@ -3607,7 +3734,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "1vmhx7o"
   },
   {
     "id": "interpaul-2026-10-17-cafeberlin",
@@ -3626,26 +3754,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pedrovelazquez-2026-10-17-ccnu",
-    "artist": "Pedro Velázquez",
-    "artistKey": "pedrovelazquez",
-    "date": "2026-10-17",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pedro-velazquez-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5ADcu6TmxcLtapm6fCNYdn",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788f29fd524a5b677d8593c411",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2e269e1"
   },
   {
     "id": "fmsargentina-2026-10-18-vorterix",
@@ -3664,7 +3774,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "14xcay6"
   },
   {
     "id": "ironmaiden-2026-10-20-huracan",
@@ -3687,7 +3798,8 @@
       "nwobhm",
       "metal"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "u6mvich"
   },
   {
     "id": "lapardobigband-2026-10-20-cafeberlin",
@@ -3706,7 +3818,8 @@
     "spotifyId": "7CRvmSc7wvM8xyM97mJarR",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485135b90954541f12c5c8219873",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "12pu49k"
   },
   {
     "id": "ironmaiden-2026-10-21-huracan",
@@ -3729,7 +3842,8 @@
       "nwobhm",
       "metal"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "26yempw"
   },
   {
     "id": "javiersa-2026-10-22-cafeberlin",
@@ -3748,7 +3862,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1biuysx"
   },
   {
     "id": "leotravaglio-2026-10-22-cafeberlin",
@@ -3767,26 +3882,8 @@
     "spotifyId": "16rSbDmxWXGn8ChDODuEmy",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048513fcd70fda4b608cecff16b97",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "abastojazzquinteto-2026-10-23-ccnu",
-    "artist": "Abasto Jazz Quinteto",
-    "artistKey": "abastojazzquinteto",
-    "date": "2026-10-23",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/abasto-jazz-quinteto-en-ccnu-2026-10-23-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2y79129"
   },
   {
     "id": "lakonga-2026-10-23-hipodromoplata",
@@ -3805,7 +3902,28 @@
     "spotifyId": "3ghRXw2nUEH2THaL82hw8R",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178124a6a41568f43401994f4c8",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "nlsl1p4"
+  },
+  {
+    "id": "saltalabanca-2026-10-23-vorterix",
+    "artist": "SALTA LA BANCA",
+    "artistKey": "saltalabanca",
+    "date": "2026-10-23",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/salta-la-banca"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": "4JathQD0aoyE5WwaIB2JxC",
+    "spotifyImage": "https://i.scdn.co/image/be6576ed7f05feece7c07c1d9f709995c769791e",
+    "genres": [],
+    "firstSeenAt": "2026-09-11",
+    "shortId": "4ejjq01"
   },
   {
     "id": "vertigo-2026-10-23-cafeberlin",
@@ -3826,7 +3944,8 @@
     "genres": [
       "christian hardcore"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1c9hch5"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",
@@ -3845,7 +3964,8 @@
     "spotifyId": "3QZEbpYuO36TVmqHEbxpkZ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e99c31822c44f54e8ebc3805",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "5sus4bt"
   },
   {
     "id": "pitufolombardonicoibarburu-2026-10-24-cafeberlin",
@@ -3864,7 +3984,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "l2npwhs"
   },
   {
     "id": "hernanromero-2026-10-28-cafeberlin",
@@ -3883,7 +4004,8 @@
     "spotifyId": "3IFe0nS1QsWfow70RzaAaH",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "o5m7xhr"
   },
   {
     "id": "losredondosdericotahomenajesinfonico-2026-10-28-vorterix",
@@ -3902,7 +4024,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "ifr51cf"
   },
   {
     "id": "bluenigths-2026-10-29-cafeberlin",
@@ -3921,7 +4044,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "lzvy1tk"
   },
   {
     "id": "thebeatles-2026-10-29-cafeberlin",
@@ -3944,7 +4068,8 @@
       "pop",
       "pop rock"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2byprd0"
   },
   {
     "id": "alekurz-2026-10-30-guajiralp",
@@ -3963,7 +4088,8 @@
     "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1mqwluc"
   },
   {
     "id": "pablocordonet-2026-10-30-cafeberlin",
@@ -3982,7 +4108,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "ck1rfhr"
   },
   {
     "id": "pasarlabien-2026-10-30-cafeberlin",
@@ -4001,7 +4128,8 @@
     "spotifyId": "51riRWvyJlXbgaRxjUGdcu",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178782631061155e679a2615bde",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "qpg2oa5"
   },
   {
     "id": "danistonebarrioviejo-2026-10-31-cafeberlin",
@@ -4020,7 +4148,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2aozam3"
   },
   {
     "id": "joefernandez-2026-10-31-cafeberlin",
@@ -4039,7 +4168,8 @@
     "spotifyId": "4uVxXw6lxxQMTGupdrBPNQ",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "26whmfj"
   },
   {
     "id": "maikelpereyra-2026-11-01-cafeberlin",
@@ -4058,7 +4188,8 @@
     "spotifyId": "2ms8Svp5iPNP7R3PXSsOFx",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485151c79ca3f7b0f405a7146860",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2br1fhi"
   },
   {
     "id": "fatimagarrido-2026-11-03-cafeberlin",
@@ -4077,7 +4208,8 @@
     "spotifyId": "4AF13CNO78iBdARbH56O2O",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1b6ddfff3e45cd255b59d8b",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "3jgqea0"
   },
   {
     "id": "blueart-2026-11-04-cafeberlin",
@@ -4096,7 +4228,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "21v8jre"
   },
   {
     "id": "jorgevinas-2026-11-05-cafeberlin",
@@ -4115,7 +4248,8 @@
     "spotifyId": "1fm465BniNvxXTBvBpGCKf",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2lscegu"
   },
   {
     "id": "orlandocurtithegrooveseekers-2026-11-05-cafeberlin",
@@ -4134,26 +4268,8 @@
     "spotifyId": "07rgCFfyOUUz818d2TuNQP",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cacbd3890ab51c43aa1e88b5",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "sudestada-2026-11-06-ccnu",
-    "artist": "SUDESTADA",
-    "artistKey": "sudestada",
-    "date": "2026-11-06",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sudestada-en-ccnu-2026-11-06-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "51JHEXVRERUtFQ3JsshJac",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485150a54d16c50af25f3fe3afe1",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1c4j5v9"
   },
   {
     "id": "theend-2026-11-06-cafeberlin",
@@ -4172,7 +4288,8 @@
     "spotifyId": "3nWP13odEZJX73aH4pVnQn",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048515ddcabc519af2b36fcc5a65d",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "23xic02"
   },
   {
     "id": "alambreamigos-2026-11-07-cafeberlin",
@@ -4191,7 +4308,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "feypilt"
   },
   {
     "id": "bulldogenelteatrovorterix-2026-11-07-vorterix",
@@ -4210,7 +4328,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "zgy9e28"
   },
   {
     "id": "nanutria-2026-11-07-salapiazzollaargentinolp",
@@ -4229,7 +4348,8 @@
     "spotifyId": "2FvPMLwN33OVwvegkSOILf",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d664c931f47a020d1490c734",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2ep9vxy"
   },
   {
     "id": "pantergiulianoguitarravoz-2026-11-07-sanmiguel",
@@ -4248,7 +4368,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1qsvhjg"
   },
   {
     "id": "masmusica-2026-11-08-cafeberlin",
@@ -4267,7 +4388,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1mjysfh"
   },
   {
     "id": "losdemassonunmonton-2026-11-10-cafeberlin",
@@ -4286,7 +4408,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "7799z6v"
   },
   {
     "id": "leogarzon-2026-11-11-cafeberlin",
@@ -4305,7 +4428,8 @@
     "spotifyId": "2AUZM0kEhn0Ddu2Omiw4Z3",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "17ih61n"
   },
   {
     "id": "arethas-2026-11-12-cafeberlin",
@@ -4324,7 +4448,8 @@
     "spotifyId": "2fLjHwecfyupPEc52X3fDJ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935a2ae22c4a630373da5481",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1czjfnt"
   },
   {
     "id": "parisjazzclub-2026-11-12-cafeberlin",
@@ -4343,7 +4468,8 @@
     "spotifyId": "2rk1P5E8tnKPd1aGTsfcA0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a9efe34a357d4365beccee1",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "lz5mfs7"
   },
   {
     "id": "giros-2026-11-13-operalp",
@@ -4362,7 +4488,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "6g7akm9"
   },
   {
     "id": "lajarana-2026-11-13-cafeberlin",
@@ -4381,7 +4508,8 @@
     "spotifyId": "6iqRzsNcx43CGFDxesPNt1",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781821303c2913b66540e374fc",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2rbk917"
   },
   {
     "id": "ritacortese-2026-11-13-cafeberlin",
@@ -4400,7 +4528,8 @@
     "spotifyId": "6tWIoufIHPpvUk8NEiwwp3",
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485179fb17070f16235ccf449df8",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1vn3rvb"
   },
   {
     "id": "esquinalibertad-2026-11-14-operalp",
@@ -4419,7 +4548,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2km6913"
   },
   {
     "id": "alexisonfire-2026-11-17-vorterix",
@@ -4442,7 +4572,8 @@
       "emo",
       "rock"
     ],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2ags1wd"
   },
   {
     "id": "easykid-2026-11-18-vorterix",
@@ -4461,7 +4592,8 @@
     "spotifyId": "4xEDJHMQ8PN1U2pEldwI6O",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781875db9d984a7dcdce6e392b",
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "wu2eudt"
   },
   {
     "id": "sofiapj-2026-11-19-cafeberlin",
@@ -4480,26 +4612,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "carcamosexteto-2026-11-20-ccnu",
-    "artist": "Carcamo Sexteto",
-    "artistKey": "carcamosexteto",
-    "date": "2026-11-20",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/carcamo-sexteto-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "18cjuig"
   },
   {
     "id": "granmartell-2026-11-20-cafeberlin",
@@ -4522,7 +4636,8 @@
       "experimental rock",
       "hard rock"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "23gyw23"
   },
   {
     "id": "lagreciaenvorterix-2026-11-21-vorterix",
@@ -4541,7 +4656,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "159dvan"
   },
   {
     "id": "lavelapuercalaspelotas-2026-11-21-hipodromoplata",
@@ -4560,7 +4676,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2njvnlq"
   },
   {
     "id": "nanpabasico-2026-11-22-vorterix",
@@ -4579,7 +4696,8 @@
     "spotifyId": "1cUpGtXcSQsovNYEZOQgOG",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ea528f9602f69166c6d33ef",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2r0d6pn"
   },
   {
     "id": "neurofest-2026-11-22-vorterix",
@@ -4598,7 +4716,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "1irggon"
   },
   {
     "id": "devotosdelrock-2026-11-24-cafeberlin",
@@ -4617,7 +4736,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1opdu5d"
   },
   {
     "id": "zeballos-2026-11-26-vorterix",
@@ -4636,7 +4756,8 @@
     "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "8uwj8t4"
   },
   {
     "id": "queteimporta-2026-11-27-cafeberlin",
@@ -4655,7 +4776,8 @@
     "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2uvz17k"
   },
   {
     "id": "aperfectcirclepuscifer-2026-11-28-buenosaires",
@@ -4674,7 +4796,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "59nthao"
   },
   {
     "id": "fernandocabrera-2026-11-28-cafeberlin",
@@ -4696,7 +4819,8 @@
       "candombe beat",
       "singer-songwriter"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "yeb36ov"
   },
   {
     "id": "unpocoderuido-2026-11-28-hipodromoplata",
@@ -4715,7 +4839,8 @@
     "spotifyId": "2Mt2vBBEckrvXtg0JldwZ0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cf4936e79bdd3a28b09aee",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2nwt7gu"
   },
   {
     "id": "edsheeran-2026-11-29-huracan",
@@ -4738,7 +4863,8 @@
       "folk pop",
       "dance-pop"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1fj1z7d"
   },
   {
     "id": "giantrooks-2026-12-01-vorterix",
@@ -4760,7 +4886,8 @@
       "indie pop",
       "rock"
     ],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1do5gin"
   },
   {
     "id": "dennischamberschristiangalvezquartet-2026-12-02-cafeberlin",
@@ -4779,7 +4906,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "12cevs9"
   },
   {
     "id": "vilmapalmaevampiro-2026-12-04-vorterix",
@@ -4798,7 +4926,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2bafzck"
   },
   {
     "id": "serugiranporlebonyaznar-2026-12-05-hipodromoplata",
@@ -4817,7 +4946,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1esnbee"
   },
   {
     "id": "lagos-2026-12-09-vorterix",
@@ -4836,7 +4966,8 @@
     "spotifyId": "7uQ1D2NNHs5cUL3CLKRbia",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "2obkcg6"
   },
   {
     "id": "gondwanaquiqueneira-2026-12-11-vorterix",
@@ -4855,7 +4986,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "5w92w71"
   },
   {
     "id": "elsindromedepeter-2026-12-18-vorterix",
@@ -4874,7 +5006,8 @@
     "spotifyId": "6JKZLnwyVPZAWV2EEf4ymg",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178767d90eaf2eeaec4df577f31",
     "genres": [],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2fqpodu"
   },
   {
     "id": "maritobaracusynpvfestedicionmultiversocontrukinialejoyvalentinaymas-2026-12-26-vorterix",
@@ -4893,7 +5026,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-07-08"
+    "firstSeenAt": "2026-07-08",
+    "shortId": "u7o4211"
   },
   {
     "id": "geofftate-2027-01-14-vorterix",
@@ -4912,7 +5046,8 @@
     "spotifyId": "4YGXSFiOaglXLDO92EDVeU",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178493856961c7414faede318b2",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "1s61vzf"
   },
   {
     "id": "ludovicoeinaudisolopiano-2027-03-01-colon",
@@ -4931,7 +5066,8 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-11",
+    "shortId": "ilj44oz"
   },
   {
     "id": "caifanes-2027-04-14-vorterix",
@@ -4954,6 +5090,7 @@
       "cumbia mexicana",
       "gothic rock"
     ],
-    "firstSeenAt": "2026-09-06"
+    "firstSeenAt": "2026-09-06",
+    "shortId": "2744p8p"
   }
 ]

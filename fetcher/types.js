@@ -12,6 +12,7 @@
 /**
  * @typedef {Object} NormalizedEvent
  * @property {string} id              - Stable id: slug(artist)-date-slug(venue)
+ * @property {string} shortId         - 7-char opaque code for share links, derived from id
  * @property {string} artist          - Artist display name
  * @property {string} artistKey       - Normalized lowercase key for lookups
  * @property {string} date            - ISO date "YYYY-MM-DD"

@@ -61,3 +61,23 @@ describe('normalize cleans the artist name', () => {
     expect(a.id).toBe(b.id);
   });
 });
+
+describe('normalize short id', () => {
+  const raw = { artist: 'Iron Maiden', date: '2026-10-20', venue: 'Huracán', source: 'livepass' };
+
+  it('gives every event a short opaque id', () => {
+    expect(normalize(raw).shortId).toMatch(/^[a-z0-9]{7}$/);
+  });
+
+  it('is stable across runs so a shared link keeps working', () => {
+    expect(normalize(raw).shortId).toBe(normalize({ ...raw }).shortId);
+  });
+
+  it('differs between events', () => {
+    expect(normalize(raw).shortId).not.toBe(normalize({ ...raw, date: '2026-10-21' }).shortId);
+  });
+
+  it('does not depend on which source reported it', () => {
+    expect(normalize(raw).shortId).toBe(normalize({ ...raw, source: 'songkick' }).shortId);
+  });
+});

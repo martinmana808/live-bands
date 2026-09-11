@@ -72,6 +72,20 @@ export function createPlayer({ doc, createController }) {
   }
 
   /**
+   * The bar floats over the list, so the list gets the bar's real height as
+   * bottom padding - measured, because the embed loads later and changes it.
+   */
+  function reserveSpace() {
+    const main = doc.querySelector('main');
+    if (!main || !bar) return;
+    const h = bar.hidden ? 0 : bar.offsetHeight;
+    main.style.paddingBottom = h ? `${h + 32}px` : '';
+  }
+  if (bar && doc.defaultView?.ResizeObserver) {
+    new doc.defaultView.ResizeObserver(reserveSpace).observe(bar);
+  }
+
+  /**
    * Two stacked layers, alternated on each change, so the old image fades out
    * while the new one fades in rather than snapping.
    */
@@ -115,6 +129,7 @@ export function createPlayer({ doc, createController }) {
     if (art) { if (src) art.setAttribute('src', src); else art.removeAttribute('src'); }
     setBackdrop(src);
     if (bar) bar.hidden = false;
+    reserveSpace();
 
     if (!fresh) c.loadUri(uri);
     c.play();

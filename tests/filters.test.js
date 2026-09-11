@@ -3,7 +3,7 @@ import { JSDOM } from 'jsdom';
 import { createApp } from '../src/scripts/filters.js';
 
 const row = ({ key, artist, venue, country = '', fortnight = false, recent = false, families = '' }) => `
-  <div class="event" data-artist-key="${key}" data-search="${artist} ${venue} ${country}" data-genres="${families}"
+  <div class="event" id="e-${key}" data-short-id="${key}" data-artist-key="${key}" data-search="${artist} ${venue} ${country}" data-genres="${families}"
        ${fortnight ? 'data-fortnight' : ''} ${recent ? 'data-recent' : ''}>
     <div class="artist">${artist}</div>
     <button class="mute" data-mute-key="${key}" data-mute-name="${artist}">hide</button>
@@ -312,5 +312,49 @@ describe('genre chips', () => {
     const app2 = createApp({ doc, storage, animate: false }).attach();
     app2.render();
     expect(app2.genre).toBe('rock');
+  });
+});
+
+describe('opening a shared link', () => {
+  const scrolled = () => [...doc.querySelectorAll('.event')].filter(r => r._scrolled).map(r => r.getAttribute('data-short-id'));
+  beforeEach(() => {
+    for (const r of doc.querySelectorAll('.event')) r.scrollIntoView = function () { this._scrolled = true; };
+  });
+
+  it('scrolls to the event named in the hash and marks it', () => {
+    app.reveal('caifanes');
+    expect(scrolled()).toEqual(['caifanes']);
+    expect(doc.getElementById('e-caifanes').classList.contains('target')).toBe(true);
+  });
+
+  it('clears a filter that would hide the event', () => {
+    app.setFilter('fortnight');            // caifanes is outside the fortnight
+    app.reveal('caifanes');
+    expect(app.filter).toBe('all');
+    expect(doc.getElementById('e-caifanes').hidden).toBe(false);
+  });
+
+  it('clears a search that would hide the event', () => {
+    app.setQuery('ozuna');
+    app.reveal('caifanes');
+    expect(doc.getElementById('e-caifanes').hidden).toBe(false);
+  });
+
+  it('does not touch the filters when the event is already visible', () => {
+    app.setFilter('fortnight');
+    app.reveal('ozuna');
+    expect(app.filter).toBe('fortnight');
+  });
+
+  it('does nothing for an unknown id', () => {
+    app.reveal('nope');
+    expect(scrolled()).toEqual([]);
+  });
+
+  it('reads the id from the location hash on attach', () => {
+    dom.window.location.hash = '#e-cafetacvba';
+    const app2 = createApp({ doc, storage, animate: false }).attach();
+    app2.render();
+    expect(scrolled()).toEqual(['cafetacvba']);
   });
 });

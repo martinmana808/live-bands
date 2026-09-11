@@ -22,9 +22,10 @@ const ticket = event.ticketUrls?.[0];
 const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
 ---
 <div
-  id={`event-${event.id}`}
+  id={`e-${event.shortId}`}
   class={`event${past ? ' past' : ''}`}
   data-event-id={event.id}
+  data-short-id={event.shortId}
   data-event-date={event.date}
   data-fortnight={fortnight ? '' : undefined}
   data-recent={recent ? '' : undefined}
@@ -56,6 +57,12 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
     </div>
   </div>
   <div class="actions">
+    {event.spotifyId ? (
+      <button class="listen play" data-spotify-id={event.spotifyId} data-artist-name={event.artist} data-artist-image={event.spotifyImage ?? ''} aria-label={`Listen to ${event.artist}`} title={`Listen to ${event.artist}`}>
+        <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+        Listen
+      </button>
+    ) : <span class="listen ph" aria-hidden="true"></span>}
     <button class="icon-btn fav" data-fav-id={event.id} aria-label="Save" title="Save">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
         <path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 1 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/>
@@ -76,13 +83,5 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
         <path d="M8.2 10.8l7.6-3.6M8.2 13.2l7.6 3.6"/>
       </svg>
     </button>
-    {event.spotifyId && (
-      <button class="icon-btn play" data-spotify-id={event.spotifyId} data-artist-name={event.artist} data-artist-image={event.spotifyImage ?? ''} aria-label={`Play ${event.artist}`} title={`Play ${event.artist}`}>
-        <svg viewBox="0 0 24 24" width="22" height="22">
-          <circle cx="12" cy="12" r="11" fill="#1db954"/>
-          <path d="M10 8.2v7.6L16.5 12z" fill="#fff"/>
-        </svg>
-      </button>
-    )}
   </div>
 </div>

@@ -157,7 +157,7 @@ for (const e of events) {
         if (share) {
           const text = share.getAttribute('data-share-text');
           const row = share.closest('.event');
-          const url = location.origin + location.pathname + '#event-' + row.getAttribute('data-event-id');
+          const url = location.origin + location.pathname + '#e-' + row.getAttribute('data-short-id');
           const payload = { title: 'Bands in Town', text, url };
           try {
             if (navigator.share) await navigator.share(payload);

@@ -28,6 +28,12 @@ The page controller lives in `src/scripts/filters.js` rather than inline in the 
 component, so it can be driven under jsdom — three composing filters is more than can be
 checked by eye. See `tests/filters.test.js`.
 
+### Sharing a show
+
+Every event has a 7-character code (`shortId`), hashed from its stable id so the same show gets
+the same code on every rebuild. Share produces `…/live-bands/#e-<code>`; opening it clears any
+filter or search that would hide the show, scrolls to it and highlights it.
+
 ### Playing an artist
 
 The play button on a row loads that artist into a single bar docked at the bottom and starts

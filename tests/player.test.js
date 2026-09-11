@@ -193,3 +193,13 @@ describe('backdrop', () => {
     expect(shown()).toBeUndefined();
   });
 });
+
+describe('the list makes room for the bar', () => {
+  it('pads the list by the bar height once it is shown', async () => {
+    const main = doc.querySelector('main');
+    Object.defineProperty(doc.getElementById('player'), 'offsetHeight', { value: 132, configurable: true });
+    click('button.play[data-spotify-id="sp-cafe"]');
+    await flush();
+    expect(main.style.paddingBottom).toBe('164px');   // height + 2rem (32px) breathing room
+  });
+});

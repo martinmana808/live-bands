@@ -203,6 +203,29 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
     render();
   }
 
+  /**
+   * Land on one event from a shared link. Whatever would hide it - a saved
+   * filter, a genre chip, a search - is cleared first, otherwise the link
+   * opens onto a list with the show nowhere in sight.
+   */
+  function reveal(shortId) {
+    if (!shortId) return;
+    const row = doc.querySelector(`.event[data-short-id="${shortId}"]`);
+    if (!row) return;
+    render();
+    if (row.hidden) {
+      filter = 'all';
+      query = '';
+      genre = '';
+      const q = doc.getElementById('q');
+      if (q) q.value = '';
+      render();
+    }
+    for (const r of doc.querySelectorAll('.event.target')) r.classList.remove('target');
+    row.classList.add('target');
+    row.scrollIntoView?.({ behavior: 'smooth', block: 'center' });
+  }
+
   function setGenre(name) {
     genre = name === genre ? '' : (name ?? '');
     write(GENRE_KEY, genre);
@@ -251,11 +274,19 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
     if (typeof saved === 'string') filter = saved;
     const savedGenre = read(GENRE_KEY, '');
     if (typeof savedGenre === 'string') genre = savedGenre;
+
+    const hash = doc.defaultView?.location?.hash ?? '';
+    const m = hash.match(/^#e-([a-z0-9]+)$/);
+    if (m) reveal(m[1]);
+    doc.defaultView?.addEventListener?.('hashchange', () => {
+      const h = doc.defaultView.location.hash.match(/^#e-([a-z0-9]+)$/);
+      if (h) reveal(h[1]);
+    });
     return api;
   }
 
   const api = {
-    render, attach, mute, unmute, setFilter, setQuery, setGenre,
+    render, attach, mute, unmute, setFilter, setQuery, setGenre, reveal,
     get filter() { return filter; },
     get genre() { return genre; },
     get muted() { return [...mutedSet()]; },
