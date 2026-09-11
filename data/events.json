@@ -1,24 +1,5 @@
 [
   {
-    "id": "chinoy-2026-09-10-niceto",
-    "artist": "Chinoy",
-    "artistKey": "chinoy",
-    "date": "2026-09-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/chinoy-concierto-ac-stico-junto-a-julieta-d-azen-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "CL",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-17"
-  },
-  {
     "id": "ciclo23hs-2026-09-10-niceto",
     "artist": "CICLO23HS",
     "artistKey": "ciclo23hs",
@@ -32,44 +13,6 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "glase-2026-09-10-niceto",
-    "artist": "Glasé",
-    "artistKey": "glase",
-    "date": "2026-09-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/glas-presenta-alm-bar-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "joystick-2026-09-10-niceto",
-    "artist": "JOYSTICK",
-    "artistKey": "joystick",
-    "date": "2026-09-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/joystick-presenta-diarios-de-humo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
@@ -95,42 +38,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "mercadodemusicapatagonico-2026-09-10-niceto",
-    "artist": "MERCADO DE MÚSICA PATAGÓNICO",
-    "artistKey": "mercadodemusicapatagonico",
-    "date": "2026-09-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "noeliasinkunasandflorenciaruiz-2026-09-10-bibliotecacafe",
-    "artist": "Noelia Sinkunas and Florencia Ruiz",
-    "artistKey": "noeliasinkunasandflorenciaruiz",
-    "date": "2026-09-10",
-    "venue": "La Biblioteca Café",
-    "venueKey": "bibliotecacafe",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "punchisession-2026-09-10-niceto",
     "artist": "PUNCHI SESSION",
     "artistKey": "punchisession",
@@ -150,25 +57,6 @@
     "firstSeenAt": "2026-09-05"
   },
   {
-    "id": "adrianavarela-2026-09-11-cafeberlin",
-    "artist": "Adriana Varela",
-    "artistKey": "adrianavarela",
-    "date": "2026-09-11",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2026-09-11-20"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "autosrobados-2026-09-11-operalp",
     "artist": "AUTOS ROBADOS",
     "artistKey": "autosrobados",
@@ -182,8 +70,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -201,8 +89,8 @@
       "livepass"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -218,8 +106,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
     "genres": [],
     "firstSeenAt": "2026-08-22"
   },
@@ -235,8 +123,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
     "genres": [],
     "firstSeenAt": "2026-08-22"
   },
@@ -271,8 +159,8 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
     "genres": [],
     "firstSeenAt": "2026-08-22"
   },
@@ -290,8 +178,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4tSDK2ySq41vxwERzxVRZH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff2542a0c8b51e333059d99d",
     "genres": [],
     "firstSeenAt": "2026-07-02"
   },
@@ -459,8 +347,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -478,8 +366,8 @@
       "niceto"
     ],
     "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9",
     "genres": [],
     "firstSeenAt": "2026-07-28"
   },
@@ -495,8 +383,8 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
     "genres": [],
     "firstSeenAt": "2026-08-23"
   },
@@ -514,8 +402,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
     "firstSeenAt": "2026-09-02"
   },
@@ -588,7 +476,7 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "3AiQjychmM933C9dY4S8It",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-08-22"
@@ -643,8 +531,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7kNqXtgeIwFtelmRjWv205",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
     "genres": [],
     "firstSeenAt": "2026-08-22"
   },
@@ -681,8 +569,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6FuVoI0I9rIsRLlRmftbxX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d9ee8bc281cb9ec0711f306c",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -700,8 +588,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -831,8 +719,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0S9BuBCtPWNNiQgvXvk1y9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898edabfe51534cc725e623eb",
     "genres": [],
     "firstSeenAt": "2026-08-26"
   },
@@ -869,8 +757,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6me7j5R08ARYKASHiqhvcu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6c53e7f52db38ba8a810c15",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -886,8 +774,8 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3",
     "genres": [],
     "firstSeenAt": "2026-08-24"
   },
@@ -925,8 +813,8 @@
       "niceto"
     ],
     "country": "JP",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0rpKM0MniNkXM1SLSglYUZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898fbfdf3a15710fa2e4fa68d",
     "genres": [],
     "firstSeenAt": "2026-08-18"
   },
@@ -942,8 +830,8 @@
       "songkick"
     ],
     "country": "KR",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
     "genres": [],
     "firstSeenAt": "2026-08-26"
   },
@@ -961,7 +849,7 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "0veXXp2k4dPCQcgEFQWqas",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -978,8 +866,8 @@
       "songkick"
     ],
     "country": "KR",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
     "genres": [],
     "firstSeenAt": "2026-08-29"
   },
@@ -995,8 +883,8 @@
       "songkick"
     ],
     "country": "AU",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02",
     "genres": [],
     "firstSeenAt": "2026-08-29"
   },
@@ -1014,8 +902,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5uQZuKfOyl8ooW5Qbd6HqV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd67b6d238c0d35574544eb7",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1033,8 +921,8 @@
       "vorterix"
     ],
     "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2FMOHE79X98yptp4RpPrt7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c2b3307740b1421793cff28",
     "genres": [],
     "firstSeenAt": "2026-06-14"
   },
@@ -1088,8 +976,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6yCjiAcEkIMGxRynL8Y9xQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17865f896569c6e23a9e649f483",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -1105,8 +993,8 @@
       "songkick"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6J7biCazzYhU3gM9j1wfid",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -1122,8 +1010,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3UTF2no3muGdiFXVujl94i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -1139,8 +1027,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -1177,8 +1065,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3cdHu4v5C71IttGubSDzKO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178435c1930fff0de852d9958e1",
     "genres": [],
     "firstSeenAt": "2026-08-23"
   },
@@ -1289,29 +1177,10 @@
       "songkick"
     ],
     "country": "CL",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0M8uC0u1YRUGCieOKmQF02",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a",
     "genres": [],
     "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "bhavi-2026-09-18-sanmiguel",
-    "artist": "BHAVI",
-    "artistKey": "bhavi",
-    "date": "2026-09-18",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bhavi-en-san-miguel-18-09"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "cristianlopez-2026-09-18-noblezaobliga",
@@ -1342,8 +1211,8 @@
       "songkick"
     ],
     "country": "PR",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "65HuWBUC1d8ty1q6J42Nfi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8160fc4f468b818c167660e",
     "genres": [],
     "firstSeenAt": "2026-08-31"
   },
@@ -1399,8 +1268,8 @@
       "livepass"
     ],
     "country": "FR",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1471,8 +1340,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61",
     "genres": [],
     "firstSeenAt": "2026-08-31"
   },
@@ -1509,8 +1378,8 @@
       "niceto"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1566,8 +1435,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7BGe9KQ5WlCQReyqBtM9OR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178916f463d6c64e3f0e695fff3",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1585,8 +1454,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1Tc1jnGXaRCu62tn1t1k2w",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea501cfe19eb36c3b3a7c1bf",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1604,8 +1473,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4H2xPnLZ6qdTlQzf3XF6r7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17875ff028003d2cdb6e83d43eb",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1680,8 +1549,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
     "firstSeenAt": "2026-09-02"
   },
@@ -1743,25 +1612,6 @@
     "firstSeenAt": "2026-09-02"
   },
   {
-    "id": "jauria-2026-09-19-sanmiguel",
-    "artist": "JAURIA",
-    "artistKey": "jauria",
-    "date": "2026-09-19",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jauria-en-san-miguel-2026-09-19-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "johnpaulthebeatlesexperience-2026-09-19-ccnu",
     "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
     "artistKey": "johnpaulthebeatlesexperience",
@@ -1792,8 +1642,8 @@
       "songkick"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17",
     "genres": [],
     "firstSeenAt": "2026-09-05"
   },
@@ -1811,8 +1661,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -1849,8 +1699,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1866,8 +1716,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
     "genres": [],
     "firstSeenAt": "2026-09-05"
   },
@@ -1921,8 +1771,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "31PGsnmcXsq96YG0S0AWTC",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783e4332a60bc5df1496a394eb",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1959,8 +1809,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1fQwzWKmFPhYjDT9dpeZSR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510fb6488ba00566a4f1e14b66",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -1993,8 +1843,8 @@
       "songkick"
     ],
     "country": "FR",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -2027,8 +1877,8 @@
       "songkick"
     ],
     "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -2052,23 +1902,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "bandana-2026-09-23-granrex",
-    "artist": "Bandana",
-    "artistKey": "bandana",
-    "date": "2026-09-23",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "caifanes-2026-09-23-vorterix",
     "artist": "Caifanes",
     "artistKey": "caifanes",
@@ -2080,8 +1913,8 @@
       "songkick"
     ],
     "country": "MX",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
     "genres": [],
     "firstSeenAt": "2026-05-09"
   },
@@ -2162,6 +1995,25 @@
     "firstSeenAt": "2026-09-02"
   },
   {
+    "id": "gestionmusicalelartedeconstruirunacarrera-2026-09-24-niceto",
+    "artist": "Gestión Musical: El Arte de Construir una Carrera",
+    "artistKey": "gestionmusicalelartedeconstruirunacarrera",
+    "date": "2026-09-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/gesti-n-musical-el-arte-de-construir-una-carrera-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "januve-2026-09-24-cafeberlin",
     "artist": "Jan Uve",
     "artistKey": "januve",
@@ -2175,8 +2027,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7hWXE61toZRP69BB1bQgDe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1c156a08448c8925321159b",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2211,8 +2063,8 @@
       "songkick"
     ],
     "country": "CO",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2228,8 +2080,8 @@
       "songkick"
     ],
     "country": "NO",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4LT73i2bqTazQQkmODMaYf",
+    "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2247,8 +2099,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2MPHBxznH1fj59jbOWY38u",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -2342,8 +2194,25 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "franbusso-2026-09-25-puraespaciocultural",
+    "artist": "Fran Busso",
+    "artistKey": "franbusso",
+    "date": "2026-09-25",
+    "venue": "Pura espacio cultural",
+    "venueKey": "puraespaciocultural",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3ulWAHPDwSvZ0G6eaprCuy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788e59a3b6486c3d1b67a5616e",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2361,8 +2230,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4t75tim4RSC1FXQJcHXS4x",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178352f66eed1020dee8d83dcf7",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2397,8 +2266,8 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2433,8 +2302,25 @@
       "songkick"
     ],
     "country": "CO",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nanndos-2026-09-25-v",
+    "artist": "Nanndos",
+    "artistKey": "nanndos",
+    "date": "2026-09-25",
+    "venue": "Club V",
+    "venueKey": "v",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6gx9AATbFhFQ3INOgS7BDh",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2452,8 +2338,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -2488,8 +2374,8 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1vW3322paTGEEBrcuD5J8r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
     "genres": [],
     "firstSeenAt": "2026-08-30"
   },
@@ -2564,10 +2450,48 @@
       "livepass"
     ],
     "country": null,
+    "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "camigalzlicoretzalupus-2026-09-26-niceto",
+    "artist": "CAMI GALZ: Licoretza Lupus",
+    "artistKey": "camigalzlicoretzalupus",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "cuasifunky-2026-09-26-niceto",
+    "artist": "CUASIFUNKY",
+    "artistKey": "cuasifunky",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cuasifunky-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-08-30"
   },
   {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
@@ -2621,8 +2545,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
     "genres": [],
     "firstSeenAt": "2026-05-21"
   },
@@ -2641,6 +2565,25 @@
     ],
     "country": null,
     "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "valenvargas-2026-09-26-niceto",
+    "artist": "Valen Vargas",
+    "artistKey": "valenvargas",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "67oZkRi3cta1wNxN3KoFt5",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -2735,8 +2678,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6qU5ciXhWiK9cRsJawsEhu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c3ceeac0ceac5a139879108",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2830,8 +2773,8 @@
       "livepass"
     ],
     "country": "ES",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0PbO1lSBsJPgyqdEypJJVb",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840eb51bce6ec6d7798bcae06",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2849,8 +2792,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4Rs6WsGT2sb4bHYev3bMSl",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787fd2d2c3255013ab5ca5b662",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2906,8 +2849,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2BTS8Np1YzPQuXjgdlqsBB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fe9296edc2bd005aef00f5a5",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2925,8 +2868,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "0IMtMBz3Onu0VEPxsOaav5",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485125e49e329eb1780638fd18b3",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2982,8 +2925,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6nR7tpxkxQxYjiYXMoETcj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783531be399fedf45bd347ef68",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3020,8 +2963,8 @@
       "livepass"
     ],
     "country": "ES",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3058,8 +3001,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
     "genres": [],
     "firstSeenAt": "2026-05-09"
   },
@@ -3153,8 +3096,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5YJaNTGKkgRkWGzGxizJhn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851185fc71ccf70a27fef866f49",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3229,8 +3172,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3mqu2Fl7QheVXdN26GUa4o",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881685df246381f22823d1261",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3248,8 +3191,8 @@
       "vorterix"
     ],
     "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1BdtWszUR1z5SeU5qXNU31",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5dbac5f9fc8bbc786de9b22",
     "genres": [],
     "firstSeenAt": "2026-06-09"
   },
@@ -3286,8 +3229,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "58gIcdW6E0jd0846aI1sVj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786468693d374cf86dc9f7eb8d",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3305,8 +3248,8 @@
       "livepass"
     ],
     "country": "UY",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5KA95SZBQeMgNMTuqnxzJd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804d81f58e8378881e906318a",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3324,27 +3267,8 @@
       "livepass"
     ],
     "country": "ES",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "homerelmeromero-2026-10-10-vorterix",
-    "artist": "HOMER EL MERO MERO",
-    "artistKey": "homerelmeromero",
-    "date": "2026-10-10",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/homer"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3362,8 +3286,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7cdPKcQfDd8nWDOMxsmgpN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812149e5ce01e10341187d240",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3381,8 +3305,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1MsuiPi272qfhDiWgFJQnd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e8d3cd2375183bdaa2d0861f",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3438,8 +3362,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6XipvyZWONz5EEJe2Uj7Q0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879e36c2c4af714ceb50659ba",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3495,8 +3419,8 @@
       "livepass"
     ],
     "country": "CL",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6WcoLUYMQyttg3fFIkou6X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786ed2f11bc156a15f61fa8224",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3552,8 +3476,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3590,8 +3514,8 @@
       "livepass"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3609,8 +3533,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7CRvmSc7wvM8xyM97mJarR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485135b90954541f12c5c8219873",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3628,8 +3552,8 @@
       "livepass"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3666,8 +3590,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "16rSbDmxWXGn8ChDODuEmy",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513fcd70fda4b608cecff16b97",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3685,8 +3609,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3ghRXw2nUEH2THaL82hw8R",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178124a6a41568f43401994f4c8",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3704,8 +3628,8 @@
       "livepass"
     ],
     "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "76tWYjH87oae3NUNdgE5KD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b582f8ef924857ad01f39a7",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3723,8 +3647,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3QZEbpYuO36TVmqHEbxpkZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e99c31822c44f54e8ebc3805",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3761,8 +3685,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3IFe0nS1QsWfow70RzaAaH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3818,8 +3742,8 @@
       "livepass"
     ],
     "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178119b61b35985e3b957c5ecb7",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3837,8 +3761,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3875,8 +3799,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "51riRWvyJlXbgaRxjUGdcu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178782631061155e679a2615bde",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3913,7 +3837,7 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "4uVxXw6lxxQMTGupdrBPNQ",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -3932,8 +3856,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2ms8Svp5iPNP7R3PXSsOFx",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485151c79ca3f7b0f405a7146860",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3951,8 +3875,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4AF13CNO78iBdARbH56O2O",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1b6ddfff3e45cd255b59d8b",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3989,7 +3913,7 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "1fm465BniNvxXTBvBpGCKf",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -4008,8 +3932,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "07rgCFfyOUUz818d2TuNQP",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cacbd3890ab51c43aa1e88b5",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4027,8 +3951,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3nWP13odEZJX73aH4pVnQn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048515ddcabc519af2b36fcc5a65d",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4084,8 +4008,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2FvPMLwN33OVwvegkSOILf",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d664c931f47a020d1490c734",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4160,7 +4084,7 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "2AUZM0kEhn0Ddu2Omiw4Z3",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -4179,8 +4103,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2fLjHwecfyupPEc52X3fDJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935a2ae22c4a630373da5481",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4198,8 +4122,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2rk1P5E8tnKPd1aGTsfcA0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a9efe34a357d4365beccee1",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4236,8 +4160,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6iqRzsNcx43CGFDxesPNt1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781821303c2913b66540e374fc",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4255,8 +4179,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6tWIoufIHPpvUk8NEiwwp3",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485179fb17070f16235ccf449df8",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4293,8 +4217,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "53RsXctnNmj9oKXvcbvzI2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885d7a4bb1614c9c300ce6fae",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -4312,8 +4236,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4xEDJHMQ8PN1U2pEldwI6O",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781875db9d984a7dcdce6e392b",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -4350,8 +4274,8 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "3uGBzL3GeZcrnpyY8KxP9Q",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851812b8c901ff04153bfba2a28",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4407,8 +4331,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1cUpGtXcSQsovNYEZOQgOG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ea528f9602f69166c6d33ef",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4464,8 +4388,8 @@
       "vorterix"
     ],
     "country": "UY",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4483,7 +4407,7 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
@@ -4521,8 +4445,8 @@
       "livepass"
     ],
     "country": "UY",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6SgzbJKexV8Ouadaaa6PVy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804e3541a2c71172ed36013a5",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4540,8 +4464,27 @@
       "livepass"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "2Mt2vBBEckrvXtg0JldwZ0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cf4936e79bdd3a28b09aee",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "edsheeran-2026-11-29-huracan",
+    "artist": "ED SHEERAN",
+    "artistKey": "edsheeran",
+    "date": "2026-11-29",
+    "venue": "Huracán",
+    "venueKey": "huracan",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ed-sheeran-en-huracan"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "GB",
+    "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4559,8 +4502,8 @@
       "livepass"
     ],
     "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "5wD0owYApRtYmjPWavWKvb",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780bb3bea556afbdcb1aed033e",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4635,8 +4578,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "7uQ1D2NNHs5cUL3CLKRbia",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4660,25 +4603,6 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "tanbionica-2026-12-12-uno",
-    "artist": "TAN BIONICA",
-    "artistKey": "tanbionica",
-    "date": "2026-12-12",
-    "venue": "Estadio Uno",
-    "venueKey": "uno",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/tan-bionica-en-estadio-uno"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "elsindromedepeter-2026-12-18-vorterix",
     "artist": "EL SÍNDROME DE PETER",
     "artistKey": "elsindromedepeter",
@@ -4692,8 +4616,8 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "6JKZLnwyVPZAWV2EEf4ymg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178767d90eaf2eeaec4df577f31",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   },
@@ -4730,8 +4654,8 @@
       "vorterix"
     ],
     "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "4YGXSFiOaglXLDO92EDVeU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178493856961c7414faede318b2",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4768,8 +4692,8 @@
       "vorterix"
     ],
     "country": "MX",
-    "spotifyId": null,
-    "spotifyImage": null,
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
     "genres": [],
     "firstSeenAt": "2026-09-06"
   }

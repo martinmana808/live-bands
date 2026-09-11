@@ -2,18 +2,6 @@
   "fetchedAt": "2026-09-11",
   "events": [
     {
-      "artist": "Florencia Bertotti",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-10",
-      "source": "songkick"
-    },
-    {
-      "artist": "Noelia Sinkunas and Florencia Ruiz",
-      "venue": "La Biblioteca Café",
-      "date": "2026-09-10",
-      "source": "songkick"
-    },
-    {
       "artist": "Chris Luno",
       "venue": "Catamarán Libertad",
       "date": "2026-09-11",
@@ -292,6 +280,18 @@
     {
       "artist": "Pedro Pastor and Los Locos Descalzos",
       "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fran Busso",
+      "venue": "Pura espacio cultural",
+      "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Nanndos",
+      "venue": "Club V",
       "date": "2026-09-25",
       "source": "songkick"
     }

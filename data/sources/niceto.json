@@ -2,34 +2,6 @@
   "fetchedAt": "2026-09-11",
   "events": [
     {
-      "artist": "MERCADO DE MÚSICA PATAGÓNICO",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad",
-      "source": "niceto"
-    },
-    {
-      "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/joystick-presenta-diarios-de-humo-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "Chinoy- concierto acústico junto a Julieta Díaz",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/chinoy-concierto-ac-stico-junto-a-julieta-d-azen-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Glasé presenta “Almíbar”",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/glas-presenta-alm-bar-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
       "artist": "CICLO23HS - FIESTA MERMELADA AFTER JOSTICK",
       "venue": "Niceto Club",
       "date": "2026-09-10",
@@ -303,6 +275,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Gestión Musical: El Arte de Construir una Carrera",
+      "venue": "Niceto Club",
+      "date": "2026-09-24",
+      "ticketUrl": "https://venti.live/evento/gesti-n-musical-el-arte-de-construir-una-carrera-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "DENNIS BOVELL/CLUB HATS",
       "venue": "Niceto Club",
       "date": "2026-09-24",
@@ -349,6 +328,27 @@
       "venue": "Niceto Club",
       "date": "2026-09-25",
       "ticketUrl": "https://venti.live/evento/polenta-solo-pop-25-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CUASIFUNKY",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/cuasifunky-en-niceto-bar",
       "source": "niceto"
     }
   ]

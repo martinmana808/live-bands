@@ -1253,6 +1253,13 @@
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
       "source": "livepass"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "venue": "Huracán",
+      "date": "2026-11-29",
+      "ticketUrl": "https://livepass.com.ar/events/ed-sheeran-en-huracan",
+      "source": "livepass"
     }
   ]
 }

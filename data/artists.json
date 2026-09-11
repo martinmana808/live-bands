@@ -7,50 +7,35 @@
     "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
-  "florencia bertotti": {
-    "name": "Florencia Bertotti",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "noelia sinkunas and florencia ruiz": {
-    "name": "Noelia Sinkunas and Florencia Ruiz",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
   "chris luno": {
     "name": "Chris Luno",
     "lookedUpAt": "2026-09-11",
     "country": "DE",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "celeste": {
     "name": "Celeste",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "campamento": {
     "name": "Campamento",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "los sub": {
     "name": "Los Sub",
@@ -59,169 +44,198 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "john summit": {
     "name": "John Summit",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "7kNqXtgeIwFtelmRjWv205",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fede cabral": {
     "name": "Fede cabral",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
+    "spotifyId": "3AiQjychmM933C9dY4S8It",
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "rayos láser": {
     "name": "Rayos Láser",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "3WGilHlQrv83h1CbF18BEs",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785cf1c93f1e9e460ed02c0741",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "zell": {
     "name": "Zell",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0bslv0fksKPyiH3LQqHagi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787db20197c9b1557e82721cde",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "helloween": {
     "name": "Helloween",
     "lookedUpAt": "2026-09-11",
     "country": "DE",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "toe": {
     "name": "Toe",
     "lookedUpAt": "2026-09-11",
     "country": "JP",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0rpKM0MniNkXM1SLSglYUZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898fbfdf3a15710fa2e4fa68d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "don olimpio": {
     "name": "Don Olimpio",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0S9BuBCtPWNNiQgvXvk1y9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898edabfe51534cc725e623eb",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "stray kids": {
     "name": "Stray Kids",
     "lookedUpAt": "2026-09-11",
     "country": "KR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "la bomba de tiempo": {
     "name": "LA BOMBA DE TIEMPO",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "florencia bertotti": {
+    "name": "Florencia Bertotti",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "5 seconds of summer": {
     "name": "5 Seconds of Summer",
     "lookedUpAt": "2026-09-11",
     "country": "AU",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "jamiroquai": {
     "name": "Jamiroquai",
     "lookedUpAt": "2026-09-11",
     "country": "GB",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6J7biCazzYhU3gM9j1wfid",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "kapo": {
     "name": "Kapo",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "3UTF2no3muGdiFXVujl94i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "hernán casciari": {
     "name": "Hernán Casciari",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6yCjiAcEkIMGxRynL8Y9xQ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17865f896569c6e23a9e649f483",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "nenagenix": {
     "name": "Nenagenix",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "72uTXCtp7vhZkvYdnoYu6I",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842369d5d9de92e6878e71cc0",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "left to die": {
     "name": "Left to Die",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "cultura profetica": {
     "name": "Cultura Profetica",
     "lookedUpAt": "2026-09-11",
     "country": "PR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "65HuWBUC1d8ty1q6J42Nfi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8160fc4f468b818c167660e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "alex anwandter": {
     "name": "Alex Anwandter",
     "lookedUpAt": "2026-09-11",
     "country": "CL",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0M8uC0u1YRUGCieOKmQF02",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "layton giordani": {
     "name": "Layton Giordani",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "cristian lopez": {
     "name": "Cristian Lopez",
@@ -230,16 +244,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "manu hattom": {
     "name": "manu hattom",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0bktV4M0SvAzGH7auzlGpY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178241ca3b45a86c7d25373b734",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "las tussi and sakatumba": {
     "name": "Las Tussi and Sakatumba",
@@ -248,34 +264,38 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "noelia sinkunas": {
     "name": "Noelia Sinkunas",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4HUdSdEPd2TFlEBO334EuF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787364efe68934932142231396",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "el mató a un policía motorizado": {
     "name": "El Mató a un Policía Motorizado",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "5rLsN2LxYaEPLa1N7I2mPB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e6eaf3fc12c6ccd4bf57a7e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "john digweed": {
     "name": "John Digweed",
     "lookedUpAt": "2026-09-11",
     "country": "GB",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "pez de buenos aires": {
     "name": "Pez De Buenos Aires",
@@ -284,16 +304,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "nos vemos en australia": {
     "name": "Nos vemos en Australia",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "tvt oficial and pantalones rotos": {
     "name": "TVT oficial and Pantalones Rotos",
@@ -302,25 +324,28 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "landmvrks": {
     "name": "LANDMVRKS",
     "lookedUpAt": "2026-09-11",
     "country": "FR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "samiam": {
     "name": "Samiam",
     "lookedUpAt": "2026-09-11",
     "country": "US",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "noelia sinkunas and lucy patané": {
     "name": "Noelia Sinkunas and Lucy Patané",
@@ -329,60 +354,68 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "caifanes": {
     "name": "CAIFANES",
     "lookedUpAt": "2026-09-11",
     "country": "MX",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "1GImnM7WYVp95431ypofy9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "bandana": {
     "name": "Bandana",
     "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5SqghR4PmacEuzlpIOQI2k",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb8f3b5ebf9ab4e0bc82f19d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "morat": {
     "name": "Morat",
     "lookedUpAt": "2026-09-11",
     "country": "CO",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "old man's child": {
     "name": "Old Man's Child",
     "lookedUpAt": "2026-09-11",
     "country": "NO",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4LT73i2bqTazQQkmODMaYf",
+    "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "conociendo rusia": {
     "name": "CONOCIENDO RUSIA",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "79R7PUc6T6j09G8mJzNml2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cfe7ec72afa9e807e0b47314",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "las historias": {
     "name": "Las Historias",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "pedro pastor and los locos descalzos": {
     "name": "Pedro Pastor and Los Locos Descalzos",
@@ -391,15 +424,38 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fran busso": {
+    "name": "Fran Busso",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3ulWAHPDwSvZ0G6eaprCuy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788e59a3b6486c3d1b67a5616e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "nanndos": {
+    "name": "Nanndos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6gx9AATbFhFQ3INOgS7BDh",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta forever 90s": {
     "name": "FIESTA FOREVER 90s",
     "lookedUpAt": "2026-09-11",
     "country": null,
+    "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "gondwana & quique neira": {
     "name": "GONDWANA & QUIQUE NEIRA",
@@ -408,16 +464,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "el síndrome de peter": {
     "name": "EL SÍNDROME DE PETER",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "6JKZLnwyVPZAWV2EEf4ymg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178767d90eaf2eeaec4df577f31",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "t&k en buenos aires": {
     "name": "T&K EN BUENOS AIRES",
@@ -426,7 +484,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "viejas locas x fya cumple mil shows y 15 años del disco \"contra la pared\"": {
     "name": "VIEJAS LOCAS X FyA Cumple MIL SHOWS Y 15 AÑOS del disco \"CONTRA LA PARED\"",
@@ -435,7 +494,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta click en vorterix": {
     "name": "FIESTA CLICK EN VORTERIX",
@@ -444,7 +504,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "vilma palma e vampiro": {
     "name": "VILMA PALMA e VAMPIRO",
@@ -453,33 +514,38 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "zeballos": {
     "name": "ZEBALLOS",
     "lookedUpAt": "2026-09-11",
     "country": "UY",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "arde la sangre": {
     "name": "ARDE LA SANGRE",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "0ygnmKrobIE3eHiDCQyTpm",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780da68dccd212c92825bfd786",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "pogofest": {
     "name": "POGOFEST",
     "lookedUpAt": "2026-09-11",
     "country": null,
+    "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta debar 20 años": {
     "name": "FIESTA DEBAR 20 AÑOS",
@@ -488,7 +554,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "gustavo cordera festeja su cumpleaños en vorterix": {
     "name": "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX",
@@ -497,7 +564,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta climax": {
     "name": "FIESTA CLIMAX",
@@ -506,7 +574,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta rock del pais": {
     "name": "FIESTA ROCK DEL PAIS",
@@ -515,25 +584,28 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "salta la banca": {
     "name": "SALTA LA BANCA",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4JathQD0aoyE5WwaIB2JxC",
+    "spotifyImage": "https://i.scdn.co/image/be6576ed7f05feece7c07c1d9f709995c769791e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "easykid": {
     "name": "EASYKID",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4xEDJHMQ8PN1U2pEldwI6O",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781875db9d984a7dcdce6e392b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fiesta back to the 80s": {
     "name": "FIESTA BACK TO THE 80s",
@@ -542,25 +614,28 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "alexisonfire": {
     "name": "ALEXISONFIRE",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "53RsXctnNmj9oKXvcbvzI2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885d7a4bb1614c9c300ce6fae",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "un verano": {
     "name": "UN VERANO",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2vaSBYGcW5v46jnDdXhawN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c370c4e032c5df7718cf0c3",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "ekisde fest": {
     "name": "EKISDE FEST",
@@ -569,7 +644,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "fms argentina": {
     "name": "FMS ARGENTINA",
@@ -578,7 +654,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "bulldog en el teatro vorterix": {
     "name": "BULLDOG EN EL TEATRO VORTERIX",
@@ -587,33 +664,38 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "lagos": {
     "name": "LAGOS",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "7uQ1D2NNHs5cUL3CLKRbia",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "chiara oliver": {
     "name": "CHIARA OLIVER",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "homer el mero mero": {
     "name": "HOMER EL MERO MERO",
     "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0Xo4VFS3v07L0GwIVkZLfg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787b04cdd58a2e8f9230b016d9",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "bahiano en vorterix": {
     "name": "BAHIANO EN VORTERIX",
@@ -622,70 +704,78 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "kidd voodoo": {
     "name": "KIDD VOODOO",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "feine sahne fischfilet": {
     "name": "FEINE SAHNE FISCHFILET",
     "lookedUpAt": "2026-09-11",
     "country": "DE",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "1BdtWszUR1z5SeU5qXNU31",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5dbac5f9fc8bbc786de9b22",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "pj morton": {
     "name": "PJ MORTON",
     "lookedUpAt": "2026-09-11",
     "country": "US",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2FMOHE79X98yptp4RpPrt7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c2b3307740b1421793cff28",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "dancing mood": {
     "name": "DANCING MOOD",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "70XauTb6oEJbXxFoH6wY9F",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842bc03857f5c2a8f6744d57a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "elnueveonce": {
     "name": "ELNUEVEONCE",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "3Sg4d4kPgf4zotCAq4kEIz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178afff14feeb2cc57bc899bb3d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "nanpa basico": {
     "name": "NANPA BASICO",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "1cUpGtXcSQsovNYEZOQgOG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ea528f9602f69166c6d33ef",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "los perez garcia": {
     "name": "LOS PEREZ GARCIA",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "kaos rave": {
     "name": "KAOS RAVE",
@@ -694,16 +784,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "erick brian": {
     "name": "ERICK BRIAN",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4tSDK2ySq41vxwERzxVRZH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff2542a0c8b51e333059d99d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "marito baracus y npv fest: edición multiverso con trukini, alejo y valentina y más": {
     "name": "MARITO BARACUS y NPV FEST: Edición Multiverso con Trukini, Alejo y Valentina y más",
@@ -712,16 +804,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "geoff tate": {
     "name": "GEOFF TATE",
     "lookedUpAt": "2026-09-11",
     "country": "US",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "4YGXSFiOaglXLDO92EDVeU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178493856961c7414faede318b2",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "la grecia en vorterix": {
     "name": "LA GRECIA EN VORTERIX",
@@ -730,16 +824,18 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "flema": {
     "name": "FLEMA",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyId": "2E0SVBO1NkyVTl7PDmGGw4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e429d274542bde36bcbfe13",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "los redondos de ricota homenaje sinfonico": {
     "name": "LOS REDONDOS DE RICOTA HOMENAJE SINFONICO",
@@ -748,7 +844,8 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "neurofest": {
     "name": "NEUROFEST",
@@ -757,12 +854,2122 @@
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
   "los caligaris": {
     "name": "LOS CALIGARIS",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "13wFTN72PGSUxzEHJP5Ljs",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17877938e267d2bc5f137120558",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ciclo23hs": {
+    "name": "CICLO23HS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "punchi session": {
+    "name": "PUNCHI SESSION",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "kilombo": {
+    "name": "KILOMBO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "los espíritus": {
+    "name": "Los Espíritus",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "chino sanchez & no todo trata de uno": {
+    "name": "CHINO SANCHEZ & NO TODO TRATA DE UNO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "festival pardo: ddt": {
+    "name": "FESTIVAL PARDO: DDT",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mamba clvb": {
+    "name": "Mamba Clvb",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sensoria": {
+    "name": "SENSORIA",
+    "lookedUpAt": "2026-09-11",
+    "country": "IT",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "north groove": {
+    "name": "NORTH GROOVE",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "choosey": {
+    "name": "CHOOSEY",
+    "lookedUpAt": "2026-09-11",
+    "country": "US",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "inti garcía & la multifacética proyectan ensayo abierto live session": {
+    "name": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "broke carrey": {
+    "name": "BROKE CARREY",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6FWTqLIVK9jjMGcNJnF7xE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786710e843a5e0a71378032d39",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "desorden": {
+    "name": "DESORDEN",
+    "lookedUpAt": "2026-09-11",
+    "country": "ES",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "electra": {
+    "name": "Electra",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ether": {
+    "name": "ETHER",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rose night": {
+    "name": "ROSE NIGHT",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "club 69": {
+    "name": "Club 69",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "presentación del libro invenciones sobre babasónicos": {
+    "name": "Presentación del libro Invenciones sobre Babasónicos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "piazzolla electrónico x nico sorin": {
+    "name": "Piazzolla Electrónico x Nico Sorin",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pedro aguilar y amigos": {
+    "name": "Pedro Aguilar y amigos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "martina marpegán": {
+    "name": "Martina Marpegán",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3cdHu4v5C71IttGubSDzKO",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178435c1930fff0de852d9958e1",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "deep session #16": {
+    "name": "DEEP SESSION #16",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "self-titled afterglow": {
+    "name": "SELF-TITLED AFTERGLOW",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "massacre": {
+    "name": "Massacre",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "10tKMKG6F95zDrJOxqtjhA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a137ef94b35c978ffab1dc6a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rayuela y campo traviesa": {
+    "name": "RAYUELA Y CAMPO TRAVIESA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "kalibre + recλzo: la noche del encuentro": {
+    "name": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "oasis": {
+    "name": "Oasis",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "trabestia, drag club": {
+    "name": "Trabestia, drag club",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la raxxet": {
+    "name": "La Raxxet",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "virus": {
+    "name": "Virus",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0G7A5LzQAs2egiQl7hO5tV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789d7dece38c0601490a8ed2ea",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "acostadetodo piano bar": {
+    "name": "ACOSTADETODO PIANO BAR",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "experiencia roce": {
+    "name": "EXPERIENCIA ROCE",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fiesta mermelada": {
+    "name": "FIESTA MERMELADA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "maria torpe + ceretti + matt montero": {
+    "name": "Maria Torpe + Ceretti + Matt Montero",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "boom boom kid": {
+    "name": "Boom Boom Kid",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2h2frsYL6pssri5AZdlMUU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178554a4a4aa43e76214055452f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "marttein": {
+    "name": "MARTTEIN",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5EbzQCOHXCVsr4y0qNsB48",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9a345819834f64fe07d0325",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sudan archives": {
+    "name": "SUDAN ARCHIVES",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2MPHBxznH1fj59jbOWY38u",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gestión musical: el arte de construir una carrera": {
+    "name": "Gestión Musical: El Arte de Construir una Carrera",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dennis bovell/club hats": {
+    "name": "DENNIS BOVELL/CLUB HATS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la playground": {
+    "name": "LA PLAYGROUND",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "latin piano bar": {
+    "name": "LATIN PIANO BAR",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pedro pastor": {
+    "name": "PEDRO PASTOR",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pelusones": {
+    "name": "Pelusones",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1vW3322paTGEEBrcuD5J8r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "danceteria": {
+    "name": "DANCETERIA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "polenta solo pop": {
+    "name": "Polenta Solo Pop",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "valen vargas": {
+    "name": "Valen Vargas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "67oZkRi3cta1wNxN3KoFt5",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "cami galz: licoretza lupus": {
+    "name": "CAMI GALZ: Licoretza Lupus",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "cuasifunky": {
+    "name": "CUASIFUNKY",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "las pastillas del abuelo": {
+    "name": "LAS PASTILLAS DEL ABUELO",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0D5U7oXEE4dut2DPyUDLca",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178223f1bcbaec4933dd0917c02",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "iñaki urlezaga": {
+    "name": "IÑAKI URLEZAGA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "diego torres": {
+    "name": "DIEGO TORRES",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0LALueHEQunQ2d61fXGeZh",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db3230fc1b438c9fc525be02",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pimpinela": {
+    "name": "Pimpinela",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7E7CVSqFdLyh0K4AE9uTMo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb7429e08829bf1ab3e5887f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "julieta rada": {
+    "name": "Julieta Rada",
+    "lookedUpAt": "2026-09-11",
+    "country": "UY",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5KA95SZBQeMgNMTuqnxzJd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804d81f58e8378881e906318a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "iron maiden": {
+    "name": "IRON MAIDEN",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "carmen sánchez viamonte": {
+    "name": "CARMEN SÁNCHEZ VIAMONTE",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5Ofqrhibux9l9dNgt6qZP6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816a98c3575ad46a676ec932c",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "babasonicos": {
+    "name": "BABASONICOS",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2F9pvj94b52wGKs0OqiNi2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785663900d842b0f0b9baec783",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la vela puerca + las pelotas": {
+    "name": "La Vela Puerca + Las Pelotas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "a perfect circle + puscifer": {
+    "name": "A PERFECT CIRCLE + PUSCIFER",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "serú girán por lebón y aznar": {
+    "name": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "lau andrade": {
+    "name": "Lau Andrade",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "autos robados": {
+    "name": "AUTOS ROBADOS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "adriana varela": {
+    "name": "Adriana Varela",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5diAzb0BD6mSdU1xOhM7dc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cb61e24b20f3518e4bed7b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mariano castro clerici 5tet": {
+    "name": "Mariano Castro Clerici 5tet",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "black dog": {
+    "name": "Black Dog",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "nilocos": {
+    "name": "Nilocos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6FuVoI0I9rIsRLlRmftbxX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d9ee8bc281cb9ec0711f306c",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "standard session: american songbook essentials": {
+    "name": "STANDARD SESSION: American Songbook Essentials",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gustavo santaolalla": {
+    "name": "GUSTAVO SANTAOLALLA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4W3fa7tiXGVXl3KilbACqt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178074781eba0a9c008945cde18",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "oeisis": {
+    "name": "OEISIS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sobredosis de soda íntimo y a la carta": {
+    "name": "Sobredosis de Soda íntimo y a la carta",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "bestia bebe": {
+    "name": "BESTIA BEBE",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3j7kmtxJ0aptdHr9ZCnEkp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782c87b00855d8ecbb324e46aa",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "treasures of classic jazz": {
+    "name": "Treasures of Classic Jazz",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "noches de teatro": {
+    "name": "Noches de Teatro",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leiparty": {
+    "name": "LEIPARTY",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dúo trixie y meteoro": {
+    "name": "Dúo Trixie y Meteoro",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "francia 98": {
+    "name": "Francia 98",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6me7j5R08ARYKASHiqhvcu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6c53e7f52db38ba8a810c15",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "chico jota sexteto plays mosaic": {
+    "name": "Chico Jota Sexteto plays Mosaic",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "roberto antier": {
+    "name": "Roberto Antier",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0veXXp2k4dPCQcgEFQWqas",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dólar blues": {
+    "name": "Dólar Blues",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5uQZuKfOyl8ooW5Qbd6HqV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd67b6d238c0d35574544eb7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gyomara trío": {
+    "name": "Gyomara Trío",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leonardo amuedo & daniel maza": {
+    "name": "Leonardo Amuedo & Daniel Maza",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "singers in jam": {
+    "name": "Singers in Jam",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "miss rapsody": {
+    "name": "Miss Rapsody",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ernesto dmitruk cuarteto": {
+    "name": "Ernesto Dmitruk Cuarteto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "bhavi": {
+    "name": "BHAVI",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7fT2Me47PQ8T7954PKrcwR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178502c516ea88457406db38fac",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "hecatombe": {
+    "name": "HECATOMBE",
+    "lookedUpAt": "2026-09-11",
+    "country": "FR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rey garufa": {
+    "name": "REY GARUFA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7BGe9KQ5WlCQReyqBtM9OR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178916f463d6c64e3f0e695fff3",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "santiago molina": {
+    "name": "Santiago Molina",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1Tc1jnGXaRCu62tn1t1k2w",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea501cfe19eb36c3b3a7c1bf",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "modo 5": {
+    "name": "Modo 5",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sarah lenore": {
+    "name": "Sarah Lenore",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4H2xPnLZ6qdTlQzf3XF6r7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17875ff028003d2cdb6e83d43eb",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "john & paul the beatles experience": {
+    "name": "JOHN & PAUL THE BEATLES EXPERIENCE",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mimi maura": {
+    "name": "Mimi Maura",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4VKHNaUBImLsxPOCdG5Mwl",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cf7c07b47ce0680fbcde54b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "jauria": {
+    "name": "JAURIA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1Abg5u0GFm9k3jst9mw4gH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c664f9bc32e4866d39345ce",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "nuevas flores": {
+    "name": "Nuevas Flores",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mar chiappetta": {
+    "name": "Mar Chiappetta",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "31PGsnmcXsq96YG0S0AWTC",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783e4332a60bc5df1496a394eb",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "más música": {
+    "name": "Más Música",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mestizaje grupo": {
+    "name": "Mestizaje Grupo",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1fQwzWKmFPhYjDT9dpeZSR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510fb6488ba00566a4f1e14b66",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "walter colonna band": {
+    "name": "Walter Colonna Band",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rikyn": {
+    "name": "Rikyn",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "swingin’ classics": {
+    "name": "Swingin’ classics",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "jan uve": {
+    "name": "Jan Uve",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7hWXE61toZRP69BB1bQgDe",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1c156a08448c8925321159b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "abril cormery trio": {
+    "name": "Abril Cormery Trio",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "5 planetas": {
+    "name": "5 Planetas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "antonia adem": {
+    "name": "Antonia Adem",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rompiendo espejos": {
+    "name": "ROMPIENDO ESPEJOS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "daniel melero": {
+    "name": "Daniel Melero",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5ohM2ZA35IpUZNIAiK4RoY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841562370177887da0b3f6889",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ceremonia rock nacional": {
+    "name": "CEREMONIA ROCK NACIONAL",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "quarter quartet": {
+    "name": "Quarter Quartet",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "hermanos martínez": {
+    "name": "Hermanos Martínez",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4t75tim4RSC1FXQJcHXS4x",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178352f66eed1020dee8d83dcf7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "paula dorrego": {
+    "name": "Paula Dorrego",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la chancha muda": {
+    "name": "LA CHANCHA MUDA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3q7B22drORYGk4srVegr3T",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "miguel cantilo": {
+    "name": "Miguel Cantilo",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4MTd9MHb33LFgRKqWG0jZi",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048516314e4201fc51b8a59cef209",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ale kurz": {
+    "name": "ALE KURZ",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "vitico y los leones": {
+    "name": "Vitico y Los Leones",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fiesta plop: homenaje a moria casan": {
+    "name": "FIESTA PLOP: Homenaje a Moria Casan",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "hay plan": {
+    "name": "HAY PLAN",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "simón goñi": {
+    "name": "Simón Goñi",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6qU5ciXhWiK9cRsJawsEhu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c3ceeac0ceac5a139879108",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "espíritu pescado": {
+    "name": "Espíritu Pescado",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sebastian brasero swingbook": {
+    "name": "Sebastian Brasero Swingbook",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fabiana cantilo": {
+    "name": "Fabiana Cantilo",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178434234315c5dcd60c2b5da6e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leonardo amuedo y maza daniel": {
+    "name": "Leonardo Amuedo y Maza Daniel",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "farolero": {
+    "name": "Farolero",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "horacio lavandera": {
+    "name": "Horacio Lavandera",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6InVsS0LwuWOaxHomvrb4i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17811b4a830213d09f969c36944",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "daniel maza y leonardo amuedo": {
+    "name": "Daniel Maza y Leonardo Amuedo",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "placeres culposos: #100 programas de nda": {
+    "name": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dyango": {
+    "name": "DYANGO",
+    "lookedUpAt": "2026-09-11",
+    "country": "ES",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0PbO1lSBsJPgyqdEypJJVb",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840eb51bce6ec6d7798bcae06",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "madda bergeret": {
+    "name": "Madda Bergeret",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4Rs6WsGT2sb4bHYev3bMSl",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787fd2d2c3255013ab5ca5b662",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "cadena perpetua": {
+    "name": "CADENA PERPETUA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "46cEeRi8p3fkd1hN0N820b",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786f7e98617f76d3edda13dfa8",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "banda de héroes": {
+    "name": "Banda de Héroes",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "lectura. claire keegan por claire keegan": {
+    "name": "Lectura. Claire Keegan por Claire Keegan",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sin datos": {
+    "name": "SIN DATOS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6nR7tpxkxQxYjiYXMoETcj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783531be399fedf45bd347ef68",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "por el sur": {
+    "name": "Por el Sur",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "emanero": {
+    "name": "EMANERO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2BTS8Np1YzPQuXjgdlqsBB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fe9296edc2bd005aef00f5a5",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la foca funk4": {
+    "name": "La Foca Funk4",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0IMtMBz3Onu0VEPxsOaav5",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485125e49e329eb1780638fd18b3",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "carrère cronista": {
+    "name": "Carrère cronista",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "1915 + mujer cebra + terrores nocturnos": {
+    "name": "1915 + MUJER CEBRA + TERRORES NOCTURNOS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "klezmer: por la vida y la paz entre los pueblos": {
+    "name": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "los endos": {
+    "name": "Los Endos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "airbag": {
+    "name": "AIRBAG",
+    "lookedUpAt": "2026-09-11",
+    "country": "ES",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "wadu wadu": {
+    "name": "Wadu Wadu",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "chuecas y locas": {
+    "name": "Chuecas y Locas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5YJaNTGKkgRkWGzGxizJhn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851185fc71ccf70a27fef866f49",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gicela méndez ribeiro & aluisio rockembach": {
+    "name": "Gicela Méndez Ribeiro & Aluisio Rockembach",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "the crimson kings": {
+    "name": "The Crimson Kings",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sentimental syncopators": {
+    "name": "Sentimental Syncopators",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gauchito club": {
+    "name": "GAUCHITO CLUB",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "58gIcdW6E0jd0846aI1sVj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786468693d374cf86dc9f7eb8d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "camerata rosario": {
+    "name": "Camerata Rosario",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3mqu2Fl7QheVXdN26GUa4o",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881685df246381f22823d1261",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "roque narvaja": {
+    "name": "Roque Narvaja",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7962171njr0mXGlo7bNVWx",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ae42d7bc09f3d62d2e04e1ea",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "lucho ssj": {
+    "name": "LUCHO SSJ",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1OBizG9nrnHJkrL9NjnWYN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17853423025279119366dab6f09",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "bestia bebé": {
+    "name": "BESTIA BEBÉ",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3j7kmtxJ0aptdHr9ZCnEkp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782c87b00855d8ecbb324e46aa",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la maison ferrés": {
+    "name": "La Maison Ferrés",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7cdPKcQfDd8nWDOMxsmgpN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17812149e5ce01e10341187d240",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sur oculto": {
+    "name": "Sur Oculto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1MsuiPi272qfhDiWgFJQnd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e8d3cd2375183bdaa2d0861f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "festival de cocina y teatro judío": {
+    "name": "Festival de Cocina y Teatro Judío",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leandro barrales sexteto": {
+    "name": "Leandro Barrales Sexteto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6XipvyZWONz5EEJe2Uj7Q0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879e36c2c4af714ceb50659ba",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "local blues all stars": {
+    "name": "LOCAL BLUES All Stars",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fernando sanjiao": {
+    "name": "Fernando Sanjiao",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sobredosis de soda": {
+    "name": "SOBREDOSIS DE SODA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "tarea fina": {
+    "name": "TAREA FINA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "nano stern": {
+    "name": "Nano Stern",
+    "lookedUpAt": "2026-09-11",
+    "country": "CL",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6WcoLUYMQyttg3fFIkou6X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786ed2f11bc156a15f61fa8224",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "interpaul": {
+    "name": "Interpaul",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "tres mundos": {
+    "name": "Tres Mundos",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7dzRqPGbbJECQk6p1QD3Ht",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178587e454c0175d29e39a0673b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la pardo big band": {
+    "name": "La Pardo Big Band",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "7CRvmSc7wvM8xyM97mJarR",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485135b90954541f12c5c8219873",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "liliana herrero": {
+    "name": "Liliana Herrero",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6iqeypk1XRa2zQVRcIVmlF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818b6970b32cd0eefb63c02c8",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "javier sá": {
+    "name": "Javier Sá",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leo travaglio": {
+    "name": "Leo Travaglio",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "16rSbDmxWXGn8ChDODuEmy",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513fcd70fda4b608cecff16b97",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "vértigo": {
+    "name": "Vértigo",
+    "lookedUpAt": "2026-09-11",
+    "country": "US",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "76tWYjH87oae3NUNdgE5KD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b582f8ef924857ad01f39a7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la konga": {
+    "name": "LA KONGA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3ghRXw2nUEH2THaL82hw8R",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178124a6a41568f43401994f4c8",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "escalandrum": {
+    "name": "ESCALANDRUM",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3QZEbpYuO36TVmqHEbxpkZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e99c31822c44f54e8ebc3805",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pitufo lombardo & nico ibarburu": {
+    "name": "Pitufo Lombardo & Nico Ibarburu",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "hernán romero": {
+    "name": "Hernán Romero",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3IFe0nS1QsWfow70RzaAaH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "the beatles": {
+    "name": "The Beatles",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178119b61b35985e3b957c5ecb7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "blue nigths": {
+    "name": "Blue Nigths",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pasarla bien": {
+    "name": "Pasarla Bien",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "51riRWvyJlXbgaRxjUGdcu",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178782631061155e679a2615bde",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pablo cordonet": {
+    "name": "Pablo Cordonet",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "joe fernández": {
+    "name": "Joe Fernández",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4uVxXw6lxxQMTGupdrBPNQ",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dani stone & barrio viejo": {
+    "name": "Dani Stone & Barrio Viejo",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "maikel pereyra": {
+    "name": "Maikel Pereyra",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2ms8Svp5iPNP7R3PXSsOFx",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485151c79ca3f7b0f405a7146860",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fátima garrido": {
+    "name": "Fátima Garrido",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "4AF13CNO78iBdARbH56O2O",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1b6ddfff3e45cd255b59d8b",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "blue art": {
+    "name": "Blue Art",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "jorge viñas": {
+    "name": "Jorge Viñas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1fm465BniNvxXTBvBpGCKf",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "orlando curti & the groove seekers": {
+    "name": "Orlando Curti & The Groove Seekers",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "07rgCFfyOUUz818d2TuNQP",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cacbd3890ab51c43aa1e88b5",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "the end": {
+    "name": "The End",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3nWP13odEZJX73aH4pVnQn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048515ddcabc519af2b36fcc5a65d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "nanutria": {
+    "name": "NANUTRIA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2FvPMLwN33OVwvegkSOILf",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d664c931f47a020d1490c734",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "javier calamaro": {
+    "name": "Javier Calamaro",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6tPLRbaYWgZXppgsyKQ2M5",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878a06d349df5bdab56dc2313",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "panter giuliano | guitarra & voz": {
+    "name": "PANTER GIULIANO | GUITARRA & VOZ",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "alambre & amigos": {
+    "name": "Alambre & Amigos",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "los demás son un montón": {
+    "name": "Los Demás son un Montón",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "leo garzón": {
+    "name": "Leo Garzón",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2AUZM0kEhn0Ddu2Omiw4Z3",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "paris jazz club": {
+    "name": "Paris Jazz Club",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2rk1P5E8tnKPd1aGTsfcA0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a9efe34a357d4365beccee1",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "arethas": {
+    "name": "Arethas",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2fLjHwecfyupPEc52X3fDJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935a2ae22c4a630373da5481",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "giros": {
+    "name": "GIROS",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "rita cortese": {
+    "name": "Rita Cortese",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6tWIoufIHPpvUk8NEiwwp3",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485179fb17070f16235ccf449df8",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la jarana": {
+    "name": "La Jarana",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6iqRzsNcx43CGFDxesPNt1",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781821303c2913b66540e374fc",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "esquina libertad": {
+    "name": "ESQUINA LIBERTAD",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pablo sbaraglia": {
+    "name": "Pablo Sbaraglia",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1QnMXZuKQaT0kUIIg2L8vs",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a74b47c7f8dcd84ca98ad2c7",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "do neurona": {
+    "name": "Do Neurona",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2DfrahhG2Dla7eVtLnNnCE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fbfe51a59a20985ec1e78954",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sofía p.j": {
+    "name": "Sofía P.J",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "gran martell": {
+    "name": "Gran Martell",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3uGBzL3GeZcrnpyY8KxP9Q",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851812b8c901ff04153bfba2a28",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "usted señalemelo": {
+    "name": "USTED SEÑALEMELO",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "benjamin amadeo": {
+    "name": "BENJAMIN AMADEO",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6GYXfifD78PYARjZzxQzrG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d75e1e256996a5c3e3491383",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "2 minutos": {
+    "name": "2 MINUTOS",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5sASmkskUJsvYDSYKRkkYd",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f3b2acfff71cc072759d035d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "devotos del rock": {
+    "name": "Devotos del Rock",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "queteimporta": {
+    "name": "Queteimporta",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "k4os": {
+    "name": "K4OS",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "0jwhC8DIMe1p89BXvsMnYj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2b84d05e2fc9000385a633a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fernando cabrera": {
+    "name": "Fernando Cabrera",
+    "lookedUpAt": "2026-09-11",
+    "country": "UY",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6SgzbJKexV8Ouadaaa6PVy",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804e3541a2c71172ed36013a5",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "un poco de ruido": {
+    "name": "Un Poco de Ruido",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "2Mt2vBBEckrvXtg0JldwZ0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cf4936e79bdd3a28b09aee",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "giant rooks": {
+    "name": "Giant Rooks",
+    "lookedUpAt": "2026-09-11",
+    "country": "DE",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "5wD0owYApRtYmjPWavWKvb",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780bb3bea556afbdcb1aed033e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "dennis chambers & christian gálvez quartet": {
+    "name": "Dennis Chambers & Christian Gálvez Quartet",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "tan bionica": {
+    "name": "TAN BIONICA",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "37MCoi4pcUf9EKsPXeuCqU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178246dece9f4be99566cd31607",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "valeria lynch": {
+    "name": "Valeria Lynch",
+    "lookedUpAt": "2026-09-11",
+    "country": "AR",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "60zawKIAJS16ul7OSY91wM",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e93659f75ed3213e4720a203",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ludovico einaudi: solo piano": {
+    "name": "Ludovico Einaudi: Solo Piano",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ed sheeran": {
+    "name": "ED SHEERAN",
+    "lookedUpAt": "2026-09-11",
+    "country": "GB",
+    "countryResolvedBy": "mb-exact-v2",
+    "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "noelia sinkunas and florencia ruiz": {
+    "name": "Noelia Sinkunas and Florencia Ruiz",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
     "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
@@ -800,1839 +3007,6 @@
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ciclo23hs": {
-    "name": "CICLO23HS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "punchi session": {
-    "name": "PUNCHI SESSION",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "kilombo": {
-    "name": "KILOMBO",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "los espíritus": {
-    "name": "Los Espíritus",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "chino sanchez & no todo trata de uno": {
-    "name": "CHINO SANCHEZ & NO TODO TRATA DE UNO",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "festival pardo: ddt": {
-    "name": "FESTIVAL PARDO: DDT",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "mamba clvb": {
-    "name": "Mamba Clvb",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sensoria": {
-    "name": "SENSORIA",
-    "lookedUpAt": "2026-09-11",
-    "country": "IT",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "north groove": {
-    "name": "NORTH GROOVE",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "choosey": {
-    "name": "CHOOSEY",
-    "lookedUpAt": "2026-09-11",
-    "country": "US",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "inti garcía & la multifacética proyectan ensayo abierto live session": {
-    "name": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "broke carrey": {
-    "name": "BROKE CARREY",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "desorden": {
-    "name": "DESORDEN",
-    "lookedUpAt": "2026-09-11",
-    "country": "ES",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "electra": {
-    "name": "Electra",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ether": {
-    "name": "ETHER",
-    "lookedUpAt": "2026-09-11",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rose night": {
-    "name": "ROSE NIGHT",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "club 69": {
-    "name": "Club 69",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "presentación del libro invenciones sobre babasónicos": {
-    "name": "Presentación del libro Invenciones sobre Babasónicos",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "piazzolla electrónico x nico sorin": {
-    "name": "Piazzolla Electrónico x Nico Sorin",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pedro aguilar y amigos": {
-    "name": "Pedro Aguilar y amigos",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "martina marpegán": {
-    "name": "Martina Marpegán",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "deep session #16": {
-    "name": "DEEP SESSION #16",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "self-titled afterglow": {
-    "name": "SELF-TITLED AFTERGLOW",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "massacre": {
-    "name": "Massacre",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rayuela y campo traviesa": {
-    "name": "RAYUELA Y CAMPO TRAVIESA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "kalibre + recλzo: la noche del encuentro": {
-    "name": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "oasis": {
-    "name": "Oasis",
-    "lookedUpAt": "2026-09-11",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "trabestia, drag club": {
-    "name": "Trabestia, drag club",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la raxxet": {
-    "name": "La Raxxet",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "virus": {
-    "name": "Virus",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "acostadetodo piano bar": {
-    "name": "ACOSTADETODO PIANO BAR",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "experiencia roce": {
-    "name": "EXPERIENCIA ROCE",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fiesta mermelada": {
-    "name": "FIESTA MERMELADA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "maria torpe + ceretti + matt montero": {
-    "name": "Maria Torpe + Ceretti + Matt Montero",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "boom boom kid": {
-    "name": "Boom Boom Kid",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "marttein": {
-    "name": "MARTTEIN",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sudan archives": {
-    "name": "SUDAN ARCHIVES",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dennis bovell/club hats": {
-    "name": "DENNIS BOVELL/CLUB HATS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la playground": {
-    "name": "LA PLAYGROUND",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "latin piano bar": {
-    "name": "LATIN PIANO BAR",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pedro pastor": {
-    "name": "PEDRO PASTOR",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pelusones": {
-    "name": "Pelusones",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "danceteria": {
-    "name": "DANCETERIA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "polenta solo pop": {
-    "name": "Polenta Solo Pop",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "las pastillas del abuelo": {
-    "name": "LAS PASTILLAS DEL ABUELO",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "iñaki urlezaga": {
-    "name": "IÑAKI URLEZAGA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "diego torres": {
-    "name": "DIEGO TORRES",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pimpinela": {
-    "name": "Pimpinela",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "julieta rada": {
-    "name": "Julieta Rada",
-    "lookedUpAt": "2026-09-11",
-    "country": "UY",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "iron maiden": {
-    "name": "IRON MAIDEN",
-    "lookedUpAt": "2026-09-11",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "carmen sánchez viamonte": {
-    "name": "CARMEN SÁNCHEZ VIAMONTE",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "babasonicos": {
-    "name": "BABASONICOS",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la vela puerca + las pelotas": {
-    "name": "La Vela Puerca + Las Pelotas",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "a perfect circle + puscifer": {
-    "name": "A PERFECT CIRCLE + PUSCIFER",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "serú girán por lebón y aznar": {
-    "name": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "lau andrade": {
-    "name": "Lau Andrade",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "autos robados": {
-    "name": "AUTOS ROBADOS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "adriana varela": {
-    "name": "Adriana Varela",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "mariano castro clerici 5tet": {
-    "name": "Mariano Castro Clerici 5tet",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "black dog": {
-    "name": "Black Dog",
-    "lookedUpAt": "2026-09-11",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "nilocos": {
-    "name": "Nilocos",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "standard session: american songbook essentials": {
-    "name": "STANDARD SESSION: American Songbook Essentials",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "gustavo santaolalla": {
-    "name": "GUSTAVO SANTAOLALLA",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "oeisis": {
-    "name": "OEISIS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sobredosis de soda íntimo y a la carta": {
-    "name": "Sobredosis de Soda íntimo y a la carta",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "bestia bebe": {
-    "name": "BESTIA BEBE",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "treasures of classic jazz": {
-    "name": "Treasures of Classic Jazz",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "noches de teatro": {
-    "name": "Noches de Teatro",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leiparty": {
-    "name": "LEIPARTY",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dúo trixie y meteoro": {
-    "name": "Dúo Trixie y Meteoro",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "francia 98": {
-    "name": "Francia 98",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "chico jota sexteto plays mosaic": {
-    "name": "Chico Jota Sexteto plays Mosaic",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "roberto antier": {
-    "name": "Roberto Antier",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dólar blues": {
-    "name": "Dólar Blues",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "gyomara trío": {
-    "name": "Gyomara Trío",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leonardo amuedo & daniel maza": {
-    "name": "Leonardo Amuedo & Daniel Maza",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "singers in jam": {
-    "name": "Singers in Jam",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "miss rapsody": {
-    "name": "Miss Rapsody",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ernesto dmitruk cuarteto": {
-    "name": "Ernesto Dmitruk Cuarteto",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "bhavi": {
-    "name": "BHAVI",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "hecatombe": {
-    "name": "HECATOMBE",
-    "lookedUpAt": "2026-09-11",
-    "country": "FR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rey garufa": {
-    "name": "REY GARUFA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "santiago molina": {
-    "name": "Santiago Molina",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "modo 5": {
-    "name": "Modo 5",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sarah lenore": {
-    "name": "Sarah Lenore",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "john & paul the beatles experience": {
-    "name": "JOHN & PAUL THE BEATLES EXPERIENCE",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "mimi maura": {
-    "name": "Mimi Maura",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "jauria": {
-    "name": "JAURIA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "nuevas flores": {
-    "name": "Nuevas Flores",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "mar chiappetta": {
-    "name": "Mar Chiappetta",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "más música": {
-    "name": "Más Música",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "mestizaje grupo": {
-    "name": "Mestizaje Grupo",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "walter colonna band": {
-    "name": "Walter Colonna Band",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rikyn": {
-    "name": "Rikyn",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "swingin’ classics": {
-    "name": "Swingin’ classics",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "jan uve": {
-    "name": "Jan Uve",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "abril cormery trio": {
-    "name": "Abril Cormery Trio",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "5 planetas": {
-    "name": "5 Planetas",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "antonia adem": {
-    "name": "Antonia Adem",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rompiendo espejos": {
-    "name": "ROMPIENDO ESPEJOS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "daniel melero": {
-    "name": "Daniel Melero",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ceremonia rock nacional": {
-    "name": "CEREMONIA ROCK NACIONAL",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "quarter quartet": {
-    "name": "Quarter Quartet",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "hermanos martínez": {
-    "name": "Hermanos Martínez",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "paula dorrego": {
-    "name": "Paula Dorrego",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la chancha muda": {
-    "name": "LA CHANCHA MUDA",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "miguel cantilo": {
-    "name": "Miguel Cantilo",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ale kurz": {
-    "name": "ALE KURZ",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "vitico y los leones": {
-    "name": "Vitico y Los Leones",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fiesta plop: homenaje a moria casan": {
-    "name": "FIESTA PLOP: Homenaje a Moria Casan",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "hay plan": {
-    "name": "HAY PLAN",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "simón goñi": {
-    "name": "Simón Goñi",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "espíritu pescado": {
-    "name": "Espíritu Pescado",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sebastian brasero swingbook": {
-    "name": "Sebastian Brasero Swingbook",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fabiana cantilo": {
-    "name": "Fabiana Cantilo",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leonardo amuedo y maza daniel": {
-    "name": "Leonardo Amuedo y Maza Daniel",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "farolero": {
-    "name": "Farolero",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "horacio lavandera": {
-    "name": "Horacio Lavandera",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "daniel maza y leonardo amuedo": {
-    "name": "Daniel Maza y Leonardo Amuedo",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "placeres culposos: #100 programas de nda": {
-    "name": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dyango": {
-    "name": "DYANGO",
-    "lookedUpAt": "2026-09-11",
-    "country": "ES",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "madda bergeret": {
-    "name": "Madda Bergeret",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "cadena perpetua": {
-    "name": "CADENA PERPETUA",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "banda de héroes": {
-    "name": "Banda de Héroes",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "lectura. claire keegan por claire keegan": {
-    "name": "Lectura. Claire Keegan por Claire Keegan",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sin datos": {
-    "name": "SIN DATOS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "por el sur": {
-    "name": "Por el Sur",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "emanero": {
-    "name": "EMANERO",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la foca funk4": {
-    "name": "La Foca Funk4",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "carrère cronista": {
-    "name": "Carrère cronista",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "1915 + mujer cebra + terrores nocturnos": {
-    "name": "1915 + MUJER CEBRA + TERRORES NOCTURNOS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "klezmer: por la vida y la paz entre los pueblos": {
-    "name": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "los endos": {
-    "name": "Los Endos",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "airbag": {
-    "name": "AIRBAG",
-    "lookedUpAt": "2026-09-11",
-    "country": "ES",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "wadu wadu": {
-    "name": "Wadu Wadu",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "chuecas y locas": {
-    "name": "Chuecas y Locas",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "gicela méndez ribeiro & aluisio rockembach": {
-    "name": "Gicela Méndez Ribeiro & Aluisio Rockembach",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "the crimson kings": {
-    "name": "The Crimson Kings",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sentimental syncopators": {
-    "name": "Sentimental Syncopators",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "gauchito club": {
-    "name": "GAUCHITO CLUB",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "camerata rosario": {
-    "name": "Camerata Rosario",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "roque narvaja": {
-    "name": "Roque Narvaja",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "lucho ssj": {
-    "name": "LUCHO SSJ",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "bestia bebé": {
-    "name": "BESTIA BEBÉ",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la maison ferrés": {
-    "name": "La Maison Ferrés",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sur oculto": {
-    "name": "Sur Oculto",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "festival de cocina y teatro judío": {
-    "name": "Festival de Cocina y Teatro Judío",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leandro barrales sexteto": {
-    "name": "Leandro Barrales Sexteto",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "local blues all stars": {
-    "name": "LOCAL BLUES All Stars",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fernando sanjiao": {
-    "name": "Fernando Sanjiao",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sobredosis de soda": {
-    "name": "SOBREDOSIS DE SODA",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "tarea fina": {
-    "name": "TAREA FINA",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "nano stern": {
-    "name": "Nano Stern",
-    "lookedUpAt": "2026-09-11",
-    "country": "CL",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "interpaul": {
-    "name": "Interpaul",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "tres mundos": {
-    "name": "Tres Mundos",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la pardo big band": {
-    "name": "La Pardo Big Band",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "liliana herrero": {
-    "name": "Liliana Herrero",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "javier sá": {
-    "name": "Javier Sá",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leo travaglio": {
-    "name": "Leo Travaglio",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "vértigo": {
-    "name": "Vértigo",
-    "lookedUpAt": "2026-09-11",
-    "country": "US",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la konga": {
-    "name": "LA KONGA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "escalandrum": {
-    "name": "ESCALANDRUM",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pitufo lombardo & nico ibarburu": {
-    "name": "Pitufo Lombardo & Nico Ibarburu",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "hernán romero": {
-    "name": "Hernán Romero",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "the beatles": {
-    "name": "The Beatles",
-    "lookedUpAt": "2026-09-11",
-    "country": "GB",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "blue nigths": {
-    "name": "Blue Nigths",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pasarla bien": {
-    "name": "Pasarla Bien",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pablo cordonet": {
-    "name": "Pablo Cordonet",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "joe fernández": {
-    "name": "Joe Fernández",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dani stone & barrio viejo": {
-    "name": "Dani Stone & Barrio Viejo",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "maikel pereyra": {
-    "name": "Maikel Pereyra",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fátima garrido": {
-    "name": "Fátima Garrido",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "blue art": {
-    "name": "Blue Art",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "jorge viñas": {
-    "name": "Jorge Viñas",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "orlando curti & the groove seekers": {
-    "name": "Orlando Curti & The Groove Seekers",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "the end": {
-    "name": "The End",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "nanutria": {
-    "name": "NANUTRIA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "javier calamaro": {
-    "name": "Javier Calamaro",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "panter giuliano | guitarra & voz": {
-    "name": "PANTER GIULIANO | GUITARRA & VOZ",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "alambre & amigos": {
-    "name": "Alambre & Amigos",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "los demás son un montón": {
-    "name": "Los Demás son un Montón",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "leo garzón": {
-    "name": "Leo Garzón",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "paris jazz club": {
-    "name": "Paris Jazz Club",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "arethas": {
-    "name": "Arethas",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "giros": {
-    "name": "GIROS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "rita cortese": {
-    "name": "Rita Cortese",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "la jarana": {
-    "name": "La Jarana",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "esquina libertad": {
-    "name": "ESQUINA LIBERTAD",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "pablo sbaraglia": {
-    "name": "Pablo Sbaraglia",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "do neurona": {
-    "name": "Do Neurona",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "sofía p.j": {
-    "name": "Sofía P.J",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "gran martell": {
-    "name": "Gran Martell",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "usted señalemelo": {
-    "name": "USTED SEÑALEMELO",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "benjamin amadeo": {
-    "name": "BENJAMIN AMADEO",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "2 minutos": {
-    "name": "2 MINUTOS",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "devotos del rock": {
-    "name": "Devotos del Rock",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "queteimporta": {
-    "name": "Queteimporta",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "k4os": {
-    "name": "K4OS",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "fernando cabrera": {
-    "name": "Fernando Cabrera",
-    "lookedUpAt": "2026-09-11",
-    "country": "UY",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "un poco de ruido": {
-    "name": "Un Poco de Ruido",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "giant rooks": {
-    "name": "Giant Rooks",
-    "lookedUpAt": "2026-09-11",
-    "country": "DE",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "dennis chambers & christian gálvez quartet": {
-    "name": "Dennis Chambers & Christian Gálvez Quartet",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "tan bionica": {
-    "name": "TAN BIONICA",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "valeria lynch": {
-    "name": "Valeria Lynch",
-    "lookedUpAt": "2026-09-11",
-    "country": "AR",
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": []
-  },
-  "ludovico einaudi: solo piano": {
-    "name": "Ludovico Einaudi: Solo Piano",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
     "spotifyId": null,
     "spotifyImage": null,
     "spotifyGenres": []
@@ -2831,14 +3205,6 @@
   },
   "cami galz: licoretza lupus - presentación oficial": {
     "name": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-    "lookedUpAt": "2026-09-06",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  "cuasifunky": {
-    "name": "CUASIFUNKY",
     "lookedUpAt": "2026-09-06",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
