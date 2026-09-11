@@ -2,24 +2,10 @@
   "fetchedAt": "2026-09-11",
   "events": [
     {
-      "artist": "CICLO23HS - FIESTA MERMELADA AFTER JOSTICK",
+      "artist": "MERCADO DE MÚSICA PATAGÓNICO",
       "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/ciclo23hs-fiesta-mermelada-after-jostick-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "PUNCHI SESSION",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/punchi-session-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "KILOMBO 10 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-10",
-      "ticketUrl": "https://venti.live/evento/kilombo-10-sep-en-niceto-bar",
+      "date": "2026-09-11",
+      "ticketUrl": "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad",
       "source": "niceto"
     },
     {
@@ -324,6 +310,13 @@
       "source": "niceto"
     },
     {
+      "artist": "VULKA + OMORA",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/vulka-omora-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Polenta Solo Pop 25 SEP",
       "venue": "Niceto Club",
       "date": "2026-09-25",
@@ -349,6 +342,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-26",
       "ticketUrl": "https://venti.live/evento/cuasifunky-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar",
       "source": "niceto"
     }
   ]

@@ -718,7 +718,7 @@
     "lookedUpAt": "2026-09-11",
     "country": "AR",
     "genres": [],
-    "countryResolvedBy": "mb-exact-v2",
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "4JathQD0aoyE5WwaIB2JxC",
     "spotifyImage": "https://i.scdn.co/image/be6576ed7f05feece7c07c1d9f709995c769791e",
     "spotifyGenres": [],
@@ -777,7 +777,7 @@
     "lookedUpAt": "2026-09-11",
     "country": null,
     "genres": [],
-    "countryResolvedBy": "mb-exact-v2",
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": null,
     "spotifyImage": null,
     "spotifyGenres": [],
@@ -852,9 +852,9 @@
   "kidd voodoo": {
     "name": "KIDD VOODOO",
     "lookedUpAt": "2026-09-11",
-    "country": null,
+    "country": "CL",
     "genres": [],
-    "countryResolvedBy": "mb-exact-v2",
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "10VBp06W8NIgMW4JruLCC4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
     "spotifyGenres": [],
@@ -1033,30 +1033,8 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
-  "ciclo23hs": {
-    "name": "CICLO23HS",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "punchi session": {
-    "name": "PUNCHI SESSION",
-    "lookedUpAt": "2026-09-11",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "kilombo": {
-    "name": "KILOMBO",
+  "mercado de música patagónico": {
+    "name": "MERCADO DE MÚSICA PATAGÓNICO",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "genres": [],
@@ -1070,8 +1048,12 @@
     "name": "Los Espíritus",
     "lookedUpAt": "2026-09-11",
     "country": "AR",
-    "genres": [],
-    "countryResolvedBy": "mb-exact-v2",
+    "genres": [
+      "blues",
+      "blues rock",
+      "gospel"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
     "spotifyGenres": [],
@@ -1128,7 +1110,7 @@
     "lookedUpAt": "2026-09-11",
     "country": null,
     "genres": [],
-    "countryResolvedBy": "mb-exact-v2",
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": null,
     "spotifyImage": null,
     "spotifyGenres": [],
@@ -1538,6 +1520,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "vulka + omora": {
+    "name": "VULKA + OMORA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "polenta solo pop": {
     "name": "Polenta Solo Pop",
     "lookedUpAt": "2026-09-11",
@@ -1577,6 +1570,17 @@
     "country": null,
     "genres": [],
     "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "fungi pres. josé monsalve / augusto / bruno ledesma": {
+    "name": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-v2",
     "spotifyId": null,
     "spotifyImage": null,
     "spotifyGenres": [],
@@ -2000,17 +2004,6 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
-  "hecatombe": {
-    "name": "HECATOMBE",
-    "lookedUpAt": "2026-09-11",
-    "country": "FR",
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
   "rey garufa": {
     "name": "REY GARUFA",
     "lookedUpAt": "2026-09-11",
@@ -2346,6 +2339,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "hecatombe": {
+    "name": "HECATOMBE",
+    "lookedUpAt": "2026-09-11",
+    "country": "FR",
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "simón goñi": {
     "name": "Simón Goñi",
     "lookedUpAt": "2026-09-11",
@@ -2427,6 +2431,17 @@
   },
   "daniel maza y leonardo amuedo": {
     "name": "Daniel Maza y Leonardo Amuedo",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "double dragon 4tet": {
+    "name": "Double Dragon 4tet",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "genres": [],
@@ -2606,6 +2621,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "pat coria trio": {
+    "name": "PAT CORIA TRIO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "wadu wadu": {
     "name": "Wadu Wadu",
     "lookedUpAt": "2026-09-11",
@@ -2707,6 +2733,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "cuarteto aráoz": {
+    "name": "Cuarteto Aráoz",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "bestia bebé": {
     "name": "BESTIA BEBÉ",
     "lookedUpAt": "2026-09-11",
@@ -2780,6 +2817,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "axel scheinsohn cuarteto": {
+    "name": "Axel Scheinsohn Cuarteto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "fernando sanjiao": {
     "name": "Fernando Sanjiao",
     "lookedUpAt": "2026-09-11",
@@ -2821,6 +2869,17 @@
     "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "6WcoLUYMQyttg3fFIkou6X",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786ed2f11bc156a15f61fa8224",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "pedro velázquez": {
+    "name": "Pedro Velázquez",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "5ADcu6TmxcLtapm6fCNYdn",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788f29fd524a5b677d8593c411",
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
@@ -2911,6 +2970,16 @@
     "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "3ghRXw2nUEH2THaL82hw8R",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178124a6a41568f43401994f4c8",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "abasto jazz quinteto": {
+    "name": "Abasto Jazz Quinteto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "spotifyId": null,
+    "spotifyImage": null,
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
@@ -3080,6 +3149,17 @@
     "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "3nWP13odEZJX73aH4pVnQn",
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048515ddcabc519af2b36fcc5a65d",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sudestada": {
+    "name": "SUDESTADA",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "51JHEXVRERUtFQ3JsshJac",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485150a54d16c50af25f3fe3afe1",
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
@@ -3274,6 +3354,17 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "carcamo sexteto": {
+    "name": "Carcamo Sexteto",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "benjamin amadeo": {
     "name": "BENJAMIN AMADEO",
     "lookedUpAt": "2026-09-11",
@@ -3437,17 +3528,41 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
-  "noelia sinkunas and florencia ruiz": {
-    "name": "Noelia Sinkunas and Florencia Ruiz",
+  "ciclo23hs": {
+    "name": "CICLO23HS",
     "lookedUpAt": "2026-09-11",
     "country": null,
-    "countryResolvedBy": "mb-exact-v2",
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": []
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
   },
-  "mercado de música patagónico": {
-    "name": "MERCADO DE MÚSICA PATAGÓNICO",
+  "punchi session": {
+    "name": "PUNCHI SESSION",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "kilombo": {
+    "name": "KILOMBO",
+    "lookedUpAt": "2026-09-11",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "noelia sinkunas and florencia ruiz": {
+    "name": "Noelia Sinkunas and Florencia Ruiz",
     "lookedUpAt": "2026-09-11",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
@@ -3676,14 +3791,6 @@
   },
   "cami galz: licoretza lupus - presentación oficial": {
     "name": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-    "lookedUpAt": "2026-09-06",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  "fungi pres. josé monsalve / augusto / bruno ledesma": {
-    "name": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
     "lookedUpAt": "2026-09-06",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",

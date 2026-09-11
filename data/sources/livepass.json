@@ -275,13 +275,6 @@
       "source": "livepass"
     },
     {
-      "artist": "HECATOMBE - MI PRIMERA GUERRA MUNDIAL",
-      "venue": "Sala Piazzolla - Teatro Argentino LP",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
       "artist": "REY GARUFA",
       "venue": "el Teatro Ópera LP",
       "date": "2026-09-18",
@@ -506,6 +499,13 @@
       "source": "livepass"
     },
     {
+      "artist": "HECATOMBE - MI PRIMERA GUERRA MUNDIAL",
+      "venue": "Sala Piazzolla - Teatro Argentino LP",
+      "date": "2026-09-27",
+      "ticketUrl": "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
       "artist": "Simón Goñi",
       "venue": "CCNU",
       "date": "2026-09-27",
@@ -559,6 +559,13 @@
       "venue": "Gualeguaychú",
       "date": "2026-09-30",
       "ticketUrl": "https://livepass.com.ar/events/daniel-maza-y-leonardo-amuedo-en-gualeguaychu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Double Dragon 4tet",
+      "venue": "CCNU",
+      "date": "2026-09-30",
+      "ticketUrl": "https://livepass.com.ar/events/double-dragon-4tet-en-ccnu",
       "source": "livepass"
     },
     {
@@ -674,6 +681,13 @@
       "source": "livepass"
     },
     {
+      "artist": "PAT CORIA TRIO",
+      "venue": "CCNU",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/pat-coria-trio-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Wadu Wadu - Tributo Oficial a Virus",
       "venue": "Café Berlín",
       "date": "2026-10-03",
@@ -737,6 +751,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Cuarteto Aráoz",
+      "venue": "CCNU",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/cuarteto-araoz-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "LUCHO SSJ",
       "venue": "Quilmes",
       "date": "2026-10-10",
@@ -793,6 +814,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Axel Scheinsohn Cuarteto",
+      "venue": "CCNU",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/axel-scheinsohn-cuarteto-en-ccnu-2026-10-16-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Fernando Sanjiao",
       "venue": "Café Berlín",
       "date": "2026-10-16",
@@ -818,6 +846,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-16",
       "ticketUrl": "https://livepass.com.ar/events/nano-stern-en-cafe-berlin-2026-10-16-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pedro Velázquez",
+      "venue": "CCNU",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/pedro-velazquez-en-ccnu",
       "source": "livepass"
     },
     {
@@ -888,6 +923,13 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-10-23",
       "ticketUrl": "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Abasto Jazz Quinteto",
+      "venue": "CCNU",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/abasto-jazz-quinteto-en-ccnu-2026-10-23-22-30-00-0300",
       "source": "livepass"
     },
     {
@@ -1014,6 +1056,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-06",
       "ticketUrl": "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "SUDESTADA",
+      "venue": "CCNU",
+      "date": "2026-11-06",
+      "ticketUrl": "https://livepass.com.ar/events/sudestada-en-ccnu-2026-11-06-22-30-00-0300",
       "source": "livepass"
     },
     {
@@ -1154,6 +1203,13 @@
       "venue": "San Miguel",
       "date": "2026-11-20",
       "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Carcamo Sexteto",
+      "venue": "CCNU",
+      "date": "2026-11-20",
+      "ticketUrl": "https://livepass.com.ar/events/carcamo-sexteto-en-ccnu",
       "source": "livepass"
     },
     {
