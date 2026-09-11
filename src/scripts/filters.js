@@ -2,6 +2,7 @@ import { fold } from '../../fetcher/search.js';
 
 const FILTER_KEY = 'bit:filter';
 const MUTE_KEY = 'bit:muted';
+const GENRE_KEY = 'bit:genre';
 
 const key = (s) => fold(s).replace(/ /g, '');
 
@@ -55,6 +56,7 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
 
   let filter = 'all';
   let query = '';
+  let genre = '';
   // Committed mutes apply everywhere including the digest; browser mutes are
   // only this device, which is why the Hidden panel distinguishes them.
   let localMuted = read(MUTE_KEY, []);
@@ -121,10 +123,12 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
       const inFilter = filter === 'all'
         || (filter === 'fortnight' && row.hasAttribute('data-fortnight'))
         || (filter === 'new' && row.hasAttribute('data-recent'));
+      const inGenre = !genre
+        || (row.getAttribute('data-genres') ?? '').split(' ').includes(genre);
       // The Hidden view is the one place muted rows are meant to be visible.
       const ok = filter === 'muted'
         ? isMuted && matches(row, words)
-        : inFilter && !isMuted && matches(row, words);
+        : inFilter && inGenre && !isMuted && matches(row, words);
       row.hidden = !ok;
       if (ok) shown++;
     }
@@ -135,6 +139,12 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
 
     for (const b of doc.querySelectorAll('button.filter')) {
       const on = b.getAttribute('data-filter') === filter;
+      b.classList.toggle('on', on);
+      b.setAttribute('aria-pressed', String(on));
+    }
+
+    for (const b of doc.querySelectorAll('button.genre')) {
+      const on = b.getAttribute('data-genre') === genre;
       b.classList.toggle('on', on);
       b.setAttribute('aria-pressed', String(on));
     }
@@ -152,7 +162,7 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
 
     const rc = doc.querySelector('.result-count');
     if (rc) {
-      rc.hidden = !(query || filter !== 'all');
+      rc.hidden = !(query || genre || filter !== 'all');
       rc.textContent = `${shown} ${shown === 1 ? 'show' : 'shows'}`;
     }
     const empty = doc.querySelector('p.empty');
@@ -193,9 +203,19 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
     render();
   }
 
+  function setGenre(name) {
+    genre = name === genre ? '' : (name ?? '');
+    write(GENRE_KEY, genre);
+    render();
+  }
+
   function attach() {
     for (const btn of doc.querySelectorAll('button.filter')) {
       btn.addEventListener('click', () => setFilter(btn.getAttribute('data-filter')));
+    }
+
+    for (const btn of doc.querySelectorAll('button.genre')) {
+      btn.addEventListener('click', () => setGenre(btn.getAttribute('data-genre')));
     }
 
     const q = doc.getElementById('q');
@@ -229,12 +249,15 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
 
     const saved = read(FILTER_KEY, 'all');
     if (typeof saved === 'string') filter = saved;
+    const savedGenre = read(GENRE_KEY, '');
+    if (typeof savedGenre === 'string') genre = savedGenre;
     return api;
   }
 
   const api = {
-    render, attach, mute, unmute, setFilter, setQuery,
+    render, attach, mute, unmute, setFilter, setQuery, setGenre,
     get filter() { return filter; },
+    get genre() { return genre; },
     get muted() { return [...mutedSet()]; },
   };
   return api;

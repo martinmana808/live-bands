@@ -2,8 +2,8 @@ import { describe, it, expect, beforeEach } from 'vitest';
 import { JSDOM } from 'jsdom';
 import { createApp } from '../src/scripts/filters.js';
 
-const row = ({ key, artist, venue, country = '', fortnight = false, recent = false }) => `
-  <div class="event" data-artist-key="${key}" data-search="${artist} ${venue} ${country}"
+const row = ({ key, artist, venue, country = '', fortnight = false, recent = false, families = '' }) => `
+  <div class="event" data-artist-key="${key}" data-search="${artist} ${venue} ${country}" data-genres="${families}"
        ${fortnight ? 'data-fortnight' : ''} ${recent ? 'data-recent' : ''}>
     <div class="artist">${artist}</div>
     <button class="mute" data-mute-key="${key}" data-mute-name="${artist}">hide</button>
@@ -17,12 +17,16 @@ const PAGE = `<main>
     <button class="filter" data-filter="new"><span class="count"></span></button>
     <button class="filter muted-filter" data-filter="muted"><span class="count"></span></button>
   </nav>
+  <nav class="genres-nav">
+    <button class="genre" data-genre="rock"></button>
+    <button class="genre" data-genre="latin"></button>
+  </nav>
   <p class="result-count"></p>
   <section id="muted-panel"><ul id="muted-list"></ul><button id="muted-copy">Copy list</button></section>
   <p class="empty"></p>
   <section id="sep">
-    ${row({ key: 'ozuna', artist: 'Ozuna', venue: 'Movistar Arena', country: 'PR', fortnight: true, recent: true })}
-    ${row({ key: 'cafetacvba', artist: 'Café Tacvba', venue: 'Niceto Club', country: 'MX', fortnight: true })}
+    ${row({ key: 'ozuna', artist: 'Ozuna', venue: 'Movistar Arena', country: 'PR', fortnight: true, recent: true, families: 'latin pop' })}
+    ${row({ key: 'cafetacvba', artist: 'Café Tacvba', venue: 'Niceto Club', country: 'MX', fortnight: true, families: 'rock latin' })}
   </section>
   <section id="oct">
     ${row({ key: 'caifanes', artist: 'CAIFANES', venue: 'Vorterix', country: 'MX' })}
@@ -270,5 +274,43 @@ describe('hiding animates the row out', () => {
     dom.window.matchMedia = () => ({ matches: true });
     app.mute('ozuna');
     expect(row().hidden).toBe(true);
+  });
+});
+
+describe('genre chips', () => {
+  it('narrows to one family', () => {
+    app.setGenre('rock');
+    expect(visible()).toEqual(['Café Tacvba']);
+  });
+
+  it('clicking the active chip clears it', () => {
+    app.setGenre('rock');
+    doc.querySelector('[data-genre="rock"]').dispatchEvent(new dom.window.MouseEvent('click', { bubbles: true }));
+    expect(visible()).toHaveLength(3);
+  });
+
+  it('marks the active chip', () => {
+    app.setGenre('latin');
+    expect(doc.querySelector('[data-genre="latin"]').getAttribute('aria-pressed')).toBe('true');
+    expect(doc.querySelector('[data-genre="rock"]').getAttribute('aria-pressed')).toBe('false');
+  });
+
+  it('composes with the fortnight filter and search', () => {
+    app.setFilter('fortnight');
+    app.setGenre('latin');
+    app.setQuery('mx');
+    expect(visible()).toEqual(['Café Tacvba']);
+  });
+
+  it('leaves events with no genres out of every family', () => {
+    app.setGenre('latin');
+    expect(visible()).not.toContain('CAIFANES');
+  });
+
+  it('is remembered across a reload', () => {
+    app.setGenre('rock');
+    const app2 = createApp({ doc, storage, animate: false }).attach();
+    app2.render();
+    expect(app2.genre).toBe('rock');
   });
 });

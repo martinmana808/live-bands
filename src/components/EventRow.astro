@@ -1,5 +1,8 @@
 ---
+import { genreFamilies } from '../../fetcher/genres.js';
+
 const { event, today, fortnight = false, recent = false } = Astro.props;
+const families = genreFamilies(event.genres);
 const past = event.date < today;
 
 function countryFlag(code) {
@@ -27,6 +30,7 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
   data-recent={recent ? '' : undefined}
   data-artist-key={event.artistKey}
   data-search={`${event.artist} ${event.venue} ${event.country ?? ''}`}
+  data-genres={families.join(' ')}
 >
   <div class="left-action">
     {ticket && !past ? (

@@ -19,10 +19,11 @@ const PAGE = `<main>
 <div id="player" hidden>
   <img id="player-art"><span id="player-name"></span>
   <button id="player-prev"></button><button id="player-toggle"></button><button id="player-next"></button>
-  <div id="player-embed"></div>
-</div>`;
+  <div id="player-embed"><div id="player-embed-host"></div></div>
+</div>
+<div class="backdrop"><div class="backdrop-layer" data-layer="a"></div><div class="backdrop-layer" data-layer="b"></div></div>`;
 
-let dom, doc, player, ctl;
+let dom, doc, player, ctl, createdWith;
 
 const fakeController = () => {
   const listeners = {};
@@ -41,7 +42,8 @@ const fakeController = () => {
 beforeEach(() => {
   dom = new JSDOM(`<!doctype html><html><body>${PAGE}</body></html>`);
   doc = dom.window.document;
-  player = createPlayer({ doc, createController: () => Promise.resolve(fakeController()) });
+  createdWith = [];
+  player = createPlayer({ doc, createController: (host, uri) => { createdWith.push({ host: host.id, uri }); return Promise.resolve(fakeController()); } });
   player.attach();
 });
 
@@ -53,7 +55,7 @@ describe('play from a row', () => {
     click('button.play[data-spotify-id="sp-cafe"]');
     await flush();
     expect(doc.getElementById('player').hidden).toBe(false);
-    expect(ctl.loaded).toEqual(['spotify:artist:sp-cafe']);
+    expect(createdWith[0].uri).toBe('spotify:artist:sp-cafe');
     expect(doc.getElementById('player-name').textContent).toBe('Café Tacvba');
     expect(doc.getElementById('player-art').getAttribute('src')).toBe('https://i/cafe.jpg');
   });
@@ -76,7 +78,8 @@ describe('play from a row', () => {
     await flush();
     click('button.play[data-spotify-id="sp-cafe"]');
     await flush();
-    expect(ctl.loaded).toHaveLength(1);
+    expect(ctl.loaded).toHaveLength(0);
+    expect(createdWith).toHaveLength(1);
     expect(ctl.playing).toBe(false);
   });
 
@@ -87,7 +90,8 @@ describe('play from a row', () => {
     click('button.play[data-spotify-id="sp-ozuna"]');
     await flush();
     expect(ctl).toBe(first);
-    expect(ctl.loaded).toEqual(['spotify:artist:sp-cafe', 'spotify:artist:sp-ozuna']);
+    expect(createdWith).toHaveLength(1);
+    expect(ctl.loaded).toEqual(['spotify:artist:sp-ozuna']);
   });
 });
 
@@ -138,5 +142,54 @@ describe('robustness', () => {
       .dispatchEvent(new dom2.window.MouseEvent('click', { bubbles: true }));
     await flush();
     expect(doc2.getElementById('player').hidden).toBe(true);
+  });
+});
+
+describe('controller creation', () => {
+  it('creates the controller with the first artist uri rather than loading into an empty one', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]');
+    await flush();
+    expect(createdWith).toEqual([{ host: 'player-embed-host', uri: 'spotify:artist:sp-cafe' }]);
+    // the first artist is the one the controller was born with; no separate loadUri needed
+    expect(ctl.loaded).toEqual([]);
+    expect(ctl.playing).toBe(true);
+  });
+
+  it('uses loadUri only for subsequent artists', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]'); await flush();
+    click('button.play[data-spotify-id="sp-ozuna"]'); await flush();
+    expect(ctl.loaded).toEqual(['spotify:artist:sp-ozuna']);
+  });
+
+  it('hands the inner host to spotify so the wrapper keeps its place in the layout', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]'); await flush();
+    expect(createdWith[0].host).toBe('player-embed-host');
+  });
+});
+
+describe('backdrop', () => {
+  const layers = () => [...doc.querySelectorAll('.backdrop-layer')];
+  const shown = () => layers().find(l => l.classList.contains('show'));
+
+  it('shows the playing artist image behind the page', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]'); await flush();
+    expect(shown()?.style.backgroundImage).toContain('https://i/cafe.jpg');
+  });
+
+  it('crossfades by alternating layers when the artist changes', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]'); await flush();
+    const first = shown();
+    click('button.play[data-spotify-id="sp-ozuna"]'); await flush();
+    const second = shown();
+    expect(second).not.toBe(first);
+    expect(second.style.backgroundImage).toContain('https://i/ozuna.jpg');
+    expect(first.classList.contains('show')).toBe(false);
+  });
+
+  it('clears the backdrop when the artist has no image', async () => {
+    click('button.play[data-spotify-id="sp-cafe"]'); await flush();
+    doc.querySelector('button.play[data-spotify-id="sp-ozuna"]').removeAttribute('data-artist-image');
+    click('button.play[data-spotify-id="sp-ozuna"]'); await flush();
+    expect(shown()).toBeUndefined();
   });
 });
