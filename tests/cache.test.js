@@ -6,13 +6,13 @@ const entry = (over = {}) => ({ name: 'Korn', country: 'US', spotifyId: null, sp
 describe('buildCountryCache', () => {
   it('trusts an entry resolved by the current resolver', () => {
     const c = buildCountryCache({ korn: entry({ countryResolvedBy: COUNTRY_RESOLVER }) });
-    expect(c.get('korn')).toBe('US');
+    expect(c.get('korn').country).toBe('US');
   });
 
   it('keeps a confirmed null so a known-unknown artist is not re-queried', () => {
     const c = buildCountryCache({ korn: entry({ country: null, countryResolvedBy: COUNTRY_RESOLVER }) });
     expect(c.has('korn')).toBe(true);
-    expect(c.get('korn')).toBeNull();
+    expect(c.get('korn').country).toBeNull();
   });
 
   it('drops an entry written by an older resolver so it gets looked up again', () => {
@@ -62,5 +62,17 @@ describe('genres flow through the cache', () => {
   it('buildSpotifyCache defaults genres to an empty list for older entries', () => {
     const c = buildSpotifyCache({ korn: entry({ spotifyId: 'sp1' }) });
     expect(c.get('korn').genres).toEqual([]);
+  });
+});
+
+describe('buildCountryCache carries genres', () => {
+  it('returns an origin object with country and genres', () => {
+    const c = buildCountryCache({ korn: entry({ country: 'US', genres: ['nu metal'], countryResolvedBy: COUNTRY_RESOLVER }) });
+    expect(c.get('korn')).toEqual({ country: 'US', genres: ['nu metal'] });
+  });
+
+  it('defaults genres to an empty list for older stamped entries', () => {
+    const c = buildCountryCache({ korn: entry({ country: 'US', countryResolvedBy: COUNTRY_RESOLVER }) });
+    expect(c.get('korn')).toEqual({ country: 'US', genres: [] });
   });
 });

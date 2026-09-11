@@ -61,14 +61,39 @@ async function query(url) {
   return null;
 }
 
+const TOP_GENRES = 3;
+
+/**
+ * Spotify stopped returning genres to development-mode apps, so they come
+ * from MusicBrainz's community tags instead. Coverage is patchy but honest.
+ *
+ * @param {string} mbid
+ * @returns {Promise<string[]>}
+ */
+async function lookupGenres(mbid) {
+  const data = await query(`https://musicbrainz.org/ws/2/artist/${mbid}?inc=genres&fmt=json`);
+  if (!data || !Array.isArray(data.genres)) return [];
+  return [...data.genres]
+    .sort((a, b) => (b.count ?? 0) - (a.count ?? 0))
+    .slice(0, TOP_GENRES)
+    .map(g => g.name);
+}
+
+/**
+ * @typedef {{country: string|null, genres: string[]}} Origin
+ */
+
 /**
  * @param {string} artistName
- * @param {Map<string, string|null>} cache  keyed by lowercase artist name
+ * @param {Map<string, Origin|string|null>} cache  keyed by lowercase artist name
  * @returns {Promise<string|null>}  ISO country code or null
  */
 export async function lookupCountry(artistName, cache) {
   const key = artistName.toLowerCase();
-  if (cache.has(key)) return cache.get(key);
+  if (cache.has(key)) {
+    const hit = cache.get(key);
+    return typeof hit === 'object' && hit !== null ? hit.country : hit;
+  }
 
   const url = `https://musicbrainz.org/ws/2/artist/?query=${encodeURIComponent('artist:' + artistName)}&fmt=json&limit=5`;
   const data = await query(url);
@@ -78,7 +103,13 @@ export async function lookupCountry(artistName, cache) {
   // freezing a transient failure in as a permanent answer.
   if (data === null) return null;
 
-  const country = pickMatch(data.artists, artistName)?.country ?? null;
-  cache.set(key, country);
-  return country;
+  const match = pickMatch(data.artists, artistName);
+  if (!match) {
+    cache.set(key, { country: null, genres: [] });
+    return null;
+  }
+
+  const genres = match.id ? await lookupGenres(match.id) : [];
+  cache.set(key, { country: match.country ?? null, genres });
+  return match.country ?? null;
 }

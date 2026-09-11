@@ -3,17 +3,17 @@
  * written by an older resolver are ignored and looked up again, so a bad
  * match does not survive forever in data/artists.json.
  */
-export const COUNTRY_RESOLVER = 'mb-exact-v2';
+export const COUNTRY_RESOLVER = 'mb-exact-genres-v3';
 
 /**
  * @param {Record<string, import('./types.js').ArtistCacheEntry>} artists
- * @returns {Map<string, string|null>}
+ * @returns {Map<string, {country: string|null, genres: string[]}>}
  */
 export function buildCountryCache(artists) {
   const out = new Map();
   for (const [key, entry] of Object.entries(artists)) {
     if (entry?.countryResolvedBy !== COUNTRY_RESOLVER) continue;
-    out.set(key, entry.country ?? null);
+    out.set(key, { country: entry.country ?? null, genres: entry.genres ?? [] });
   }
   return out;
 }
@@ -53,7 +53,7 @@ export function buildSpotifyCache(artists) {
  * @param {{
  *   key: string, name: string,
  *   prior?: import('./types.js').ArtistCacheEntry,
- *   countryCache: Map<string, string|null>,
+ *   countryCache: Map<string, {country: string|null, genres: string[]}>,
  *   spotifyCache: Map<string, {id: string, image: string|null, genres?: string[]}|null>,
  *   today: string,
  * }} args
@@ -64,10 +64,13 @@ export function mergeArtistEntry({ key, name, prior, countryCache, spotifyCache,
   const entry = { name, lookedUpAt: today };
 
   if (countryCache.has(key)) {
-    entry.country = countryCache.get(key) ?? null;
+    const origin = countryCache.get(key);
+    entry.country = origin?.country ?? null;
+    entry.genres = origin?.genres ?? [];
     entry.countryResolvedBy = COUNTRY_RESOLVER;
   } else {
     entry.country = prior?.country ?? null;
+    entry.genres = prior?.genres ?? [];
     if (prior?.countryResolvedBy) entry.countryResolvedBy = prior.countryResolvedBy;
   }
 

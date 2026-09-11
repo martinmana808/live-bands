@@ -10,13 +10,13 @@ const call = (over = {}) => mergeArtistEntry({
 
 describe('mergeArtistEntry with a definitive answer', () => {
   it('stores a resolved country and stamps it', () => {
-    const e = call({ countryCache: new Map([['korn', 'US']]) });
+    const e = call({ countryCache: new Map([['korn', { country: 'US', genres: [] }]]) });
     expect(e.country).toBe('US');
     expect(e.countryResolvedBy).toBe(COUNTRY_RESOLVER);
   });
 
   it('stamps a confirmed unknown country so it is not re-queried', () => {
-    const e = call({ countryCache: new Map([['korn', null]]) });
+    const e = call({ countryCache: new Map([['korn', { country: null, genres: [] }]]) });
     expect(e.country).toBeNull();
     expect(e.countryResolvedBy).toBe(COUNTRY_RESOLVER);
   });
@@ -58,7 +58,7 @@ describe('mergeArtistEntry when the lookup was inconclusive', () => {
 
   it('lets a fresh answer overwrite a stale prior one', () => {
     const prior = { name: 'Korn', country: 'GB', countryResolvedBy: 'mb-old', spotifyId: null, spotifyImage: null, lookedUpAt: '2026-09-01' };
-    const e = call({ prior, countryCache: new Map([['korn', 'US']]) });
+    const e = call({ prior, countryCache: new Map([['korn', { country: 'US', genres: [] }]]) });
     expect(e.country).toBe('US');
     expect(e.countryResolvedBy).toBe(COUNTRY_RESOLVER);
   });
@@ -83,5 +83,19 @@ describe('mergeArtistEntry genres', () => {
 
   it('writes an empty list rather than nothing when unknown', () => {
     expect(call().spotifyGenres).toEqual([]);
+  });
+});
+
+describe('mergeArtistEntry origin genres', () => {
+  it('stores genres alongside a resolved country', () => {
+    const e = call({ countryCache: new Map([['korn', { country: 'US', genres: ['nu metal'] }]]) });
+    expect(e.country).toBe('US');
+    expect(e.genres).toEqual(['nu metal']);
+    expect(e.countryResolvedBy).toBe(COUNTRY_RESOLVER);
+  });
+
+  it('keeps prior genres when the lookup was inconclusive', () => {
+    const prior = { name: 'Korn', country: 'US', genres: ['nu metal'], countryResolvedBy: COUNTRY_RESOLVER, spotifyId: null, spotifyImage: null, lookedUpAt: '2026-09-01' };
+    expect(call({ prior }).genres).toEqual(['nu metal']);
   });
 });

@@ -41,7 +41,8 @@
  * @typedef {Object} ArtistCacheEntry
  * @property {string} name
  * @property {string|null} country
- * @property {string} [countryResolvedBy] - resolver version that produced `country`
+ * @property {string[]} [genres]     - MusicBrainz genre tags, top three by votes
+ * @property {string} [countryResolvedBy] - resolver version that produced `country` and `genres`
  * @property {string} [spotifyResolvedBy] - resolver version that produced a null `spotifyId`
  * @property {string|null} spotifyId
  * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null

@@ -113,7 +113,9 @@ async function main() {
   for (const e of deduped) {
     const country = await lookupCountry(e.artist, countryCache);
     const sp = await spotify.lookup(e.artist, spotifyCache);
-    enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null, genres: sp?.genres ?? [] });
+    const origin = countryCache.get(e.artist.toLowerCase());
+    const genres = origin?.genres?.length ? origin.genres : (sp?.genres ?? []);
+    enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null, genres });
   }
 
   const intl = filterInternational(enriched);

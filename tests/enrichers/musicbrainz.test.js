@@ -86,7 +86,7 @@ describe('lookupCountry does not bake in transient failures', () => {
     const cache = new Map();
     await lookupCountry('DEEP SESSION #13', cache);
     await lookupCountry('DEEP SESSION #13', cache);
-    expect(cache.get('deep session #13')).toBe(null);
+    expect(cache.get('deep session #13')).toEqual({ country: null, genres: [] });
     expect(fetchMock).toHaveBeenCalledTimes(1);
   });
 
@@ -95,5 +95,54 @@ describe('lookupCountry does not bake in transient failures', () => {
     vi.stubGlobal('fetch', fetchMock);
     await lookupCountry('Korn', new Map());
     expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+});
+
+describe('lookupCountry also returns genres', () => {
+  beforeEach(() => { vi.restoreAllMocks(); });
+
+  const search = { ok: true, json: async () => ({ artists: [{ id: 'mbid-1', name: 'Helloween', country: 'DE', score: 100 }] }) };
+  const detail = { ok: true, json: async () => ({ genres: [{ name: 'heavy metal', count: 13 }, { name: 'power metal', count: 25 }, { name: 'metal', count: 5 }, { name: 'speed metal', count: 12 }] }) };
+
+  it('fetches the artist detail for genres once a match is confirmed', async () => {
+    const fetchMock = vi.fn().mockResolvedValueOnce(search).mockResolvedValueOnce(detail);
+    vi.stubGlobal('fetch', fetchMock);
+    const cache = new Map();
+    await lookupCountry('Helloween', cache);
+    expect(fetchMock.mock.calls[1][0]).toMatch(/\/artist\/mbid-1\?inc=genres/);
+  });
+
+  it('caches the genres ordered by vote count, top three', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValueOnce(search).mockResolvedValueOnce(detail));
+    const cache = new Map();
+    await lookupCountry('Helloween', cache);
+    expect(cache.get('helloween')).toEqual({ country: 'DE', genres: ['power metal', 'heavy metal', 'speed metal'] });
+  });
+
+  it('still returns just the country code from the promise for existing callers', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValueOnce(search).mockResolvedValueOnce(detail));
+    expect(await lookupCountry('Helloween', new Map())).toBe('DE');
+  });
+
+  it('keeps the country when the genre request fails', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValueOnce(search).mockResolvedValue({ ok: false, status: 503 }));
+    const cache = new Map();
+    expect(await lookupCountry('Helloween', cache)).toBe('DE');
+    expect(cache.get('helloween')).toEqual({ country: 'DE', genres: [] });
+  });
+
+  it('does not fetch a detail page when nothing matched', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, json: async () => ({ artists: [] }) });
+    vi.stubGlobal('fetch', fetchMock);
+    await lookupCountry('Nobody', new Map());
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+
+  it('serves a cached object without any request', async () => {
+    const fetchMock = vi.fn();
+    vi.stubGlobal('fetch', fetchMock);
+    const cache = new Map([['helloween', { country: 'DE', genres: ['power metal'] }]]);
+    expect(await lookupCountry('Helloween', cache)).toBe('DE');
+    expect(fetchMock).not.toHaveBeenCalled();
   });
 });
