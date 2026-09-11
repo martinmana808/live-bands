@@ -385,25 +385,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "brokecarrey-2026-09-12-niceto",
-    "artist": "BROKE CARREY",
-    "artistKey": "brokecarrey",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6FWTqLIVK9jjMGcNJnF7xE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786710e843a5e0a71378032d39",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "choosey-2026-09-12-niceto",
     "artist": "CHOOSEY",
     "artistKey": "choosey",
@@ -514,10 +495,13 @@
     "sources": [
       "niceto"
     ],
-    "country": null,
+    "country": "GB",
     "spotifyId": null,
     "spotifyImage": null,
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "britpop"
+    ],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -833,10 +817,14 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "DE",
     "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3",
-    "genres": [],
+    "genres": [
+      "power metal",
+      "heavy metal",
+      "speed metal"
+    ],
     "firstSeenAt": "2026-08-24"
   },
   {
@@ -1465,10 +1453,14 @@
     "sources": [
       "niceto"
     ],
-    "country": null,
+    "country": "GB",
     "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
-    "genres": [],
+    "genres": [
+      "britpop",
+      "alternative rock",
+      "rock"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2146,10 +2138,13 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "CO",
     "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "genres": [],
+    "genres": [
+      "latin",
+      "latin pop"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2271,23 +2266,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "conociendorusia-2026-09-25-granrex",
-    "artist": "Conociendo Rusia",
-    "artistKey": "conociendorusia",
-    "date": "2026-09-25",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "79R7PUc6T6j09G8mJzNml2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cfe7ec72afa9e807e0b47314",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "danceteria-2026-09-25-niceto",
     "artist": "DANCETERIA",
     "artistKey": "danceteria",
@@ -2303,25 +2281,6 @@
     "country": null,
     "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "danielmelero-2026-09-25-cafeberlin",
-    "artist": "Daniel Melero",
-    "artistKey": "danielmelero",
-    "date": "2026-09-25",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2026-09-25"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5ohM2ZA35IpUZNIAiK4RoY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841562370177887da0b3f6889",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2431,10 +2390,13 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "CO",
     "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "genres": [],
+    "genres": [
+      "latin",
+      "latin pop"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2812,25 +2774,6 @@
     "country": null,
     "spotifyId": "6qU5ciXhWiK9cRsJawsEhu",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c3ceeac0ceac5a139879108",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "fabianacantilo-2026-09-29-cafeberlin",
-    "artist": "Fabiana Cantilo",
-    "artistKey": "fabianacantilo",
-    "date": "2026-09-29",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fabiana-cantilo-en-cafe-berlin-2026-09-29"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178434234315c5dcd60c2b5da6e",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3713,25 +3656,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "lilianaherrero-2026-10-21-cafeberlin",
-    "artist": "Liliana Herrero",
-    "artistKey": "lilianaherrero",
-    "date": "2026-10-21",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/liliana-herrero-en-cafe-berlin-2026-10-21-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "6iqeypk1XRa2zQVRcIVmlF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818b6970b32cd0eefb63c02c8",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "javiersa-2026-10-22-cafeberlin",
     "artist": "Javier Sá",
     "artistKey": "javiersa",
@@ -4327,25 +4251,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "flema-2026-11-13-vorterix",
-    "artist": "FLEMA",
-    "artistKey": "flema",
-    "date": "2026-11-13",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "2E0SVBO1NkyVTl7PDmGGw4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e429d274542bde36bcbfe13",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "giros-2026-11-13-operalp",
     "artist": "GIROS",
     "artistKey": "giros",
@@ -4613,7 +4518,7 @@
     "sources": [
       "vorterix"
     ],
-    "country": null,
+    "country": "UY",
     "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
     "genres": [],
@@ -4635,25 +4540,6 @@
     "country": null,
     "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
     "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "unverano-2026-11-27-vorterix",
-    "artist": "UN VERANO",
-    "artistKey": "unverano",
-    "date": "2026-11-27",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/un-verano"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "2vaSBYGcW5v46jnDdXhawN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c370c4e032c5df7718cf0c3",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
