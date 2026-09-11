@@ -91,7 +91,11 @@
     "country": "GB",
     "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
-    "genres": [],
+    "genres": [
+      "idm",
+      "ambient techno",
+      "techno"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -125,7 +129,11 @@
     "country": null,
     "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
-    "genres": [],
+    "genres": [
+      "alternative r&b",
+      "contemporary r&b",
+      "r&b"
+    ],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -161,7 +169,10 @@
     "country": "DE",
     "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
-    "genres": [],
+    "genres": [
+      "electronic",
+      "organic house"
+    ],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -237,6 +248,25 @@
     "country": null,
     "spotifyId": null,
     "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "losespiritus-2026-09-11-niceto",
+    "artist": "Los Espíritus",
+    "artistKey": "losespiritus",
+    "date": "2026-09-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/los-esp-ritus-11-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -330,7 +360,9 @@
     "country": "IT",
     "spotifyId": null,
     "spotifyImage": null,
-    "genres": [],
+    "genres": [
+      "trance"
+    ],
     "firstSeenAt": "2026-09-02"
   },
   {
@@ -353,6 +385,25 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "brokecarrey-2026-09-12-niceto",
+    "artist": "BROKE CARREY",
+    "artistKey": "brokecarrey",
+    "date": "2026-09-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6FWTqLIVK9jjMGcNJnF7xE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786710e843a5e0a71378032d39",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "choosey-2026-09-12-niceto",
     "artist": "CHOOSEY",
     "artistKey": "choosey",
@@ -368,7 +419,9 @@
     "country": "US",
     "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9",
-    "genres": [],
+    "genres": [
+      "hip hop"
+    ],
     "firstSeenAt": "2026-07-28"
   },
   {
@@ -385,7 +438,10 @@
     "country": "DE",
     "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
-    "genres": [],
+    "genres": [
+      "electronic",
+      "organic house"
+    ],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -458,7 +514,7 @@
     "sources": [
       "niceto"
     ],
-    "country": "GB",
+    "country": null,
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
@@ -533,7 +589,11 @@
     "country": null,
     "spotifyId": "7kNqXtgeIwFtelmRjWv205",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
-    "genres": [],
+    "genres": [
+      "dance",
+      "edm",
+      "house"
+    ],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -773,7 +833,7 @@
     "sources": [
       "songkick"
     ],
-    "country": "DE",
+    "country": null,
     "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3",
     "genres": [],
@@ -815,7 +875,10 @@
     "country": "JP",
     "spotifyId": "0rpKM0MniNkXM1SLSglYUZ",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898fbfdf3a15710fa2e4fa68d",
-    "genres": [],
+    "genres": [
+      "post-rock",
+      "math rock"
+    ],
     "firstSeenAt": "2026-08-18"
   },
   {
@@ -832,7 +895,11 @@
     "country": "KR",
     "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
-    "genres": [],
+    "genres": [
+      "k-pop",
+      "electropop",
+      "pop rap"
+    ],
     "firstSeenAt": "2026-08-26"
   },
   {
@@ -868,7 +935,11 @@
     "country": "KR",
     "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
-    "genres": [],
+    "genres": [
+      "k-pop",
+      "electropop",
+      "pop rap"
+    ],
     "firstSeenAt": "2026-08-29"
   },
   {
@@ -885,7 +956,11 @@
     "country": "AU",
     "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02",
-    "genres": [],
+    "genres": [
+      "pop rock",
+      "pop punk",
+      "pop"
+    ],
     "firstSeenAt": "2026-08-29"
   },
   {
@@ -923,7 +998,9 @@
     "country": "US",
     "spotifyId": "2FMOHE79X98yptp4RpPrt7",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c2b3307740b1421793cff28",
-    "genres": [],
+    "genres": [
+      "soul"
+    ],
     "firstSeenAt": "2026-06-14"
   },
   {
@@ -995,7 +1072,11 @@
     "country": "GB",
     "spotifyId": "6J7biCazzYhU3gM9j1wfid",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
-    "genres": [],
+    "genres": [
+      "acid jazz",
+      "funk",
+      "disco"
+    ],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -1029,7 +1110,9 @@
     "country": null,
     "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6",
-    "genres": [],
+    "genres": [
+      "death metal"
+    ],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -1179,7 +1262,9 @@
     "country": "CL",
     "spotifyId": "0M8uC0u1YRUGCieOKmQF02",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a",
-    "genres": [],
+    "genres": [
+      "singer-songwriter"
+    ],
     "firstSeenAt": "2026-08-31"
   },
   {
@@ -1213,7 +1298,10 @@
     "country": "PR",
     "spotifyId": "65HuWBUC1d8ty1q6J42Nfi",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8160fc4f468b818c167660e",
-    "genres": [],
+    "genres": [
+      "reggae",
+      "latin"
+    ],
     "firstSeenAt": "2026-08-31"
   },
   {
@@ -1377,7 +1465,7 @@
     "sources": [
       "niceto"
     ],
-    "country": "GB",
+    "country": null,
     "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
     "genres": [],
@@ -1644,27 +1732,12 @@
     "country": "GB",
     "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17",
-    "genres": [],
+    "genres": [
+      "electronic",
+      "house",
+      "progressive house"
+    ],
     "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "losperezgarcia-2026-09-19-vorterix",
-    "artist": "LOS PEREZ GARCIA",
-    "artistKey": "losperezgarcia",
-    "date": "2026-09-19",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/los-perez--garcia"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "mariatorpecerettimattmontero-2026-09-19-niceto",
@@ -1845,7 +1918,10 @@
     "country": "FR",
     "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
-    "genres": [],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1879,7 +1955,11 @@
     "country": "US",
     "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
-    "genres": [],
+    "genres": [
+      "emo",
+      "emo pop",
+      "hardcore punk"
+    ],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1915,7 +1995,11 @@
     "country": "MX",
     "spotifyId": "1GImnM7WYVp95431ypofy9",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "cumbia mexicana",
+      "gothic rock"
+    ],
     "firstSeenAt": "2026-05-09"
   },
   {
@@ -2062,7 +2146,7 @@
     "sources": [
       "songkick"
     ],
-    "country": "CO",
+    "country": null,
     "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
     "genres": [],
@@ -2082,7 +2166,9 @@
     "country": "NO",
     "spotifyId": "4LT73i2bqTazQQkmODMaYf",
     "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
-    "genres": [],
+    "genres": [
+      "melodic black metal"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2101,7 +2187,11 @@
     "country": null,
     "spotifyId": "2MPHBxznH1fj59jbOWY38u",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7",
-    "genres": [],
+    "genres": [
+      "soul",
+      "alternative folk",
+      "electro"
+    ],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -2181,6 +2271,23 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "conociendorusia-2026-09-25-granrex",
+    "artist": "Conociendo Rusia",
+    "artistKey": "conociendorusia",
+    "date": "2026-09-25",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "79R7PUc6T6j09G8mJzNml2",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cfe7ec72afa9e807e0b47314",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "danceteria-2026-09-25-niceto",
     "artist": "DANCETERIA",
     "artistKey": "danceteria",
@@ -2196,6 +2303,25 @@
     "country": null,
     "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "danielmelero-2026-09-25-cafeberlin",
+    "artist": "Daniel Melero",
+    "artistKey": "danielmelero",
+    "date": "2026-09-25",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2026-09-25"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "5ohM2ZA35IpUZNIAiK4RoY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841562370177887da0b3f6889",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -2268,7 +2394,11 @@
     "country": null,
     "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
-    "genres": [],
+    "genres": [
+      "psychedelic rock",
+      "rock",
+      "stoner metal"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2301,7 +2431,7 @@
     "sources": [
       "songkick"
     ],
-    "country": "CO",
+    "country": null,
     "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
     "genres": [],
@@ -2340,7 +2470,9 @@
     "country": null,
     "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d",
-    "genres": [],
+    "genres": [
+      "singer-songwriter"
+    ],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -2684,6 +2816,25 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "fabianacantilo-2026-09-29-cafeberlin",
+    "artist": "Fabiana Cantilo",
+    "artistKey": "fabianacantilo",
+    "date": "2026-09-29",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fabiana-cantilo-en-cafe-berlin-2026-09-29"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178434234315c5dcd60c2b5da6e",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
     "artist": "Leonardo Amuedo y Maza Daniel",
     "artistKey": "leonardoamuedoymazadaniel",
@@ -2775,7 +2926,9 @@
     "country": "ES",
     "spotifyId": "0PbO1lSBsJPgyqdEypJJVb",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840eb51bce6ec6d7798bcae06",
-    "genres": [],
+    "genres": [
+      "latin ballad"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -2965,7 +3118,10 @@
     "country": "ES",
     "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
-    "genres": [],
+    "genres": [
+      "pop punk",
+      "power pop"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -3193,7 +3349,10 @@
     "country": "DE",
     "spotifyId": "1BdtWszUR1z5SeU5qXNU31",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5dbac5f9fc8bbc786de9b22",
-    "genres": [],
+    "genres": [
+      "punk",
+      "punk rock"
+    ],
     "firstSeenAt": "2026-06-09"
   },
   {
@@ -3269,7 +3428,10 @@
     "country": "ES",
     "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
-    "genres": [],
+    "genres": [
+      "pop punk",
+      "power pop"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -3307,7 +3469,11 @@
     "country": null,
     "spotifyId": "1MsuiPi272qfhDiWgFJQnd",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e8d3cd2375183bdaa2d0861f",
-    "genres": [],
+    "genres": [
+      "instrumental",
+      "jazz fusion",
+      "progressive metal"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -3463,25 +3629,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "losperezgarcia-2026-10-17-quilmes",
-    "artist": "LOS PEREZ GARCIA",
-    "artistKey": "losperezgarcia",
-    "date": "2026-10-17",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/los-perez-garcia-en-club-re"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "fmsargentina-2026-10-18-vorterix",
     "artist": "FMS ARGENTINA",
     "artistKey": "fmsargentina",
@@ -3516,7 +3663,11 @@
     "country": "GB",
     "spotifyId": "6mdiAmATAx73kdxrNrnlao",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
-    "genres": [],
+    "genres": [
+      "heavy metal",
+      "nwobhm",
+      "metal"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -3554,6 +3705,29 @@
     "country": "GB",
     "spotifyId": "6mdiAmATAx73kdxrNrnlao",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
+    "genres": [
+      "heavy metal",
+      "nwobhm",
+      "metal"
+    ],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lilianaherrero-2026-10-21-cafeberlin",
+    "artist": "Liliana Herrero",
+    "artistKey": "lilianaherrero",
+    "date": "2026-10-21",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/liliana-herrero-en-cafe-berlin-2026-10-21-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "6iqeypk1XRa2zQVRcIVmlF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818b6970b32cd0eefb63c02c8",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -3615,6 +3789,25 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "saltalabanca-2026-10-23-vorterix",
+    "artist": "SALTA LA BANCA",
+    "artistKey": "saltalabanca",
+    "date": "2026-10-23",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/salta-la-banca"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": "4JathQD0aoyE5WwaIB2JxC",
+    "spotifyImage": "https://i.scdn.co/image/be6576ed7f05feece7c07c1d9f709995c769791e",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "vertigo-2026-10-23-cafeberlin",
     "artist": "Vértigo",
     "artistKey": "vertigo",
@@ -3630,7 +3823,9 @@
     "country": "US",
     "spotifyId": "76tWYjH87oae3NUNdgE5KD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b582f8ef924857ad01f39a7",
-    "genres": [],
+    "genres": [
+      "christian hardcore"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -3744,7 +3939,11 @@
     "country": "GB",
     "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178119b61b35985e3b957c5ecb7",
-    "genres": [],
+    "genres": [
+      "rock",
+      "pop",
+      "pop rock"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -4128,6 +4327,25 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "flema-2026-11-13-vorterix",
+    "artist": "FLEMA",
+    "artistKey": "flema",
+    "date": "2026-11-13",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": "2E0SVBO1NkyVTl7PDmGGw4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e429d274542bde36bcbfe13",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
     "id": "giros-2026-11-13-operalp",
     "artist": "GIROS",
     "artistKey": "giros",
@@ -4216,10 +4434,14 @@
     "sources": [
       "vorterix"
     ],
-    "country": null,
+    "country": "CA",
     "spotifyId": "53RsXctnNmj9oKXvcbvzI2",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885d7a4bb1614c9c300ce6fae",
-    "genres": [],
+    "genres": [
+      "post-hardcore",
+      "emo",
+      "rock"
+    ],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -4276,7 +4498,11 @@
     "country": null,
     "spotifyId": "3uGBzL3GeZcrnpyY8KxP9Q",
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851812b8c901ff04153bfba2a28",
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "experimental rock",
+      "hard rock"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -4387,7 +4613,7 @@
     "sources": [
       "vorterix"
     ],
-    "country": "UY",
+    "country": null,
     "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
     "genres": [],
@@ -4409,6 +4635,25 @@
     "country": null,
     "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
     "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "unverano-2026-11-27-vorterix",
+    "artist": "UN VERANO",
+    "artistKey": "unverano",
+    "date": "2026-11-27",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/un-verano"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": "2vaSBYGcW5v46jnDdXhawN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c370c4e032c5df7718cf0c3",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -4447,7 +4692,10 @@
     "country": "UY",
     "spotifyId": "6SgzbJKexV8Ouadaaa6PVy",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804e3541a2c71172ed36013a5",
-    "genres": [],
+    "genres": [
+      "candombe beat",
+      "singer-songwriter"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -4485,7 +4733,11 @@
     "country": "GB",
     "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
-    "genres": [],
+    "genres": [
+      "pop",
+      "folk pop",
+      "dance-pop"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -4504,7 +4756,10 @@
     "country": "DE",
     "spotifyId": "5wD0owYApRtYmjPWavWKvb",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780bb3bea556afbdcb1aed033e",
-    "genres": [],
+    "genres": [
+      "indie pop",
+      "rock"
+    ],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -4694,7 +4949,11 @@
     "country": "MX",
     "spotifyId": "1GImnM7WYVp95431ypofy9",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "cumbia mexicana",
+      "gothic rock"
+    ],
     "firstSeenAt": "2026-09-06"
   }
 ]
