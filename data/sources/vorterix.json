@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-09-06",
+  "fetchedAt": "2026-09-11",
   "events": [
     {
-      "artist": "FIESTA DEBAR 20 AÑOS",
+      "artist": "FIESTA FOREVER 90s – Edición PRIMAVERA",
       "venue": "Vorterix",
-      "date": "2026-09-26",
-      "ticketUrl": "https://www.allaccess.com.ar/event/fiesta-debar-20-anios",
-      "source": "vorterix"
-    },
-    {
-      "artist": "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX",
-      "venue": "Vorterix",
-      "date": "2026-09-18",
-      "ticketUrl": "https://www.allaccess.com.ar/event/gustavo-cordera-festeja-su-cumpleaos-en-vorterix",
+      "date": "2026-09-12",
+      "ticketUrl": "https://www.allaccess.com.ar/event/fiesta-forever-90s-edicion-primavera",
       "source": "vorterix"
     },
     {
@@ -79,17 +72,17 @@
       "source": "vorterix"
     },
     {
-      "artist": "LOS CALIGARIS",
+      "artist": "FIESTA DEBAR 20 AÑOS",
       "venue": "Vorterix",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.allaccess.com.ar/event/los-caligaris",
+      "date": "2026-09-26",
+      "ticketUrl": "https://www.allaccess.com.ar/event/fiesta-debar-20-anios",
       "source": "vorterix"
     },
     {
-      "artist": "FIESTA FOREVER 90s – Edición PRIMAVERA",
+      "artist": "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX",
       "venue": "Vorterix",
-      "date": "2026-09-12",
-      "ticketUrl": "https://www.allaccess.com.ar/event/fiesta-forever-90s-edicion-primavera",
+      "date": "2026-09-18",
+      "ticketUrl": "https://www.allaccess.com.ar/event/gustavo-cordera-festeja-su-cumpleaos-en-vorterix",
       "source": "vorterix"
     },
     {
@@ -149,6 +142,20 @@
       "source": "vorterix"
     },
     {
+      "artist": "FMS ARGENTINA - JORNADA 1",
+      "venue": "Vorterix",
+      "date": "2026-10-18",
+      "ticketUrl": "https://www.allaccess.com.ar/event/fms-argentina-jornada-1",
+      "source": "vorterix"
+    },
+    {
+      "artist": "BULLDOG EN EL TEATRO VORTERIX",
+      "venue": "Vorterix",
+      "date": "2026-11-07",
+      "ticketUrl": "https://www.allaccess.com.ar/event/bulldog-en-el-teatro-vorterix",
+      "source": "vorterix"
+    },
+    {
       "artist": "LAGOS – BUENOS AIRES – TOUR 2026",
       "venue": "Vorterix",
       "date": "2026-12-09",
@@ -160,6 +167,13 @@
       "venue": "Vorterix",
       "date": "2026-10-03",
       "ticketUrl": "https://www.allaccess.com.ar/event/chiara-oliver",
+      "source": "vorterix"
+    },
+    {
+      "artist": "HOMER EL MERO MERO",
+      "venue": "Vorterix",
+      "date": "2026-10-10",
+      "ticketUrl": "https://www.allaccess.com.ar/event/homer",
       "source": "vorterix"
     },
     {
@@ -279,6 +293,13 @@
       "venue": "Vorterix",
       "date": "2026-11-22",
       "ticketUrl": "https://www.allaccess.com.ar/event/neuro-fest",
+      "source": "vorterix"
+    },
+    {
+      "artist": "LOS CALIGARIS",
+      "venue": "Vorterix",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.allaccess.com.ar/event/los-caligaris",
       "source": "vorterix"
     }
   ]

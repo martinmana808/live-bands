@@ -52,3 +52,21 @@ describe('parseSpanishDate', () => {
     expect(parseSpanishDate('', today)).toBeNull();
   });
 });
+
+describe('parseSpanishDate abbreviations', () => {
+  it('parses a three-letter uppercase month', () => {
+    expect(parseSpanishDate('20 OCT', today)).toBe('2026-10-20');
+  });
+
+  it('parses "sept"', () => {
+    expect(parseSpanishDate('12 sept', today)).toBe('2026-09-12');
+  });
+
+  it('parses a "DD MON al DD MON" range as its first day', () => {
+    expect(parseSpanishDate('20 OCT al 21 OCT', today)).toBe('2026-10-20');
+  });
+
+  it('rolls an abbreviated month into next year when it has passed', () => {
+    expect(parseSpanishDate('14 ENE', today)).toBe('2027-01-14');
+  });
+});

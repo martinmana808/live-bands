@@ -39,7 +39,7 @@ const setup = (committedMuted = []) => {
     getItem: (k) => store.get(k) ?? null,
     setItem: (k, v) => store.set(k, v),
   };
-  app = createApp({ doc, storage, committedMuted });
+  app = createApp({ doc, storage, committedMuted, animate: false });
   app.attach();
   app.render();
 };
@@ -79,7 +79,7 @@ describe('filters', () => {
 
   it('remembers the filter across a reload', () => {
     app.setFilter('fortnight');
-    const app2 = createApp({ doc, storage }).attach();
+    const app2 = createApp({ doc, storage, animate: false }).attach();
     app2.render();
     expect(app2.filter).toBe('fortnight');
   });
@@ -147,7 +147,7 @@ describe('muting', () => {
 
   it('keeps the artist hidden across a reload', () => {
     app.mute('ozuna');
-    const app2 = createApp({ doc, storage }).attach();
+    const app2 = createApp({ doc, storage, animate: false }).attach();
     app2.render();
     expect(app2.muted).toContain('ozuna');
   });
@@ -225,5 +225,50 @@ describe('muting from the committed list', () => {
     app.setFilter('muted');
     app.unmute('ozuna');
     expect(app.muted).toContain('ozuna');
+  });
+});
+
+describe('hiding animates the row out', () => {
+  let dom, doc, app, storage;
+  beforeEach(() => {
+    dom = new JSDOM(`<!doctype html><html><body>${PAGE}</body></html>`, { pretendToBeVisual: true });
+    doc = dom.window.document;
+    const store = new Map();
+    storage = { getItem: (k) => store.get(k) ?? null, setItem: (k, v) => store.set(k, v) };
+    app = createApp({ doc, storage });
+    app.attach();
+    app.render();
+  });
+
+  const row = () => doc.querySelector('.event[data-artist-key="ozuna"]');
+
+  it('marks the row as leaving instead of hiding it at once', () => {
+    app.mute('ozuna');
+    expect(row().classList.contains('leaving')).toBe(true);
+    expect(row().hidden).toBe(false);
+  });
+
+  it('hides the row once its transition ends', () => {
+    app.mute('ozuna');
+    row().dispatchEvent(new dom.window.Event('transitionend'));
+    expect(row().hidden).toBe(true);
+    expect(row().classList.contains('leaving')).toBe(false);
+  });
+
+  it('persists the mute immediately, not after the animation', () => {
+    app.mute('ozuna');
+    expect(JSON.parse(storage.getItem('bit:muted'))).toContain('ozuna');
+  });
+
+  it('still hides the row if the transition never fires', async () => {
+    app.mute('ozuna');
+    await new Promise(r => setTimeout(r, 450));
+    expect(row().hidden).toBe(true);
+  });
+
+  it('skips the animation when the user prefers reduced motion', () => {
+    dom.window.matchMedia = () => ({ matches: true });
+    app.mute('ozuna');
+    expect(row().hidden).toBe(true);
   });
 });

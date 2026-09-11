@@ -46,7 +46,10 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
   <div class="date">{dateLabel}</div>
   <div class="info">
     <div class="artist">{event.artist} {flag}{recent && <span class="badge-new">NEW</span>}</div>
-    <div class="venue">{event.venue}{past ? ' (past)' : ''}</div>
+    <div class="venue">
+      {event.venue}{past ? ' (past)' : ''}
+      {event.genres?.length > 0 && <span class="genres">{event.genres.slice(0, 3).join(' · ')}</span>}
+    </div>
   </div>
   <div class="actions">
     <button class="icon-btn fav" data-fav-id={event.id} aria-label="Save" title="Save">
@@ -70,7 +73,7 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
       </svg>
     </button>
     {event.spotifyId && (
-      <button class="icon-btn play" data-spotify-id={event.spotifyId} aria-label="Play preview" title="Play preview">
+      <button class="icon-btn play" data-spotify-id={event.spotifyId} data-artist-name={event.artist} data-artist-image={event.spotifyImage ?? ''} aria-label={`Play ${event.artist}`} title={`Play ${event.artist}`}>
         <svg viewBox="0 0 24 24" width="22" height="22">
           <circle cx="12" cy="12" r="11" fill="#1db954"/>
           <path d="M10 8.2v7.6L16.5 12z" fill="#fff"/>

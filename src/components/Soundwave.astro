@@ -42,8 +42,7 @@ const rows = counts.map((count, i) => {
         style={r.count > 0 ? `--w: ${Math.min(100, 30 + r.count * 25)}%` : ''}
         data-bucket-start={r.date}
         data-count={r.count}
-        aria-label={`${r.count} events on ${r.date}`}
-        disabled={r.count === 0}
+        aria-label={r.count > 0 ? `${r.count} events on ${r.date}` : `Jump to the show nearest ${r.date}`}
       >
         {r.label && <span class="label">{r.label}</span>}
       </button>
@@ -52,16 +51,6 @@ const rows = counts.map((count, i) => {
 </aside>
 
 <script>
-  document.addEventListener('click', (e) => {
-    const bar = e.target.closest('button.bar.active[data-bucket-start]');
-    if (!bar) return;
-    const start = bar.getAttribute('data-bucket-start');
-    const rows = document.querySelectorAll('[data-event-date]');
-    for (const row of rows) {
-      if (row.getAttribute('data-event-date') >= start) {
-        row.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        return;
-      }
-    }
-  });
+  import { attachMinimap } from '../scripts/minimap.js';
+  attachMinimap(document);
 </script>

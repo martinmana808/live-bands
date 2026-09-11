@@ -33,6 +33,7 @@
  * @property {string|null} country    - ISO 3166-1 alpha-2, or null if unknown
  * @property {string|null} spotifyId  - Spotify artist id, or null
  * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null
+ * @property {string[]} [genres]      - Spotify genre tags
  * @property {string} [firstSeenAt]   - ISO date the event was first observed
  */
 
@@ -44,6 +45,7 @@
  * @property {string} [spotifyResolvedBy] - resolver version that produced a null `spotifyId`
  * @property {string|null} spotifyId
  * @property {string|null} spotifyImage - Spotify artist thumbnail image URL, or null
+ * @property {string[]} [spotifyGenres]
  * @property {string} lookedUpAt     - ISO date
  */
 

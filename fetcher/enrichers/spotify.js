@@ -1,3 +1,23 @@
+import { fold } from '../search.js';
+
+const key = (s) => fold(s).replace(/^the /, '').replace(/ /g, '');
+
+/**
+ * Spotify search is fuzzy and always returns its best guess, so "ARDE LA
+ * SANGRE" came back as Cael Umbría and "FLEMA" as Flamen Beretta - wrong
+ * thumbnail, wrong embed, and the page looked broken. Only trust a result
+ * whose name actually is the name we asked for.
+ *
+ * @param {Array<{name: string}>} items
+ * @param {string} query
+ */
+export function pickSpotifyMatch(items, query) {
+  if (!Array.isArray(items)) return null;
+  const want = key(query);
+  if (!want) return null;
+  return items.find(i => key(i.name) === want) ?? null;
+}
+
 /**
  * @param {{clientId: string, clientSecret: string}} creds
  */
@@ -46,8 +66,8 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
 
   /**
    * @param {string} artistName
-   * @param {Map<string, {id:string,image:string|null}|null>} cache
-   * @returns {Promise<{id:string,image:string|null}|null>}
+   * @param {Map<string, {id:string,image:string|null,genres:string[]}|null>} cache
+   * @returns {Promise<{id:string,image:string|null,genres:string[]}|null>}
    */
   async function lookup(artistName, cache) {
     const key = artistName.toLowerCase();
@@ -59,13 +79,13 @@ export function createSpotifyEnricher({ clientId, clientSecret }) {
     if (!tk) return null;
 
     try {
-      const url = `https://api.spotify.com/v1/search?type=artist&limit=1&q=${encodeURIComponent(artistName)}`;
+      const url = `https://api.spotify.com/v1/search?type=artist&limit=5&q=${encodeURIComponent(artistName)}`;
       const res = await fetch(url, { headers: { Authorization: `Bearer ${tk}` } });
       if (!res.ok) return null;
       const data = await res.json();
-      const item = data?.artists?.items?.[0];
+      const item = pickSpotifyMatch(data?.artists?.items, artistName);
       if (!item) { cache.set(key, null); return null; }
-      const result = { id: item.id, image: smallestImage(item.images) };
+      const result = { id: item.id, image: smallestImage(item.images), genres: item.genres ?? [] };
       cache.set(key, result);
       return result;
     } catch {

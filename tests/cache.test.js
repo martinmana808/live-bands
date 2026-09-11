@@ -33,7 +33,7 @@ describe('buildCountryCache', () => {
 describe('buildSpotifyCache', () => {
   it('trusts a stored id regardless of which resolver wrote it', () => {
     const c = buildSpotifyCache({ korn: entry({ spotifyId: 'sp1', spotifyImage: 'https://i/x.jpg' }) });
-    expect(c.get('korn')).toEqual({ id: 'sp1', image: 'https://i/x.jpg' });
+    expect(c.get('korn')).toEqual({ id: 'sp1', image: 'https://i/x.jpg', genres: [] });
   });
 
   it('keeps a confirmed null so a genuine no-match is not re-queried', () => {
@@ -49,6 +49,18 @@ describe('buildSpotifyCache', () => {
 
   it('handles a missing image', () => {
     const c = buildSpotifyCache({ korn: entry({ spotifyId: 'sp1', spotifyImage: undefined }) });
-    expect(c.get('korn')).toEqual({ id: 'sp1', image: null });
+    expect(c.get('korn')).toEqual({ id: 'sp1', image: null, genres: [] });
+  });
+});
+
+describe('genres flow through the cache', () => {
+  it('buildSpotifyCache carries stored genres', () => {
+    const c = buildSpotifyCache({ korn: entry({ spotifyId: 'sp1', spotifyGenres: ['nu metal'] }) });
+    expect(c.get('korn').genres).toEqual(['nu metal']);
+  });
+
+  it('buildSpotifyCache defaults genres to an empty list for older entries', () => {
+    const c = buildSpotifyCache({ korn: entry({ spotifyId: 'sp1' }) });
+    expect(c.get('korn').genres).toEqual([]);
   });
 });

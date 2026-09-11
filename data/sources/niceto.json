@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10",
+  "fetchedAt": "2026-09-11",
   "events": [
     {
       "artist": "MERCADO DE MÚSICA PATAGÓNICO",
@@ -184,6 +184,13 @@
       "source": "niceto"
     },
     {
+      "artist": "DEEP SESSION #16",
+      "venue": "Niceto Club",
+      "date": "2026-09-17",
+      "ticketUrl": "https://venti.live/evento/deep-session-16-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "SELF-TITLED AFTERGLOW",
       "venue": "Niceto Club",
       "date": "2026-09-18",
@@ -342,13 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-09-25",
       "ticketUrl": "https://venti.live/evento/polenta-solo-pop-25-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
-      "venue": "Niceto Club",
-      "date": "2026-09-26",
-      "ticketUrl": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
       "source": "niceto"
     }
   ]

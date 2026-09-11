@@ -84,14 +84,37 @@ for (const e of events) {
         </section>
       ))}
       <footer>
-        Updated daily. Sources: Songkick, Vorterix, Niceto.
+        Updated daily. Sources: Songkick, Livepass, Vorterix, Niceto.
       </footer>
     </main>
+
+    <div id="player" hidden aria-label="Now playing">
+      <img id="player-art" alt="" width="40" height="40" />
+      <div class="player-meta">
+        <span id="player-name"></span>
+        <span class="player-hint">Top tracks · previews unless you're signed in to Spotify</span>
+      </div>
+      <div class="player-controls">
+        <button type="button" id="player-prev" aria-label="Previous artist" title="Previous artist">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6 6h2v12H6zM18 6v12L9 12z"/></svg>
+        </button>
+        <button type="button" id="player-toggle" aria-label="Pause" title="Play / pause">
+          <svg class="ico-pause" viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg>
+          <svg class="ico-play" viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        </button>
+        <button type="button" id="player-next" aria-label="Next artist" title="Next artist">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M16 6h2v12h-2zM6 6v12l9-6z"/></svg>
+        </button>
+      </div>
+      <div id="player-embed"></div>
+    </div>
 
     <script type="application/json" id="committed-muted" set:html={JSON.stringify(committedMuted)}></script>
     <script>
       import { createApp } from '../scripts/filters.js';
+      import { createPlayer } from '../scripts/player.js';
       createApp({ doc: document, storage: localStorage }).attach().render();
+      createPlayer({ doc: document }).attach();
 
       const FAV_KEY = 'bit:favs';
       const loadFavs = () => { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); } catch { return new Set(); } };
@@ -103,18 +126,6 @@ for (const e of events) {
       });
 
       document.addEventListener('click', async (e) => {
-        const play = e.target.closest('button.play[data-spotify-id]');
-        if (play) {
-          const row = play.closest('.event');
-          const existing = row.querySelector('.embed');
-          if (existing) { existing.remove(); return; }
-          const id = play.getAttribute('data-spotify-id');
-          const div = document.createElement('div');
-          div.className = 'embed';
-          div.innerHTML = `<iframe src="https://open.spotify.com/embed/artist/${id}" allow="encrypted-media"></iframe>`;
-          row.appendChild(div);
-          return;
-        }
         const fav = e.target.closest('button.fav[data-fav-id]');
         if (fav) {
           const id = fav.getAttribute('data-fav-id');

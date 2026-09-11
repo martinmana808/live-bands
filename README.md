@@ -4,7 +4,7 @@ Public archive of international bands playing in Buenos Aires, sorted chronologi
 
 ## How it works
 
-A Node fetcher pulls events from multiple sources (Songkick metro, plus venue calendars for Vorterix and Niceto), cleans the artist names, dedupes them, looks up each artist's origin country (via MusicBrainz) and Spotify ID, drops Argentine artists, and writes `data/events.json`. Astro reads that JSON at build time and renders a static page deployed to GitHub Pages. Everything happens in a daily GitHub Actions cron job.
+A Node fetcher pulls events from multiple sources (Songkick metro, Livepass ticketing, plus venue calendars for Vorterix and Niceto), cleans the artist names, dedupes them, looks up each artist's origin country (via MusicBrainz) and Spotify ID, drops Argentine artists, and writes `data/events.json`. Astro reads that JSON at build time and renders a static page deployed to GitHub Pages. Everything happens in a daily GitHub Actions cron job.
 
 Two things keep the daily job honest:
 
@@ -27,6 +27,14 @@ carry a `NEW` badge.
 The page controller lives in `src/scripts/filters.js` rather than inline in the Astro
 component, so it can be driven under jsdom — three composing filters is more than can be
 checked by eye. See `tests/filters.test.js`.
+
+### Playing an artist
+
+The play button on a row loads that artist into a single bar docked at the bottom and starts
+playback at once. Next/previous step between artists in the visible list, not between tracks —
+Spotify's iFrame API permits play, pause, toggle and seek without a login, and nothing else.
+Playback is 30s previews unless the browser is signed in to Spotify. The controller is in
+`src/scripts/player.js`, driven under jsdom with a fake Spotify controller in `tests/player.test.js`.
 
 ### Hiding artists you do not care about
 
@@ -74,6 +82,18 @@ SPOTIFY_CLIENT_ID=... SPOTIFY_CLIENT_SECRET=... npm run fetch   # update data/ev
 npm run digest:dry                               # preview the Telegram message
 npm run dev                                      # preview at http://localhost:4321
 ```
+
+## Sources and their quirks
+
+| Source | What it covers | Caveat |
+|---|---|---|
+| Songkick metro page | Everything, ~2 weeks out | Pagination is blocked at the CDN (`?page=2` → 406), so only page 1 |
+| Livepass | Stadium and arena shows months ahead (DF Entertainment) | Undated cards are followed to the event page for their date |
+| Vorterix (allaccess) | The venue's own calendar | 403s the GitHub runner; served from the last good fetch |
+| Niceto Club | The venue's own calendar | Intermittently empty from the runner |
+
+Movistar Arena's own site is a Blazor app over WebSockets and cannot be scraped; its shows appear
+only when Songkick's first page happens to list them.
 
 ## Adding a new source
 

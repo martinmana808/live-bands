@@ -24,7 +24,7 @@ export function buildCountryCache(artists) {
  * had no credentials, and freezing that in leaves the artist without artwork
  * forever.
  */
-export const SPOTIFY_RESOLVER = 'search-v1';
+export const SPOTIFY_RESOLVER = 'search-exact-v1';
 
 /**
  * @param {Record<string, import('./types.js').ArtistCacheEntry>} artists
@@ -34,7 +34,7 @@ export function buildSpotifyCache(artists) {
   const out = new Map();
   for (const [key, entry] of Object.entries(artists)) {
     if (entry?.spotifyId) {
-      out.set(key, { id: entry.spotifyId, image: entry.spotifyImage ?? null });
+      out.set(key, { id: entry.spotifyId, image: entry.spotifyImage ?? null, genres: entry.spotifyGenres ?? [] });
     } else if (entry?.spotifyResolvedBy === SPOTIFY_RESOLVER) {
       out.set(key, null);
     }
@@ -54,7 +54,7 @@ export function buildSpotifyCache(artists) {
  *   key: string, name: string,
  *   prior?: import('./types.js').ArtistCacheEntry,
  *   countryCache: Map<string, string|null>,
- *   spotifyCache: Map<string, {id: string, image: string|null}|null>,
+ *   spotifyCache: Map<string, {id: string, image: string|null, genres?: string[]}|null>,
  *   today: string,
  * }} args
  * @returns {import('./types.js').ArtistCacheEntry}
@@ -75,10 +75,12 @@ export function mergeArtistEntry({ key, name, prior, countryCache, spotifyCache,
     const sp = spotifyCache.get(key);
     entry.spotifyId = sp?.id ?? null;
     entry.spotifyImage = sp?.image ?? null;
+    entry.spotifyGenres = sp?.genres ?? [];
     entry.spotifyResolvedBy = SPOTIFY_RESOLVER;
   } else {
     entry.spotifyId = prior?.spotifyId ?? null;
     entry.spotifyImage = prior?.spotifyImage ?? null;
+    entry.spotifyGenres = prior?.spotifyGenres ?? [];
     if (prior?.spotifyResolvedBy) entry.spotifyResolvedBy = prior.spotifyResolvedBy;
   }
 

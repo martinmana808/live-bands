@@ -2,6 +2,9 @@ const MONTHS = {
   enero: '01', febrero: '02', marzo: '03', abril: '04', mayo: '05', junio: '06',
   julio: '07', agosto: '08', septiembre: '09', setiembre: '09', octubre: '10',
   noviembre: '11', diciembre: '12',
+  // Ticketing sites abbreviate: "20 OCT", "12 sept"
+  ene: '01', feb: '02', mar: '03', abr: '04', may: '05', jun: '06',
+  jul: '07', ago: '08', sep: '09', sept: '09', set: '09', oct: '10', nov: '11', dic: '12',
 };
 
 // Venue listings drop the year, so a bare "14 de enero" seen in September means

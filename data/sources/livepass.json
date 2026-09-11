@@ -1,0 +1,1258 @@
+{
+  "fetchedAt": "2026-09-11",
+  "events": [
+    {
+      "artist": "LAS PASTILLAS DEL ABUELO",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/pastillas-del-abuelo-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-09-13",
+      "ticketUrl": "https://livepass.com.ar/events/inaki-urlezaga-el-aplauso-final-en-la-sala-ginastera-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "DIEGO TORRES",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/diego-torres-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "CONOCIENDO RUSIA",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pimpinela",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Julieta Rada",
+      "venue": "Café Berlín",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/julieta-rada-en-cafe-berlin-2026-10-09-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "venue": "Huracán",
+      "date": "2026-10-20",
+      "ticketUrl": "https://livepass.com.ar/events/iron-maiden-en-huracan",
+      "source": "livepass"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "venue": "Huracán",
+      "date": "2026-10-21",
+      "ticketUrl": "https://livepass.com.ar/events/iron-maiden-en-huracan",
+      "source": "livepass"
+    },
+    {
+      "artist": "CARMEN SÁNCHEZ VIAMONTE",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/carmen-sanchez-viamonte-en-el-teatro-opera-lp-2026-11-07-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "BABASONICOS",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/babasonicos-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "La Vela Puerca + Las Pelotas",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "A PERFECT CIRCLE + PUSCIFER",
+      "venue": "Buenos Aires",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/a-perfect-circle",
+      "source": "livepass"
+    },
+    {
+      "artist": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-05",
+      "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Lau Andrade",
+      "venue": "CCNU",
+      "date": "2026-09-11",
+      "ticketUrl": "https://livepass.com.ar/events/lau-andrade-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "AUTOS ROBADOS",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-11",
+      "ticketUrl": "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp-11-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "Adriana Varela",
+      "venue": "Café Berlín",
+      "date": "2026-09-11",
+      "ticketUrl": "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2026-09-11-20",
+      "source": "livepass"
+    },
+    {
+      "artist": "Mariano Castro Clerici 5tet",
+      "venue": "CCNU",
+      "date": "2026-09-11",
+      "ticketUrl": "https://livepass.com.ar/events/mariano-castro-clerici-5tet-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Black Dog - The Led Zeppelin Experience",
+      "venue": "Café Berlín",
+      "date": "2026-09-11",
+      "ticketUrl": "https://livepass.com.ar/events/black-dog-the-led-zeppelin-experience-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nilocos",
+      "venue": "Café Berlín",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/nilocos-en-cafe-berlin-2026-09-12-16-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "STANDARD SESSION: American Songbook Essentials",
+      "venue": "CCNU",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/standard-session-american-songbook-essentials-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "GUSTAVO SANTAOLALLA",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/gustavo-santaolalla-en-la-sala-ginastera-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "OEISIS",
+      "venue": "Guajira LP",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/oeisis-en-guajira-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "AUTOS ROBADOS",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sobredosis de Soda íntimo y a la carta",
+      "venue": "Café Berlín",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-en-cafe-berlin-2026-09-12-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "BESTIA BEBE",
+      "venue": "San Miguel",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/bestia-bebe-en-san-miguel-2026-09-12-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Treasures of Classic Jazz",
+      "venue": "CCNU",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Noches de Teatro - Modo Familia",
+      "venue": "Café Berlín",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "LEIPARTY",
+      "venue": "Quilmes",
+      "date": "2026-09-12",
+      "ticketUrl": "https://livepass.com.ar/events/leiparty-en-quilmes",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dúo Trixie y Meteoro",
+      "venue": "CCNU",
+      "date": "2026-09-13",
+      "ticketUrl": "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Francia 98",
+      "venue": "Café Berlín",
+      "date": "2026-09-13",
+      "ticketUrl": "https://livepass.com.ar/events/francia-98-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Chico Jota Sexteto plays Mosaic",
+      "venue": "CCNU",
+      "date": "2026-09-13",
+      "ticketUrl": "https://livepass.com.ar/events/chico-jota-sexteto-plays-mosaic-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Roberto Antier- Generación Mareada",
+      "venue": "Café Berlín",
+      "date": "2026-09-15",
+      "ticketUrl": "https://livepass.com.ar/events/roberto-antier-generacion-mareada-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dólar Blues",
+      "venue": "Café Berlín",
+      "date": "2026-09-16",
+      "ticketUrl": "https://livepass.com.ar/events/dolar-blues-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Gyomara Trío",
+      "venue": "CCNU",
+      "date": "2026-09-17",
+      "ticketUrl": "https://livepass.com.ar/events/gyomara-trio-en-ccnu-2026-09-17",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leonardo Amuedo & Daniel Maza",
+      "venue": "Café Berlín",
+      "date": "2026-09-17",
+      "ticketUrl": "https://livepass.com.ar/events/leonardo-amuedo-daniel-maza-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Singers in Jam",
+      "venue": "CCNU",
+      "date": "2026-09-17",
+      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-09-17-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Miss Rapsody",
+      "venue": "Café Berlín",
+      "date": "2026-09-17",
+      "ticketUrl": "https://livepass.com.ar/events/miss-rapsody-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Ernesto Dmitruk Cuarteto",
+      "venue": "CCNU",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/ernesto-dmitruk-cuarteto-en-ccnu-2026-09-18",
+      "source": "livepass"
+    },
+    {
+      "artist": "BHAVI",
+      "venue": "San Miguel",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/bhavi-en-san-miguel-18-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "HECATOMBE - MI PRIMERA GUERRA MUNDIAL",
+      "venue": "Sala Piazzolla - Teatro Argentino LP",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "REY GARUFA",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "Santiago Molina",
+      "venue": "Café Berlín",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-09-18-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Modo 5",
+      "venue": "CCNU",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/modo-5-en-ccnu-2026-09-18",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sarah Lenore - La Argengringa",
+      "venue": "Café Berlín",
+      "date": "2026-09-18",
+      "ticketUrl": "https://livepass.com.ar/events/sarah-lenore-la-argengringa-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
+      "venue": "CCNU",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-09-19-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "BHAVI",
+      "venue": "Club Re",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/bhavi-en-club-re-19-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "Mimi Maura",
+      "venue": "Café Berlín",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/mimi-maura-en-cafe-berlin-2026-09-19-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "JAURIA",
+      "venue": "San Miguel",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/jauria-en-san-miguel-2026-09-19-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nuevas Flores - Lula Meulen y Maru Cavalchini",
+      "venue": "CCNU",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/nuevas-flores-lula-meulen-y-maru-cavalchini-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Noches de Teatro - Modo Familia",
+      "venue": "Café Berlín",
+      "date": "2026-09-19",
+      "ticketUrl": "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin-2026-09-19-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Mar Chiappetta",
+      "venue": "CCNU",
+      "date": "2026-09-20",
+      "ticketUrl": "https://livepass.com.ar/events/mar-chiappetta-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-09-20",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-09-20-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Mestizaje Grupo",
+      "venue": "CCNU",
+      "date": "2026-09-20",
+      "ticketUrl": "https://livepass.com.ar/events/mestizaje-grupo-en-ccnu-2026-09-20-21-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Walter Colonna Band- Compartiendo Rock y Corazones",
+      "venue": "Café Berlín",
+      "date": "2026-09-22",
+      "ticketUrl": "https://livepass.com.ar/events/walter-colonna-band-compartiendo-rock-y-corazones-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Rikyn",
+      "venue": "Café Berlín",
+      "date": "2026-09-23",
+      "ticketUrl": "https://livepass.com.ar/events/rikyn-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Swingin’ classics",
+      "venue": "CCNU",
+      "date": "2026-09-24",
+      "ticketUrl": "https://livepass.com.ar/events/swingin-classics-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Jan Uve",
+      "venue": "Café Berlín",
+      "date": "2026-09-24",
+      "ticketUrl": "https://livepass.com.ar/events/jan-uve-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Abril Cormery Trio",
+      "venue": "CCNU",
+      "date": "2026-09-24",
+      "ticketUrl": "https://livepass.com.ar/events/abril-cormery-trio-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "5 Planetas",
+      "venue": "Café Berlín",
+      "date": "2026-09-24",
+      "ticketUrl": "https://livepass.com.ar/events/5-planetas-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Antonia Adem, Felipe Bafaro, Mati Jablonka y Romeo Rebairols",
+      "venue": "CCNU",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/antonia-adem-felipe-bafaro-mati-jablonka-y-romeo-rebairols-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "ROMPIENDO ESPEJOS - Tributo a Callejeros",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Daniel Melero",
+      "venue": "Café Berlín",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2026-09-25",
+      "source": "livepass"
+    },
+    {
+      "artist": "CEREMONIA ROCK NACIONAL",
+      "venue": "San Miguel",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/ceremonia-rock-nacional-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Quarter Quartet",
+      "venue": "CCNU",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/quarter-quartet-en-ccnu-2026-09-25",
+      "source": "livepass"
+    },
+    {
+      "artist": "Hermanos Martínez- Nuestros Años junto a Iorio",
+      "venue": "Café Berlín",
+      "date": "2026-09-25",
+      "ticketUrl": "https://livepass.com.ar/events/hermanos-martinez-nuestros-anos-junto-a-iorio-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Paula Dorrego",
+      "venue": "CCNU",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/paula-dorrego-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "LA CHANCHA MUDA",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-el-teatro-opera-lp-26-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "Miguel Cantilo",
+      "venue": "Café Berlín",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/miguel-cantilo-en-cafe-berlin-26-09",
+      "source": "livepass"
+    },
+    {
+      "artist": "ALE KURZ",
+      "venue": "San Miguel",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/ale-kurz-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Vitico y Los Leones",
+      "venue": "Café Berlín",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/vitico-y-los-leones-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "FIESTA PLOP: Homenaje a Moria Casan",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-09-26",
+      "ticketUrl": "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "HAY PLAN - AYER NO SALÍ",
+      "venue": "Livepass",
+      "date": "2026-09-27",
+      "ticketUrl": "https://livepass.com.ar/events/hay-plan-ayer-no-sali-2026-09-27",
+      "source": "livepass"
+    },
+    {
+      "artist": "Simón Goñi",
+      "venue": "CCNU",
+      "date": "2026-09-27",
+      "ticketUrl": "https://livepass.com.ar/events/simon-goni-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Espíritu Pescado",
+      "venue": "Café Berlín",
+      "date": "2026-09-27",
+      "ticketUrl": "https://livepass.com.ar/events/espiritu-pescado-en-cafe-berlin-2026-09-27-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sebastian Brasero Swingbook",
+      "venue": "CCNU",
+      "date": "2026-09-27",
+      "ticketUrl": "https://livepass.com.ar/events/sebastian-brasero-swingbook-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fabiana Cantilo",
+      "venue": "Café Berlín",
+      "date": "2026-09-29",
+      "ticketUrl": "https://livepass.com.ar/events/fabiana-cantilo-en-cafe-berlin-2026-09-29",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leonardo Amuedo y Maza Daniel",
+      "venue": "Mondo Fonk - Concepción del Uruguay",
+      "date": "2026-09-29",
+      "ticketUrl": "https://livepass.com.ar/events/leonardo-amuedo-y-maza-daniel-en-mondo-fonk-concepcion-del-uruguay",
+      "source": "livepass"
+    },
+    {
+      "artist": "Farolero",
+      "venue": "CCNU",
+      "date": "2026-09-30",
+      "ticketUrl": "https://livepass.com.ar/events/farolero-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Horacio Lavandera",
+      "venue": "Café Berlín",
+      "date": "2026-09-30",
+      "ticketUrl": "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-09-30",
+      "source": "livepass"
+    },
+    {
+      "artist": "Daniel Maza y Leonardo Amuedo",
+      "venue": "Gualeguaychú",
+      "date": "2026-09-30",
+      "ticketUrl": "https://livepass.com.ar/events/daniel-maza-y-leonardo-amuedo-en-gualeguaychu",
+      "source": "livepass"
+    },
+    {
+      "artist": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
+      "venue": "CCNU",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/placeres-culposos-100-programas-de-nda-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "DYANGO",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Madda Bergeret",
+      "venue": "Café Berlín",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/madda-bergeret-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "CADENA PERPETUA",
+      "venue": "San Miguel",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-01-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "Banda de Héroes - Presenta Changes",
+      "venue": "Café Berlín",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/banda-de-heroes-presenta-changes-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Lectura. Claire Keegan por Claire Keegan",
+      "venue": "MALBA",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/lectura-claire-keegan-por-claire-keegan-en-malba",
+      "source": "livepass"
+    },
+    {
+      "artist": "SIN DATOS",
+      "venue": "Guajira LP",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/sin-datos-en-guajira-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Por el Sur",
+      "venue": "Café Berlín",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/por-el-sur-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "EMANERO",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "La Foca Funk4",
+      "venue": "Café Berlín",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/la-foca-funk4-en-cafe-berlin-2026-10-02-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Carrère cronista",
+      "venue": "MALBA",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/carrere-cronista-en-malba",
+      "source": "livepass"
+    },
+    {
+      "artist": "CADENA PERPETUA",
+      "venue": "Club Re",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-club-re",
+      "source": "livepass"
+    },
+    {
+      "artist": "1915 + MUJER CEBRA + TERRORES NOCTURNOS",
+      "venue": "San Miguel",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/1915-mujer-cebra-terrores-nocturnos-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Los Endos",
+      "venue": "Café Berlín",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/los-endos-en-cafe-berlin-03-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "AIRBAG",
+      "venue": "Rosario",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/airbag-en-rosario",
+      "source": "livepass"
+    },
+    {
+      "artist": "Wadu Wadu - Tributo Oficial a Virus",
+      "venue": "Café Berlín",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/wadu-wadu-tributo-oficial-a-virus-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Chuecas y Locas",
+      "venue": "Café Berlín",
+      "date": "2026-10-04",
+      "ticketUrl": "https://livepass.com.ar/events/chuecas-y-locas-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Gicela Méndez Ribeiro & Aluisio Rockembach - Música de Frontera",
+      "venue": "Café Berlín",
+      "date": "2026-10-06",
+      "ticketUrl": "https://livepass.com.ar/events/gicela-mendez-ribeiro-aluisio-rockembach-musica-de-frontera-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "The Crimson Kings",
+      "venue": "Café Berlín",
+      "date": "2026-10-07",
+      "ticketUrl": "https://livepass.com.ar/events/the-crimson-kings-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sentimental Syncopators",
+      "venue": "Café Berlín",
+      "date": "2026-10-08",
+      "ticketUrl": "https://livepass.com.ar/events/sentimental-syncopators-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "GAUCHITO CLUB",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "Camerata Rosario",
+      "venue": "el Teatro Auditorium - Sala Astor Piazzolla (Mar del Plata)",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/camerata-rosario-en-mdq",
+      "source": "livepass"
+    },
+    {
+      "artist": "Roque Narvaja",
+      "venue": "Café Berlín",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/roque-narvaja-en-cafe-berlin-2026-10-09-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "LUCHO SSJ",
+      "venue": "San Miguel",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "LUCHO SSJ",
+      "venue": "Quilmes",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-club-re",
+      "source": "livepass"
+    },
+    {
+      "artist": "BESTIA BEBÉ",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "La Maison Ferrés- Desde el Hondo Bajofondo",
+      "venue": "Café Berlín",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/la-maison-ferres-desde-el-hondo-bajofondo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "AIRBAG",
+      "venue": "Córdoba",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/airbag-en-cordoba",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sur Oculto",
+      "venue": "Café Berlín",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/sur-oculto-en-cafe-berlin-2026-10-10-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Festival de Cocina y Teatro Judío",
+      "venue": "Café Berlín",
+      "date": "2026-10-13",
+      "ticketUrl": "https://livepass.com.ar/events/festival-de-cocina-y-teatro-judio-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leandro Barrales Sexteto",
+      "venue": "Café Berlín",
+      "date": "2026-10-14",
+      "ticketUrl": "https://livepass.com.ar/events/leandro-barrales-sexteto-en-cafe-berlin-2026-10-14-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "LOCAL BLUES All Stars",
+      "venue": "Café Berlín",
+      "date": "2026-10-15",
+      "ticketUrl": "https://livepass.com.ar/events/local-blues-all-stars-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fernando Sanjiao",
+      "venue": "Café Berlín",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2026-10-16-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "SOBREDOSIS DE SODA",
+      "venue": "San Miguel",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "TAREA FINA",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/tarea-fina-en-el-teatro-opera-lp-2026-10-16-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nano Stern",
+      "venue": "Café Berlín",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/nano-stern-en-cafe-berlin-2026-10-16-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "LOS PEREZ GARCIA",
+      "venue": "Quilmes",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/los-perez-garcia-en-club-re",
+      "source": "livepass"
+    },
+    {
+      "artist": "DANCING MOOD",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/dancing-mood-en-el-teatro-opera-lp-2026-10-17",
+      "source": "livepass"
+    },
+    {
+      "artist": "Interpaul",
+      "venue": "Café Berlín",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/interpaul-en-cafe-berlin-2026-10-17-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Tres Mundos",
+      "venue": "Café Berlín",
+      "date": "2026-10-18",
+      "ticketUrl": "https://livepass.com.ar/events/tres-mundos-en-cafe-berlin-2026-10-18-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "La Pardo Big Band",
+      "venue": "Café Berlín",
+      "date": "2026-10-20",
+      "ticketUrl": "https://livepass.com.ar/events/la-pardo-big-band-en-cafe-berlin-2026-10-20-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Liliana Herrero",
+      "venue": "Café Berlín",
+      "date": "2026-10-21",
+      "ticketUrl": "https://livepass.com.ar/events/liliana-herrero-en-cafe-berlin-2026-10-21-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Javier Sá",
+      "venue": "Café Berlín",
+      "date": "2026-10-22",
+      "ticketUrl": "https://livepass.com.ar/events/javier-sa-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leo Travaglio",
+      "venue": "Café Berlín",
+      "date": "2026-10-22",
+      "ticketUrl": "https://livepass.com.ar/events/leo-travaglio-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Vértigo",
+      "venue": "Café Berlín",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/vertigo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "LA KONGA",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "ESCALANDRUM",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pitufo Lombardo & Nico Ibarburu",
+      "venue": "Café Berlín",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/pitufo-lombardo-nico-ibarburu-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "LA CHANCHA MUDA",
+      "venue": "San Miguel",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Hernán Romero",
+      "venue": "Café Berlín",
+      "date": "2026-10-28",
+      "ticketUrl": "https://livepass.com.ar/events/hernan-romero-en-cafe-berlin-2026-10-28",
+      "source": "livepass"
+    },
+    {
+      "artist": "The Beatles - In My Life - By Parisi",
+      "venue": "Café Berlín",
+      "date": "2026-10-29",
+      "ticketUrl": "https://livepass.com.ar/events/the-beatles-in-my-life-by-parisi-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Blue Nigths",
+      "venue": "Café Berlín",
+      "date": "2026-10-29",
+      "ticketUrl": "https://livepass.com.ar/events/blue-nigths-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "ALE KURZ",
+      "venue": "Guajira LP",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/ale-kurz-en-guajira-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pasarla Bien",
+      "venue": "Café Berlín",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/pasarla-bien-en-cafe-berlin-2026-10-30-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "DANCING MOOD",
+      "venue": "San Miguel",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/dancing-mood-en-san-miguel-2026-10-30-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pablo Cordonet",
+      "venue": "Café Berlín",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/pablo-cordonet-en-cafe-berlin-2026-10-30-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Joe Fernández",
+      "venue": "Café Berlín",
+      "date": "2026-10-31",
+      "ticketUrl": "https://livepass.com.ar/events/joe-fernandez-en-cafe-berlin-2026-10-24",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dani Stone & Barrio Viejo",
+      "venue": "Café Berlín",
+      "date": "2026-10-31",
+      "ticketUrl": "https://livepass.com.ar/events/dani-stone-barrio-viejo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Maikel Pereyra - La Guitarra infinita",
+      "venue": "Café Berlín",
+      "date": "2026-11-01",
+      "ticketUrl": "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fátima Garrido",
+      "venue": "Café Berlín",
+      "date": "2026-11-03",
+      "ticketUrl": "https://livepass.com.ar/events/fatima-garrido-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Blue Art- Jorge Migoya & Rocio Giménez López Quinteto",
+      "venue": "Café Berlín",
+      "date": "2026-11-04",
+      "ticketUrl": "https://livepass.com.ar/events/blue-art-jorge-migoya-rocio-gimenez-lopez-quinteto-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Jorge Viñas",
+      "venue": "Café Berlín",
+      "date": "2026-11-05",
+      "ticketUrl": "https://livepass.com.ar/events/jorge-vinas-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Orlando Curti & The Groove Seekers",
+      "venue": "Café Berlín",
+      "date": "2026-11-05",
+      "ticketUrl": "https://livepass.com.ar/events/orlando-curti-the-groove-seekers-en-cafe-berlin-2026-11-05-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "The End - Íntimo",
+      "venue": "Café Berlín",
+      "date": "2026-11-06",
+      "ticketUrl": "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
+      "venue": "Sala Piazzolla - Teatro Argentino LP",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Javier Calamaro",
+      "venue": "Café Berlín",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/javier-calamaro-en-cafe-berlin-2026-11-07-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "PANTER GIULIANO | GUITARRA & VOZ",
+      "venue": "San Miguel",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/panter-giuliano-guitarra-voz-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Alambre & Amigos",
+      "venue": "Café Berlín",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/alambre-amigos-en-cafe-berlin-2026-11-07",
+      "source": "livepass"
+    },
+    {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-11-08",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-11-08",
+      "source": "livepass"
+    },
+    {
+      "artist": "Los Demás son un Montón - Ezequiel Campa & Agustina Aguilar",
+      "venue": "Café Berlín",
+      "date": "2026-11-10",
+      "ticketUrl": "https://livepass.com.ar/events/los-demas-son-un-monton-ezequiel-campa-agustina-aguilar-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leo Garzón",
+      "venue": "Café Berlín",
+      "date": "2026-11-11",
+      "ticketUrl": "https://livepass.com.ar/events/leo-garzon-en-cafe-berlin-2026-11-11-20",
+      "source": "livepass"
+    },
+    {
+      "artist": "Paris Jazz Club",
+      "venue": "Café Berlín",
+      "date": "2026-11-12",
+      "ticketUrl": "https://livepass.com.ar/events/paris-jazz-club-en-cafe-berlin-2026-11-12-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Arethas",
+      "venue": "Café Berlín",
+      "date": "2026-11-12",
+      "ticketUrl": "https://livepass.com.ar/events/arethas-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "GIROS",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
+      "source": "livepass"
+    },
+    {
+      "artist": "Rita Cortese",
+      "venue": "Café Berlín",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/rita-cortese-en-cafe-berlin-2026-11-13",
+      "source": "livepass"
+    },
+    {
+      "artist": "La Jarana",
+      "venue": "Café Berlín",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/la-jarana-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "ESQUINA LIBERTAD - Tributo a Los Piojos",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pablo Sbaraglia",
+      "venue": "Café Berlín",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/pablo-sbaraglia-en-cafe-berlin-2026-11-14-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "LA BOMBA DE TIEMPO",
+      "venue": "San Miguel",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/la-bomba-de-tiempo-en-san-miguel-2026-11-14-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Do Neurona",
+      "venue": "Café Berlín",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sofía P.J",
+      "venue": "Café Berlín",
+      "date": "2026-11-19",
+      "ticketUrl": "https://livepass.com.ar/events/sofia-p-j-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "LUCHO SSJ",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-20",
+      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Gran Martell",
+      "venue": "Café Berlín",
+      "date": "2026-11-20",
+      "ticketUrl": "https://livepass.com.ar/events/gran-martell-en-cafe-berlin-20-11",
+      "source": "livepass"
+    },
+    {
+      "artist": "USTED SEÑALEMELO",
+      "venue": "San Miguel",
+      "date": "2026-11-20",
+      "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "USTED SEÑALEMELO",
+      "venue": "Quilmes",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-quilmes",
+      "source": "livepass"
+    },
+    {
+      "artist": "BENJAMIN AMADEO",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11",
+      "source": "livepass"
+    },
+    {
+      "artist": "2 MINUTOS",
+      "venue": "San Miguel",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/2-minutos-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Devotos del Rock",
+      "venue": "Café Berlín",
+      "date": "2026-11-24",
+      "ticketUrl": "https://livepass.com.ar/events/devotos-del-rock-en-cafe-berlin-2026-11-24-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Queteimporta",
+      "venue": "Café Berlín",
+      "date": "2026-11-27",
+      "ticketUrl": "https://livepass.com.ar/events/queteimporta-en-cafe-berlin-2026-11-27-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "K4OS",
+      "venue": "Neuquén",
+      "date": "2026-11-27",
+      "ticketUrl": "https://livepass.com.ar/events/k4os-en-neuquen",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fernando Cabrera - Hugo Fattoruso",
+      "venue": "Café Berlín",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Un Poco de Ruido",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "K4OS",
+      "venue": "Bahía Blanca",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/k4os-en-bahia-blanca",
+      "source": "livepass"
+    },
+    {
+      "artist": "Giant Rooks",
+      "venue": "Vorterix",
+      "date": "2026-12-01",
+      "ticketUrl": "https://livepass.com.ar/events/giant-rooks-en-vorterix",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dennis Chambers & Christian Gálvez Quartet",
+      "venue": "Café Berlín",
+      "date": "2026-12-02",
+      "ticketUrl": "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "TAN BIONICA",
+      "venue": "Estadio Uno",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/tan-bionica-en-estadio-uno",
+      "source": "livepass"
+    },
+    {
+      "artist": "Valeria Lynch",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-12-13",
+      "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Ludovico Einaudi: Solo Piano",
+      "venue": "el Teatro Colón",
+      "date": "2027-03-01",
+      "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
+      "source": "livepass"
+    }
+  ]
+}

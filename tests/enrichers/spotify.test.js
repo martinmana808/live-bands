@@ -15,6 +15,7 @@ describe('createSpotifyEnricher', () => {
       .mockResolvedValueOnce({ ok: true, json: async () => ({
         artists: { items: [{
           id: 'sp1',
+          name: 'Korn',
           images: [
             { url: 'https://i.scdn.co/640.jpg', width: 640, height: 640 },
             { url: 'https://i.scdn.co/320.jpg', width: 320, height: 320 },
@@ -26,19 +27,19 @@ describe('createSpotifyEnricher', () => {
     const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
     const cache = new Map();
     const first = await enrich.lookup('Korn', cache);
-    expect(first).toEqual({ id: 'sp1', image: 'https://i.scdn.co/64.jpg' });
+    expect(first).toEqual({ id: 'sp1', image: 'https://i.scdn.co/64.jpg', genres: [] });
     const second = await enrich.lookup('Korn', cache);
-    expect(second).toEqual({ id: 'sp1', image: 'https://i.scdn.co/64.jpg' });
+    expect(second).toEqual({ id: 'sp1', image: 'https://i.scdn.co/64.jpg', genres: [] });
     expect(fetchMock).toHaveBeenCalledTimes(2); // 1 token + 1 search; 2nd lookup hits cache
   });
 
   it('returns image=null when artist has no images', async () => {
     vi.stubGlobal('fetch', vi.fn()
       .mockResolvedValueOnce({ ok: true, json: async () => ({ access_token: 'tok', expires_in: 3600 }) })
-      .mockResolvedValueOnce({ ok: true, json: async () => ({ artists: { items: [{ id: 'sp1', images: [] }] } }) })
+      .mockResolvedValueOnce({ ok: true, json: async () => ({ artists: { items: [{ id: 'sp1', name: 'Korn', images: [] }] } }) })
     );
     const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
-    expect(await enrich.lookup('NoPics', new Map())).toEqual({ id: 'sp1', image: null });
+    expect(await enrich.lookup('Korn', new Map())).toEqual({ id: 'sp1', image: null, genres: [] });
   });
 
   it('picks the smallest image when multiple sizes are returned', async () => {
@@ -47,6 +48,7 @@ describe('createSpotifyEnricher', () => {
       .mockResolvedValueOnce({ ok: true, json: async () => ({
         artists: { items: [{
           id: 'sp1',
+          name: 'Korn',
           images: [
             { url: 'big',    width: 800 },
             { url: 'medium', width: 200 },
@@ -57,7 +59,7 @@ describe('createSpotifyEnricher', () => {
       })})
     );
     const enrich = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
-    const r = await enrich.lookup('X', new Map());
+    const r = await enrich.lookup('Korn', new Map());
     expect(r.image).toBe('tiny');
   });
 
@@ -81,7 +83,7 @@ describe('createSpotifyEnricher does not bake in transient failures', () => {
   beforeEach(() => { vi.restoreAllMocks(); });
 
   const token = { ok: true, json: async () => ({ access_token: 'tok', expires_in: 3600 }) };
-  const found = { ok: true, json: async () => ({ artists: { items: [{ id: 'sp1', images: [] }] } }) };
+  const found = { ok: true, json: async () => ({ artists: { items: [{ id: 'sp1', name: 'Korn', images: [] }] } }) };
 
   it('leaves the cache untouched when credentials are missing', async () => {
     const enrich = createSpotifyEnricher({ clientId: '', clientSecret: '' });
@@ -117,7 +119,7 @@ describe('createSpotifyEnricher does not bake in transient failures', () => {
 
     vi.stubGlobal('fetch', vi.fn().mockResolvedValueOnce(token).mockResolvedValueOnce(found));
     const withCreds = createSpotifyEnricher({ clientId: 'a', clientSecret: 'b' });
-    expect(await withCreds.lookup('Korn', cache)).toEqual({ id: 'sp1', image: null });
+    expect(await withCreds.lookup('Korn', cache)).toEqual({ id: 'sp1', image: null, genres: [] });
   });
 
   it('still caches a definitive no-match so it is not re-queried', async () => {

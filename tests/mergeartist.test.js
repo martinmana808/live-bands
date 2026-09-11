@@ -69,3 +69,19 @@ describe('mergeArtistEntry when the lookup was inconclusive', () => {
     expect(e.lookedUpAt).toBe(today);
   });
 });
+
+describe('mergeArtistEntry genres', () => {
+  it('stores genres from a resolved spotify lookup', () => {
+    const e = call({ spotifyCache: new Map([['korn', { id: 'sp1', image: null, genres: ['nu metal'] }]]) });
+    expect(e.spotifyGenres).toEqual(['nu metal']);
+  });
+
+  it('keeps prior genres when the lookup was inconclusive', () => {
+    const prior = { name: 'Korn', country: null, spotifyId: 'sp1', spotifyImage: null, spotifyGenres: ['nu metal'], lookedUpAt: '2026-09-01' };
+    expect(call({ prior }).spotifyGenres).toEqual(['nu metal']);
+  });
+
+  it('writes an empty list rather than nothing when unknown', () => {
+    expect(call().spotifyGenres).toEqual([]);
+  });
+});

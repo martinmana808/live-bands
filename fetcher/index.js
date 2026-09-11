@@ -13,12 +13,14 @@ import { createSpotifyEnricher } from './enrichers/spotify.js';
 import * as songkick from './adapters/songkick.js';
 import * as vorterix from './adapters/vorterix.js';
 import * as niceto from './adapters/niceto.js';
+import * as livepass from './adapters/livepass.js';
 import { todayInBuenosAires } from './today.js';
 
 const ADAPTERS = [
   ['songkick', songkick],
   ['vorterix', vorterix],
   ['niceto', niceto],
+  ['livepass', livepass],
 ];
 
 const EVENTS_PATH = 'data/events.json';
@@ -111,7 +113,7 @@ async function main() {
   for (const e of deduped) {
     const country = await lookupCountry(e.artist, countryCache);
     const sp = await spotify.lookup(e.artist, spotifyCache);
-    enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null });
+    enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null, genres: sp?.genres ?? [] });
   }
 
   const intl = filterInternational(enriched);

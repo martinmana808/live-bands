@@ -95,3 +95,34 @@ describe('cleanArtistName strips promo noise', () => {
     expect(cleanArtistName('5 SEP')).toBe('5 SEP');
   });
 });
+
+describe('cleanArtistName strips the tails seen on Vorterix', () => {
+  it('drops a "PRESENTA ..." announcement', () => {
+    expect(cleanArtistName('ARDE LA SANGRE PRESENTA SU NUEVO ALBUM “DESDE EL FONDO”')).toBe('ARDE LA SANGRE');
+  });
+
+  it('drops a spaced-hyphen subtitle', () => {
+    expect(cleanArtistName('FLEMA - NUNCA SERÉ POLICÍA - 30 AÑOS')).toBe('FLEMA');
+  });
+
+  it('drops an album or tour name after a spaced hyphen', () => {
+    expect(cleanArtistName('VILMA PALMA e VAMPIRO - INTIMO')).toBe('VILMA PALMA e VAMPIRO');
+  });
+
+  it('drops "presenta" in lower case too', () => {
+    expect(cleanArtistName('Los Pericos presenta Pampas Reggae')).toBe('Los Pericos');
+  });
+
+  it('does not touch a hyphen with no spaces around it', () => {
+    expect(cleanArtistName('Jay-Z')).toBe('Jay-Z');
+    expect(cleanArtistName('Sigur Rós')).toBe('Sigur Rós');
+  });
+
+  it('does not strip when "presenta" is the whole name', () => {
+    expect(cleanArtistName('Presenta')).toBe('Presenta');
+  });
+
+  it('drops an "en vivo" subtitle after a spaced hyphen', () => {
+    expect(cleanArtistName('Divididos - En Vivo')).toBe('Divididos');
+  });
+});

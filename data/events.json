@@ -13,14 +13,15 @@
       "niceto"
     ],
     "country": "CL",
-    "spotifyId": "7ah2GYpn05JkpAIk7vop8g",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178087e41a8fb5c0ec35938ecb5",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-17"
   },
   {
-    "id": "ciclo23hsfiestamermeladaafterjostick-2026-09-10-niceto",
-    "artist": "CICLO23HS - FIESTA MERMELADA AFTER JOSTICK",
-    "artistKey": "ciclo23hsfiestamermeladaafterjostick",
+    "id": "ciclo23hs-2026-09-10-niceto",
+    "artist": "CICLO23HS",
+    "artistKey": "ciclo23hs",
     "date": "2026-09-10",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -31,14 +32,15 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "1vOTVnnyLvVTeuwrZLghCN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ede1fa2b73f3ec85fb70c450",
-    "firstSeenAt": "2026-09-04"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "glasepresentaalmibar-2026-09-10-niceto",
-    "artist": "Glasé presenta “Almíbar”",
-    "artistKey": "glasepresentaalmibar",
+    "id": "glase-2026-09-10-niceto",
+    "artist": "Glasé",
+    "artistKey": "glase",
     "date": "2026-09-10",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -49,14 +51,15 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "7yUPH32eGSMdpgc2hi4pHo",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485123dbc0d210b8b1944b5d32ea",
-    "firstSeenAt": "2026-08-17"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "joystickpresentadiariosdehumo-2026-09-10-niceto",
-    "artist": "JOYSTICK PRESENTA DIARIOS DE HUMO",
-    "artistKey": "joystickpresentadiariosdehumo",
+    "id": "joystick-2026-09-10-niceto",
+    "artist": "JOYSTICK",
+    "artistKey": "joystick",
     "date": "2026-09-10",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -66,10 +69,11 @@
     "sources": [
       "niceto"
     ],
-    "country": null,
-    "spotifyId": "4hsviYm29ZjWspJ2deCk70",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851c4372c482b0b2151683f0838",
-    "firstSeenAt": "2026-08-10"
+    "country": "US",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "kilombo-2026-09-10-niceto",
@@ -85,9 +89,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "2y2zsEIM0NTeGwkxcnGmvo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a2c5f275aea7394504e667ba",
-    "firstSeenAt": "2026-09-10"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "mercadodemusicapatagonico-2026-09-10-niceto",
@@ -103,9 +108,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "3xKAHg1dVWyKSvYyd7ZvvT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d73d1e7a59d9f54bf2313d40",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "noeliasinkunasandflorenciaruiz-2026-09-10-bibliotecacafe",
@@ -119,8 +125,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "0uMBj1TX0cktGnVzLlgWux",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288313aaadf595e6d49462c1",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -137,9 +144,67 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "1N0ACznriUeiiOJWN8hHC7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a3ba16533a5f4bad74ec034c",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
+  },
+  {
+    "id": "adrianavarela-2026-09-11-cafeberlin",
+    "artist": "Adriana Varela",
+    "artistKey": "adrianavarela",
+    "date": "2026-09-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2026-09-11-20"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "autosrobados-2026-09-11-operalp",
+    "artist": "AUTOS ROBADOS",
+    "artistKey": "autosrobados",
+    "date": "2026-09-11",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp-11-09"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "blackdog-2026-09-11-cafeberlin",
+    "artist": "Black Dog",
+    "artistKey": "blackdog",
+    "date": "2026-09-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/black-dog-the-led-zeppelin-experience-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "GB",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "campamento-2026-09-11-lalala",
@@ -153,8 +218,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "6VE5KanrJOHtUPIFzmV8At",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784378bd79fd9be04274f8a7b6",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -169,8 +235,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -187,8 +254,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "2rmkQLzj0k4nZdQehOUByO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789c6b173d8ff98005877f90c8",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-10"
   },
   {
@@ -203,8 +271,9 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-22"
   },
   {
@@ -221,14 +290,15 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "4tSDK2ySq41vxwERzxVRZH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ca8be7602807d802ff2e3cae",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-07-02"
   },
   {
-    "id": "festivalpardoddtfantasmagoriaplayanudista-2026-09-11-niceto",
-    "artist": "FESTIVAL PARDO: DDT - FANTASMAGORIA - PLAYA NUDISTA",
-    "artistKey": "festivalpardoddtfantasmagoriaplayanudista",
+    "id": "festivalpardoddt-2026-09-11-niceto",
+    "artist": "FESTIVAL PARDO: DDT",
+    "artistKey": "festivalpardoddt",
     "date": "2026-09-11",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -239,9 +309,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "7ENBky1SWWXNoK9pHt5SUh",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048511afb3e2b166219d12db10bd2",
-    "firstSeenAt": "2026-08-10"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "fiestaclickenvorterix-2026-09-11-vorterix",
@@ -257,9 +328,29 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "60MhHFNf13woAFLcJhb2P8",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514336eecaa282573c05015e99",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "lauandrade-2026-09-11-ccnu",
+    "artist": "Lau Andrade",
+    "artistKey": "lauandrade",
+    "date": "2026-09-11",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/lau-andrade-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "lossub-2026-09-11-cubo",
@@ -273,8 +364,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "6f6YZt82KM3pLY2iVck2ji",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485132b61adaa9dbc7c07c98e56a",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
   },
   {
@@ -291,9 +383,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6br1KBi75zBYt3QuKm9Nbd",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b6b14b6c54b7c3605c9845e6",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-03"
+  },
+  {
+    "id": "marianocastroclerici5tet-2026-09-11-ccnu",
+    "artist": "Mariano Castro Clerici 5tet",
+    "artistKey": "marianocastroclerici5tet",
+    "date": "2026-09-11",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mariano-castro-clerici-5tet-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "northgroove-2026-09-11-niceto",
@@ -309,8 +421,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "1IHadvTpb1JrZ5VxqH4FzS",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17839469f5a487a73dec7bc3dbd",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
   },
   {
@@ -327,27 +440,29 @@
       "niceto"
     ],
     "country": "IT",
-    "spotifyId": "2kS4yz85MaZlxp2VaS3BEe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785e6b136b9c352587b574a7bb",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
   },
   {
-    "id": "brokecarreypresentahijodelpais-2026-09-12-niceto",
-    "artist": "BROKE CARREY presenta Hijo del País",
-    "artistKey": "brokecarreypresentahijodelpais",
+    "id": "autosrobados-2026-09-12-operalp",
+    "artist": "AUTOS ROBADOS",
+    "artistKey": "autosrobados",
     "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
     "ticketUrls": [
-      "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club"
+      "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp"
     ],
     "sources": [
-      "niceto"
+      "livepass"
     ],
     "country": null,
-    "spotifyId": "2nhi2sfy022i579lUhIIbC",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048510992381cd2961513e7e03640",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "choosey-2026-09-12-niceto",
@@ -363,8 +478,9 @@
       "niceto"
     ],
     "country": "US",
-    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-07-28"
   },
   {
@@ -379,8 +495,9 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -397,27 +514,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
-  },
-  {
-    "id": "dancingmoodspecialguestmimimaura-2026-09-12-vorterix",
-    "artist": "DANCING MOOD - Special Guest MIMI MAURA",
-    "artistKey": "dancingmoodspecialguestmimimaura",
-    "date": "2026-09-12",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/dancing-mood---special-guest-mimi-maura"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "1USUeNBNJcg7Of34Ix74lM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787725deca0a6e438eadc75dce",
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "desorden-2026-09-12-niceto",
@@ -433,8 +533,9 @@
       "niceto"
     ],
     "country": "ES",
-    "spotifyId": "0kyQwKHCZnKE7kTXkxXjrB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178856a4c8434bc80e2518a1091",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-18"
   },
   {
@@ -451,8 +552,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "7ulIMfVKiXh8ecEpAVHIAY",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485100e4decab546af050b8ded05",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-27"
   },
   {
@@ -469,8 +571,9 @@
       "niceto"
     ],
     "country": "GB",
-    "spotifyId": "7e7nmtA3OQEUdVjn5rG3Tz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818622413088d1df7a74abee6",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -485,14 +588,15 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "5HU1WFkKf9oQALh78niuwh",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891714311ed4718848801627a",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-22"
   },
   {
-    "id": "fiestaforever90sedicionprimavera-2026-09-12-vorterix",
-    "artist": "FIESTA FOREVER 90s – Edición PRIMAVERA",
-    "artistKey": "fiestaforever90sedicionprimavera",
+    "id": "fiestaforever90s-2026-09-12-vorterix",
+    "artist": "FIESTA FOREVER 90s",
+    "artistKey": "fiestaforever90s",
     "date": "2026-09-12",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -503,9 +607,10 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "2dJ841WWMQuBwrFtQmsOE9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178651379567a23b0b86a78468f",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "intigarcialamultifaceticaproyectanensayoabiertolivesession-2026-09-12-niceto",
@@ -521,8 +626,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
   },
   {
@@ -537,9 +643,86 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "7kNqXtgeIwFtelmRjWv205",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-22"
+  },
+  {
+    "id": "leiparty-2026-09-12-quilmes",
+    "artist": "LEIPARTY",
+    "artistKey": "leiparty",
+    "date": "2026-09-12",
+    "venue": "Quilmes",
+    "venueKey": "quilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leiparty-en-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nilocos-2026-09-12-cafeberlin",
+    "artist": "Nilocos",
+    "artistKey": "nilocos",
+    "date": "2026-09-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nilocos-en-cafe-berlin-2026-09-12-16-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nochesdeteatro-2026-09-12-cafeberlin",
+    "artist": "Noches de Teatro",
+    "artistKey": "nochesdeteatro",
+    "date": "2026-09-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "oeisis-2026-09-12-guajiralp",
+    "artist": "OEISIS",
+    "artistKey": "oeisis",
+    "date": "2026-09-12",
+    "venue": "Guajira LP",
+    "venueKey": "guajiralp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/oeisis-en-guajira-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "rosenight-2026-09-12-niceto",
@@ -555,9 +738,86 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "3ZVW9s2Xb8NQDzwEqElbNq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178333fda74021bc99bfe28e0df",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
+  },
+  {
+    "id": "sobredosisdesodaintimoyalacarta-2026-09-12-cafeberlin",
+    "artist": "Sobredosis de Soda íntimo y a la carta",
+    "artistKey": "sobredosisdesodaintimoyalacarta",
+    "date": "2026-09-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sobredosis-de-soda-en-cafe-berlin-2026-09-12-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "standardsessionamericansongbookessentials-2026-09-12-ccnu",
+    "artist": "STANDARD SESSION: American Songbook Essentials",
+    "artistKey": "standardsessionamericansongbookessentials",
+    "date": "2026-09-12",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/standard-session-american-songbook-essentials-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "treasuresofclassicjazz-2026-09-12-ccnu",
+    "artist": "Treasures of Classic Jazz",
+    "artistKey": "treasuresofclassicjazz",
+    "date": "2026-09-12",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "chicojotasextetoplaysmosaic-2026-09-13-ccnu",
+    "artist": "Chico Jota Sexteto plays Mosaic",
+    "artistKey": "chicojotasextetoplaysmosaic",
+    "date": "2026-09-13",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/chico-jota-sexteto-plays-mosaic-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "donolimpio-2026-09-13-salaalejandrocasona",
@@ -571,9 +831,48 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "0S9BuBCtPWNNiQgvXvk1y9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898edabfe51534cc725e623eb",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-26"
+  },
+  {
+    "id": "duotrixieymeteoro-2026-09-13-ccnu",
+    "artist": "Dúo Trixie y Meteoro",
+    "artistKey": "duotrixieymeteoro",
+    "date": "2026-09-13",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "francia98-2026-09-13-cafeberlin",
+    "artist": "Francia 98",
+    "artistKey": "francia98",
+    "date": "2026-09-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/francia-98-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "helloween-2026-09-13-movistararena",
@@ -587,9 +886,29 @@
       "songkick"
     ],
     "country": "DE",
-    "spotifyId": "4pQN0GB0fNEEOfQCaWotsY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d6b878498239115a09316d3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-24"
+  },
+  {
+    "id": "inakiurlezaga-2026-09-13-salaginasteraargentinolp",
+    "artist": "IÑAKI URLEZAGA",
+    "artistKey": "inakiurlezaga",
+    "date": "2026-09-13",
+    "venue": "la Sala Ginastera - Teatro Argentino LP",
+    "venueKey": "salaginasteraargentinolp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/inaki-urlezaga-el-aplauso-final-en-la-sala-ginastera-teatro-argentino-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "toe-2026-09-13-niceto",
@@ -606,8 +925,9 @@
       "niceto"
     ],
     "country": "JP",
-    "spotifyId": "0rpKM0MniNkXM1SLSglYUZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898fbfdf3a15710fa2e4fa68d",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-18"
   },
   {
@@ -622,9 +942,29 @@
       "songkick"
     ],
     "country": "KR",
-    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-26"
+  },
+  {
+    "id": "robertoantier-2026-09-15-cafeberlin",
+    "artist": "Roberto Antier",
+    "artistKey": "robertoantier",
+    "date": "2026-09-15",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/roberto-antier-generacion-mareada-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "straykids-2026-09-15-hipodromosanisidro",
@@ -638,8 +978,9 @@
       "songkick"
     ],
     "country": "KR",
-    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-29"
   },
   {
@@ -654,9 +995,29 @@
       "songkick"
     ],
     "country": "AU",
-    "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-29"
+  },
+  {
+    "id": "dolarblues-2026-09-16-cafeberlin",
+    "artist": "Dólar Blues",
+    "artistKey": "dolarblues",
+    "date": "2026-09-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dolar-blues-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "pjmorton-2026-09-16-vorterix",
@@ -672,9 +1033,48 @@
       "vorterix"
     ],
     "country": "US",
-    "spotifyId": "2FMOHE79X98yptp4RpPrt7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c2b3307740b1421793cff28",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-06-14"
+  },
+  {
+    "id": "deepsession16-2026-09-17-niceto",
+    "artist": "DEEP SESSION #16",
+    "artistKey": "deepsession16",
+    "date": "2026-09-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-session-16-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "gyomaratrio-2026-09-17-ccnu",
+    "artist": "Gyomara Trío",
+    "artistKey": "gyomaratrio",
+    "date": "2026-09-17",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gyomara-trio-en-ccnu-2026-09-17"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "hernancasciari-2026-09-17-paseoplaza",
@@ -688,8 +1088,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "6yCjiAcEkIMGxRynL8Y9xQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17865f896569c6e23a9e649f483",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -704,8 +1105,9 @@
       "songkick"
     ],
     "country": "GB",
-    "spotifyId": "6J7biCazzYhU3gM9j1wfid",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -720,8 +1122,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "3UTF2no3muGdiFXVujl94i",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786b8b70db0a24e4cb88d37ed7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -736,9 +1139,29 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "2cfAUKaPP0oQKpZNXDrS2m",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829d5a8ca466c539e4b6778f6",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
+  },
+  {
+    "id": "leonardoamuedodanielmaza-2026-09-17-cafeberlin",
+    "artist": "Leonardo Amuedo & Daniel Maza",
+    "artistKey": "leonardoamuedodanielmaza",
+    "date": "2026-09-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leonardo-amuedo-daniel-maza-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "martinamarpegan-2026-09-17-niceto",
@@ -754,9 +1177,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "3cdHu4v5C71IttGubSDzKO",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178435c1930fff0de852d9958e1",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
+  },
+  {
+    "id": "missrapsody-2026-09-17-cafeberlin",
+    "artist": "Miss Rapsody",
+    "artistKey": "missrapsody",
+    "date": "2026-09-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/miss-rapsody-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "pedroaguilaryamigos-2026-09-17-niceto",
@@ -772,8 +1215,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "7y33enVLfDvft6HGNmcxdV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783783f1a7b601a7421915ebce",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-25"
   },
   {
@@ -790,8 +1234,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "359LKbZWLk6u3IpyNE2CQG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b11448edd63e2b2a19000e4b",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -808,9 +1253,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6vP0W1WisgwHQBBIZf1gH7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788627efb7e7c65d9f46bbb767",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "singersinjam-2026-09-17-ccnu",
+    "artist": "Singers in Jam",
+    "artistKey": "singersinjam",
+    "date": "2026-09-17",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-09-17-21-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "alexanwandter-2026-09-18-granrex",
@@ -824,9 +1289,29 @@
       "songkick"
     ],
     "country": "CL",
-    "spotifyId": "0M8uC0u1YRUGCieOKmQF02",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f08e50f675e0119ef75c699a",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-31"
+  },
+  {
+    "id": "bhavi-2026-09-18-sanmiguel",
+    "artist": "BHAVI",
+    "artistKey": "bhavi",
+    "date": "2026-09-18",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/bhavi-en-san-miguel-18-09"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "cristianlopez-2026-09-18-noblezaobliga",
@@ -840,8 +1325,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "3e8IMERodcohHljxfksJ04",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fac20ee2c2b444baad273a6a",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-31"
   },
   {
@@ -856,9 +1342,29 @@
       "songkick"
     ],
     "country": "PR",
-    "spotifyId": "65HuWBUC1d8ty1q6J42Nfi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8160fc4f468b818c167660e",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-31"
+  },
+  {
+    "id": "ernestodmitrukcuarteto-2026-09-18-ccnu",
+    "artist": "Ernesto Dmitruk Cuarteto",
+    "artistKey": "ernestodmitrukcuarteto",
+    "date": "2026-09-18",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ernesto-dmitruk-cuarteto-en-ccnu-2026-09-18"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "gustavocorderafestejasucumpleanosenvorterix-2026-09-18-vorterix",
@@ -874,9 +1380,29 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1LnYCTj4fMHIo6RgUUegYA",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ec896fd87eecd8e5c9ea6f71",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "hecatombe-2026-09-18-salapiazzollaargentinolp",
+    "artist": "HECATOMBE",
+    "artistKey": "hecatombe",
+    "date": "2026-09-18",
+    "venue": "Sala Piazzolla - Teatro Argentino LP",
+    "venueKey": "salapiazzollaargentinolp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "FR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "kalibrereczolanochedelencuentro-2026-09-18-niceto",
@@ -892,8 +1418,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "0eAi7fHzkxtHItb95AY4lP",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780708a7e8319a7fc5bea7ce3b",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -910,8 +1437,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "0OCOLJYfe8GAyPwQnSqKZB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17826e673086bdc277ca0e7fbe8",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
   },
   {
@@ -926,8 +1454,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "5EBHFUWkDWg7EqzTk0yP1d",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f6a002bad4fb5213f5c69d60",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-04"
   },
   {
@@ -942,9 +1471,29 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "7mC3RkNNTV6p2j9w4F8Ip4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c4a89caa76ae4f1d3232f61",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-31"
+  },
+  {
+    "id": "modo5-2026-09-18-ccnu",
+    "artist": "Modo 5",
+    "artistKey": "modo5",
+    "date": "2026-09-18",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/modo-5-en-ccnu-2026-09-18"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "oasis-2026-09-18-niceto",
@@ -960,14 +1509,15 @@
       "niceto"
     ],
     "country": "GB",
-    "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "pogofestespecialmetal-2026-09-18-vorterix",
-    "artist": "POGOFEST – ESPECIAL METAL",
-    "artistKey": "pogofestespecialmetal",
+    "id": "pogofest-2026-09-18-vorterix",
+    "artist": "POGOFEST",
+    "artistKey": "pogofest",
     "date": "2026-09-18",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -978,9 +1528,10 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "51Y8JTUHZHxOwVl7cFu0Vf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784faf94b88cdebf09fc7e91e7",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "rayuelaycampotraviesa-2026-09-18-niceto",
@@ -996,9 +1547,67 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6jkTyboTPLnIBkRGFmHSyl",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f586e95987cc623a63f1919c",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
+  },
+  {
+    "id": "reygarufa-2026-09-18-operalp",
+    "artist": "REY GARUFA",
+    "artistKey": "reygarufa",
+    "date": "2026-09-18",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "santiagomolina-2026-09-18-cafeberlin",
+    "artist": "Santiago Molina",
+    "artistKey": "santiagomolina",
+    "date": "2026-09-18",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-09-18-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "sarahlenore-2026-09-18-cafeberlin",
+    "artist": "Sarah Lenore",
+    "artistKey": "sarahlenore",
+    "date": "2026-09-18",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sarah-lenore-la-argengringa-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "selftitledafterglow-2026-09-18-niceto",
@@ -1014,8 +1623,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "2Ci2xZujkctdJedWBZ9Udi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fd8dc009014987cebbe7c6b0",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -1032,8 +1642,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "4zXroEby35IgWPERRcW4Ay",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17864ed9630fd36c863e2b3e3c1",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-23"
   },
   {
@@ -1050,9 +1661,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "7qKxhFTGcJ7w7JEFGqqWwK",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780d08dd29a025e7990f366121",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "club69-2026-09-19-niceto",
@@ -1068,8 +1680,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
   },
   {
@@ -1086,14 +1699,15 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "0aULg7LximLNhI6lLzxcXI",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780744913e8d8f59576784147b",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-01"
   },
   {
-    "id": "fiestaclimaxdiadelaprimavera-2026-09-19-vorterix",
-    "artist": "FIESTA CLIMAX - DIA DE LA PRIMAVERA",
-    "artistKey": "fiestaclimaxdiadelaprimavera",
+    "id": "fiestaclimax-2026-09-19-vorterix",
+    "artist": "FIESTA CLIMAX",
+    "artistKey": "fiestaclimax",
     "date": "2026-09-19",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1104,9 +1718,10 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "0AyRK5cr4IXhBGDpA2daHM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785260cd3e6b280ceaa7793789",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "fiestamermelada-2026-09-19-niceto",
@@ -1122,9 +1737,48 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "4t6A8HQsZdZgsfnNFlDODj",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485175e99534a5d734f9fdfe1e89",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
+  },
+  {
+    "id": "jauria-2026-09-19-sanmiguel",
+    "artist": "JAURIA",
+    "artistKey": "jauria",
+    "date": "2026-09-19",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/jauria-en-san-miguel-2026-09-19-21-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "johnpaulthebeatlesexperience-2026-09-19-ccnu",
+    "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
+    "artistKey": "johnpaulthebeatlesexperience",
+    "date": "2026-09-19",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-09-19-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "johndigweed-2026-09-19-autodromobuenosaires",
@@ -1138,8 +1792,9 @@
       "songkick"
     ],
     "country": "GB",
-    "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
   },
   {
@@ -1156,8 +1811,9 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1174,9 +1830,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6iKiDPed4LAQEcPZpvf00m",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ee5cc1eefed0b934282f8523",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-03"
+  },
+  {
+    "id": "nochesdeteatro-2026-09-19-cafeberlin",
+    "artist": "Noches de Teatro",
+    "artistKey": "nochesdeteatro",
+    "date": "2026-09-19",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin-2026-09-19-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "nosvemosenaustralia-2026-09-19-poloculturaltacheles",
@@ -1190,9 +1866,29 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
+  },
+  {
+    "id": "nuevasflores-2026-09-19-ccnu",
+    "artist": "Nuevas Flores",
+    "artistKey": "nuevasflores",
+    "date": "2026-09-19",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nuevas-flores-lula-meulen-y-maru-cavalchini-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "pezdebuenosaires-2026-09-19-mutar",
@@ -1206,9 +1902,67 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "027ItQs3vdLG019LNccXr2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f2d38af8f3843c6a092c41e8",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-05"
+  },
+  {
+    "id": "marchiappetta-2026-09-20-ccnu",
+    "artist": "Mar Chiappetta",
+    "artistKey": "marchiappetta",
+    "date": "2026-09-20",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mar-chiappetta-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "masmusica-2026-09-20-cafeberlin",
+    "artist": "Más Música",
+    "artistKey": "masmusica",
+    "date": "2026-09-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-09-20-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "mestizajegrupo-2026-09-20-ccnu",
+    "artist": "Mestizaje Grupo",
+    "artistKey": "mestizajegrupo",
+    "date": "2026-09-20",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mestizaje-grupo-en-ccnu-2026-09-20-21-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "tvtoficialandpantalonesrotos-2026-09-20-portal",
@@ -1222,8 +1976,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "5O5qjKWtduHgXxeEYbbSxz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b57101f15bbdc410add8799b",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1238,8 +1993,9 @@
       "songkick"
     ],
     "country": "FR",
-    "spotifyId": "6G43CiunIxMwb2tQ12vNP6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178288a81dd1d1387c0544c56e0",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1254,8 +2010,9 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "0K9pSmFx0kWESA9jqx8aCW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dca57195545e371ae4c537a2",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1270,9 +2027,46 @@
       "songkick"
     ],
     "country": "US",
-    "spotifyId": "7eNSfWxOEWP2B2QQgHGBoo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b877f591e615d7190561be94",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "waltercolonnaband-2026-09-22-cafeberlin",
+    "artist": "Walter Colonna Band",
+    "artistKey": "waltercolonnaband",
+    "date": "2026-09-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/walter-colonna-band-compartiendo-rock-y-corazones-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "bandana-2026-09-23-granrex",
+    "artist": "Bandana",
+    "artistKey": "bandana",
+    "date": "2026-09-23",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "caifanes-2026-09-23-vorterix",
@@ -1286,9 +2080,67 @@
       "songkick"
     ],
     "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-05-09"
+  },
+  {
+    "id": "rikyn-2026-09-23-cafeberlin",
+    "artist": "Rikyn",
+    "artistKey": "rikyn",
+    "date": "2026-09-23",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/rikyn-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "5planetas-2026-09-24-cafeberlin",
+    "artist": "5 Planetas",
+    "artistKey": "5planetas",
+    "date": "2026-09-24",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/5-planetas-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "abrilcormerytrio-2026-09-24-ccnu",
+    "artist": "Abril Cormery Trio",
+    "artistKey": "abrilcormerytrio",
+    "date": "2026-09-24",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/abril-cormery-trio-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "dennisbovellclubhats-2026-09-24-niceto",
@@ -1304,9 +2156,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "0SoI3noc3EERukiCL3tvtL",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782f846e6392cc20197d9bc5b9",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-02"
+  },
+  {
+    "id": "januve-2026-09-24-cafeberlin",
+    "artist": "Jan Uve",
+    "artistKey": "januve",
+    "date": "2026-09-24",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/jan-uve-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "laplayground-2026-09-24-niceto",
@@ -1322,8 +2194,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "67tuLuJ6EoOTR1KntyUnHQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a397e644319517700e84e57",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-04"
   },
   {
@@ -1338,9 +2211,10 @@
       "songkick"
     ],
     "country": "CO",
-    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "firstSeenAt": "2026-09-07"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "oldmanschild-2026-09-24-groove",
@@ -1354,9 +2228,10 @@
       "songkick"
     ],
     "country": "NO",
-    "spotifyId": "4LT73i2bqTazQQkmODMaYf",
-    "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "sudanarchives-2026-09-24-niceto",
@@ -1372,9 +2247,48 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "2MPHBxznH1fj59jbOWY38u",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
+  },
+  {
+    "id": "swinginclassics-2026-09-24-ccnu",
+    "artist": "Swingin’ classics",
+    "artistKey": "swinginclassics",
+    "date": "2026-09-24",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/swingin-classics-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "antoniaadem-2026-09-25-ccnu",
+    "artist": "Antonia Adem",
+    "artistKey": "antoniaadem",
+    "date": "2026-09-25",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/antonia-adem-felipe-bafaro-mati-jablonka-y-romeo-rebairols-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "bahianoenvorterix-2026-09-25-vorterix",
@@ -1390,9 +2304,29 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "3Chj7A59w4vWBa4fdSN27E",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17817d7c06ab307b1e1be567ba7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-05-17"
+  },
+  {
+    "id": "ceremoniarocknacional-2026-09-25-sanmiguel",
+    "artist": "CEREMONIA ROCK NACIONAL",
+    "artistKey": "ceremoniarocknacional",
+    "date": "2026-09-25",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ceremonia-rock-nacional-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "danceteria-2026-09-25-niceto",
@@ -1408,9 +2342,29 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6tbjWDEIzxoDsBA1FuhfPW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ed2208b41d49ebd24687985b",
-    "firstSeenAt": "2026-09-07"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "hermanosmartinez-2026-09-25-cafeberlin",
+    "artist": "Hermanos Martínez",
+    "artistKey": "hermanosmartinez",
+    "date": "2026-09-25",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hermanos-martinez-nuestros-anos-junto-a-iorio-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "kaosrave-2026-09-25-vorterix",
@@ -1426,8 +2380,9 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "2Lnd9SxlAW6lqLI1CoZ1EN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842e599644182ffdb52966cf9",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-06-28"
   },
   {
@@ -1442,9 +2397,10 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
-    "firstSeenAt": "2026-09-10"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "latinpianobar-2026-09-25-niceto",
@@ -1460,8 +2416,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "6Nt0thMQrEBbBTasSfkrhG",
-    "spotifyImage": "https://i.scdn.co/image/ed0e7fc8604c2294d700bae4fd4903f29af10d50",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -1476,9 +2433,10 @@
       "songkick"
     ],
     "country": "CO",
-    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "firstSeenAt": "2026-09-08"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "pedropastor-2026-09-25-niceto",
@@ -1494,8 +2452,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "12L0n6FPcTKBtKvWcFEbmP",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0aa0414f9f55c804d14c78d",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -1510,9 +2469,10 @@
       "songkick"
     ],
     "country": null,
-    "spotifyId": "6OWapcJm9xd55ci9CYbAuT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ac4404f853105ca0ae098306",
-    "firstSeenAt": "2026-09-10"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "pelusones-2026-09-25-niceto",
@@ -1528,8 +2488,9 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "1vW3322paTGEEBrcuD5J8r",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782501fb6a4e5359c4245fcaa1",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-08-30"
   },
   {
@@ -1546,9 +2507,67 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": "16LYwGPwl47bMoMQApylLi",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851e0964c0e844d0c5bc7a25377",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "quarterquartet-2026-09-25-ccnu",
+    "artist": "Quarter Quartet",
+    "artistKey": "quarterquartet",
+    "date": "2026-09-25",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/quarter-quartet-en-ccnu-2026-09-25"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "rompiendoespejos-2026-09-25-operalp",
+    "artist": "ROMPIENDO ESPEJOS",
+    "artistKey": "rompiendoespejos",
+    "date": "2026-09-25",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "alekurz-2026-09-26-sanmiguel",
+    "artist": "ALE KURZ",
+    "artistKey": "alekurz",
+    "date": "2026-09-26",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ale-kurz-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "fiestadebar20anos-2026-09-26-vorterix",
@@ -1564,9 +2583,29 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "0AyRK5cr4IXhBGDpA2daHM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785260cd3e6b280ceaa7793789",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "fiestaplophomenajeamoriacasan-2026-09-26-operalp",
+    "artist": "FIESTA PLOP: Homenaje a Moria Casan",
+    "artistKey": "fiestaplophomenajeamoriacasan",
+    "date": "2026-09-26",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "kiddvoodoo-2026-09-26-vorterix",
@@ -1582,27 +2621,257 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-05-21"
   },
   {
-    "id": "valenvargascumbiabuenaparanochesmalas-2026-09-26-niceto",
-    "artist": "Valen Vargas - Cumbia Buena para Noches Malas",
-    "artistKey": "valenvargascumbiabuenaparanochesmalas",
+    "id": "pauladorrego-2026-09-26-ccnu",
+    "artist": "Paula Dorrego",
+    "artistKey": "pauladorrego",
     "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
     "ticketUrls": [
-      "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club"
+      "https://livepass.com.ar/events/paula-dorrego-en-ccnu"
     ],
     "sources": [
-      "niceto"
+      "livepass"
     ],
     "country": null,
-    "spotifyId": "1RmLEsGbtxGpxAlA3UU9w8",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cc4cf7c15e1edd7f87b57403",
-    "firstSeenAt": "2026-08-30"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "viticoylosleones-2026-09-26-cafeberlin",
+    "artist": "Vitico y Los Leones",
+    "artistKey": "viticoylosleones",
+    "date": "2026-09-26",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/vitico-y-los-leones-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "espiritupescado-2026-09-27-cafeberlin",
+    "artist": "Espíritu Pescado",
+    "artistKey": "espiritupescado",
+    "date": "2026-09-27",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/espiritu-pescado-en-cafe-berlin-2026-09-27-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "hayplan-2026-09-27-livepass",
+    "artist": "HAY PLAN",
+    "artistKey": "hayplan",
+    "date": "2026-09-27",
+    "venue": "Livepass",
+    "venueKey": "livepass",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hay-plan-ayer-no-sali-2026-09-27"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "sebastianbraseroswingbook-2026-09-27-ccnu",
+    "artist": "Sebastian Brasero Swingbook",
+    "artistKey": "sebastianbraseroswingbook",
+    "date": "2026-09-27",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sebastian-brasero-swingbook-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "simongoni-2026-09-27-ccnu",
+    "artist": "Simón Goñi",
+    "artistKey": "simongoni",
+    "date": "2026-09-27",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/simon-goni-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
+    "artist": "Leonardo Amuedo y Maza Daniel",
+    "artistKey": "leonardoamuedoymazadaniel",
+    "date": "2026-09-29",
+    "venue": "Mondo Fonk - Concepción del Uruguay",
+    "venueKey": "mondofonkconcepciondeluruguay",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leonardo-amuedo-y-maza-daniel-en-mondo-fonk-concepcion-del-uruguay"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "danielmazayleonardoamuedo-2026-09-30-gualeguaychu",
+    "artist": "Daniel Maza y Leonardo Amuedo",
+    "artistKey": "danielmazayleonardoamuedo",
+    "date": "2026-09-30",
+    "venue": "Gualeguaychú",
+    "venueKey": "gualeguaychu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/daniel-maza-y-leonardo-amuedo-en-gualeguaychu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "farolero-2026-09-30-ccnu",
+    "artist": "Farolero",
+    "artistKey": "farolero",
+    "date": "2026-09-30",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/farolero-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "bandadeheroes-2026-10-01-cafeberlin",
+    "artist": "Banda de Héroes",
+    "artistKey": "bandadeheroes",
+    "date": "2026-10-01",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/banda-de-heroes-presenta-changes-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "dyango-2026-10-01-salaginasteraargentinolp",
+    "artist": "DYANGO",
+    "artistKey": "dyango",
+    "date": "2026-10-01",
+    "venue": "la Sala Ginastera - Teatro Argentino LP",
+    "venueKey": "salaginasteraargentinolp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "ES",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "maddabergeret-2026-10-01-cafeberlin",
+    "artist": "Madda Bergeret",
+    "artistKey": "maddabergeret",
+    "date": "2026-10-01",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/madda-bergeret-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "placeresculposos100programasdenda-2026-10-01-ccnu",
+    "artist": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
+    "artistKey": "placeresculposos100programasdenda",
+    "date": "2026-10-01",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/placeres-culposos-100-programas-de-nda-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "ekisdefest-2026-10-02-vorterix",
@@ -1618,9 +2887,162 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "6CWTBjOJK75cTE8Xv8u1kj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a3e86a8b2964cfbcf587a839",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "emanero-2026-10-02-salaginasteraargentinoplata",
+    "artist": "EMANERO",
+    "artistKey": "emanero",
+    "date": "2026-10-02",
+    "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+    "venueKey": "salaginasteraargentinoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lafocafunk4-2026-10-02-cafeberlin",
+    "artist": "La Foca Funk4",
+    "artistKey": "lafocafunk4",
+    "date": "2026-10-02",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-foca-funk4-en-cafe-berlin-2026-10-02-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lecturaclairekeeganporclairekeegan-2026-10-02-malba",
+    "artist": "Lectura. Claire Keegan por Claire Keegan",
+    "artistKey": "lecturaclairekeeganporclairekeegan",
+    "date": "2026-10-02",
+    "venue": "MALBA",
+    "venueKey": "malba",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/lectura-claire-keegan-por-claire-keegan-en-malba"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "porelsur-2026-10-02-cafeberlin",
+    "artist": "Por el Sur",
+    "artistKey": "porelsur",
+    "date": "2026-10-02",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/por-el-sur-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "sindatos-2026-10-02-guajiralp",
+    "artist": "SIN DATOS",
+    "artistKey": "sindatos",
+    "date": "2026-10-02",
+    "venue": "Guajira LP",
+    "venueKey": "guajiralp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sin-datos-en-guajira-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "1915mujercebraterroresnocturnos-2026-10-03-sanmiguel",
+    "artist": "1915 + MUJER CEBRA + TERRORES NOCTURNOS",
+    "artistKey": "1915mujercebraterroresnocturnos",
+    "date": "2026-10-03",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/1915-mujer-cebra-terrores-nocturnos-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "airbag-2026-10-03-rosario",
+    "artist": "AIRBAG",
+    "artistKey": "airbag",
+    "date": "2026-10-03",
+    "venue": "Rosario",
+    "venueKey": "rosario",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/airbag-en-rosario"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "ES",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "carrerecronista-2026-10-03-malba",
+    "artist": "Carrère cronista",
+    "artistKey": "carrerecronista",
+    "date": "2026-10-03",
+    "venue": "MALBA",
+    "venueKey": "malba",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/carrere-cronista-en-malba"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "chiaraoliver-2026-10-03-vorterix",
@@ -1636,8 +3058,9 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878da6aca57210ac8e31004cb",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-05-09"
   },
   {
@@ -1654,9 +3077,162 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "5nPz5R1FDPTMI3Dw4JnTGb",
-    "spotifyImage": "https://i.scdn.co/image/1130982a79aaee73efc838cd079cc2ac90f3eca7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "klezmerporlavidaylapazentrelospueblos-2026-10-03-operalp",
+    "artist": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
+    "artistKey": "klezmerporlavidaylapazentrelospueblos",
+    "date": "2026-10-03",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-en-el-teatro-opera-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "losendos-2026-10-03-cafeberlin",
+    "artist": "Los Endos",
+    "artistKey": "losendos",
+    "date": "2026-10-03",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-endos-en-cafe-berlin-03-10"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "waduwadu-2026-10-03-cafeberlin",
+    "artist": "Wadu Wadu",
+    "artistKey": "waduwadu",
+    "date": "2026-10-03",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/wadu-wadu-tributo-oficial-a-virus-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "chuecasylocas-2026-10-04-cafeberlin",
+    "artist": "Chuecas y Locas",
+    "artistKey": "chuecasylocas",
+    "date": "2026-10-04",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/chuecas-y-locas-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "gicelamendezribeiroaluisiorockembach-2026-10-06-cafeberlin",
+    "artist": "Gicela Méndez Ribeiro & Aluisio Rockembach",
+    "artistKey": "gicelamendezribeiroaluisiorockembach",
+    "date": "2026-10-06",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gicela-mendez-ribeiro-aluisio-rockembach-musica-de-frontera-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "thecrimsonkings-2026-10-07-cafeberlin",
+    "artist": "The Crimson Kings",
+    "artistKey": "thecrimsonkings",
+    "date": "2026-10-07",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-crimson-kings-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "sentimentalsyncopators-2026-10-08-cafeberlin",
+    "artist": "Sentimental Syncopators",
+    "artistKey": "sentimentalsyncopators",
+    "date": "2026-10-08",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sentimental-syncopators-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "cameratarosario-2026-10-09-auditoriumsalaastorpiazzollamardelplata",
+    "artist": "Camerata Rosario",
+    "artistKey": "cameratarosario",
+    "date": "2026-10-09",
+    "venue": "el Teatro Auditorium - Sala Astor Piazzolla (Mar del Plata)",
+    "venueKey": "auditoriumsalaastorpiazzollamardelplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/camerata-rosario-en-mdq"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "feinesahnefischfilet-2026-10-09-vorterix",
@@ -1672,14 +3248,15 @@
       "vorterix"
     ],
     "country": "DE",
-    "spotifyId": "1BdtWszUR1z5SeU5qXNU31",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e5dbac5f9fc8bbc786de9b22",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-06-09"
   },
   {
-    "id": "fiestarockdelpaisteatrovorterix-2026-10-09-vorterix",
-    "artist": "FIESTA ROCK DEL PAIS - TEATRO VORTERIX",
-    "artistKey": "fiestarockdelpaisteatrovorterix",
+    "id": "fiestarockdelpais-2026-10-09-vorterix",
+    "artist": "FIESTA ROCK DEL PAIS",
+    "artistKey": "fiestarockdelpais",
     "date": "2026-10-09",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1690,9 +3267,124 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1IRl7g7pauvhROf85dKAP8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b78ac127319ecf425ab4a36d",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "gauchitoclub-2026-10-09-operalp",
+    "artist": "GAUCHITO CLUB",
+    "artistKey": "gauchitoclub",
+    "date": "2026-10-09",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "julietarada-2026-10-09-cafeberlin",
+    "artist": "Julieta Rada",
+    "artistKey": "julietarada",
+    "date": "2026-10-09",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/julieta-rada-en-cafe-berlin-2026-10-09-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "UY",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "airbag-2026-10-10-cordoba",
+    "artist": "AIRBAG",
+    "artistKey": "airbag",
+    "date": "2026-10-10",
+    "venue": "Córdoba",
+    "venueKey": "cordoba",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/airbag-en-cordoba"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "ES",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "homerelmeromero-2026-10-10-vorterix",
+    "artist": "HOMER EL MERO MERO",
+    "artistKey": "homerelmeromero",
+    "date": "2026-10-10",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/homer"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lamaisonferres-2026-10-10-cafeberlin",
+    "artist": "La Maison Ferrés",
+    "artistKey": "lamaisonferres",
+    "date": "2026-10-10",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-maison-ferres-desde-el-hondo-bajofondo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "suroculto-2026-10-10-cafeberlin",
+    "artist": "Sur Oculto",
+    "artistKey": "suroculto",
+    "date": "2026-10-10",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sur-oculto-en-cafe-berlin-2026-10-10-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "tkenbuenosaires-2026-10-11-vorterix",
@@ -1708,9 +3400,105 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "11oaKJc8rsz6x8YPVjca4X",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178595b9b0da369a172f50d88c7",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "festivaldecocinayteatrojudio-2026-10-13-cafeberlin",
+    "artist": "Festival de Cocina y Teatro Judío",
+    "artistKey": "festivaldecocinayteatrojudio",
+    "date": "2026-10-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/festival-de-cocina-y-teatro-judio-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "leandrobarralessexteto-2026-10-14-cafeberlin",
+    "artist": "Leandro Barrales Sexteto",
+    "artistKey": "leandrobarralessexteto",
+    "date": "2026-10-14",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leandro-barrales-sexteto-en-cafe-berlin-2026-10-14-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "localbluesallstars-2026-10-15-cafeberlin",
+    "artist": "LOCAL BLUES All Stars",
+    "artistKey": "localbluesallstars",
+    "date": "2026-10-15",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/local-blues-all-stars-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fernandosanjiao-2026-10-16-cafeberlin",
+    "artist": "Fernando Sanjiao",
+    "artistKey": "fernandosanjiao",
+    "date": "2026-10-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2026-10-16-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nanostern-2026-10-16-cafeberlin",
+    "artist": "Nano Stern",
+    "artistKey": "nanostern",
+    "date": "2026-10-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nano-stern-en-cafe-berlin-2026-10-16-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "CL",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "viejaslocasxfyacumplemilshowsy15anosdeldiscocontralapared-2026-10-16-vorterix",
@@ -1726,27 +3514,257 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "3adLN9bNtONsoZaotAy4Wo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785a309d60c53da9b76f350fae",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "elnueveoncepresentanuevodisco-2026-10-25-vorterix",
-    "artist": "ELNUEVEONCE PRESENTA NUEVO DISCO",
-    "artistKey": "elnueveoncepresentanuevodisco",
-    "date": "2026-10-25",
+    "id": "interpaul-2026-10-17-cafeberlin",
+    "artist": "Interpaul",
+    "artistKey": "interpaul",
+    "date": "2026-10-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/interpaul-en-cafe-berlin-2026-10-17-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "losperezgarcia-2026-10-17-quilmes",
+    "artist": "LOS PEREZ GARCIA",
+    "artistKey": "losperezgarcia",
+    "date": "2026-10-17",
+    "venue": "Quilmes",
+    "venueKey": "quilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-perez-garcia-en-club-re"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fmsargentina-2026-10-18-vorterix",
+    "artist": "FMS ARGENTINA",
+    "artistKey": "fmsargentina",
+    "date": "2026-10-18",
     "venue": "Vorterix",
     "venueKey": "vorterix",
     "ticketUrls": [
-      "https://www.allaccess.com.ar/event/elnueveonce-presenta-nuevo-disco"
+      "https://www.allaccess.com.ar/event/fms-argentina-jornada-1"
     ],
     "sources": [
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1WF4RGjRhzQRdtTowIt4fX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782d2f6b34b22c52d0e84e7bc5",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "ironmaiden-2026-10-20-huracan",
+    "artist": "IRON MAIDEN",
+    "artistKey": "ironmaiden",
+    "date": "2026-10-20",
+    "venue": "Huracán",
+    "venueKey": "huracan",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/iron-maiden-en-huracan"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "GB",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lapardobigband-2026-10-20-cafeberlin",
+    "artist": "La Pardo Big Band",
+    "artistKey": "lapardobigband",
+    "date": "2026-10-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-pardo-big-band-en-cafe-berlin-2026-10-20-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "ironmaiden-2026-10-21-huracan",
+    "artist": "IRON MAIDEN",
+    "artistKey": "ironmaiden",
+    "date": "2026-10-21",
+    "venue": "Huracán",
+    "venueKey": "huracan",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/iron-maiden-en-huracan"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "GB",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "javiersa-2026-10-22-cafeberlin",
+    "artist": "Javier Sá",
+    "artistKey": "javiersa",
+    "date": "2026-10-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/javier-sa-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "leotravaglio-2026-10-22-cafeberlin",
+    "artist": "Leo Travaglio",
+    "artistKey": "leotravaglio",
+    "date": "2026-10-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leo-travaglio-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lakonga-2026-10-23-hipodromoplata",
+    "artist": "LA KONGA",
+    "artistKey": "lakonga",
+    "date": "2026-10-23",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "vertigo-2026-10-23-cafeberlin",
+    "artist": "Vértigo",
+    "artistKey": "vertigo",
+    "date": "2026-10-23",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/vertigo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "US",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "escalandrum-2026-10-24-operalp",
+    "artist": "ESCALANDRUM",
+    "artistKey": "escalandrum",
+    "date": "2026-10-24",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "pitufolombardonicoibarburu-2026-10-24-cafeberlin",
+    "artist": "Pitufo Lombardo & Nico Ibarburu",
+    "artistKey": "pitufolombardonicoibarburu",
+    "date": "2026-10-24",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pitufo-lombardo-nico-ibarburu-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "hernanromero-2026-10-28-cafeberlin",
+    "artist": "Hernán Romero",
+    "artistKey": "hernanromero",
+    "date": "2026-10-28",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hernan-romero-en-cafe-berlin-2026-10-28"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "losredondosdericotahomenajesinfonico-2026-10-28-vorterix",
@@ -1762,45 +3780,504 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "6byQKddO1b34lXC2ZEjehQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17878f40b5153bfcbd5e7a55432",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "ardelasangrepresentasunuevoalbumdesesperadamente-2026-11-08-vorterix",
-    "artist": "ARDE LA SANGRE PRESENTA SU NUEVO ALBUM “DESESPERADA (MENTE)”",
-    "artistKey": "ardelasangrepresentasunuevoalbumdesesperadamente",
+    "id": "bluenigths-2026-10-29-cafeberlin",
+    "artist": "Blue Nigths",
+    "artistKey": "bluenigths",
+    "date": "2026-10-29",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/blue-nigths-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "thebeatles-2026-10-29-cafeberlin",
+    "artist": "The Beatles",
+    "artistKey": "thebeatles",
+    "date": "2026-10-29",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-beatles-in-my-life-by-parisi-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "GB",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "alekurz-2026-10-30-guajiralp",
+    "artist": "ALE KURZ",
+    "artistKey": "alekurz",
+    "date": "2026-10-30",
+    "venue": "Guajira LP",
+    "venueKey": "guajiralp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ale-kurz-en-guajira-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "pablocordonet-2026-10-30-cafeberlin",
+    "artist": "Pablo Cordonet",
+    "artistKey": "pablocordonet",
+    "date": "2026-10-30",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pablo-cordonet-en-cafe-berlin-2026-10-30-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "pasarlabien-2026-10-30-cafeberlin",
+    "artist": "Pasarla Bien",
+    "artistKey": "pasarlabien",
+    "date": "2026-10-30",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pasarla-bien-en-cafe-berlin-2026-10-30-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "danistonebarrioviejo-2026-10-31-cafeberlin",
+    "artist": "Dani Stone & Barrio Viejo",
+    "artistKey": "danistonebarrioviejo",
+    "date": "2026-10-31",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dani-stone-barrio-viejo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "joefernandez-2026-10-31-cafeberlin",
+    "artist": "Joe Fernández",
+    "artistKey": "joefernandez",
+    "date": "2026-10-31",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/joe-fernandez-en-cafe-berlin-2026-10-24"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "maikelpereyra-2026-11-01-cafeberlin",
+    "artist": "Maikel Pereyra",
+    "artistKey": "maikelpereyra",
+    "date": "2026-11-01",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fatimagarrido-2026-11-03-cafeberlin",
+    "artist": "Fátima Garrido",
+    "artistKey": "fatimagarrido",
+    "date": "2026-11-03",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fatima-garrido-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "blueart-2026-11-04-cafeberlin",
+    "artist": "Blue Art",
+    "artistKey": "blueart",
+    "date": "2026-11-04",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/blue-art-jorge-migoya-rocio-gimenez-lopez-quinteto-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "jorgevinas-2026-11-05-cafeberlin",
+    "artist": "Jorge Viñas",
+    "artistKey": "jorgevinas",
+    "date": "2026-11-05",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/jorge-vinas-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "orlandocurtithegrooveseekers-2026-11-05-cafeberlin",
+    "artist": "Orlando Curti & The Groove Seekers",
+    "artistKey": "orlandocurtithegrooveseekers",
+    "date": "2026-11-05",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/orlando-curti-the-groove-seekers-en-cafe-berlin-2026-11-05-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "theend-2026-11-06-cafeberlin",
+    "artist": "The End",
+    "artistKey": "theend",
+    "date": "2026-11-06",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "alambreamigos-2026-11-07-cafeberlin",
+    "artist": "Alambre & Amigos",
+    "artistKey": "alambreamigos",
+    "date": "2026-11-07",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/alambre-amigos-en-cafe-berlin-2026-11-07"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "bulldogenelteatrovorterix-2026-11-07-vorterix",
+    "artist": "BULLDOG EN EL TEATRO VORTERIX",
+    "artistKey": "bulldogenelteatrovorterix",
+    "date": "2026-11-07",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://www.allaccess.com.ar/event/bulldog-en-el-teatro-vorterix"
+    ],
+    "sources": [
+      "vorterix"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nanutria-2026-11-07-salapiazzollaargentinolp",
+    "artist": "NANUTRIA",
+    "artistKey": "nanutria",
+    "date": "2026-11-07",
+    "venue": "Sala Piazzolla - Teatro Argentino LP",
+    "venueKey": "salapiazzollaargentinolp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "pantergiulianoguitarravoz-2026-11-07-sanmiguel",
+    "artist": "PANTER GIULIANO | GUITARRA & VOZ",
+    "artistKey": "pantergiulianoguitarravoz",
+    "date": "2026-11-07",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/panter-giuliano-guitarra-voz-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "masmusica-2026-11-08-cafeberlin",
+    "artist": "Más Música",
+    "artistKey": "masmusica",
     "date": "2026-11-08",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
     "ticketUrls": [
-      "https://www.allaccess.com.ar/event/arde-la-sangre-presenta-su-nuevo-album-desesperada-mente"
+      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-11-08"
     ],
     "sources": [
-      "vorterix"
+      "livepass"
     ],
     "country": null,
-    "spotifyId": "1gXOIqcWDwkPDdD30dp7ZS",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851464511a402cf8cdbcf3c6412",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "flemanuncaserepolicia30anos-2026-11-13-vorterix",
-    "artist": "FLEMA - NUNCA SERÉ POLICÍA - 30 AÑOS",
-    "artistKey": "flemanuncaserepolicia30anos",
-    "date": "2026-11-13",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
+    "id": "losdemassonunmonton-2026-11-10-cafeberlin",
+    "artist": "Los Demás son un Montón",
+    "artistKey": "losdemassonunmonton",
+    "date": "2026-11-10",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
     "ticketUrls": [
-      "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos"
+      "https://livepass.com.ar/events/los-demas-son-un-monton-ezequiel-campa-agustina-aguilar-en-cafe-berlin"
     ],
     "sources": [
-      "vorterix"
+      "livepass"
     ],
     "country": null,
-    "spotifyId": "3D9fZmAGeaCJjnRFFD9jlE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d6556e37417d8ca9c3df30cc",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "leogarzon-2026-11-11-cafeberlin",
+    "artist": "Leo Garzón",
+    "artistKey": "leogarzon",
+    "date": "2026-11-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leo-garzon-en-cafe-berlin-2026-11-11-20"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "arethas-2026-11-12-cafeberlin",
+    "artist": "Arethas",
+    "artistKey": "arethas",
+    "date": "2026-11-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/arethas-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "parisjazzclub-2026-11-12-cafeberlin",
+    "artist": "Paris Jazz Club",
+    "artistKey": "parisjazzclub",
+    "date": "2026-11-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/paris-jazz-club-en-cafe-berlin-2026-11-12-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "giros-2026-11-13-operalp",
+    "artist": "GIROS",
+    "artistKey": "giros",
+    "date": "2026-11-13",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lajarana-2026-11-13-cafeberlin",
+    "artist": "La Jarana",
+    "artistKey": "lajarana",
+    "date": "2026-11-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-jarana-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "ritacortese-2026-11-13-cafeberlin",
+    "artist": "Rita Cortese",
+    "artistKey": "ritacortese",
+    "date": "2026-11-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/rita-cortese-en-cafe-berlin-2026-11-13"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "esquinalibertad-2026-11-14-operalp",
+    "artist": "ESQUINA LIBERTAD",
+    "artistKey": "esquinalibertad",
+    "date": "2026-11-14",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "alexisonfire-2026-11-17-vorterix",
@@ -1816,8 +4293,9 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "53RsXctnNmj9oKXvcbvzI2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885d7a4bb1614c9c300ce6fae",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1834,9 +4312,48 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "4xEDJHMQ8PN1U2pEldwI6O",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781875db9d984a7dcdce6e392b",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "sofiapj-2026-11-19-cafeberlin",
+    "artist": "Sofía P.J",
+    "artistKey": "sofiapj",
+    "date": "2026-11-19",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sofia-p-j-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "granmartell-2026-11-20-cafeberlin",
+    "artist": "Gran Martell",
+    "artistKey": "granmartell",
+    "date": "2026-11-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gran-martell-en-cafe-berlin-20-11"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "lagreciaenvorterix-2026-11-21-vorterix",
@@ -1852,14 +4369,34 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1IRl7g7pauvhROf85dKAP8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788199f30672c869589b6a726d",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "nanpabasicoquetinyquetantour-2026-11-22-vorterix",
-    "artist": "NANPA BASICO - QUE TIN Y QUE TAN TOUR",
-    "artistKey": "nanpabasicoquetinyquetantour",
+    "id": "lavelapuercalaspelotas-2026-11-21-hipodromoplata",
+    "artist": "La Vela Puerca + Las Pelotas",
+    "artistKey": "lavelapuercalaspelotas",
+    "date": "2026-11-21",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "nanpabasico-2026-11-22-vorterix",
+    "artist": "NANPA BASICO",
+    "artistKey": "nanpabasico",
     "date": "2026-11-22",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1870,9 +4407,10 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1cUpGtXcSQsovNYEZOQgOG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782c836854c93c08daa6b44fa1",
-    "firstSeenAt": "2026-06-14"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "neurofest-2026-11-22-vorterix",
@@ -1888,14 +4426,34 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "3oVSD2qVvvT9HhWDlFk4Hv",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17888934fd32b6de19c1416c5b8",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "zeballosamorfiadoenbuenosaires-2026-11-26-vorterix",
-    "artist": "ZEBALLOS - AMOR FIADO en BUENOS AIRES",
-    "artistKey": "zeballosamorfiadoenbuenosaires",
+    "id": "devotosdelrock-2026-11-24-cafeberlin",
+    "artist": "Devotos del Rock",
+    "artistKey": "devotosdelrock",
+    "date": "2026-11-24",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/devotos-del-rock-en-cafe-berlin-2026-11-24-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "zeballos-2026-11-26-vorterix",
+    "artist": "ZEBALLOS",
+    "artistKey": "zeballos",
     "date": "2026-11-26",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1905,15 +4463,130 @@
     "sources": [
       "vorterix"
     ],
-    "country": null,
-    "spotifyId": "2bKnD2juQPAH7mAyPjdRoN",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048515a5bf1cb2ffddcc1ae73a61d",
-    "firstSeenAt": "2026-09-06"
+    "country": "UY",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "vilmapalmaevampirointimo-2026-12-04-vorterix",
-    "artist": "VILMA PALMA e VAMPIRO - INTIMO",
-    "artistKey": "vilmapalmaevampirointimo",
+    "id": "queteimporta-2026-11-27-cafeberlin",
+    "artist": "Queteimporta",
+    "artistKey": "queteimporta",
+    "date": "2026-11-27",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/queteimporta-en-cafe-berlin-2026-11-27-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "aperfectcirclepuscifer-2026-11-28-buenosaires",
+    "artist": "A PERFECT CIRCLE + PUSCIFER",
+    "artistKey": "aperfectcirclepuscifer",
+    "date": "2026-11-28",
+    "venue": "Buenos Aires",
+    "venueKey": "buenosaires",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/a-perfect-circle"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fernandocabrera-2026-11-28-cafeberlin",
+    "artist": "Fernando Cabrera",
+    "artistKey": "fernandocabrera",
+    "date": "2026-11-28",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "UY",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "unpocoderuido-2026-11-28-hipodromoplata",
+    "artist": "Un Poco de Ruido",
+    "artistKey": "unpocoderuido",
+    "date": "2026-11-28",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "giantrooks-2026-12-01-vorterix",
+    "artist": "Giant Rooks",
+    "artistKey": "giantrooks",
+    "date": "2026-12-01",
+    "venue": "Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/giant-rooks-en-vorterix"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "DE",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "dennischamberschristiangalvezquartet-2026-12-02-cafeberlin",
+    "artist": "Dennis Chambers & Christian Gálvez Quartet",
+    "artistKey": "dennischamberschristiangalvezquartet",
+    "date": "2026-12-02",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "vilmapalmaevampiro-2026-12-04-vorterix",
+    "artist": "VILMA PALMA e VAMPIRO",
+    "artistKey": "vilmapalmaevampiro",
     "date": "2026-12-04",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1924,14 +4597,34 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "0LdWd2C7zmOuOFfruyA9gL",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a0409f256313af1d126a7805",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "lagosbuenosaires-2026-12-09-vorterix",
-    "artist": "LAGOS – BUENOS AIRES",
-    "artistKey": "lagosbuenosaires",
+    "id": "serugiranporlebonyaznar-2026-12-05-hipodromoplata",
+    "artist": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
+    "artistKey": "serugiranporlebonyaznar",
+    "date": "2026-12-05",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lagos-2026-12-09-vorterix",
+    "artist": "LAGOS",
+    "artistKey": "lagos",
     "date": "2026-12-09",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -1942,9 +4635,10 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "1NaQOKgddaJipUtmptb7GI",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787dd56df0f7748097a64bd1a6",
-    "firstSeenAt": "2026-06-28"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "gondwanaquiqueneira-2026-12-11-vorterix",
@@ -1960,9 +4654,29 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "4nSgEvZncnC5oNPVrtwnLd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17868a5999db01354669acf0ef4",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "tanbionica-2026-12-12-uno",
+    "artist": "TAN BIONICA",
+    "artistKey": "tanbionica",
+    "date": "2026-12-12",
+    "venue": "Estadio Uno",
+    "venueKey": "uno",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/tan-bionica-en-estadio-uno"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "elsindromedepeter-2026-12-18-vorterix",
@@ -1978,8 +4692,9 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "6JKZLnwyVPZAWV2EEf4ymg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178767d90eaf2eeaec4df577f31",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   },
   {
@@ -1996,14 +4711,15 @@
       "vorterix"
     ],
     "country": null,
-    "spotifyId": "2HwTnCLZt5CfN6afgdgQir",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850b07a23f6009785ca4c34ca",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-07-08"
   },
   {
-    "id": "geofftateoperationmindcrimethefinalchaptertour-2027-01-14-vorterix",
-    "artist": "GEOFF TATE – OPERATION: MINDCRIME – THE FINAL CHAPTER TOUR",
-    "artistKey": "geofftateoperationmindcrimethefinalchaptertour",
+    "id": "geofftate-2027-01-14-vorterix",
+    "artist": "GEOFF TATE",
+    "artistKey": "geofftate",
     "date": "2027-01-14",
     "venue": "Vorterix",
     "venueKey": "vorterix",
@@ -2013,10 +4729,30 @@
     "sources": [
       "vorterix"
     ],
+    "country": "US",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "ludovicoeinaudisolopiano-2027-03-01-colon",
+    "artist": "Ludovico Einaudi: Solo Piano",
+    "artistKey": "ludovicoeinaudisolopiano",
+    "date": "2027-03-01",
+    "venue": "el Teatro Colón",
+    "venueKey": "colon",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon"
+    ],
+    "sources": [
+      "livepass"
+    ],
     "country": null,
-    "spotifyId": "4uRYpUQZrNrY5t8tAv3XrD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178810b04852e42d0f7932fb89c",
-    "firstSeenAt": "2026-09-06"
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "caifanes-2027-04-14-vorterix",
@@ -2032,8 +4768,9 @@
       "vorterix"
     ],
     "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
     "firstSeenAt": "2026-09-06"
   }
 ]

@@ -12,9 +12,39 @@ const key = (s) => fold(s).replace(/ /g, '');
  * under jsdom - this is the one part of the project a user interacts with
  * directly, and three composing filters is more than can be checked by eye.
  *
- * @param {{doc: Document, storage: Storage, committedMuted?: string[]}} deps
+ * @param {{doc: Document, storage: Storage, committedMuted?: string[], animate?: boolean}} deps
  */
-export function createApp({ doc, storage, committedMuted }) {
+export function createApp({ doc, storage, committedMuted, animate = true }) {
+  const win = doc.defaultView;
+  const LEAVE_MS = 400;
+
+  const reducedMotion = () => {
+    try { return Boolean(win?.matchMedia?.('(prefers-reduced-motion: reduce)').matches); } catch { return false; }
+  };
+
+  /**
+   * Collapse a row before it is hidden, so the rows below slide up to fill the
+   * gap instead of jumping. Height is animated from its measured value so the
+   * CSS does not need to guess how tall a row is.
+   */
+  function leave(row, done) {
+    if (!animate || !win || reducedMotion()) { done(); return; }
+    let finished = false;
+    const finish = () => {
+      if (finished) return;
+      finished = true;
+      row.classList.remove('leaving');
+      row.style.height = '';
+      done();
+    };
+    row.style.height = `${row.offsetHeight}px`;
+    row.classList.add('leaving');
+    const raf = win.requestAnimationFrame ?? ((fn) => win.setTimeout(fn, 0));
+    raf(() => { row.style.height = '0px'; });
+    row.addEventListener('transitionend', finish, { once: true });
+    win.setTimeout(finish, LEAVE_MS);
+  }
+
   const read = (k, fallback) => {
     try { return JSON.parse(storage.getItem(k)) ?? fallback; } catch { return fallback; }
   };
@@ -137,7 +167,11 @@ export function createApp({ doc, storage, committedMuted }) {
     if (!k) return;
     if (!localMuted.map(key).includes(k)) localMuted.push(k);
     write(MUTE_KEY, localMuted);
-    render();
+
+    const rows = [...doc.querySelectorAll(`.event[data-artist-key="${k}"]`)].filter(r => !r.hidden);
+    if (rows.length === 0) { render(); return; }
+    let pending = rows.length;
+    for (const row of rows) leave(row, () => { if (--pending === 0) render(); });
   }
 
   function unmute(k) {

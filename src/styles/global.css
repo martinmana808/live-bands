@@ -96,6 +96,17 @@ h2 { font-size: 1rem; color: var(--dim); border-bottom: 1px solid #222; padding-
   border-bottom: 1px solid #1a1a1a;
 }
 .event.past { opacity: 0.5; }
+.event.leaving {
+  overflow: hidden;
+  opacity: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-bottom-width: 0;
+  transition: height 0.28s ease, opacity 0.18s ease, padding 0.28s ease, border-bottom-width 0.28s ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .event.leaving { transition: none; }
+}
 /* .event is display:grid, which beats the user-agent [hidden] rule, so the
    filter needs to say so explicitly or hiding a row does nothing. */
 .event[hidden], main section[hidden] { display: none !important; }
@@ -196,4 +207,53 @@ footer { color: var(--dim); font-size: 0.85rem; margin-top: 3rem; text-align: ce
   .soundwave { display: none; }
   main { margin-left: auto; }
   .event { grid-template-columns: 1.5rem 2rem 3.5rem 1fr auto; }
+}
+
+/* ---- now-playing bar ---- */
+#player {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 20;
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  grid-template-areas: "art meta controls" "embed embed embed";
+  gap: 0.25rem 0.75rem;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: #131316;
+  border-top: 1px solid #26262b;
+  box-shadow: 0 -8px 24px rgba(0,0,0,0.4);
+}
+#player[hidden] { display: none; }
+#player-art { grid-area: art; width: 40px; height: 40px; border-radius: 4px; object-fit: cover; background: #222; }
+#player-art:not([src]) { visibility: hidden; }
+.player-meta { grid-area: meta; min-width: 0; display: flex; flex-direction: column; }
+#player-name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.player-hint { color: var(--dim); font-size: 0.7rem; }
+.player-controls { grid-area: controls; display: flex; align-items: center; gap: 0.25rem; }
+.player-controls button {
+  background: none; border: 0; color: var(--fg); cursor: pointer;
+  width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%;
+}
+.player-controls button:hover { background: #222; }
+#player-toggle { background: var(--accent); color: var(--bg); }
+#player-toggle:hover { background: #9df; }
+#player-toggle .ico-play { display: none; }
+#player-toggle.paused .ico-play { display: block; }
+#player-toggle.paused .ico-pause { display: none; }
+#player-embed { grid-area: embed; }
+#player-embed iframe { width: 100%; height: 80px; border: 0; border-radius: 8px; display: block; }
+/* leave room so the last rows are not under the bar */
+body:has(#player:not([hidden])) main { padding-bottom: 12rem; }
+
+.event.playing .artist { color: var(--accent); }
+.event.playing.paused .artist { color: var(--fg); }
+.icon-btn.play { color: #1db954; }
+.event.playing .icon-btn.play { color: var(--accent); }
+
+.genres { display: block; color: #666; font-size: 0.7rem; margin-top: 0.1rem; }
+
+@media (max-width: 700px) {
+  #player { padding: 0.5rem 0.75rem; }
+  .player-hint { display: none; }
 }
