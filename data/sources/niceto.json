@@ -2,27 +2,6 @@
   "fetchedAt": "2026-09-12",
   "events": [
     {
-      "artist": "MERCADO DE MÚSICA PATAGÓNICO",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad",
-      "source": "niceto"
-    },
-    {
-      "artist": "Los Espíritus 11 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/los-esp-ritus-11-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "CHINO SANCHEZ & NO TODO TRATA DE UNO TOUR 2026 (ARGENTINA)",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/chino-sanchez-no-todo-trata-de-uno-tour-2026-argentina-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
       "artist": "FESTIVAL PARDO: DDT - FANTASMAGORIA - PLAYA NUDISTA -",
       "venue": "Niceto Club",
       "date": "2026-09-11",
@@ -34,20 +13,6 @@
       "venue": "Niceto Club",
       "date": "2026-09-11",
       "ticketUrl": "https://venti.live/evento/mamba-clvb-21-sep-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "SENSORIA",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/sensoria-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "NORTH GROOVE  11SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/north-groove-11sep-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -349,6 +314,41 @@
       "venue": "Niceto Club",
       "date": "2026-09-26",
       "ticketUrl": "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "LALIFEST by MANDALAY  26 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | ANIVERSARIO 26 SEP",
+      "venue": "Niceto Club",
+      "date": "2026-09-26",
+      "ticketUrl": "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "BAR ITALIA",
+      "venue": "Niceto Club",
+      "date": "2026-09-27",
+      "ticketUrl": "https://venti.live/evento/bar-italia-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "LA ROCK AND FOLK",
+      "venue": "Niceto Club",
+      "date": "2026-09-28",
+      "ticketUrl": "https://venti.live/evento/la-rock-and-folk-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Green Valley meets Alborosie",
+      "venue": "Niceto Club",
+      "date": "2026-09-29",
+      "ticketUrl": "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

@@ -2,30 +2,6 @@
   "fetchedAt": "2026-09-12",
   "events": [
     {
-      "artist": "Chris Luno",
-      "venue": "Catamarán Libertad",
-      "date": "2026-09-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Celeste (FR)",
-      "venue": "Club Cultural Bula",
-      "date": "2026-09-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Campamento",
-      "venue": "Lalalá",
-      "date": "2026-09-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Los Sub",
-      "venue": "Teatro El Cubo",
-      "date": "2026-09-11",
-      "source": "songkick"
-    },
-    {
       "artist": "John Summit",
       "venue": "Mandarine Tent",
       "date": "2026-09-12",
@@ -293,6 +269,24 @@
       "artist": "Nanndos",
       "venue": "Club V",
       "date": "2026-09-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Morat",
+      "venue": "Movistar Arena",
+      "date": "2026-09-26",
+      "source": "songkick"
+    },
+    {
+      "artist": "SMILE LION",
+      "venue": "Tío Bizarro",
+      "date": "2026-09-26",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ararat",
+      "venue": "Club Cultural Bula",
+      "date": "2026-09-26",
       "source": "songkick"
     }
   ]

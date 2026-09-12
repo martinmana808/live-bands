@@ -7,57 +7,6 @@
     "spotifyImage": null,
     "lookedUpAt": "2026-09-06"
   },
-  "chris luno": {
-    "name": "Chris Luno",
-    "lookedUpAt": "2026-09-12",
-    "country": "DE",
-    "genres": [
-      "electronic",
-      "organic house"
-    ],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "celeste": {
-    "name": "Celeste",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [
-      "alternative r&b",
-      "contemporary r&b",
-      "r&b"
-    ],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "campamento": {
-    "name": "Campamento",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "los sub": {
-    "name": "Los Sub",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
   "john summit": {
     "name": "John Summit",
     "lookedUpAt": "2026-09-12",
@@ -70,6 +19,20 @@
     "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": "7kNqXtgeIwFtelmRjWv205",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "chris luno": {
+    "name": "Chris Luno",
+    "lookedUpAt": "2026-09-12",
+    "country": "DE",
+    "genres": [
+      "electronic",
+      "organic house"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
@@ -559,6 +522,28 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "smile lion": {
+    "name": "SMILE LION",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "56wcPiVyoiIMeVeHXehKAf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787bbd861dbe56099abcf3a11a",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "ararat": {
+    "name": "Ararat",
+    "lookedUpAt": "2026-09-12",
+    "country": "DE",
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "fiesta forever 90s": {
     "name": "FIESTA FOREVER 90s",
     "lookedUpAt": "2026-09-12",
@@ -1033,43 +1018,6 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
-  "mercado de música patagónico": {
-    "name": "MERCADO DE MÚSICA PATAGÓNICO",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "los espíritus": {
-    "name": "Los Espíritus",
-    "lookedUpAt": "2026-09-12",
-    "country": "AR",
-    "genres": [
-      "blues",
-      "blues rock",
-      "gospel"
-    ],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "chino sanchez & no todo trata de uno": {
-    "name": "CHINO SANCHEZ & NO TODO TRATA DE UNO",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
   "festival pardo: ddt": {
     "name": "FESTIVAL PARDO: DDT",
     "lookedUpAt": "2026-09-12",
@@ -1083,30 +1031,6 @@
   },
   "mamba clvb": {
     "name": "Mamba Clvb",
-    "lookedUpAt": "2026-09-12",
-    "country": null,
-    "genres": [],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "sensoria": {
-    "name": "SENSORIA",
-    "lookedUpAt": "2026-09-12",
-    "country": "IT",
-    "genres": [
-      "trance"
-    ],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "north groove": {
-    "name": "NORTH GROOVE",
     "lookedUpAt": "2026-09-12",
     "country": null,
     "genres": [],
@@ -1586,6 +1510,65 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "lalifest by mandalay": {
+    "name": "LALIFEST by MANDALAY",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "club 69 | aniversario": {
+    "name": "Club 69 | ANIVERSARIO",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "bar italia": {
+    "name": "BAR ITALIA",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [
+      "indie rock",
+      "hypnagogic pop",
+      "noise pop"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "6tYmTHApvspl6KAgTfHjAY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0cfddd94131d3fbb5443b0e",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "la rock and folk": {
+    "name": "LA ROCK AND FOLK",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "green valley meets alborosie": {
+    "name": "Green Valley meets Alborosie",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "las pastillas del abuelo": {
     "name": "LAS PASTILLAS DEL ABUELO",
     "lookedUpAt": "2026-09-12",
@@ -1714,21 +1697,6 @@
     "countryResolvedBy": "mb-exact-genres-v3",
     "spotifyId": null,
     "spotifyImage": null,
-    "spotifyGenres": [],
-    "spotifyResolvedBy": "search-exact-v1"
-  },
-  "black dog": {
-    "name": "Black Dog",
-    "lookedUpAt": "2026-09-12",
-    "country": "GB",
-    "genres": [
-      "idm",
-      "ambient techno",
-      "techno"
-    ],
-    "countryResolvedBy": "mb-exact-genres-v3",
-    "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
@@ -3665,6 +3633,119 @@
     "spotifyGenres": [],
     "spotifyResolvedBy": "search-exact-v1"
   },
+  "celeste": {
+    "name": "Celeste",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [
+      "alternative r&b",
+      "contemporary r&b",
+      "r&b"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "campamento": {
+    "name": "Campamento",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "los sub": {
+    "name": "Los Sub",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "mercado de música patagónico": {
+    "name": "MERCADO DE MÚSICA PATAGÓNICO",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "los espíritus": {
+    "name": "Los Espíritus",
+    "lookedUpAt": "2026-09-12",
+    "country": "AR",
+    "genres": [
+      "blues",
+      "blues rock",
+      "gospel"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "chino sanchez & no todo trata de uno": {
+    "name": "CHINO SANCHEZ & NO TODO TRATA DE UNO",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "sensoria": {
+    "name": "SENSORIA",
+    "lookedUpAt": "2026-09-12",
+    "country": "IT",
+    "genres": [
+      "trance"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "north groove": {
+    "name": "NORTH GROOVE",
+    "lookedUpAt": "2026-09-12",
+    "country": null,
+    "genres": [],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
+  "black dog": {
+    "name": "Black Dog",
+    "lookedUpAt": "2026-09-12",
+    "country": "GB",
+    "genres": [
+      "idm",
+      "ambient techno",
+      "techno"
+    ],
+    "countryResolvedBy": "mb-exact-genres-v3",
+    "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
+    "spotifyGenres": [],
+    "spotifyResolvedBy": "search-exact-v1"
+  },
   "lau andrade": {
     "name": "Lau Andrade",
     "lookedUpAt": "2026-09-11",
@@ -3963,22 +4044,6 @@
   },
   "cami galz: licoretza lupus - presentación oficial": {
     "name": "CAMI GALZ: Licoretza Lupus - Presentación Oficial",
-    "lookedUpAt": "2026-09-06",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  "lalifest by mandalay": {
-    "name": "LALIFEST by MANDALAY",
-    "lookedUpAt": "2026-09-06",
-    "country": null,
-    "countryResolvedBy": "mb-exact-v2",
-    "spotifyId": null,
-    "spotifyImage": null
-  },
-  "club 69 | aniversario": {
-    "name": "Club 69 | ANIVERSARIO",
     "lookedUpAt": "2026-09-06",
     "country": null,
     "countryResolvedBy": "mb-exact-v2",
@@ -4351,20 +4416,6 @@
   "club 69 | aniversario 26 sep": {
     "name": "Club 69 | ANIVERSARIO 26 SEP",
     "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-08-31"
-  },
-  "bar italia": {
-    "name": "BAR ITALIA",
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "lookedUpAt": "2026-08-31"
-  },
-  "green valley meets alborosie": {
-    "name": "Green Valley meets Alborosie",
-    "country": "IT",
     "spotifyId": null,
     "spotifyImage": null,
     "lookedUpAt": "2026-08-31"

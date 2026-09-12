@@ -1,110 +1,5 @@
 [
   {
-    "id": "blackdog-2026-09-11-cafeberlin",
-    "shortId": "20cvc20",
-    "artist": "Black Dog",
-    "artistKey": "blackdog",
-    "date": "2026-09-11",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/black-dog-the-led-zeppelin-experience-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "GB",
-    "spotifyId": "7qdsk0UXx2jCX7jbp6rxeq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78e5687c34374d0e53fb436",
-    "genres": [
-      "idm",
-      "ambient techno",
-      "techno"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "campamento-2026-09-11-lalala",
-    "shortId": "1ss16ra",
-    "artist": "Campamento",
-    "artistKey": "campamento",
-    "date": "2026-09-11",
-    "venue": "Lalalá",
-    "venueKey": "lalala",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6pispKFWs0RRaGtvrZAAYn",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485117809ccc272bacbc71e1532f",
-    "genres": [],
-    "firstSeenAt": "2026-08-22"
-  },
-  {
-    "id": "celeste-2026-09-11-culturalbula",
-    "shortId": "1iwbwhq",
-    "artist": "Celeste",
-    "artistKey": "celeste",
-    "date": "2026-09-11",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "49HlOY4gkHqsYG9GCuhkcc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e367a924cb2f4a61c709d940",
-    "genres": [
-      "alternative r&b",
-      "contemporary r&b",
-      "r&b"
-    ],
-    "firstSeenAt": "2026-08-22"
-  },
-  {
-    "id": "chinosancheznotodotratadeuno-2026-09-11-niceto",
-    "shortId": "se2w1f8",
-    "artist": "CHINO SANCHEZ & NO TODO TRATA DE UNO",
-    "artistKey": "chinosancheznotodotratadeuno",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/chino-sanchez-no-todo-trata-de-uno-tour-2026-argentina-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-10"
-  },
-  {
-    "id": "chrisluno-2026-09-11-catamaranlibertad",
-    "shortId": "1gz4uiq",
-    "artist": "Chris Luno",
-    "artistKey": "chrisluno",
-    "date": "2026-09-11",
-    "venue": "Catamarán Libertad",
-    "venueKey": "catamaranlibertad",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "DE",
-    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
-    "genres": [
-      "electronic",
-      "organic house"
-    ],
-    "firstSeenAt": "2026-08-22"
-  },
-  {
     "id": "erickbrian-2026-09-11-vorterix",
     "shortId": "1o4vsgf",
     "artist": "ERICK BRIAN",
@@ -165,48 +60,6 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "losespiritus-2026-09-11-niceto",
-    "shortId": "1iq3vic",
-    "artist": "Los Espíritus",
-    "artistKey": "losespiritus",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/los-esp-ritus-11-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "1UnfU05eCWxrY4vWarpeF0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178df103205d6693864d2d30c98",
-    "genres": [
-      "blues",
-      "blues rock",
-      "gospel"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lossub-2026-09-11-cubo",
-    "shortId": "l25wvj7",
-    "artist": "Los Sub",
-    "artistKey": "lossub",
-    "date": "2026-09-11",
-    "venue": "Teatro El Cubo",
-    "venueKey": "cubo",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-02"
-  },
-  {
     "id": "mambaclvb-2026-09-11-niceto",
     "shortId": "1oe56ed",
     "artist": "Mamba Clvb",
@@ -225,68 +78,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-03"
-  },
-  {
-    "id": "mercadodemusicapatagonico-2026-09-11-niceto",
-    "shortId": "19t1u5d",
-    "artist": "MERCADO DE MÚSICA PATAGÓNICO",
-    "artistKey": "mercadodemusicapatagonico",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mercado-de-m-sica-patag-nico-en-niceto-bar-panel-patagonia-en-movimiento-trayectoria-juventudes-e-identidad"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "northgroove-2026-09-11-niceto",
-    "shortId": "cu8ipk7",
-    "artist": "NORTH GROOVE",
-    "artistKey": "northgroove",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/north-groove-11sep-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "sensoria-2026-09-11-niceto",
-    "shortId": "1gqkqkq",
-    "artist": "SENSORIA",
-    "artistKey": "sensoria",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/sensoria-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "IT",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [
-      "trance"
-    ],
-    "firstSeenAt": "2026-09-02"
   },
   {
     "id": "autosrobados-2026-09-12-operalp",
@@ -3278,6 +3069,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "ararat-2026-09-26-culturalbula",
+    "shortId": "jt2kntz",
+    "artist": "Ararat",
+    "artistKey": "ararat",
+    "date": "2026-09-26",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "DE",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-12"
+  },
+  {
     "id": "camigalzlicoretzalupus-2026-09-26-niceto",
     "shortId": "13bin0b",
     "artist": "CAMI GALZ: Licoretza Lupus",
@@ -3296,6 +3105,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "club69aniversario-2026-09-26-niceto",
+    "shortId": "wala9f0",
+    "artist": "Club 69 | ANIVERSARIO",
+    "artistKey": "club69aniversario",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-08-31"
   },
   {
     "id": "cuasifunky-2026-09-26-niceto",
@@ -3418,6 +3247,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "lalifestbymandalay-2026-09-26-niceto",
+    "shortId": "12fj4mn",
+    "artist": "LALIFEST by MANDALAY",
+    "artistKey": "lalifestbymandalay",
+    "date": "2026-09-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-08-31"
+  },
+  {
     "id": "midachi-2026-09-26-granrex",
     "shortId": "mby5pjb",
     "artist": "Midachi",
@@ -3461,6 +3310,27 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "morat-2026-09-26-movistararena",
+    "shortId": "20x5u4r",
+    "artist": "Morat",
+    "artistKey": "morat",
+    "date": "2026-09-26",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "genres": [
+      "latin",
+      "latin pop"
+    ],
+    "firstSeenAt": "2026-09-12"
+  },
+  {
     "id": "pauladorrego-2026-09-26-ccnu",
     "shortId": "131qr2q",
     "artist": "Paula Dorrego",
@@ -3479,6 +3349,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "smilelion-2026-09-26-tiobizarro",
+    "shortId": "ymuqw54",
+    "artist": "SMILE LION",
+    "artistKey": "smilelion",
+    "date": "2026-09-26",
+    "venue": "Tío Bizarro",
+    "venueKey": "tiobizarro",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "56wcPiVyoiIMeVeHXehKAf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787bbd861dbe56099abcf3a11a",
+    "genres": [],
+    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "valenvargas-2026-09-26-niceto",
@@ -3519,6 +3407,30 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "baritalia-2026-09-27-niceto",
+    "shortId": "12b0yyb",
+    "artist": "BAR ITALIA",
+    "artistKey": "baritalia",
+    "date": "2026-09-27",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bar-italia-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6tYmTHApvspl6KAgTfHjAY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0cfddd94131d3fbb5443b0e",
+    "genres": [
+      "indie rock",
+      "hypnagogic pop",
+      "noise pop"
+    ],
+    "firstSeenAt": "2026-08-31"
   },
   {
     "id": "espiritupescado-2026-09-27-cafeberlin",
@@ -3641,6 +3553,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "larockandfolk-2026-09-28-niceto",
+    "shortId": "13yrbwu",
+    "artist": "LA ROCK AND FOLK",
+    "artistKey": "larockandfolk",
+    "date": "2026-09-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-rock-and-folk-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-12"
+  },
+  {
     "id": "pinchaszukerman-2026-09-28-colon",
     "shortId": "19i94xe",
     "artist": "Pinchas Zukerman",
@@ -3681,6 +3613,26 @@
       "rock"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "greenvalleymeetsalborosie-2026-09-29-niceto",
+    "shortId": "1a2u85h",
+    "artist": "Green Valley meets Alborosie",
+    "artistKey": "greenvalleymeetsalborosie",
+    "date": "2026-09-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-08-31"
   },
   {
     "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
