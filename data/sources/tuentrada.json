@@ -1,0 +1,215 @@
+{
+  "fetchedAt": "2026-09-12",
+  "events": [
+    {
+      "artist": "Midachi",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-26",
+      "ticketUrl": "https://www.tuentrada.com/midachi-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Midachi",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-27",
+      "ticketUrl": "https://www.tuentrada.com/midachi-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Hablando Huevadas",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-01",
+      "ticketUrl": "https://www.tuentrada.com/hablando-huevadas",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Hablando Huevadas",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-02",
+      "ticketUrl": "https://www.tuentrada.com/hablando-huevadas",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Bandana",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-23",
+      "ticketUrl": "https://www.tuentrada.com/bandana-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Flor Bertotti",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-15",
+      "ticketUrl": "https://www.tuentrada.com/flor-bertotti-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Flor Bertotti",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-16",
+      "ticketUrl": "https://www.tuentrada.com/flor-bertotti-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Pinchas Zukerman",
+      "venue": "Teatro Colón",
+      "date": "2026-09-28",
+      "ticketUrl": "https://www.tuentrada.com/ciclo-aura-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Freddie De Tommaso / Nadine Sierra",
+      "venue": "Teatro Colón",
+      "date": "2026-10-26",
+      "ticketUrl": "https://www.tuentrada.com/ciclo-aura-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Filarmónica De Berlín",
+      "venue": "Teatro Colón",
+      "date": "2026-10-21",
+      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Filarmónica De Berlín",
+      "venue": "Teatro Colón",
+      "date": "2026-10-22",
+      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Filarmónica De Berlín",
+      "venue": "Teatro Colón",
+      "date": "2026-10-23",
+      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Raphael",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Raphael",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-19",
+      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Abel Pintos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-13",
+      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Abel Pintos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-14",
+      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Abel Pintos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-15",
+      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Abel Pintos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-19",
+      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Abel Pintos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-20",
+      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Vico C",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-19",
+      "ticketUrl": "https://www.tuentrada.com/vico-c-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Dyango",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-04",
+      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Dyango",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-07",
+      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Zell",
+      "venue": "Estadio Cubierto Malvinas Argentinas",
+      "date": "2026-09-12",
+      "ticketUrl": "https://www.tuentrada.com/zell-ecma",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Alex Ubago",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-07",
+      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Lazaro Caballero",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-12",
+      "ticketUrl": "https://www.tuentrada.com/lazaro-caballero-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Lazaro Caballero",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-13",
+      "ticketUrl": "https://www.tuentrada.com/lazaro-caballero-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Melissa Aldana",
+      "venue": "Sala Martin Coronado",
+      "date": "2026-10-20",
+      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Christian Sands Quartet",
+      "venue": "Sala Martin Coronado",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Alex Anwandter",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-18",
+      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Los Meñiques De La Casa",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-20",
+      "ticketUrl": "https://www.tuentrada.com/meniques-tgr",
+      "source": "tuentrada"
+    }
+  ]
+}

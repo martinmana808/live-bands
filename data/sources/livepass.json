@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11",
+  "fetchedAt": "2026-09-12",
   "events": [
     {
       "artist": "LAS PASTILLAS DEL ABUELO",
@@ -90,34 +90,6 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
-      "artist": "Lau Andrade",
-      "venue": "CCNU",
-      "date": "2026-09-11",
-      "ticketUrl": "https://livepass.com.ar/events/lau-andrade-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "AUTOS ROBADOS",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-11",
-      "ticketUrl": "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp-11-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "Adriana Varela",
-      "venue": "Café Berlín",
-      "date": "2026-09-11",
-      "ticketUrl": "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2026-09-11-20",
-      "source": "livepass"
-    },
-    {
-      "artist": "Mariano Castro Clerici 5tet",
-      "venue": "CCNU",
-      "date": "2026-09-11",
-      "ticketUrl": "https://livepass.com.ar/events/mariano-castro-clerici-5tet-en-ccnu",
       "source": "livepass"
     },
     {
