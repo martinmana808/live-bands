@@ -26,9 +26,10 @@ export function buildDigest(events, { today, days = 14, since = today, confirmed
 
   const inWindow = events.filter(e => e.date >= today && e.date <= windowEnd);
 
-  // An unknown origin is usually a local club night the venue titled badly, not
-  // a touring band. Those stay on the site; the message keeps its promise.
-  const confirmed = e => !confirmedOnly || Boolean(e.country);
+  // The site lists everything; the message is about touring acts. An unknown
+  // origin is usually a local club night the venue titled badly, and a
+  // confirmed Argentine act is local by definition. Both stay on the site.
+  const confirmed = e => !confirmedOnly || (Boolean(e.country) && e.country !== 'AR');
 
   const fortnight = inWindow.filter(confirmed).sort(byDate);
 
@@ -43,6 +44,7 @@ export function buildDigest(events, { today, days = 14, since = today, confirmed
     windowEnd,
     fortnight,
     newlyAdded,
-    unconfirmedInWindow: inWindow.length - inWindow.filter(confirmed).length,
+    // Unknown origin, not merely excluded: a confirmed Argentine act is local, not a mystery.
+    unconfirmedInWindow: confirmedOnly ? inWindow.filter(e => !e.country).length : 0,
   };
 }

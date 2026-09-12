@@ -20,6 +20,7 @@ function monthLabel(yyyymm) {
 const FORTNIGHT_DAYS = 14;
 const fortnightCount = events.filter(e => isWithinDays(e.date, today, FORTNIGHT_DAYS)).length;
 const recentCount = events.filter(e => isRecentlyAdded(e, today)).length;
+const intlCount = events.filter(e => e.country && e.country !== 'AR').length;
 
 const families = familyCounts(events);
 
@@ -38,7 +39,7 @@ for (const e of events) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>International bands in Buenos Aires</title>
+    <title>LIVEMUSIC — Buenos Aires</title>
   </head>
   <body>
     <div class="backdrop" aria-hidden="true">
@@ -47,7 +48,7 @@ for (const e of events) {
     </div>
     <Soundwave events={events} today={today} />
     <main>
-      <h1>International bands in Buenos Aires</h1>
+      <h1>LIVE<span class="thin">MUSIC</span> <span class="city">Buenos Aires</span></h1>
       <div class="searchbar">
         <input type="search" id="q" placeholder="Search artist, venue or country…" autocomplete="off" spellcheck="false" aria-label="Search shows" />
         <button type="button" id="q-clear" aria-label="Clear search" hidden>&times;</button>
@@ -61,6 +62,9 @@ for (const e of events) {
         </button>
         <button type="button" class="filter" data-filter="new" aria-pressed="false">
           New this week <span class="count">{recentCount}</span>
+        </button>
+        <button type="button" class="filter" data-filter="intl" aria-pressed="false">
+          International <span class="count">{intlCount}</span>
         </button>
         <button type="button" class="filter muted-filter" data-filter="muted" aria-pressed="false" hidden>
           Hidden <span class="count">0</span>
@@ -100,7 +104,7 @@ for (const e of events) {
         </section>
       ))}
       <footer>
-        Updated daily. Sources: Songkick, Livepass, Vorterix, Niceto.
+        Updated daily. Sources: Songkick, Livepass, Tuentrada, Vorterix, Niceto.
       </footer>
     </main>
 
@@ -158,7 +162,7 @@ for (const e of events) {
           const text = share.getAttribute('data-share-text');
           const row = share.closest('.event');
           const url = location.origin + location.pathname + '#e-' + row.getAttribute('data-short-id');
-          const payload = { title: 'Bands in Town', text, url };
+          const payload = { title: 'LIVEMUSIC', text, url };
           try {
             if (navigator.share) await navigator.share(payload);
             else { await navigator.clipboard.writeText(`${text}\n${url}`); share.classList.add('on'); setTimeout(() => share.classList.remove('on'), 1000); }

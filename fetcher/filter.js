@@ -1,12 +1,5 @@
 /**
  * @param {import('./types.js').EnrichedEvent[]} events
- */
-export function filterInternational(events) {
-  return events.filter(e => e.country !== 'AR');
-}
-
-/**
- * @param {import('./types.js').EnrichedEvent[]} events
  * @param {string} today  - "YYYY-MM-DD"
  */
 export function filterTimeWindow(events, today) {

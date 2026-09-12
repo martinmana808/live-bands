@@ -1,10 +1,10 @@
-# Bands in Town
+# LIVEMUSIC
 
-Public archive of international bands playing in Buenos Aires, sorted chronologically. Rebuilt daily.
+Every show in Buenos Aires, sorted chronologically, with the touring acts flagged. Rebuilt daily.
 
 ## How it works
 
-A Node fetcher pulls events from multiple sources (Songkick metro, Livepass ticketing, plus venue calendars for Vorterix and Niceto), cleans the artist names, dedupes them, looks up each artist's origin country (via MusicBrainz) and Spotify ID, drops Argentine artists, and writes `data/events.json`. Astro reads that JSON at build time and renders a static page deployed to GitHub Pages. Everything happens in a daily GitHub Actions cron job.
+A Node fetcher pulls events from multiple sources (Songkick metro, Livepass ticketing, plus venue calendars for Vorterix and Niceto), cleans the artist names, dedupes them, looks up each artist's origin country (via MusicBrainz) and Spotify ID, and writes `data/events.json`. Astro reads that JSON at build time and renders a static page deployed to GitHub Pages. Everything happens in a daily GitHub Actions cron job.
 
 Two things keep the daily job honest:
 
@@ -18,7 +18,8 @@ Two things keep the daily job honest:
 ## The page
 
 Search by artist, venue or country code (accent-insensitive), plus filters persisted per
-browser: **All**, **Next 14 days**, **New this week**, and **Hidden**. Search composes with
+browser: **All**, **Next 14 days**, **New this week**, **International** (confirmed non-Argentine
+origin), and **Hidden**. The site lists everything; the Telegram digest is international only. Search composes with
 the active filter rather than replacing it. The fortnight window is the same helper the
 digest uses (`fetcher/display.js` and `fetcher/digest.js` agree on what 14 days means), so
 the page and the notification can never disagree. Events first seen in the last 7 days

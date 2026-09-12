@@ -155,3 +155,15 @@ describe('buildDigest respects the muted list', () => {
     expect(buildDigest([ev({ date: '2026-09-12' })], { today }).fortnight).toHaveLength(1);
   });
 });
+
+describe('buildDigest treats Argentine acts as local, not international', () => {
+  it('leaves a confirmed Argentine band out of the fortnight', () => {
+    const d = buildDigest([ev({ country: 'AR', date: '2026-09-12' })], { today });
+    expect(d.fortnight).toEqual([]);
+  });
+
+  it('does not count it among the unconfirmed either', () => {
+    const d = buildDigest([ev({ country: 'AR', date: '2026-09-12' })], { today });
+    expect(d.unconfirmedInWindow).toBe(0);
+  });
+});

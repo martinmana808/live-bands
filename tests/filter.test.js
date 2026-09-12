@@ -1,23 +1,11 @@
 import { describe, it, expect } from 'vitest';
-import { filterInternational, filterTimeWindow } from '../fetcher/filter.js';
+import { filterTimeWindow } from '../fetcher/filter.js';
 
 const ev = (over = {}) => ({
   id: 'x', artist: 'X', artistKey: 'x',
   date: '2026-05-14', venue: 'V', venueKey: 'v',
   ticketUrls: [], sources: [], country: null, spotifyId: null,
   ...over,
-});
-
-describe('filterInternational', () => {
-  it('drops AR artists', () => {
-    expect(filterInternational([ev({ country: 'AR' })])).toEqual([]);
-  });
-  it('keeps non-AR artists', () => {
-    expect(filterInternational([ev({ country: 'US' })])).toHaveLength(1);
-  });
-  it('keeps unknown-country artists (long-tail bias)', () => {
-    expect(filterInternational([ev({ country: null })])).toHaveLength(1);
-  });
 });
 
 describe('filterTimeWindow', () => {

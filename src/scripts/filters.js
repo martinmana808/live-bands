@@ -120,9 +120,11 @@ export function createApp({ doc, storage, committedMuted, animate = true }) {
 
     for (const row of doc.querySelectorAll('.event')) {
       const isMuted = muted.has(row.getAttribute('data-artist-key'));
+      const country = row.getAttribute('data-country') ?? '';
       const inFilter = filter === 'all'
         || (filter === 'fortnight' && row.hasAttribute('data-fortnight'))
-        || (filter === 'new' && row.hasAttribute('data-recent'));
+        || (filter === 'new' && row.hasAttribute('data-recent'))
+        || (filter === 'intl' && country !== '' && country !== 'AR');
       const inGenre = !genre
         || (row.getAttribute('data-genres') ?? '').split(' ').includes(genre);
       // The Hidden view is the one place muted rows are meant to be visible.

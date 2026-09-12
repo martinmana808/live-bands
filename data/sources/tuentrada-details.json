@@ -1,0 +1,325 @@
+{
+  "midachi-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-26",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Midachi"
+      },
+      {
+        "date": "2026-09-27",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Midachi"
+      }
+    ]
+  },
+  "hablando-huevadas": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-01",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Hablando Huevadas"
+      },
+      {
+        "date": "2026-10-02",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Hablando Huevadas"
+      }
+    ]
+  },
+  "bandana-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-23",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Bandana"
+      }
+    ]
+  },
+  "flor-bertotti-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-15",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Flor Bertotti"
+      },
+      {
+        "date": "2026-09-16",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Flor Bertotti"
+      }
+    ]
+  },
+  "ciclo-aura-teatrocolon": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-28",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Pinchas Zukerman"
+      },
+      {
+        "date": "2026-10-26",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Freddie De Tommaso / Nadine Sierra"
+      }
+    ]
+  },
+  "filarmonica-de-berlin-tc": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-21",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Filarmónica De Berlín"
+      },
+      {
+        "date": "2026-10-22",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Filarmónica De Berlín"
+      },
+      {
+        "date": "2026-10-23",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Filarmónica De Berlín"
+      }
+    ]
+  },
+  "raphael-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-17",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Raphael"
+      },
+      {
+        "date": "2026-10-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Raphael"
+      }
+    ]
+  },
+  "abel-pintos-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-11-13",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-14",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-15",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-20",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      }
+    ]
+  },
+  "vico-c-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Vico C"
+      }
+    ]
+  },
+  "dyango-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-04",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Dyango"
+      },
+      {
+        "date": "2026-10-07",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Dyango"
+      }
+    ]
+  },
+  "zell-ecma": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-12",
+        "venue": "Estadio Cubierto Malvinas Argentinas",
+        "city": "Buenos Aires",
+        "name": "Zell"
+      }
+    ]
+  },
+  "lfdaa-tucuman": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-10",
+        "venue": "Hipodromo De Tucuman",
+        "city": "San Miguel De Tucumán",
+        "name": "Los Fundamentalistas Del Aire Acondicionado"
+      }
+    ]
+  },
+  "alex-ubago-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-11-07",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Alex Ubago"
+      }
+    ]
+  },
+  "lazaro-caballero-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-12",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Lazaro Caballero"
+      },
+      {
+        "date": "2026-09-13",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Lazaro Caballero"
+      }
+    ]
+  },
+  "el-kuelgue-amr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-26",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "El Kuelgue"
+      }
+    ]
+  },
+  "ntvg-gira": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-13",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-09-16",
+        "venue": "Umma",
+        "city": "Posadas",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-09-22",
+        "venue": "Sky Club",
+        "city": "La Banda",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-09-24",
+        "venue": "La Terminal",
+        "city": "San Salvador De Jujuy",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-09-27",
+        "venue": "Mym Multiespacio",
+        "city": "La Rioja",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-20",
+        "venue": "Complejo Aeropuerto De San Andres De Giles",
+        "city": "San Andres De Giles",
+        "name": "No Te Va Gustar"
+      }
+    ]
+  },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-10-20",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Melissa Aldana"
+      },
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "alex-anwandter-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-18",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Alex Anwandter"
+      }
+    ]
+  },
+  "meniques-tgr": {
+    "fetchedAt": "2026-09-12",
+    "sessions": [
+      {
+        "date": "2026-09-20",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Los Meñiques De La Casa"
+      }
+    ]
+  }
+}

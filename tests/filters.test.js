@@ -3,7 +3,7 @@ import { JSDOM } from 'jsdom';
 import { createApp } from '../src/scripts/filters.js';
 
 const row = ({ key, artist, venue, country = '', fortnight = false, recent = false, families = '' }) => `
-  <div class="event" id="e-${key}" data-short-id="${key}" data-artist-key="${key}" data-search="${artist} ${venue} ${country}" data-genres="${families}"
+  <div class="event" id="e-${key}" data-short-id="${key}" data-artist-key="${key}" data-search="${artist} ${venue} ${country}" data-genres="${families}" data-country="${country}"
        ${fortnight ? 'data-fortnight' : ''} ${recent ? 'data-recent' : ''}>
     <div class="artist">${artist}</div>
     <button class="mute" data-mute-key="${key}" data-mute-name="${artist}">hide</button>
@@ -15,6 +15,7 @@ const PAGE = `<main>
     <button class="filter" data-filter="all"><span class="count"></span></button>
     <button class="filter" data-filter="fortnight"><span class="count"></span></button>
     <button class="filter" data-filter="new"><span class="count"></span></button>
+    <button class="filter" data-filter="intl"><span class="count"></span></button>
     <button class="filter muted-filter" data-filter="muted"><span class="count"></span></button>
   </nav>
   <nav class="genres-nav">
@@ -30,6 +31,8 @@ const PAGE = `<main>
   </section>
   <section id="oct">
     ${row({ key: 'caifanes', artist: 'CAIFANES', venue: 'Vorterix', country: 'MX' })}
+    ${row({ key: 'divididos', artist: 'Divididos', venue: 'Vorterix', country: 'AR' })}
+    ${row({ key: 'mystery', artist: 'Mystery Act', venue: 'Bar' })}
   </section>
 </main>`;
 
@@ -55,6 +58,11 @@ beforeEach(() => setup());
 
 describe('filters', () => {
   it('shows everything by default', () => {
+    expect(visible()).toEqual(['Ozuna', 'Café Tacvba', 'CAIFANES', 'Divididos', 'Mystery Act']);
+  });
+
+  it('International keeps confirmed non-Argentine acts only', () => {
+    app.setFilter('intl');
     expect(visible()).toEqual(['Ozuna', 'Café Tacvba', 'CAIFANES']);
   });
 
@@ -138,7 +146,7 @@ describe('search', () => {
     q.dispatchEvent(new dom.window.Event('input'));
     expect(visible()).toEqual(['Ozuna']);
     doc.getElementById('q-clear').dispatchEvent(new dom.window.MouseEvent('click', { bubbles: true }));
-    expect(visible()).toHaveLength(3);
+    expect(visible()).toHaveLength(5);
   });
 });
 
@@ -146,7 +154,7 @@ describe('muting', () => {
   it('hides an artist when its row button is clicked', () => {
     doc.querySelector('button.mute[data-mute-key="ozuna"]')
       .dispatchEvent(new dom.window.MouseEvent('click', { bubbles: true }));
-    expect(visible()).toEqual(['Café Tacvba', 'CAIFANES']);
+    expect(visible()).toEqual(['Café Tacvba', 'CAIFANES', 'Divididos', 'Mystery Act']);
   });
 
   it('keeps the artist hidden across a reload', () => {
@@ -190,7 +198,7 @@ describe('muting', () => {
     app.setFilter('muted');
     app.unmute('ozuna');
     expect(app.filter).toBe('all');
-    expect(visible()).toHaveLength(3);
+    expect(visible()).toHaveLength(5);
   });
 
   it('keeps a muted artist out of every other filter', () => {
@@ -212,7 +220,7 @@ describe('muting from the committed list', () => {
   beforeEach(() => setup(['Ozuna']));
 
   it('hides an artist muted in data/muted.json', () => {
-    expect(visible()).toEqual(['Café Tacvba', 'CAIFANES']);
+    expect(visible()).toEqual(['Café Tacvba', 'CAIFANES', 'Divididos', 'Mystery Act']);
   });
 
   it('accepts a display name in the committed file, not just a key', () => {
@@ -286,7 +294,7 @@ describe('genre chips', () => {
   it('clicking the active chip clears it', () => {
     app.setGenre('rock');
     doc.querySelector('[data-genre="rock"]').dispatchEvent(new dom.window.MouseEvent('click', { bubbles: true }));
-    expect(visible()).toHaveLength(3);
+    expect(visible()).toHaveLength(5);
   });
 
   it('marks the active chip', () => {

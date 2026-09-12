@@ -32,6 +32,7 @@ const shareText = `${event.artist} @ ${event.venue} — ${event.date}`;
   data-artist-key={event.artistKey}
   data-search={`${event.artist} ${event.venue} ${event.country ?? ''}`}
   data-genres={families.join(' ')}
+  data-country={event.country ?? ''}
 >
   <div class="left-action">
     {ticket && !past ? (

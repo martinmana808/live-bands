@@ -51,7 +51,7 @@ function renderSection({ title, events, limit }) {
 export function formatDigest(digest, { siteUrl, limit = 25 }) {
   const { today, windowEnd, fortnight, newlyAdded, unconfirmedInWindow = 0 } = digest;
 
-  const header = `🎧 <b>Bands in Town</b> — ${longDate(today)}`;
+  const header = `🎧 <b>LIVEMUSIC</b> — ${longDate(today)}`;
 
   const sections = [
     renderSection({

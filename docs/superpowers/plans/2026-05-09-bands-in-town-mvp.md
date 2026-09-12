@@ -1432,7 +1432,7 @@ function monthLabel(yyyymm) {
   </head>
   <body>
     <main>
-      <h1>International bands in Buenos Aires</h1>
+      <h1 class="hero">LIVEMUSIC</h1>
       {groups.map(g => (
         <section>
           <MonthHeading label={g.label} />

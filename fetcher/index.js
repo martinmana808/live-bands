@@ -2,7 +2,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { normalize } from './normalize.js';
 import { dedupe } from './dedupe.js';
-import { filterInternational, filterTimeWindow } from './filter.js';
+import { filterTimeWindow } from './filter.js';
 import { applyFirstSeen, seedLedger } from './firstseen.js';
 import { checkAdapterHealth, updateHealth } from './health.js';
 import { buildCountryCache, buildSpotifyCache, mergeArtistEntry } from './cache.js';
@@ -14,6 +14,7 @@ import * as songkick from './adapters/songkick.js';
 import * as vorterix from './adapters/vorterix.js';
 import * as niceto from './adapters/niceto.js';
 import * as livepass from './adapters/livepass.js';
+import * as tuentrada from './adapters/tuentrada.js';
 import { todayInBuenosAires } from './today.js';
 
 const ADAPTERS = [
@@ -21,6 +22,7 @@ const ADAPTERS = [
   ['vorterix', vorterix],
   ['niceto', niceto],
   ['livepass', livepass],
+  ['tuentrada', tuentrada],
 ];
 
 const EVENTS_PATH = 'data/events.json';
@@ -118,8 +120,8 @@ async function main() {
     enriched.push({ ...e, country, spotifyId: sp?.id ?? null, spotifyImage: sp?.image ?? null, genres });
   }
 
-  const intl = filterInternational(enriched);
-  const within = filterTimeWindow(intl, today);
+  // Everything stays on the site; the digest is what filters to touring acts.
+  const within = filterTimeWindow(enriched, today);
   within.sort((a, b) => a.date.localeCompare(b.date) || a.artist.localeCompare(b.artist));
   console.log(`Final: ${within.length}`);
 
