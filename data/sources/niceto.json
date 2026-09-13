@@ -1,69 +1,6 @@
 {
-  "fetchedAt": "2026-09-12",
+  "fetchedAt": "2026-09-13",
   "events": [
-    {
-      "artist": "FESTIVAL PARDO: DDT - FANTASMAGORIA - PLAYA NUDISTA -",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/festival-pardo-ddt-fantasmagoria-playa-nudista-uno-x-uno-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "Mamba Clvb 11 Sep",
-      "venue": "Niceto Club",
-      "date": "2026-09-11",
-      "ticketUrl": "https://venti.live/evento/mamba-clvb-21-sep-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "CHOOSEY",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/choosey-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/inti-garc-a-la-multifac-tica-proyectan-ensayo-abierto-live-session-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "BROKE CARREY presenta Hijo del País",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "DESORDEN",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/desorden-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Electra",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/electra-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "ETHER",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/ether-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "ROSE NIGHT",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/rose-night-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Club 69 | 12 SEP",
       "venue": "Niceto Club",
@@ -349,6 +286,69 @@
       "venue": "Niceto Club",
       "date": "2026-09-29",
       "ticketUrl": "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "ALBERT PLA",
+      "venue": "Niceto Club",
+      "date": "2026-09-30",
+      "ticketUrl": "https://venti.live/evento/albert-pla-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "PIANO BAR: MANU PIRÓ",
+      "venue": "Niceto Club",
+      "date": "2026-10-01",
+      "ticketUrl": "https://venti.live/evento/piano-bar-manu-pir",
+      "source": "niceto"
+    },
+    {
+      "artist": "SANTI MUK",
+      "venue": "Niceto Club",
+      "date": "2026-10-02",
+      "ticketUrl": "https://venti.live/evento/santi-muk-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "La Peña de los Vagamundos",
+      "venue": "Niceto Club",
+      "date": "2026-10-02",
+      "ticketUrl": "https://venti.live/evento/la-pe-a-de-los-vagamundos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Ala sur presentando “La Revancha”",
+      "venue": "Niceto Club",
+      "date": "2026-10-02",
+      "ticketUrl": "https://venti.live/evento/ala-sur-presentando-la-revancha-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "AMBKOR",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "ticketUrl": "https://venti.live/evento/ambkor-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Mis Peores Enemigos presenta \"Segundo Lugar\" junto a Full de Mango",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "ticketUrl": "https://venti.live/evento/mis-peores-enemigos-presenta-segundo-lugar-junto-a-full-de-mango-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "ZUB",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "ticketUrl": "https://venti.live/evento/zub-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "MORINIGHT VOL 1 3n Niceto Bar",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "ticketUrl": "https://venti.live/evento/morinight-vol-1-3n-niceto-bar",
       "source": "niceto"
     }
   ]

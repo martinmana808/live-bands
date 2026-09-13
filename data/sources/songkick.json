@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-09-12",
+  "fetchedAt": "2026-09-13",
   "events": [
-    {
-      "artist": "John Summit",
-      "venue": "Mandarine Tent",
-      "date": "2026-09-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Chris Luno",
-      "venue": "Native Beach Club Cardales",
-      "date": "2026-09-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fede cabral",
-      "venue": "Muddys Club",
-      "date": "2026-09-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Rayos Láser",
-      "venue": "La Fábrica Espacio Cultural",
-      "date": "2026-09-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Zell",
-      "venue": "Estadio Cubierto Malvinas Argentinas",
-      "date": "2026-09-12",
-      "source": "songkick"
-    },
     {
       "artist": "Helloween",
       "venue": "Movistar Arena",
@@ -287,6 +257,36 @@
       "artist": "Ararat",
       "venue": "Club Cultural Bula",
       "date": "2026-09-26",
+      "source": "songkick"
+    },
+    {
+      "artist": "Riel",
+      "venue": "Imaginario Cultural",
+      "date": "2026-09-26",
+      "source": "songkick"
+    },
+    {
+      "artist": "bar italia",
+      "venue": "Niceto Club",
+      "date": "2026-09-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "No Fun At All",
+      "venue": "Club Cultural Bula",
+      "date": "2026-09-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "La Bomba De Tiempo",
+      "venue": "Ciudad Cultural Konex",
+      "date": "2026-09-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Morat",
+      "venue": "Movistar Arena",
+      "date": "2026-09-29",
       "source": "songkick"
     }
   ]

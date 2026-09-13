@@ -20,26 +20,6 @@
     "firstSeenAt": "2026-07-02"
   },
   {
-    "id": "festivalpardoddt-2026-09-11-niceto",
-    "shortId": "2636nrs",
-    "artist": "FESTIVAL PARDO: DDT",
-    "artistKey": "festivalpardoddt",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-pardo-ddt-fantasmagoria-playa-nudista-uno-x-uno-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "fiestaclickenvorterix-2026-09-11-vorterix",
     "shortId": "1czrg6x",
     "artist": "FIESTA CLICK EN VORTERIX",
@@ -58,132 +38,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-06"
-  },
-  {
-    "id": "mambaclvb-2026-09-11-niceto",
-    "shortId": "1oe56ed",
-    "artist": "Mamba Clvb",
-    "artistKey": "mambaclvb",
-    "date": "2026-09-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mamba-clvb-21-sep-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-03"
-  },
-  {
-    "id": "autosrobados-2026-09-12-operalp",
-    "shortId": "5me4fdn",
-    "artist": "AUTOS ROBADOS",
-    "artistKey": "autosrobados",
-    "date": "2026-09-12",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5mTDazgxgE8HYpzPckCwV0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17821c2c0b139a6984fb6a30b15",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "bestiabebe-2026-09-12-sanmiguel",
-    "shortId": "nql0urn",
-    "artist": "BESTIA BEBE",
-    "artistKey": "bestiabebe",
-    "date": "2026-09-12",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bestia-bebe-en-san-miguel-2026-09-12-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "3j7kmtxJ0aptdHr9ZCnEkp",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782c87b00855d8ecbb324e46aa",
-    "genres": [
-      "indie rock",
-      "rock"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "brokecarrey-2026-09-12-niceto",
-    "shortId": "arndt2c",
-    "artist": "BROKE CARREY",
-    "artistKey": "brokecarrey",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/broke-carrey-presenta-hijo-del-pa-s-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "6FWTqLIVK9jjMGcNJnF7xE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786710e843a5e0a71378032d39",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "choosey-2026-09-12-niceto",
-    "shortId": "2lo8yuu",
-    "artist": "CHOOSEY",
-    "artistKey": "choosey",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/choosey-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "6nHP3oypvfuYzb5bVFIMVm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178363ec23d3cf289d7dad067e9",
-    "genres": [
-      "hip hop"
-    ],
-    "firstSeenAt": "2026-07-28"
-  },
-  {
-    "id": "chrisluno-2026-09-12-nativebeachcardales",
-    "shortId": "20sne4c",
-    "artist": "Chris Luno",
-    "artistKey": "chrisluno",
-    "date": "2026-09-12",
-    "venue": "Native Beach Club Cardales",
-    "venueKey": "nativebeachcardales",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "DE",
-    "spotifyId": "2fttFhhXMsCbJgf9KqSGcq",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ae84f2440970fbf3557be532",
-    "genres": [
-      "electronic",
-      "organic house"
-    ],
-    "firstSeenAt": "2026-08-23"
   },
   {
     "id": "club69-2026-09-12-niceto",
@@ -226,87 +80,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "desorden-2026-09-12-niceto",
-    "shortId": "bcsiuvb",
-    "artist": "DESORDEN",
-    "artistKey": "desorden",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/desorden-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-18"
-  },
-  {
-    "id": "electra-2026-09-12-niceto",
-    "shortId": "1bjemym",
-    "artist": "Electra",
-    "artistKey": "electra",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/electra-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-27"
-  },
-  {
-    "id": "ether-2026-09-12-niceto",
-    "shortId": "17m0lp4",
-    "artist": "ETHER",
-    "artistKey": "ether",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ether-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "GB",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [
-      "alternative rock",
-      "britpop"
-    ],
-    "firstSeenAt": "2026-08-23"
-  },
-  {
-    "id": "fedecabral-2026-09-12-muddys",
-    "shortId": "9pcngcy",
-    "artist": "Fede cabral",
-    "artistKey": "fedecabral",
-    "date": "2026-09-12",
-    "venue": "Muddys Club",
-    "venueKey": "muddys",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "3AiQjychmM933C9dY4S8It",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-22"
-  },
-  {
     "id": "fiestaforever90s-2026-09-12-vorterix",
     "shortId": "1o6hsde",
     "artist": "FIESTA FOREVER 90s",
@@ -325,91 +98,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "gustavosantaolalla-2026-09-12-salaginasteraargentinolp",
-    "shortId": "298xl83",
-    "artist": "GUSTAVO SANTAOLALLA",
-    "artistKey": "gustavosantaolalla",
-    "date": "2026-09-12",
-    "venue": "la Sala Ginastera - Teatro Argentino LP",
-    "venueKey": "salaginasteraargentinolp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gustavo-santaolalla-en-la-sala-ginastera-teatro-argentino-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "4W3fa7tiXGVXl3KilbACqt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178074781eba0a9c008945cde18",
-    "genres": [
-      "experimental",
-      "latin rock"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "intigarcialamultifaceticaproyectanensayoabiertolivesession-2026-09-12-niceto",
-    "shortId": "gwg4l18",
-    "artist": "Inti García & La Multifacética proyectan Ensayo Abierto Live Session",
-    "artistKey": "intigarcialamultifaceticaproyectanensayoabiertolivesession",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/inti-garc-a-la-multifac-tica-proyectan-ensayo-abierto-live-session-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "johnsummit-2026-09-12-mandarinetent",
-    "shortId": "2l8it3k",
-    "artist": "John Summit",
-    "artistKey": "johnsummit",
-    "date": "2026-09-12",
-    "venue": "Mandarine Tent",
-    "venueKey": "mandarinetent",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7kNqXtgeIwFtelmRjWv205",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17820662b32f3dbabad755dfb53",
-    "genres": [
-      "dance",
-      "edm",
-      "house"
-    ],
-    "firstSeenAt": "2026-08-22"
-  },
-  {
-    "id": "laspastillasdelabuelo-2026-09-12-hipodromoplata",
-    "shortId": "2gitwih",
-    "artist": "LAS PASTILLAS DEL ABUELO",
-    "artistKey": "laspastillasdelabuelo",
-    "date": "2026-09-12",
-    "venue": "el Hipódromo de La Plata",
-    "venueKey": "hipodromoplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pastillas-del-abuelo-en-el-hipodromo-de-la-plata"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "0D5U7oXEE4dut2DPyUDLca",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178223f1bcbaec4933dd0917c02",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "lazarocaballero-2026-09-12-granrex",
@@ -432,184 +120,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "leiparty-2026-09-12-quilmes",
-    "shortId": "tgnpqhl",
-    "artist": "LEIPARTY",
-    "artistKey": "leiparty",
-    "date": "2026-09-12",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/leiparty-en-quilmes"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "nilocos-2026-09-12-cafeberlin",
-    "shortId": "22awisw",
-    "artist": "Nilocos",
-    "artistKey": "nilocos",
-    "date": "2026-09-12",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/nilocos-en-cafe-berlin-2026-09-12-16-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "6FuVoI0I9rIsRLlRmftbxX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d9ee8bc281cb9ec0711f306c",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "nochesdeteatro-2026-09-12-cafeberlin",
-    "shortId": "1gvba7h",
-    "artist": "Noches de Teatro",
-    "artistKey": "nochesdeteatro",
-    "date": "2026-09-12",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "0q31lgZ7Ug5cQUJBbqFDcT",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "oeisis-2026-09-12-guajiralp",
-    "shortId": "qrs94mv",
-    "artist": "OEISIS",
-    "artistKey": "oeisis",
-    "date": "2026-09-12",
-    "venue": "Guajira LP",
-    "venueKey": "guajiralp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/oeisis-en-guajira-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "rayoslaser-2026-09-12-fabricaespaciocultural",
-    "shortId": "2pztvc7",
-    "artist": "Rayos Láser",
-    "artistKey": "rayoslaser",
-    "date": "2026-09-12",
-    "venue": "La Fábrica Espacio Cultural",
-    "venueKey": "fabricaespaciocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "3WGilHlQrv83h1CbF18BEs",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785cf1c93f1e9e460ed02c0741",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "rosenight-2026-09-12-niceto",
-    "shortId": "1gonxs5",
-    "artist": "ROSE NIGHT",
-    "artistKey": "rosenight",
-    "date": "2026-09-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/rose-night-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-23"
-  },
-  {
-    "id": "sobredosisdesodaintimoyalacarta-2026-09-12-cafeberlin",
-    "shortId": "rzod9f2",
-    "artist": "Sobredosis de Soda íntimo y a la carta",
-    "artistKey": "sobredosisdesodaintimoyalacarta",
-    "date": "2026-09-12",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sobredosis-de-soda-en-cafe-berlin-2026-09-12-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "standardsessionamericansongbookessentials-2026-09-12-ccnu",
-    "shortId": "va7zj9b",
-    "artist": "STANDARD SESSION: American Songbook Essentials",
-    "artistKey": "standardsessionamericansongbookessentials",
-    "date": "2026-09-12",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/standard-session-american-songbook-essentials-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "treasuresofclassicjazz-2026-09-12-ccnu",
-    "shortId": "ecfcsmc",
-    "artist": "Treasures of Classic Jazz",
-    "artistKey": "treasuresofclassicjazz",
-    "date": "2026-09-12",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "zell-2026-09-12-cubiertomalvinasargentinas",
     "shortId": "1f3fodt",
     "artist": "Zell",
@@ -621,7 +131,6 @@
       "https://www.tuentrada.com/zell-ecma"
     ],
     "sources": [
-      "songkick",
       "tuentrada"
     ],
     "country": "AR",
@@ -3351,6 +2860,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "riel-2026-09-26-imaginariocultural",
+    "shortId": "ulwro8b",
+    "artist": "Riel",
+    "artistKey": "riel",
+    "date": "2026-09-26",
+    "venue": "Imaginario Cultural",
+    "venueKey": "imaginariocultural",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
     "id": "smilelion-2026-09-26-tiobizarro",
     "shortId": "ymuqw54",
     "artist": "SMILE LION",
@@ -3411,7 +2938,7 @@
   {
     "id": "baritalia-2026-09-27-niceto",
     "shortId": "12b0yyb",
-    "artist": "BAR ITALIA",
+    "artist": "bar italia",
     "artistKey": "baritalia",
     "date": "2026-09-27",
     "venue": "Niceto Club",
@@ -3420,6 +2947,7 @@
       "https://venti.live/evento/bar-italia-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": null,
@@ -3513,6 +3041,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "nofunatall-2026-09-27-culturalbula",
+    "shortId": "1sowsi9",
+    "artist": "No Fun At All",
+    "artistKey": "nofunatall",
+    "date": "2026-09-27",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "SE",
+    "spotifyId": "6usO1o98RY3cUWxqaQxi8O",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785288a94d155d8e8f09b74219",
+    "genres": [
+      "punk"
+    ],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
     "id": "sebastianbraseroswingbook-2026-09-27-ccnu",
     "shortId": "1ktwwll",
     "artist": "Sebastian Brasero Swingbook",
@@ -3551,6 +3099,24 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785c3ceeac0ceac5a139879108",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "labombadetiempo-2026-09-28-ciudadculturalkonex",
+    "shortId": "2i86ofg",
+    "artist": "La Bomba De Tiempo",
+    "artistKey": "labombadetiempo",
+    "date": "2026-09-28",
+    "venue": "Ciudad Cultural Konex",
+    "venueKey": "ciudadculturalkonex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "larockandfolk-2026-09-28-niceto",
@@ -3653,6 +3219,47 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "morat-2026-09-29-movistararena",
+    "shortId": "122lvre",
+    "artist": "Morat",
+    "artistKey": "morat",
+    "date": "2026-09-29",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "genres": [
+      "latin",
+      "latin pop"
+    ],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
+    "id": "albertpla-2026-09-30-niceto",
+    "shortId": "1y8uyb9",
+    "artist": "ALBERT PLA",
+    "artistKey": "albertpla",
+    "date": "2026-09-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/albert-pla-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "ES",
+    "spotifyId": "0oIls1SE66gDuk4BZObFaN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f7282d5194c20555039dc0fa",
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "danielmazayleonardoamuedo-2026-09-30-gualeguaychu",
@@ -3837,6 +3444,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "pianobarmanupiro-2026-10-01-niceto",
+    "shortId": "2nk3iaw",
+    "artist": "PIANO BAR: MANU PIRÓ",
+    "artistKey": "pianobarmanupiro",
+    "date": "2026-10-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/piano-bar-manu-pir"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
     "id": "placeresculposos100programasdenda-2026-10-01-ccnu",
     "shortId": "nf5uk17",
     "artist": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
@@ -3855,6 +3482,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "alasurpresentandolarevancha-2026-10-02-niceto",
+    "shortId": "1ridqkp",
+    "artist": "Ala sur presentando “La Revancha”",
+    "artistKey": "alasurpresentandolarevancha",
+    "date": "2026-10-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ala-sur-presentando-la-revancha-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "ekisdefest-2026-10-02-vorterix",
@@ -3937,6 +3584,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "lapenadelosvagamundos-2026-10-02-niceto",
+    "shortId": "h3r75dq",
+    "artist": "La Peña de los Vagamundos",
+    "artistKey": "lapenadelosvagamundos",
+    "date": "2026-10-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-pe-a-de-los-vagamundos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
     "id": "lecturaclairekeeganporclairekeegan-2026-10-02-malba",
     "shortId": "11z3z6f",
     "artist": "Lectura. Claire Keegan por Claire Keegan",
@@ -3975,6 +3642,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "santimuk-2026-10-02-niceto",
+    "shortId": "aklcj2s",
+    "artist": "SANTI MUK",
+    "artistKey": "santimuk",
+    "date": "2026-10-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/santi-muk-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "0IaiZRhsEDKT58KYfU5isz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896e099fb93010c90ceaaa010",
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "sindatos-2026-10-02-guajiralp",
@@ -4038,6 +3725,26 @@
       "power pop"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "ambkor-2026-10-03-niceto",
+    "shortId": "v018nsq",
+    "artist": "AMBKOR",
+    "artistKey": "ambkor",
+    "date": "2026-10-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ambkor-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "ES",
+    "spotifyId": "5iQNy7hQGe1suvNOQz19Jz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178113a11577de3b03154858b97",
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "cadenaperpetua-2026-10-03-re",
@@ -4180,6 +3887,46 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "mispeoresenemigos-2026-10-03-niceto",
+    "shortId": "bax1i6w",
+    "artist": "Mis Peores Enemigos",
+    "artistKey": "mispeoresenemigos",
+    "date": "2026-10-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mis-peores-enemigos-presenta-segundo-lugar-junto-a-full-de-mango-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "22LHabWSUjUAg3UP4PPjN4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c207decf6ebcee31dc3ee2f",
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
+    "id": "morinightvol13nnicetobar-2026-10-03-niceto",
+    "shortId": "2qryjw4",
+    "artist": "MORINIGHT VOL 1 3n Niceto Bar",
+    "artistKey": "morinightvol13nnicetobar",
+    "date": "2026-10-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/morinight-vol-1-3n-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
+  },
+  {
     "id": "patcoriatrio-2026-10-03-ccnu",
     "shortId": "1m6s9zu",
     "artist": "PAT CORIA TRIO",
@@ -4238,6 +3985,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "zub-2026-10-03-niceto",
+    "shortId": "1z7jbxc",
+    "artist": "ZUB",
+    "artistKey": "zub",
+    "date": "2026-10-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/zub-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-13"
   },
   {
     "id": "chuecasylocas-2026-10-04-cafeberlin",

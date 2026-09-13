@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-09-12",
+  "fetchedAt": "2026-09-13",
   "events": [
-    {
-      "artist": "LAS PASTILLAS DEL ABUELO",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/pastillas-del-abuelo-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
       "venue": "la Sala Ginastera - Teatro Argentino LP",
@@ -90,76 +83,6 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
-      "artist": "Nilocos",
-      "venue": "Café Berlín",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/nilocos-en-cafe-berlin-2026-09-12-16-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "STANDARD SESSION: American Songbook Essentials",
-      "venue": "CCNU",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/standard-session-american-songbook-essentials-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "GUSTAVO SANTAOLALLA",
-      "venue": "la Sala Ginastera - Teatro Argentino LP",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/gustavo-santaolalla-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "OEISIS",
-      "venue": "Guajira LP",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/oeisis-en-guajira-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "AUTOS ROBADOS",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/autos-robados-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sobredosis de Soda íntimo y a la carta",
-      "venue": "Café Berlín",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-en-cafe-berlin-2026-09-12-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "BESTIA BEBE",
-      "venue": "San Miguel",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/bestia-bebe-en-san-miguel-2026-09-12-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Treasures of Classic Jazz",
-      "venue": "CCNU",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Noches de Teatro - Modo Familia",
-      "venue": "Café Berlín",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "LEIPARTY",
-      "venue": "Quilmes",
-      "date": "2026-09-12",
-      "ticketUrl": "https://livepass.com.ar/events/leiparty-en-quilmes",
       "source": "livepass"
     },
     {
