@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-09-13",
+  "fetchedAt": "2026-09-14",
   "events": [
-    {
-      "artist": "Helloween",
-      "venue": "Movistar Arena",
-      "date": "2026-09-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "Toe",
-      "venue": "Niceto Club",
-      "date": "2026-09-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "Don Olimpio, Nadia Larcher, Andres Pilar, Juan Pablo Di Leone, Milagros Caliva, Juan Manuel Colombo, Agustin Lumerman, Diego Amerise, and Federico Randazzo",
-      "venue": "Sala Alejandro Casona",
-      "date": "2026-09-13",
-      "source": "songkick"
-    },
     {
       "artist": "Stray Kids",
       "venue": "Hipódromo de San Isidro",
@@ -287,6 +269,30 @@
       "artist": "Morat",
       "venue": "Movistar Arena",
       "date": "2026-09-29",
+      "source": "songkick"
+    },
+    {
+      "artist": "Blonde Redhead",
+      "venue": "C Complejo Art Media",
+      "date": "2026-09-29",
+      "source": "songkick"
+    },
+    {
+      "artist": "Sonata Arctica",
+      "venue": "El Teatro Flores",
+      "date": "2026-09-29",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lindsey Stirling",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "Morat",
+      "venue": "Movistar Arena",
+      "date": "2026-09-30",
       "source": "songkick"
     }
   ]

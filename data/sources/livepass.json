@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-09-13",
+  "fetchedAt": "2026-09-14",
   "events": [
-    {
-      "artist": "IÑAKI URLEZAGA - EL APLAUSO FINAL",
-      "venue": "la Sala Ginastera - Teatro Argentino LP",
-      "date": "2026-09-13",
-      "ticketUrl": "https://livepass.com.ar/events/inaki-urlezaga-el-aplauso-final-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
     {
       "artist": "DIEGO TORRES",
       "venue": "el Hipódromo de La Plata",
@@ -83,27 +76,6 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
-      "artist": "Dúo Trixie y Meteoro",
-      "venue": "CCNU",
-      "date": "2026-09-13",
-      "ticketUrl": "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Francia 98",
-      "venue": "Café Berlín",
-      "date": "2026-09-13",
-      "ticketUrl": "https://livepass.com.ar/events/francia-98-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Chico Jota Sexteto plays Mosaic",
-      "venue": "CCNU",
-      "date": "2026-09-13",
-      "ticketUrl": "https://livepass.com.ar/events/chico-jota-sexteto-plays-mosaic-en-ccnu",
       "source": "livepass"
     },
     {
@@ -1175,6 +1147,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-02",
       "ticketUrl": "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "LUZ GAGGI",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-12-05",
+      "ticketUrl": "https://livepass.com.ar/events/luz-gaggi-en-el-teatro-opera-lp-2026-12-05",
       "source": "livepass"
     },
     {

@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-09-13",
+  "fetchedAt": "2026-09-14",
   "events": [
-    {
-      "artist": "Club 69 | 12 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-12",
-      "ticketUrl": "https://venti.live/evento/club-69-12-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "TOE",
-      "venue": "Niceto Club",
-      "date": "2026-09-13",
-      "ticketUrl": "https://venti.live/evento/toe-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Presentación del libro Invenciones sobre Babasónicos",
       "venue": "Niceto Club",
@@ -349,6 +335,20 @@
       "venue": "Niceto Club",
       "date": "2026-10-03",
       "ticketUrl": "https://venti.live/evento/morinight-vol-1-3n-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Chapterhouse",
+      "venue": "Niceto Club",
+      "date": "2026-10-04",
+      "ticketUrl": "https://venti.live/evento/chapterhouse-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "J4MES",
+      "venue": "Niceto Club",
+      "date": "2026-10-08",
+      "ticketUrl": "https://venti.live/evento/j4mes-en-niceto-club",
       "source": "niceto"
     }
   ]

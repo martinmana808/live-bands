@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12",
+  "fetchedAt": "2026-09-14",
   "events": [
     {
       "artist": "Midachi",
@@ -156,13 +156,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Zell",
-      "venue": "Estadio Cubierto Malvinas Argentinas",
-      "date": "2026-09-12",
-      "ticketUrl": "https://www.tuentrada.com/zell-ecma",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Alex Ubago",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-07",
@@ -170,17 +163,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Lazaro Caballero",
+      "artist": "Djavan",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-12",
-      "ticketUrl": "https://www.tuentrada.com/lazaro-caballero-tgr",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
       "source": "tuentrada"
     },
     {
-      "artist": "Lazaro Caballero",
+      "artist": "Alex Anwandter",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-13",
-      "ticketUrl": "https://www.tuentrada.com/lazaro-caballero-tgr",
+      "date": "2026-09-18",
+      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
       "source": "tuentrada"
     },
     {
@@ -198,17 +191,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Alex Anwandter",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-18",
-      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Los Meñiques De La Casa",
       "venue": "Teatro Gran Rex",
       "date": "2026-09-20",
       "ticketUrl": "https://www.tuentrada.com/meniques-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Conociendo Rusia",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-25",
+      "ticketUrl": "https://www.tuentrada.com/conociendo-rusia-tgr",
       "source": "tuentrada"
     }
   ]
