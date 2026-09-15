@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14",
+  "fetchedAt": "2026-09-15",
   "events": [
     {
       "artist": "Presentación del libro Invenciones sobre Babasónicos",
@@ -170,6 +170,13 @@
       "source": "niceto"
     },
     {
+      "artist": "RECámara Primavera",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/rec-mara-primavera-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "LATIN PIANO BAR",
       "venue": "Niceto Club",
       "date": "2026-09-25",
@@ -310,6 +317,13 @@
       "source": "niceto"
     },
     {
+      "artist": "OKTOBER KENCH",
+      "venue": "Niceto Club",
+      "date": "2026-10-02",
+      "ticketUrl": "https://venti.live/evento/oktober-kench-en-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "AMBKOR",
       "venue": "Niceto Club",
       "date": "2026-10-03",
@@ -335,20 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-03",
       "ticketUrl": "https://venti.live/evento/morinight-vol-1-3n-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Chapterhouse",
-      "venue": "Niceto Club",
-      "date": "2026-10-04",
-      "ticketUrl": "https://venti.live/evento/chapterhouse-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "J4MES",
-      "venue": "Niceto Club",
-      "date": "2026-10-08",
-      "ticketUrl": "https://venti.live/evento/j4mes-en-niceto-club",
       "source": "niceto"
     }
   ]

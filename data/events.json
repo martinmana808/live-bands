@@ -80,46 +80,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "labombadetiempo-2026-09-14-ciudadculturalkonex",
-    "shortId": "1zuzhi4",
-    "artist": "La Bomba De Tiempo",
-    "artistKey": "labombadetiempo",
-    "date": "2026-09-14",
-    "venue": "Ciudad Cultural Konex",
-    "venueKey": "ciudadculturalkonex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "straykids-2026-09-14-hipodromosanisidro",
-    "shortId": "24l6e2y",
-    "artist": "Stray Kids",
-    "artistKey": "straykids",
-    "date": "2026-09-14",
-    "venue": "Hipódromo de San Isidro",
-    "venueKey": "hipodromosanisidro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "KR",
-    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
-    "genres": [
-      "k-pop",
-      "electropop",
-      "pop rap"
-    ],
-    "firstSeenAt": "2026-08-26"
-  },
-  {
     "id": "florbertotti-2026-09-15-granrex",
     "shortId": "21t25ha",
     "artist": "Flor Bertotti",
@@ -2297,6 +2257,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "recamaraprimavera-2026-09-25-niceto",
+    "shortId": "ewqoxyl",
+    "artist": "RECámara Primavera",
+    "artistKey": "recamaraprimavera",
+    "date": "2026-09-25",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/rec-mara-primavera-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-15"
+  },
+  {
     "id": "rompiendoespejos-2026-09-25-operalp",
     "shortId": "jivy1s8",
     "artist": "ROMPIENDO ESPEJOS",
@@ -3065,7 +3045,7 @@
   {
     "id": "albertpla-2026-09-30-niceto",
     "shortId": "1y8uyb9",
-    "artist": "ALBERT PLA",
+    "artist": "Albert Pla",
     "artistKey": "albertpla",
     "date": "2026-09-30",
     "venue": "Niceto Club",
@@ -3074,6 +3054,7 @@
       "https://venti.live/evento/albert-pla-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": "ES",
@@ -3348,6 +3329,28 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "robbiewilliams-2026-10-01-movistararena",
+    "shortId": "f20ay9x",
+    "artist": "Robbie Williams",
+    "artistKey": "robbiewilliams",
+    "date": "2026-10-01",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "2HcwFjNelS49kFbfvMxQYw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ec4b5ff594ae3d7c5622cf23",
+    "genres": [
+      "pop",
+      "britpop",
+      "pop rock"
+    ],
+    "firstSeenAt": "2026-09-15"
+  },
+  {
     "id": "alasurpresentandolarevancha-2026-10-02-niceto",
     "shortId": "1ridqkp",
     "artist": "Ala sur presentando “La Revancha”",
@@ -3486,6 +3489,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "oktoberkench-2026-10-02-niceto",
+    "shortId": "22umo95",
+    "artist": "OKTOBER KENCH",
+    "artistKey": "oktoberkench",
+    "date": "2026-10-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/oktober-kench-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-15"
   },
   {
     "id": "porelsur-2026-10-02-cafeberlin",
@@ -3871,26 +3894,6 @@
     "firstSeenAt": "2026-09-13"
   },
   {
-    "id": "chapterhouse-2026-10-04-niceto",
-    "shortId": "19wn4hw",
-    "artist": "Chapterhouse",
-    "artistKey": "chapterhouse",
-    "date": "2026-10-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/chapterhouse-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3r94PF71LWRI5K6wqclNjQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178726c23578f3e4b35a55a404f",
-    "genres": [],
-    "firstSeenAt": "2026-09-14"
-  },
-  {
     "id": "chuecasylocas-2026-10-04-cafeberlin",
     "shortId": "11eodle",
     "artist": "Chuecas y Locas",
@@ -3993,26 +3996,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "j4mes-2026-10-08-niceto",
-    "shortId": "8kt2eoy",
-    "artist": "J4MES",
-    "artistKey": "j4mes",
-    "date": "2026-10-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/j4mes-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "1QR3Y3SClEg7rddguLp2Oa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c54f2d813f4f9e5fcea40810",
-    "genres": [],
-    "firstSeenAt": "2026-09-14"
   },
   {
     "id": "sentimentalsyncopators-2026-10-08-cafeberlin",
@@ -4330,6 +4313,26 @@
       "progressive metal"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "masmusica-2026-10-11-cafeberlin",
+    "shortId": "1gjgqj1",
+    "artist": "Más Música",
+    "artistKey": "masmusica",
+    "date": "2026-10-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-11"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-15"
   },
   {
     "id": "tkenbuenosaires-2026-10-11-vorterix",
@@ -6625,6 +6628,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "diegocapusotto-2026-12-05-cafeberlin",
+    "shortId": "zh3dqh3",
+    "artist": "Diego Capusotto",
+    "artistKey": "diegocapusotto",
+    "date": "2026-12-05",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/diego-capusotto-presenta-lado-c-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "1e8Ln19jpa9WkUm5w37bPQ",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-15"
+  },
+  {
     "id": "luzgaggi-2026-12-05-operalp",
     "shortId": "1smf6v7",
     "artist": "LUZ GAGGI",
@@ -6683,6 +6706,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "latencia-2026-12-09-cafeberlin",
+    "shortId": "2g21vsu",
+    "artist": "Latencia",
+    "artistKey": "latencia",
+    "date": "2026-12-09",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/latencia-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "4tv62amIR9THaXfqYwj24C",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485132a7d7c95b3e6b5cf68b161b",
+    "genres": [],
+    "firstSeenAt": "2026-09-15"
   },
   {
     "id": "gondwanaquiqueneira-2026-12-11-vorterix",

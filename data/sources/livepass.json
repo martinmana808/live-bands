@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14",
+  "fetchedAt": "2026-09-15",
   "events": [
     {
       "artist": "DIEGO TORRES",
@@ -653,6 +653,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-10-11",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-11",
+      "source": "livepass"
+    },
+    {
       "artist": "Festival de Cocina y Teatro Judío",
       "venue": "Café Berlín",
       "date": "2026-10-13",
@@ -1154,6 +1161,20 @@
       "venue": "el Teatro Ópera LP",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/luz-gaggi-en-el-teatro-opera-lp-2026-12-05",
+      "source": "livepass"
+    },
+    {
+      "artist": "Diego Capusotto presenta Lado C",
+      "venue": "Café Berlín",
+      "date": "2026-12-05",
+      "ticketUrl": "https://livepass.com.ar/events/diego-capusotto-presenta-lado-c-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Latencia",
+      "venue": "Café Berlín",
+      "date": "2026-12-09",
+      "ticketUrl": "https://livepass.com.ar/events/latencia-en-cafe-berlin",
       "source": "livepass"
     },
     {

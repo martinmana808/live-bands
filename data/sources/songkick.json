@@ -1,18 +1,6 @@
 {
-  "fetchedAt": "2026-09-14",
+  "fetchedAt": "2026-09-15",
   "events": [
-    {
-      "artist": "Stray Kids",
-      "venue": "Hipódromo de San Isidro",
-      "date": "2026-09-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "La Bomba De Tiempo",
-      "venue": "Ciudad Cultural Konex",
-      "date": "2026-09-14",
-      "source": "songkick"
-    },
     {
       "artist": "Stray Kids",
       "venue": "Hipódromo de San Isidro",
@@ -293,6 +281,18 @@
       "artist": "Morat",
       "venue": "Movistar Arena",
       "date": "2026-09-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "Albert Pla",
+      "venue": "Niceto Club",
+      "date": "2026-09-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "Robbie Williams",
+      "venue": "Movistar Arena",
+      "date": "2026-10-01",
       "source": "songkick"
     }
   ]
