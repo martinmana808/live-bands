@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15",
+  "fetchedAt": "2026-09-16",
   "events": [
     {
       "artist": "DIEGO TORRES",
@@ -233,10 +233,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Camping",
+      "venue": "CCNU",
+      "date": "2026-09-23",
+      "ticketUrl": "https://livepass.com.ar/events/camping-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Rikyn",
       "venue": "Café Berlín",
       "date": "2026-09-23",
       "ticketUrl": "https://livepass.com.ar/events/rikyn-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Cornejo - Tamburo - Charchir - Oqui",
+      "venue": "CCNU",
+      "date": "2026-09-23",
+      "ticketUrl": "https://livepass.com.ar/events/cornejo-tamburo-charchir-oqui-en-ccnu",
       "source": "livepass"
     },
     {
@@ -737,6 +751,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Pez",
+      "venue": "Café Berlín",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/pez-en-cafe-berlin-2026-10-17-20",
+      "source": "livepass"
+    },
+    {
       "artist": "Interpaul",
       "venue": "Café Berlín",
       "date": "2026-10-17",
@@ -818,6 +839,13 @@
       "venue": "San Miguel",
       "date": "2026-10-24",
       "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "143LETI + BIC",
+      "venue": "Guajira LP",
+      "date": "2026-10-25",
+      "ticketUrl": "https://livepass.com.ar/events/143leti-bic-en-guajira-lp",
       "source": "livepass"
     },
     {
@@ -926,13 +954,6 @@
       "source": "livepass"
     },
     {
-      "artist": "SUDESTADA",
-      "venue": "CCNU",
-      "date": "2026-11-06",
-      "ticketUrl": "https://livepass.com.ar/events/sudestada-en-ccnu-2026-11-06-22-30-00-0300",
-      "source": "livepass"
-    },
-    {
       "artist": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
       "venue": "Sala Piazzolla - Teatro Argentino LP",
       "date": "2026-11-07",
@@ -979,6 +1000,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-11",
       "ticketUrl": "https://livepass.com.ar/events/leo-garzon-en-cafe-berlin-2026-11-11-20",
+      "source": "livepass"
+    },
+    {
+      "artist": "SUDESTADA",
+      "venue": "CCNU",
+      "date": "2026-11-11",
+      "ticketUrl": "https://livepass.com.ar/events/sudestada-en-ccnu-2026-11-06-22-30-00-0300",
       "source": "livepass"
     },
     {
@@ -1042,6 +1070,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-14",
       "ticketUrl": "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pipo Cipolatti",
+      "venue": "Café Berlín",
+      "date": "2026-11-19",
+      "ticketUrl": "https://livepass.com.ar/events/pipo-cipolatti-en-cafe-berlin-2026-11-19-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -1122,6 +1157,13 @@
       "source": "livepass"
     },
     {
+      "artist": "COSMIC KID",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/cosmic-kid-en-el-teatro-opera-lp",
+      "source": "livepass"
+    },
+    {
       "artist": "Fernando Cabrera - Hugo Fattoruso",
       "venue": "Café Berlín",
       "date": "2026-11-28",
@@ -1189,6 +1231,13 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Johnny Tedesco",
+      "venue": "Café Berlín",
+      "date": "2026-12-18",
+      "ticketUrl": "https://livepass.com.ar/events/johnny-tedesco-en-cafe-berlin-18-12-26",
       "source": "livepass"
     },
     {

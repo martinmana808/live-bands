@@ -1,6 +1,6 @@
 {
   "songkick": {
-    "count": 49,
+    "count": 0,
     "lastHealthyAt": "2026-09-15"
   },
   "vorterix": {
@@ -9,14 +9,14 @@
   },
   "niceto": {
     "count": 50,
-    "lastHealthyAt": "2026-09-15"
+    "lastHealthyAt": "2026-09-16"
   },
   "livepass": {
-    "count": 172,
-    "lastHealthyAt": "2026-09-15"
+    "count": 179,
+    "lastHealthyAt": "2026-09-16"
   },
   "tuentrada": {
     "count": 29,
-    "lastHealthyAt": "2026-09-15"
+    "lastHealthyAt": "2026-09-16"
   }
 }

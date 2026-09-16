@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15",
+  "fetchedAt": "2026-09-16",
   "events": [
     {
       "artist": "Presentación del libro Invenciones sobre Babasónicos",
@@ -69,6 +69,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-18",
       "ticketUrl": "https://venti.live/evento/oasis-18-sep-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "LIBRE + SIMULANDO UN VUELO",
+      "venue": "Niceto Club",
+      "date": "2026-09-18",
+      "ticketUrl": "https://venti.live/evento/libre-simulando-un-vuelo-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -205,6 +212,13 @@
       "source": "niceto"
     },
     {
+      "artist": "DE HOUSE A TECHNO PRES. AS25K & GROOVE DEALER",
+      "venue": "Niceto Club",
+      "date": "2026-09-25",
+      "ticketUrl": "https://venti.live/evento/de-house-a-techno-pres-as25k-groove-dealer-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "VULKA + OMORA",
       "venue": "Niceto Club",
       "date": "2026-09-25",
@@ -335,20 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-03",
       "ticketUrl": "https://venti.live/evento/mis-peores-enemigos-presenta-segundo-lugar-junto-a-full-de-mango-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "ZUB",
-      "venue": "Niceto Club",
-      "date": "2026-10-03",
-      "ticketUrl": "https://venti.live/evento/zub-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "MORINIGHT VOL 1 3n Niceto Bar",
-      "venue": "Niceto Club",
-      "date": "2026-10-03",
-      "ticketUrl": "https://venti.live/evento/morinight-vol-1-3n-niceto-bar",
       "source": "niceto"
     }
   ]
