@@ -44,20 +44,20 @@
       }
     ]
   },
-  "flor-bertotti-tgr": {
+  "raphael-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
       {
-        "date": "2026-09-15",
+        "date": "2026-10-17",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Flor Bertotti"
+        "name": "Raphael"
       },
       {
-        "date": "2026-09-16",
+        "date": "2026-10-19",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Flor Bertotti"
+        "name": "Raphael"
       }
     ]
   },
@@ -101,20 +101,25 @@
       }
     ]
   },
-  "raphael-tgr": {
+  "lfdaa-tucuman": {
     "fetchedAt": "2026-09-14",
     "sessions": [
       {
-        "date": "2026-10-17",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Raphael"
-      },
+        "date": "2026-10-10",
+        "venue": "Hipodromo De Tucuman",
+        "city": "San Miguel De Tucumán",
+        "name": "Los Fundamentalistas Del Aire Acondicionado"
+      }
+    ]
+  },
+  "el-kuelgue-amr": {
+    "fetchedAt": "2026-09-14",
+    "sessions": [
       {
-        "date": "2026-10-19",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Raphael"
+        "date": "2026-09-26",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "El Kuelgue"
       }
     ]
   },
@@ -181,17 +186,6 @@
       }
     ]
   },
-  "lfdaa-tucuman": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-10-10",
-        "venue": "Hipodromo De Tucuman",
-        "city": "San Miguel De Tucumán",
-        "name": "Los Fundamentalistas Del Aire Acondicionado"
-      }
-    ]
-  },
   "alex-ubago-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -255,14 +249,14 @@
       }
     ]
   },
-  "el-kuelgue-amr": {
-    "fetchedAt": "2026-09-14",
+  "lindsey-stirling-tgr": {
+    "fetchedAt": "2026-09-17",
     "sessions": [
       {
-        "date": "2026-09-26",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "El Kuelgue"
+        "date": "2026-09-30",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Lindsey Stirling - Duality Tour"
       }
     ]
   },

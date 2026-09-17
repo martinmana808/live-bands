@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16",
+  "fetchedAt": "2026-09-17",
   "events": [
     {
       "artist": "Midachi",
@@ -37,17 +37,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Flor Bertotti",
+      "artist": "Raphael",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-15",
-      "ticketUrl": "https://www.tuentrada.com/flor-bertotti-tgr",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
       "source": "tuentrada"
     },
     {
-      "artist": "Flor Bertotti",
+      "artist": "Raphael",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-16",
-      "ticketUrl": "https://www.tuentrada.com/flor-bertotti-tgr",
+      "date": "2026-10-19",
+      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
       "source": "tuentrada"
     },
     {
@@ -83,20 +83,6 @@
       "venue": "Teatro Colón",
       "date": "2026-10-23",
       "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Raphael",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Raphael",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-19",
-      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
       "source": "tuentrada"
     },
     {
@@ -167,6 +153,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Lindsey Stirling - Duality Tour",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-30",
+      "ticketUrl": "https://www.tuentrada.com/lindsey-stirling-tgr",
       "source": "tuentrada"
     },
     {

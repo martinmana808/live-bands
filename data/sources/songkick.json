@@ -1,30 +1,6 @@
 {
-  "fetchedAt": "2026-09-15",
+  "fetchedAt": "2026-09-17",
   "events": [
-    {
-      "artist": "Stray Kids",
-      "venue": "Hipódromo de San Isidro",
-      "date": "2026-09-15",
-      "source": "songkick"
-    },
-    {
-      "artist": "Florencia Bertotti",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-15",
-      "source": "songkick"
-    },
-    {
-      "artist": "5 Seconds of Summer",
-      "venue": "Movistar Arena",
-      "date": "2026-09-16",
-      "source": "songkick"
-    },
-    {
-      "artist": "Florencia Bertotti",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-16",
-      "source": "songkick"
-    },
     {
       "artist": "Jamiroquai",
       "venue": "Hipódromo de San Isidro",
@@ -148,6 +124,12 @@
     {
       "artist": "Noelia Sinkunas and Lucy Patané",
       "venue": "La Fábrica",
+      "date": "2026-09-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Morat",
+      "venue": "Movistar Arena",
       "date": "2026-09-22",
       "source": "songkick"
     },
@@ -293,6 +275,24 @@
       "artist": "Robbie Williams",
       "venue": "Movistar Arena",
       "date": "2026-10-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Motel Montpellier",
+      "venue": "Centro Cultural Thames",
+      "date": "2026-10-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Robbie Williams",
+      "venue": "Movistar Arena",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ana Carolina",
+      "venue": "La Trastienda",
+      "date": "2026-10-02",
       "source": "songkick"
     }
   ]

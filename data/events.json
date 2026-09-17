@@ -80,164 +80,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "florbertotti-2026-09-15-granrex",
-    "shortId": "21t25ha",
-    "artist": "Flor Bertotti",
-    "artistKey": "florbertotti",
-    "date": "2026-09-15",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
+    "id": "fanweek-2026-09-16-livepass",
+    "shortId": "2don91e",
+    "artist": "FANWEEK",
+    "artistKey": "fanweek",
+    "date": "2026-09-16",
+    "venue": "Livepass",
+    "venueKey": "livepass",
     "ticketUrls": [
-      "https://www.tuentrada.com/flor-bertotti-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "florenciabertotti-2026-09-15-granrex",
-    "shortId": "20kx2lt",
-    "artist": "Florencia Bertotti",
-    "artistKey": "florenciabertotti",
-    "date": "2026-09-15",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "robertoantier-2026-09-15-cafeberlin",
-    "shortId": "1nwvtsa",
-    "artist": "Roberto Antier",
-    "artistKey": "robertoantier",
-    "date": "2026-09-15",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/roberto-antier-generacion-mareada-en-cafe-berlin"
+      "https://livepass.com.ar/events/fan-week-move-concerts"
     ],
     "sources": [
       "livepass"
     ],
     "country": null,
-    "spotifyId": "0veXXp2k4dPCQcgEFQWqas",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "straykids-2026-09-15-hipodromosanisidro",
-    "shortId": "wbzwmho",
-    "artist": "Stray Kids",
-    "artistKey": "straykids",
-    "date": "2026-09-15",
-    "venue": "Hipódromo de San Isidro",
-    "venueKey": "hipodromosanisidro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "KR",
-    "spotifyId": "2dIgFjalVxs4ThymZ67YCE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17891be1e574fd2e0992f94decb",
-    "genres": [
-      "k-pop",
-      "electropop",
-      "pop rap"
-    ],
-    "firstSeenAt": "2026-08-29"
-  },
-  {
-    "id": "5secondsofsummer-2026-09-16-movistararena",
-    "shortId": "2qg1a77",
-    "artist": "5 Seconds of Summer",
-    "artistKey": "5secondsofsummer",
-    "date": "2026-09-16",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AU",
-    "spotifyId": "5Rl15oVamLq7FbSb0NNBNy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02",
-    "genres": [
-      "pop rock",
-      "pop punk",
-      "pop"
-    ],
-    "firstSeenAt": "2026-08-29"
-  },
-  {
-    "id": "dolarblues-2026-09-16-cafeberlin",
-    "shortId": "2puwcnu",
-    "artist": "Dólar Blues",
-    "artistKey": "dolarblues",
-    "date": "2026-09-16",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/dolar-blues-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5uQZuKfOyl8ooW5Qbd6HqV",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cd67b6d238c0d35574544eb7",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "florbertotti-2026-09-16-granrex",
-    "shortId": "8wfz9pa",
-    "artist": "Flor Bertotti",
-    "artistKey": "florbertotti",
-    "date": "2026-09-16",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/flor-bertotti-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "florenciabertotti-2026-09-16-granrex",
-    "shortId": "18hwx7s",
-    "artist": "Florencia Bertotti",
-    "artistKey": "florenciabertotti",
-    "date": "2026-09-16",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "5zKxuayFWVvBS3GkdWF0nD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896ce8c74d7b21d8aef8c737e",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "pjmorton-2026-09-16-vorterix",
@@ -1101,26 +961,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "experienciaroce-2026-09-19-niceto",
-    "shortId": "t6hfikq",
-    "artist": "EXPERIENCIA ROCE",
-    "artistKey": "experienciaroce",
-    "date": "2026-09-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/experiencia-roce-19-sep-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-01"
-  },
-  {
     "id": "fiestaclimax-2026-09-19-vorterix",
     "shortId": "2rjimkq",
     "artist": "FIESTA CLIMAX",
@@ -1409,6 +1249,26 @@
     "firstSeenAt": "2026-08-23"
   },
   {
+    "id": "yendovol2-2026-09-19-niceto",
+    "shortId": "b2ibkec",
+    "artist": "Yendo vol. 2",
+    "artistKey": "yendovol2",
+    "date": "2026-09-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/yendo-vol-2"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
+  },
+  {
     "id": "boomboomkid-2026-09-20-niceto",
     "shortId": "aywcf66",
     "artist": "Boom Boom Kid",
@@ -1564,6 +1424,27 @@
       "post-hardcore"
     ],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "morat-2026-09-22-movistararena",
+    "shortId": "2d9k3hh",
+    "artist": "Morat",
+    "artistKey": "morat",
+    "date": "2026-09-22",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "CO",
+    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
+    "genres": [
+      "latin",
+      "latin pop"
+    ],
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "noeliasinkunasandlucypatane-2026-09-22-fabrica",
@@ -3231,9 +3112,12 @@
     "date": "2026-09-30",
     "venue": "Teatro Gran Rex",
     "venueKey": "granrex",
-    "ticketUrls": [],
+    "ticketUrls": [
+      "https://www.tuentrada.com/lindsey-stirling-tgr"
+    ],
     "sources": [
-      "songkick"
+      "songkick",
+      "tuentrada"
     ],
     "country": "US",
     "spotifyId": "378dH6EszOLFShpRzAQkVM",
@@ -3369,6 +3253,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "motelmontpellier-2026-10-01-centroculturalthames",
+    "shortId": "2aztbkc",
+    "artist": "Motel Montpellier",
+    "artistKey": "motelmontpellier",
+    "date": "2026-10-01",
+    "venue": "Centro Cultural Thames",
+    "venueKey": "centroculturalthames",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6kQN5ddTWLUI3ow9Mhp7q4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17822fe8f5c9b44947d44e04515",
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
+  },
+  {
     "id": "pianobarmanupiro-2026-10-01-niceto",
     "shortId": "2nk3iaw",
     "artist": "PIANO BAR: MANU PIRÓ",
@@ -3449,6 +3351,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-13"
+  },
+  {
+    "id": "anacarolina-2026-10-02-trastienda",
+    "shortId": "wla77ox",
+    "artist": "Ana Carolina",
+    "artistKey": "anacarolina",
+    "date": "2026-10-02",
+    "venue": "La Trastienda",
+    "venueKey": "trastienda",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "BR",
+    "spotifyId": "4HP9KltldfmkH2M2pQozzN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178787e90f9431758e97ab8e95d",
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "ekisdefest-2026-10-02-vorterix",
@@ -3609,6 +3529,28 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "robbiewilliams-2026-10-02-movistararena",
+    "shortId": "zjvgatp",
+    "artist": "Robbie Williams",
+    "artistKey": "robbiewilliams",
+    "date": "2026-10-02",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "2HcwFjNelS49kFbfvMxQYw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ec4b5ff594ae3d7c5622cf23",
+    "genres": [
+      "pop",
+      "britpop",
+      "pop rock"
+    ],
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "santimuk-2026-10-02-niceto",
@@ -4741,6 +4683,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "palo-2026-10-18-guajiralp",
+    "shortId": "tna17ln",
+    "artist": "PALO",
+    "artistKey": "palo",
+    "date": "2026-10-18",
+    "venue": "Guajira LP",
+    "venueKey": "guajiralp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "US",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "tresmundos-2026-10-18-cafeberlin",
@@ -6852,6 +6814,26 @@
     "firstSeenAt": "2026-09-15"
   },
   {
+    "id": "horaciolavandera-2026-12-10-cafeberlin",
+    "shortId": "1pdqcmq",
+    "artist": "Horacio Lavandera",
+    "artistKey": "horaciolavandera",
+    "date": "2026-12-10",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-12-10-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "6InVsS0LwuWOaxHomvrb4i",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17811b4a830213d09f969c36944",
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
+  },
+  {
     "id": "gondwanaquiqueneira-2026-12-11-vorterix",
     "shortId": "5w92w71",
     "artist": "GONDWANA & QUIQUE NEIRA",
@@ -6892,6 +6874,26 @@
       "pop rock"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "masmusica-2026-12-13-cafeberlin",
+    "shortId": "12bq510",
+    "artist": "Más Música",
+    "artistKey": "masmusica",
+    "date": "2026-12-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-13-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "valerialynch-2026-12-13-salaginasteraargentinolp",

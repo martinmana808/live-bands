@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16",
+  "fetchedAt": "2026-09-17",
   "events": [
     {
       "artist": "DIEGO TORRES",
@@ -79,17 +79,10 @@
       "source": "livepass"
     },
     {
-      "artist": "Roberto Antier- Generación Mareada",
-      "venue": "Café Berlín",
-      "date": "2026-09-15",
-      "ticketUrl": "https://livepass.com.ar/events/roberto-antier-generacion-mareada-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Dólar Blues",
-      "venue": "Café Berlín",
+      "artist": "FANWEEK - MOVE CONCERTS",
+      "venue": "Livepass",
       "date": "2026-09-16",
-      "ticketUrl": "https://livepass.com.ar/events/dolar-blues-en-cafe-berlin",
+      "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
       "source": "livepass"
     },
     {
@@ -765,6 +758,13 @@
       "source": "livepass"
     },
     {
+      "artist": "PALO - MÁS ALLÁ TOUR",
+      "venue": "Guajira LP",
+      "date": "2026-10-18",
+      "ticketUrl": "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp",
+      "source": "livepass"
+    },
+    {
       "artist": "Tres Mundos",
       "venue": "Café Berlín",
       "date": "2026-10-18",
@@ -1220,10 +1220,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Horacio Lavandera",
+      "venue": "Café Berlín",
+      "date": "2026-12-10",
+      "ticketUrl": "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-12-10-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "TAN BIONICA",
       "venue": "Estadio Uno",
       "date": "2026-12-12",
       "ticketUrl": "https://livepass.com.ar/events/tan-bionica-en-estadio-uno",
+      "source": "livepass"
+    },
+    {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-12-13",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-13-20-00-00-0300",
       "source": "livepass"
     },
     {
