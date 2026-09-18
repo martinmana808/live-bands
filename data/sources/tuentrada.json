@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17",
+  "fetchedAt": "2026-09-18",
   "events": [
     {
       "artist": "Midachi",
@@ -156,17 +156,38 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Lindsey Stirling - Duality Tour",
+      "artist": "Los Bybys",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-30",
-      "ticketUrl": "https://www.tuentrada.com/lindsey-stirling-tgr",
+      "date": "2026-10-06",
+      "ticketUrl": "https://www.tuentrada.com/los-bybys-tgr",
       "source": "tuentrada"
     },
     {
-      "artist": "Alex Anwandter",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-18",
-      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
+      "artist": "Gustavo Santaolalla",
+      "venue": "Teatro Colón",
+      "date": "2026-09-21",
+      "ticketUrl": "https://www.tuentrada.com/santaolalla-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Juan Diego Flórez",
+      "venue": "Teatro Colón",
+      "date": "2026-09-22",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Matthias Goerne",
+      "venue": "Teatro Colón",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Asmik Grigorian",
+      "venue": "Teatro Colón",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
       "source": "tuentrada"
     },
     {
@@ -184,17 +205,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Los Meñiques De La Casa",
+      "artist": "Alex Anwandter",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-20",
-      "ticketUrl": "https://www.tuentrada.com/meniques-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Conociendo Rusia",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-25",
-      "ticketUrl": "https://www.tuentrada.com/conociendo-rusia-tgr",
+      "date": "2026-09-18",
+      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
       "source": "tuentrada"
     }
   ]

@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-09-17",
+  "fetchedAt": "2026-09-18",
   "events": [
-    {
-      "artist": "Jamiroquai",
-      "venue": "Hipódromo de San Isidro",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Kapo",
-      "venue": "Movistar Arena",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Hernán Casciari",
-      "venue": "Paseo La Plaza",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nenagenix",
-      "venue": "Cooperativa Cultural Qi",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Left to Die",
-      "venue": "Uniclub",
-      "date": "2026-09-17",
-      "source": "songkick"
-    },
     {
       "artist": "Cultura Profetica",
       "venue": "Movistar Arena",
@@ -94,6 +64,12 @@
     {
       "artist": "Nos vemos en Australia",
       "venue": "Polo cultural Tacheles",
+      "date": "2026-09-19",
+      "source": "songkick"
+    },
+    {
+      "artist": "Grace & Badlove",
+      "venue": "The Lift / 1967",
       "date": "2026-09-19",
       "source": "songkick"
     },
@@ -292,6 +268,30 @@
     {
       "artist": "Ana Carolina",
       "venue": "La Trastienda",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Las Tussi, Sugar Tampaxxx, and Baja Killa",
+      "venue": "The Roxy Live!",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fran Busso and Callejón González",
+      "venue": "La Casa del Árbol",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lucas Cervetti",
+      "venue": "CC Cuerda Mecánica",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Onda Vaga",
+      "venue": "Teatro Margarita Xirgu",
       "date": "2026-10-02",
       "source": "songkick"
     }

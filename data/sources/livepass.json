@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17",
+  "fetchedAt": "2026-09-18",
   "events": [
     {
       "artist": "DIEGO TORRES",
@@ -83,34 +83,6 @@
       "venue": "Livepass",
       "date": "2026-09-16",
       "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
-      "source": "livepass"
-    },
-    {
-      "artist": "Gyomara Trío",
-      "venue": "CCNU",
-      "date": "2026-09-17",
-      "ticketUrl": "https://livepass.com.ar/events/gyomara-trio-en-ccnu-2026-09-17",
-      "source": "livepass"
-    },
-    {
-      "artist": "Leonardo Amuedo & Daniel Maza",
-      "venue": "Café Berlín",
-      "date": "2026-09-17",
-      "ticketUrl": "https://livepass.com.ar/events/leonardo-amuedo-daniel-maza-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-09-17",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-09-17-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Miss Rapsody",
-      "venue": "Café Berlín",
-      "date": "2026-09-17",
-      "ticketUrl": "https://livepass.com.ar/events/miss-rapsody-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -748,6 +720,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-17",
       "ticketUrl": "https://livepass.com.ar/events/pez-en-cafe-berlin-2026-10-17-20",
+      "source": "livepass"
+    },
+    {
+      "artist": "NOCHE FRIA",
+      "venue": "San Miguel",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/noche-fria-en-san-miguel",
       "source": "livepass"
     },
     {
