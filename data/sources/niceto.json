@@ -1,62 +1,6 @@
 {
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-09-19",
   "events": [
-    {
-      "artist": "SELF-TITLED AFTERGLOW",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/self-titled-afterglow-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Massacre",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/massacre-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "RAYUELA Y CAMPO TRAVIESA",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/rayuela-y-campo-traviesa-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "KALIBRE + RECΛZO: LA NOCHE DEL ENCUENTRO",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/kalibre-rec-zo-la-noche-del-encuentro-en-humboldt-niceto-club-18-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "Oasis 18 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/oasis-18-sep-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "LIBRE + SIMULANDO UN VUELO",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/libre-simulando-un-vuelo-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Trabestia, drag club  18 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/trabestia-drag-club-18-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Raxxet 18 Sep",
-      "venue": "Niceto Club",
-      "date": "2026-09-18",
-      "ticketUrl": "https://venti.live/evento/la-raxxet-18-sep-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "Virus 19 SEP",
       "venue": "Niceto Club",
@@ -275,6 +219,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Chechi de Marcos",
+      "venue": "Niceto Club",
+      "date": "2026-10-01",
+      "ticketUrl": "https://venti.live/evento/chechi-de-marcos-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "SANTI MUK",
       "venue": "Niceto Club",
       "date": "2026-10-02",
@@ -349,6 +300,55 @@
       "venue": "Niceto Club",
       "date": "2026-10-09",
       "ticketUrl": "https://venti.live/evento/indios-x-castellanos-escucha-exclusiva-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "TOBIKA presenta INTELIGENCIA ARTESANAL",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "DESORDEN 9 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/desorden-9oc-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "VANINA: IDÍLICA",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Vasko",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/vasko-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Walls",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/walls-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Un ratito de conga 10 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/un-ratito-de-conga-10-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Hiperkineticos",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/hiperkineticos-en-niceto-bar",
       "source": "niceto"
     }
   ]

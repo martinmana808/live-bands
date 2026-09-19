@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-09-19",
   "events": [
     {
       "artist": "DIEGO TORRES",
@@ -83,48 +83,6 @@
       "venue": "Livepass",
       "date": "2026-09-16",
       "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
-      "source": "livepass"
-    },
-    {
-      "artist": "Ernesto Dmitruk Cuarteto",
-      "venue": "CCNU",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/ernesto-dmitruk-cuarteto-en-ccnu-2026-09-18",
-      "source": "livepass"
-    },
-    {
-      "artist": "BHAVI",
-      "venue": "San Miguel",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/bhavi-en-san-miguel-18-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "REY GARUFA",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/rey-garufa-en-el-teatro-opera-lp-18-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "Santiago Molina",
-      "venue": "Café Berlín",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-09-18-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Modo 5",
-      "venue": "CCNU",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/modo-5-en-ccnu-2026-09-18",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sarah Lenore - La Argengringa",
-      "venue": "Café Berlín",
-      "date": "2026-09-18",
-      "ticketUrl": "https://livepass.com.ar/events/sarah-lenore-la-argengringa-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -555,6 +513,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Noche de Teatro - Modo Pareja",
+      "venue": "Café Berlín",
+      "date": "2026-10-08",
+      "ticketUrl": "https://livepass.com.ar/events/noche-de-teatro-modo-pareja-en-cafe-berlin-2026-10-08-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Sentimental Syncopators",
       "venue": "Café Berlín",
       "date": "2026-10-08",
@@ -818,6 +783,13 @@
       "venue": "San Miguel",
       "date": "2026-10-24",
       "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Small Axe",
+      "venue": "Café Berlín",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/small-axe-en-cafe-berlin-2026-10-24-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -1122,6 +1094,13 @@
       "source": "livepass"
     },
     {
+      "artist": "German Kaly",
+      "venue": "Café Berlín",
+      "date": "2026-11-25",
+      "ticketUrl": "https://livepass.com.ar/events/german-kaly-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Queteimporta",
       "venue": "Café Berlín",
       "date": "2026-11-27",
@@ -1178,6 +1157,13 @@
       "source": "livepass"
     },
     {
+      "artist": "LA BANDA DE CARLITOS Y EUGE QUEVEDO",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-04",
+      "ticketUrl": "https://livepass.com.ar/events/la-banda-de-carlitos-y-euge-quevedo-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
       "artist": "LUZ GAGGI",
       "venue": "el Teatro Ópera LP",
       "date": "2026-12-05",
@@ -1189,6 +1175,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/diego-capusotto-presenta-lado-c-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Martín Carrillo",
+      "venue": "Café Berlín",
+      "date": "2026-12-07",
+      "ticketUrl": "https://livepass.com.ar/events/martin-carrillo-en-cafe-berlin",
       "source": "livepass"
     },
     {

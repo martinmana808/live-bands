@@ -310,16 +310,5 @@
         "name": "Christian Sands Quartet"
       }
     ]
-  },
-  "alex-anwandter-tgr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-18",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Alex Anwandter"
-      }
-    ]
   }
 }

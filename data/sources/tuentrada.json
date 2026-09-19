@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-09-19",
   "events": [
     {
       "artist": "Midachi",
@@ -202,13 +202,6 @@
       "venue": "Sala Martin Coronado",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Alex Anwandter",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-18",
-      "ticketUrl": "https://www.tuentrada.com/alex-anwandter-tgr",
       "source": "tuentrada"
     }
   ]

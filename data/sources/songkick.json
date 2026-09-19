@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-09-19",
   "events": [
-    {
-      "artist": "Cultura Profetica",
-      "venue": "Movistar Arena",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "Alex Anwandter",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "Layton Giordani",
-      "venue": "Crobar",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "Cristian Lopez",
-      "venue": "Nobleza Obliga",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "manu hattom",
-      "venue": "Je Suis Lacan",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "Las Tussi and Sakatumba",
-      "venue": "Espacio Cultural Laberinto",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "Noelia Sinkunas",
-      "venue": "Tandil",
-      "date": "2026-09-18",
-      "source": "songkick"
-    },
     {
       "artist": "El Mató a un Policía Motorizado",
       "venue": "Movistar Arena",
@@ -248,6 +206,12 @@
       "source": "songkick"
     },
     {
+      "artist": "High Vis",
+      "venue": "Uniclub",
+      "date": "2026-09-30",
+      "source": "songkick"
+    },
+    {
       "artist": "Robbie Williams",
       "venue": "Movistar Arena",
       "date": "2026-10-01",
@@ -293,6 +257,42 @@
       "artist": "Onda Vaga",
       "venue": "Teatro Margarita Xirgu",
       "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "High On Fire",
+      "venue": "Uniclub",
+      "date": "2026-10-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Chiara Oliver",
+      "venue": "Teatro Vorterix",
+      "date": "2026-10-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Olivia Wald",
+      "venue": "C Complejo Art Media",
+      "date": "2026-10-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ambkor",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Magos",
+      "venue": "Ferona Club Social",
+      "date": "2026-10-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Robbie Williams",
+      "venue": "Movistar Arena",
+      "date": "2026-10-04",
       "source": "songkick"
     }
   ]
