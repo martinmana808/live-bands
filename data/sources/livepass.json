@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-09-19",
+  "fetchedAt": "2026-09-20",
   "events": [
-    {
-      "artist": "DIEGO TORRES",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/diego-torres-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "CONOCIENDO RUSIA",
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
@@ -83,41 +76,6 @@
       "venue": "Livepass",
       "date": "2026-09-16",
       "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
-      "source": "livepass"
-    },
-    {
-      "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
-      "venue": "CCNU",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-09-19-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "BHAVI",
-      "venue": "Club Re",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/bhavi-en-club-re-19-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "Mimi Maura",
-      "venue": "Café Berlín",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/mimi-maura-en-cafe-berlin-2026-09-19-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "JAURIA",
-      "venue": "San Miguel",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/jauria-en-san-miguel-2026-09-19-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Nuevas Flores - Lula Meulen y Maru Cavalchini",
-      "venue": "CCNU",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/nuevas-flores-lula-meulen-y-maru-cavalchini-en-ccnu",
       "source": "livepass"
     },
     {
@@ -986,6 +944,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-13",
       "ticketUrl": "https://livepass.com.ar/events/rita-cortese-en-cafe-berlin-2026-11-13",
+      "source": "livepass"
+    },
+    {
+      "artist": "HERMANOS DE LA CALLE",
+      "venue": "San Miguel",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/hermanos-de-la-calle-en-san-miguel",
       "source": "livepass"
     },
     {

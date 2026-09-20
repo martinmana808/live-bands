@@ -182,26 +182,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "bhavi-2026-09-19-re",
-    "shortId": "15h7zzv",
-    "artist": "BHAVI",
-    "artistKey": "bhavi",
-    "date": "2026-09-19",
-    "venue": "Club Re",
-    "venueKey": "re",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bhavi-en-club-re-19-09"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "7fT2Me47PQ8T7954PKrcwR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178502c516ea88457406db38fac",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "club69-2026-09-19-niceto",
     "shortId": "jko6jg4",
     "artist": "Club 69",
@@ -220,49 +200,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
     "firstSeenAt": "2026-09-02"
-  },
-  {
-    "id": "diegotorres-2026-09-19-hipodromoplata",
-    "shortId": "r2qgax9",
-    "artist": "DIEGO TORRES",
-    "artistKey": "diegotorres",
-    "date": "2026-09-19",
-    "venue": "el Hipódromo de La Plata",
-    "venueKey": "hipodromoplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/diego-torres-en-el-hipodromo-de-la-plata"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "0LALueHEQunQ2d61fXGeZh",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db3230fc1b438c9fc525be02",
-    "genres": [
-      "latin",
-      "latin pop"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "elmatoaunpoliciamotorizado-2026-09-19-movistararena",
-    "shortId": "9qc3brt",
-    "artist": "El Mató a un Policía Motorizado",
-    "artistKey": "elmatoaunpoliciamotorizado",
-    "date": "2026-09-19",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "5rLsN2LxYaEPLa1N7I2mPB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e6eaf3fc12c6ccd4bf57a7e",
-    "genres": [
-      "indie rock"
-    ],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "fiestaclimax-2026-09-19-vorterix",
@@ -305,88 +242,6 @@
     "firstSeenAt": "2026-09-02"
   },
   {
-    "id": "gracebadlove-2026-09-19-thelift1967",
-    "shortId": "ufcppzt",
-    "artist": "Grace & Badlove",
-    "artistKey": "gracebadlove",
-    "date": "2026-09-19",
-    "venue": "The Lift / 1967",
-    "venueKey": "thelift1967",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "2sr0U0D0S7vnXh9epoKLVE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863f8d170c614b76d43a8098b",
-    "genres": [],
-    "firstSeenAt": "2026-09-18"
-  },
-  {
-    "id": "jauria-2026-09-19-sanmiguel",
-    "shortId": "106yrhn",
-    "artist": "JAURIA",
-    "artistKey": "jauria",
-    "date": "2026-09-19",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jauria-en-san-miguel-2026-09-19-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1Abg5u0GFm9k3jst9mw4gH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c664f9bc32e4866d39345ce",
-    "genres": [
-      "rock"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "johnpaulthebeatlesexperience-2026-09-19-ccnu",
-    "shortId": "1dnwsy6",
-    "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
-    "artistKey": "johnpaulthebeatlesexperience",
-    "date": "2026-09-19",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-09-19-20-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "johndigweed-2026-09-19-autodromobuenosaires",
-    "shortId": "e21etmq",
-    "artist": "John Digweed",
-    "artistKey": "johndigweed",
-    "date": "2026-09-19",
-    "venue": "Autódromo de Buenos Aires",
-    "venueKey": "autodromobuenosaires",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "3xnDktxhudJR2Wv3HZDQ9W",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ef0189e07eec59460b46c17",
-    "genres": [
-      "electronic",
-      "house",
-      "progressive house"
-    ],
-    "firstSeenAt": "2026-09-05"
-  },
-  {
     "id": "losperezgarcia-2026-09-19-vorterix",
     "shortId": "1jvojdj",
     "artist": "LOS PEREZ GARCIA",
@@ -427,26 +282,6 @@
     "firstSeenAt": "2026-09-03"
   },
   {
-    "id": "mimimaura-2026-09-19-cafeberlin",
-    "shortId": "19pydij",
-    "artist": "Mimi Maura",
-    "artistKey": "mimimaura",
-    "date": "2026-09-19",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/mimi-maura-en-cafe-berlin-2026-09-19-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "4VKHNaUBImLsxPOCdG5Mwl",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cf7c07b47ce0680fbcde54b",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "nochesdeteatro-2026-09-19-cafeberlin",
     "shortId": "t56fo25",
     "artist": "Noches de Teatro",
@@ -465,86 +300,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485196913d0169e710d15305a379",
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "nosvemosenaustralia-2026-09-19-poloculturaltacheles",
-    "shortId": "211up6m",
-    "artist": "Nos vemos en Australia",
-    "artistKey": "nosvemosenaustralia",
-    "date": "2026-09-19",
-    "venue": "Polo cultural Tacheles",
-    "venueKey": "poloculturaltacheles",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "072ptXZPT7qDNaXy8ThNC5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784144c73ff90fef9ae8f56087",
-    "genres": [],
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "nuevasflores-2026-09-19-ccnu",
-    "shortId": "yepgefo",
-    "artist": "Nuevas Flores",
-    "artistKey": "nuevasflores",
-    "date": "2026-09-19",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/nuevas-flores-lula-meulen-y-maru-cavalchini-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pezdebuenosaires-2026-09-19-mutar",
-    "shortId": "dlwqzcp",
-    "artist": "Pez De Buenos Aires",
-    "artistKey": "pezdebuenosaires",
-    "date": "2026-09-19",
-    "venue": "Mutar Bar",
-    "venueKey": "mutar",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-05"
-  },
-  {
-    "id": "vicoc-2026-09-19-granrex",
-    "shortId": "14lsqpn",
-    "artist": "Vico C",
-    "artistKey": "vicoc",
-    "date": "2026-09-19",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/vico-c-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "PR",
-    "spotifyId": "0GutRVONcyyBj1WduodFc6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783de710bc37cb11f524159316",
-    "genres": [
-      "reggaeton",
-      "hip hop",
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "virus-2026-09-19-niceto",
@@ -2476,9 +2231,12 @@
     "date": "2026-09-30",
     "venue": "Teatro Gran Rex",
     "venueKey": "granrex",
-    "ticketUrls": [],
+    "ticketUrls": [
+      "https://www.tuentrada.com/lindsey-stirling-tgr"
+    ],
     "sources": [
-      "songkick"
+      "songkick",
+      "tuentrada"
     ],
     "country": "US",
     "spotifyId": "378dH6EszOLFShpRzAQkVM",
@@ -3446,6 +3204,7 @@
       "https://venti.live/evento/chapterhouse-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": null,
@@ -3473,6 +3232,27 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851185fc71ccf70a27fef866f49",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "delarose-2026-10-04-ccomplejoartmedia",
+    "shortId": "28wm4zn",
+    "artist": "De La Rose",
+    "artistKey": "delarose",
+    "date": "2026-10-04",
+    "venue": "C Complejo Art Media",
+    "venueKey": "ccomplejoartmedia",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "54seKvtsZauR1iauN0ptpo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f556244205ea7e80f382f152",
+    "genres": [
+      "latin",
+      "reggaeton"
+    ],
+    "firstSeenAt": "2026-09-20"
   },
   {
     "id": "dyango-2026-10-04-granrex",
@@ -3559,6 +3339,49 @@
     "firstSeenAt": "2026-09-18"
   },
   {
+    "id": "sepultura-2026-10-06-ccomplejoartmedia",
+    "shortId": "65byar1",
+    "artist": "Sepultura",
+    "artistKey": "sepultura",
+    "date": "2026-10-06",
+    "venue": "C Complejo Art Media",
+    "venueKey": "ccomplejoartmedia",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "BR",
+    "spotifyId": "6JW8wliOEwaDZ231ZY7cf4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842b136165ba6ce25d2c1ebdc",
+    "genres": [
+      "thrash metal",
+      "groove metal",
+      "death metal"
+    ],
+    "firstSeenAt": "2026-09-20"
+  },
+  {
+    "id": "zayn-2026-10-06-movistararena",
+    "shortId": "2i0tqt8",
+    "artist": "ZAYN",
+    "artistKey": "zayn",
+    "date": "2026-10-06",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5ZsFI1h6hIdQRw2ti0hz81",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178830845d2fa6c5c7874176951",
+    "genres": [
+      "pop",
+      "r&b"
+    ],
+    "firstSeenAt": "2026-09-20"
+  },
+  {
     "id": "dyango-2026-10-07-granrex",
     "shortId": "1xvatvs",
     "artist": "Dyango",
@@ -3579,6 +3402,24 @@
       "latin ballad"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "mercedescanas-2026-10-07-tangente",
+    "shortId": "hlr4mnr",
+    "artist": "Mercedes Cañas",
+    "artistKey": "mercedescanas",
+    "date": "2026-10-07",
+    "venue": "La Tangente",
+    "venueKey": "tangente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "ES",
+    "spotifyId": "4Z3BhshALJKE4dbK8o7ORb",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b260bd6829a5c4d16c6ca7ef",
+    "genres": [],
+    "firstSeenAt": "2026-09-20"
   },
   {
     "id": "thecrimsonkings-2026-10-07-cafeberlin",
@@ -5719,6 +5560,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "hermanosdelacalle-2026-11-13-sanmiguel",
+    "shortId": "10c8mwu",
+    "artist": "HERMANOS DE LA CALLE",
+    "artistKey": "hermanosdelacalle",
+    "date": "2026-11-13",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hermanos-de-la-calle-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "69ZTdqVayVvhw2t4bsxO8C",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-20"
   },
   {
     "id": "lajarana-2026-11-13-cafeberlin",

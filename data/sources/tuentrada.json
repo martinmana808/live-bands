@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19",
+  "fetchedAt": "2026-09-20",
   "events": [
     {
       "artist": "Midachi",
@@ -121,13 +121,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Vico C",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-19",
-      "ticketUrl": "https://www.tuentrada.com/vico-c-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Dyango",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-04",
@@ -160,6 +153,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-06",
       "ticketUrl": "https://www.tuentrada.com/los-bybys-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Lindsey Stirling - Duality Tour",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-09-30",
+      "ticketUrl": "https://www.tuentrada.com/lindsey-stirling-tgr",
       "source": "tuentrada"
     },
     {

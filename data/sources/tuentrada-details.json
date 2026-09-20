@@ -136,17 +136,6 @@
       }
     ]
   },
-  "vico-c-tgr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-19",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Vico C"
-      }
-    ]
-  },
   "dyango-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -197,6 +186,17 @@
       }
     ]
   },
+  "los-bybys-tgr": {
+    "fetchedAt": "2026-09-18",
+    "sessions": [
+      {
+        "date": "2026-10-06",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Los Bybys"
+      }
+    ]
+  },
   "ntvg-gira": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -238,14 +238,14 @@
       }
     ]
   },
-  "los-bybys-tgr": {
-    "fetchedAt": "2026-09-18",
+  "lindsey-stirling-tgr": {
+    "fetchedAt": "2026-09-20",
     "sessions": [
       {
-        "date": "2026-10-06",
+        "date": "2026-09-30",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Los Bybys"
+        "name": "Lindsey Stirling - Duality Tour"
       }
     ]
   },

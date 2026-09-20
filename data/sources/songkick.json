@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-09-19",
+  "fetchedAt": "2026-09-20",
   "events": [
-    {
-      "artist": "El Mató a un Policía Motorizado",
-      "venue": "Movistar Arena",
-      "date": "2026-09-19",
-      "source": "songkick"
-    },
-    {
-      "artist": "John Digweed",
-      "venue": "Autódromo de Buenos Aires",
-      "date": "2026-09-19",
-      "source": "songkick"
-    },
-    {
-      "artist": "Pez De Buenos Aires",
-      "venue": "Mutar Bar",
-      "date": "2026-09-19",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nos vemos en Australia",
-      "venue": "Polo cultural Tacheles",
-      "date": "2026-09-19",
-      "source": "songkick"
-    },
-    {
-      "artist": "Grace & Badlove",
-      "venue": "The Lift / 1967",
-      "date": "2026-09-19",
-      "source": "songkick"
-    },
     {
       "artist": "TVT oficial and Pantalones Rotos",
       "venue": "El Portal Teatro",
@@ -200,14 +170,14 @@
       "source": "songkick"
     },
     {
-      "artist": "Albert Pla",
-      "venue": "Niceto Club",
+      "artist": "High Vis",
+      "venue": "Uniclub",
       "date": "2026-09-30",
       "source": "songkick"
     },
     {
-      "artist": "High Vis",
-      "venue": "Uniclub",
+      "artist": "Albert Pla",
+      "venue": "Niceto Club",
       "date": "2026-09-30",
       "source": "songkick"
     },
@@ -293,6 +263,36 @@
       "artist": "Robbie Williams",
       "venue": "Movistar Arena",
       "date": "2026-10-04",
+      "source": "songkick"
+    },
+    {
+      "artist": "Chapterhouse",
+      "venue": "Niceto Club",
+      "date": "2026-10-04",
+      "source": "songkick"
+    },
+    {
+      "artist": "De La Rose",
+      "venue": "C Complejo Art Media",
+      "date": "2026-10-04",
+      "source": "songkick"
+    },
+    {
+      "artist": "ZAYN",
+      "venue": "Movistar Arena",
+      "date": "2026-10-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Sepultura",
+      "venue": "C Complejo Art Media",
+      "date": "2026-10-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Mercedes Cañas",
+      "venue": "La Tangente",
+      "date": "2026-10-07",
       "source": "songkick"
     }
   ]
