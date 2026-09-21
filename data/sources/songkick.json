@@ -1,12 +1,6 @@
 {
-  "fetchedAt": "2026-09-20",
+  "fetchedAt": "2026-09-21",
   "events": [
-    {
-      "artist": "TVT oficial and Pantalones Rotos",
-      "venue": "El Portal Teatro",
-      "date": "2026-09-20",
-      "source": "songkick"
-    },
     {
       "artist": "La Bomba De Tiempo",
       "venue": "Ciudad Cultural Konex",
@@ -58,6 +52,12 @@
     {
       "artist": "Old Man's Child",
       "venue": "Groove",
+      "date": "2026-09-24",
+      "source": "songkick"
+    },
+    {
+      "artist": "Pool (AR)",
+      "venue": "Yöbla Bar",
       "date": "2026-09-24",
       "source": "songkick"
     },

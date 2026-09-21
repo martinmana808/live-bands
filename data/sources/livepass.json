@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20",
+  "fetchedAt": "2026-09-21",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -69,41 +69,6 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
-      "artist": "FANWEEK - MOVE CONCERTS",
-      "venue": "Livepass",
-      "date": "2026-09-16",
-      "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
-      "source": "livepass"
-    },
-    {
-      "artist": "Noches de Teatro - Modo Familia",
-      "venue": "Café Berlín",
-      "date": "2026-09-19",
-      "ticketUrl": "https://livepass.com.ar/events/noches-de-teatro-modo-familia-en-cafe-berlin-2026-09-19-23-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Mar Chiappetta",
-      "venue": "CCNU",
-      "date": "2026-09-20",
-      "ticketUrl": "https://livepass.com.ar/events/mar-chiappetta-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Más Música",
-      "venue": "Café Berlín",
-      "date": "2026-09-20",
-      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-09-20-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Mestizaje Grupo",
-      "venue": "CCNU",
-      "date": "2026-09-20",
-      "ticketUrl": "https://livepass.com.ar/events/mestizaje-grupo-en-ccnu-2026-09-20-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -384,6 +349,13 @@
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
       "date": "2026-10-02",
       "ticketUrl": "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "CADENA PERPETUA",
+      "venue": "San Miguel",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-2026-10-02",
       "source": "livepass"
     },
     {
@@ -989,6 +961,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Santi Martínez (El Kuelgue)",
+      "venue": "Café Berlín",
+      "date": "2026-11-18",
+      "ticketUrl": "https://livepass.com.ar/events/santi-martinez-el-kuelgue-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Pipo Cipolatti",
       "venue": "Café Berlín",
       "date": "2026-11-19",
@@ -1045,10 +1024,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Santiago Molina",
+      "venue": "Café Berlín",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-11-21-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "2 MINUTOS",
       "venue": "San Miguel",
       "date": "2026-11-21",
       "ticketUrl": "https://livepass.com.ar/events/2-minutos-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Tinka Roup - Presenta Radar",
+      "venue": "Café Berlín",
+      "date": "2026-11-23",
+      "ticketUrl": "https://livepass.com.ar/events/tinka-roup-presenta-radar-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -1150,6 +1143,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Devotos del Rock",
+      "venue": "Café Berlín",
+      "date": "2026-12-08",
+      "ticketUrl": "https://livepass.com.ar/events/devotos-del-rock-en-cafe-berlin-2026-12-08",
+      "source": "livepass"
+    },
+    {
       "artist": "Latencia",
       "venue": "Café Berlín",
       "date": "2026-12-09",
@@ -1196,6 +1196,13 @@
       "venue": "el Teatro Colón",
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
+      "source": "livepass"
+    },
+    {
+      "artist": "FANWEEK - MOVE CONCERTS",
+      "venue": "Livepass",
+      "date": "2026-09-16",
+      "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
       "source": "livepass"
     },
     {

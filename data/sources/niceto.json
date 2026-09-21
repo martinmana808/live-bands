@@ -1,55 +1,6 @@
 {
-  "fetchedAt": "2026-09-20",
+  "fetchedAt": "2026-09-21",
   "events": [
-    {
-      "artist": "Virus 19 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "ACOSTADETODO PIANO BAR",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/acostadetodo-piano-bar-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Yendo vol. 2",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/yendo-vol-2",
-      "source": "niceto"
-    },
-    {
-      "artist": "FIESTA MERMELADA 19 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/fiesta-mermelada-19-sep-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "Maria Torpe + Ceretti + Matt Montero",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/maria-torpe-ceretti-matt-montero-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Club 69 | 19  SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-19",
-      "ticketUrl": "https://venti.live/evento/club-69-19-sep-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "Boom Boom Kid 20 SEP",
-      "venue": "Niceto Club",
-      "date": "2026-09-20",
-      "ticketUrl": "https://venti.live/evento/boom-boom-kid-20-sep-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "MARTTEIN",
       "venue": "Niceto Club",
@@ -349,6 +300,55 @@
       "venue": "Niceto Club",
       "date": "2026-10-10",
       "ticketUrl": "https://venti.live/evento/hiperkineticos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FESTIVAL PARDO: CAPRICHO y LAS CRUXES",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/festival-pardo-capricho-y-las-cruxes-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "STVN Vol. 02",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/stvn-vol-02-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "SELF-TITLED: GOLDEN HOUR",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/self-titled-golden-hour-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "UNCUT",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/uncut-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FIESTA TREVI 11 Oct",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "MAD PROFESSOR",
+      "venue": "Niceto Club",
+      "date": "2026-10-14",
+      "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SEDA Aniversario",
+      "venue": "Niceto Club",
+      "date": "2026-10-15",
+      "ticketUrl": "https://venti.live/evento/seda-aniversario-en-niceto-club",
       "source": "niceto"
     }
   ]

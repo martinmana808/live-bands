@@ -101,6 +101,17 @@
       }
     ]
   },
+  "santaolalla-teatrocolon": {
+    "fetchedAt": "2026-09-18",
+    "sessions": [
+      {
+        "date": "2026-09-21",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Gustavo Santaolalla"
+      }
+    ]
+  },
   "abel-pintos-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -249,17 +260,6 @@
       }
     ]
   },
-  "santaolalla-teatrocolon": {
-    "fetchedAt": "2026-09-18",
-    "sessions": [
-      {
-        "date": "2026-09-21",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Gustavo Santaolalla"
-      }
-    ]
-  },
   "grandes-interpretes-teatrocolon": {
     "fetchedAt": "2026-09-18",
     "sessions": [
@@ -308,6 +308,28 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "la-repandilla-tgr": {
+    "fetchedAt": "2026-09-21",
+    "sessions": [
+      {
+        "date": "2026-09-24",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "La Repandilla"
+      }
+    ]
+  },
+  "conociendo-rusia-tgr": {
+    "fetchedAt": "2026-09-21",
+    "sessions": [
+      {
+        "date": "2026-09-25",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Conociendo Rusia"
       }
     ]
   }
