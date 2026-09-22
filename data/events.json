@@ -202,47 +202,6 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "gustavosantaolalla-2026-09-21-colon",
-    "shortId": "1sc4l10",
-    "artist": "Gustavo Santaolalla",
-    "artistKey": "gustavosantaolalla",
-    "date": "2026-09-21",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/santaolalla-teatrocolon"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "4W3fa7tiXGVXl3KilbACqt",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178074781eba0a9c008945cde18",
-    "genres": [
-      "experimental",
-      "latin rock"
-    ],
-    "firstSeenAt": "2026-09-18"
-  },
-  {
-    "id": "labombadetiempo-2026-09-21-ciudadculturalkonex",
-    "shortId": "1qkv00s",
-    "artist": "La Bomba De Tiempo",
-    "artistKey": "labombadetiempo",
-    "date": "2026-09-21",
-    "venue": "Ciudad Cultural Konex",
-    "venueKey": "ciudadculturalkonex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "juandiegoflorez-2026-09-22-colon",
     "shortId": "115ht8a",
     "artist": "Juan Diego Flórez",
@@ -2369,6 +2328,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "felipeavello-2026-10-02-espacioaguirre",
+    "shortId": "1dd978r",
+    "artist": "felipe avello",
+    "artistKey": "felipeavello",
+    "date": "2026-10-02",
+    "venue": "Espacio Aguirre",
+    "venueKey": "espacioaguirre",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "47Ljypz1jk27mbwh9BI0Uj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d86f4efe9e72ee4d93820d09",
+    "genres": [],
+    "firstSeenAt": "2026-09-22"
+  },
+  {
     "id": "franbussoandcallejongonzalez-2026-10-02-casadelarbol",
     "shortId": "292z23l",
     "artist": "Fran Busso and Callejón González",
@@ -3860,6 +3837,26 @@
     "firstSeenAt": "2026-09-15"
   },
   {
+    "id": "robotzondaklaxon-2026-10-11-niceto",
+    "shortId": "1hkg32x",
+    "artist": "ROBOT ZONDA + KLAXON",
+    "artistKey": "robotzondaklaxon",
+    "date": "2026-10-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-22"
+  },
+  {
     "id": "selftitledgoldenhour-2026-10-11-niceto",
     "shortId": "2eafvn0",
     "artist": "SELF-TITLED: GOLDEN HOUR",
@@ -4002,26 +3999,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "sedaaniversario-2026-10-15-niceto",
-    "shortId": "83o14e1",
-    "artist": "SEDA Aniversario",
-    "artistKey": "sedaaniversario",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/seda-aniversario-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
   },
   {
     "id": "axelscheinsohncuarteto-2026-10-16-ccnu",
@@ -5036,6 +5013,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "fiestamtv809000edicionhalloween-2026-10-31-sanmiguel",
+    "shortId": "1568th4",
+    "artist": "FIESTA MTV 80' 90' 00 ' Edición Halloween",
+    "artistKey": "fiestamtv809000edicionhalloween",
+    "date": "2026-10-31",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fiesta-mtv-80-90-00-edicion-halloween-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-22"
+  },
+  {
     "id": "joefernandez-2026-10-31-cafeberlin",
     "shortId": "26whmfj",
     "artist": "Joe Fernández",
@@ -5754,6 +5751,26 @@
       "rock"
     ],
     "firstSeenAt": "2026-09-06"
+  },
+  {
+    "id": "momorey-2026-11-17-cafeberlin",
+    "shortId": "hrfr5fw",
+    "artist": "Momo Rey",
+    "artistKey": "momorey",
+    "date": "2026-11-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/momo-rey-en-cafe-berlin-2026-11-17-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-22"
   },
   {
     "id": "easykid-2026-11-18-vorterix",

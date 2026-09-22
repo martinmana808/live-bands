@@ -101,14 +101,26 @@
       }
     ]
   },
-  "santaolalla-teatrocolon": {
+  "grandes-interpretes-teatrocolon": {
     "fetchedAt": "2026-09-18",
     "sessions": [
       {
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "venue": "Teatro Colón",
         "city": "Buenos Aires",
-        "name": "Gustavo Santaolalla"
+        "name": "Juan Diego Flórez"
+      },
+      {
+        "date": "2026-10-17",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Matthias Goerne"
+      },
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
       }
     ]
   },
@@ -257,29 +269,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Lindsey Stirling - Duality Tour"
-      }
-    ]
-  },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-09-18",
-    "sessions": [
-      {
-        "date": "2026-09-22",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Juan Diego Flórez"
-      },
-      {
-        "date": "2026-10-17",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Matthias Goerne"
-      },
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
       }
     ]
   },

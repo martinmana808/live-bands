@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21",
+  "fetchedAt": "2026-09-22",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -65,10 +65,31 @@
       "source": "livepass"
     },
     {
+      "artist": "Un Poco de Ruido",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "LA BANDA DE CARLITOS Y EUGE QUEVEDO",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-04",
+      "ticketUrl": "https://livepass.com.ar/events/la-banda-de-carlitos-y-euge-quevedo-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
       "artist": "SERÚ GIRÁN POR LEBÓN Y AZNAR",
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/seru-giran-por-lebon-y-aznar-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Valeria Lynch",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-12-13",
+      "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
       "source": "livepass"
     },
     {
@@ -786,6 +807,13 @@
       "source": "livepass"
     },
     {
+      "artist": "FIESTA MTV 80' 90' 00 ' Edición Halloween",
+      "venue": "San Miguel",
+      "date": "2026-10-31",
+      "ticketUrl": "https://livepass.com.ar/events/fiesta-mtv-80-90-00-edicion-halloween-en-san-miguel",
+      "source": "livepass"
+    },
+    {
       "artist": "Dani Stone & Barrio Viejo",
       "venue": "Café Berlín",
       "date": "2026-10-31",
@@ -961,6 +989,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Momo Rey",
+      "venue": "Café Berlín",
+      "date": "2026-11-17",
+      "ticketUrl": "https://livepass.com.ar/events/momo-rey-en-cafe-berlin-2026-11-17-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Santi Martínez (El Kuelgue)",
       "venue": "Café Berlín",
       "date": "2026-11-18",
@@ -1087,13 +1122,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Un Poco de Ruido",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-11-28",
-      "ticketUrl": "https://livepass.com.ar/events/un-poco-de-ruido-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
       "artist": "K4OS",
       "venue": "Bahía Blanca",
       "date": "2026-11-28",
@@ -1112,13 +1140,6 @@
       "venue": "Café Berlín",
       "date": "2026-12-02",
       "ticketUrl": "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "LA BANDA DE CARLITOS Y EUGE QUEVEDO",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-12-04",
-      "ticketUrl": "https://livepass.com.ar/events/la-banda-de-carlitos-y-euge-quevedo-en-el-hipodromo-de-la-plata",
       "source": "livepass"
     },
     {
@@ -1175,13 +1196,6 @@
       "venue": "Café Berlín",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-13-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Valeria Lynch",
-      "venue": "la Sala Ginastera - Teatro Argentino LP",
-      "date": "2026-12-13",
-      "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
       "source": "livepass"
     },
     {

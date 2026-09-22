@@ -1,12 +1,6 @@
 {
-  "fetchedAt": "2026-09-21",
+  "fetchedAt": "2026-09-22",
   "events": [
-    {
-      "artist": "La Bomba De Tiempo",
-      "venue": "Ciudad Cultural Konex",
-      "date": "2026-09-21",
-      "source": "songkick"
-    },
     {
       "artist": "LANDMVRKS",
       "venue": "El Teatrito",
@@ -226,6 +220,12 @@
     {
       "artist": "Onda Vaga",
       "venue": "Teatro Margarita Xirgu",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "felipe avello",
+      "venue": "Espacio Aguirre",
       "date": "2026-10-02",
       "source": "songkick"
     },

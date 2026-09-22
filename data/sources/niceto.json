@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21",
+  "fetchedAt": "2026-09-22",
   "events": [
     {
       "artist": "MARTTEIN",
@@ -324,6 +324,13 @@
       "source": "niceto"
     },
     {
+      "artist": "ROBOT ZONDA + KLAXON",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "UNCUT",
       "venue": "Niceto Club",
       "date": "2026-10-11",
@@ -342,13 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-14",
       "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "SEDA Aniversario",
-      "venue": "Niceto Club",
-      "date": "2026-10-15",
-      "ticketUrl": "https://venti.live/evento/seda-aniversario-en-niceto-club",
       "source": "niceto"
     }
   ]
