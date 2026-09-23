@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22",
+  "fetchedAt": "2026-09-23",
   "events": [
     {
       "artist": "MARTTEIN",
@@ -34,6 +34,13 @@
       "venue": "Niceto Club",
       "date": "2026-09-24",
       "ticketUrl": "https://venti.live/evento/la-playground-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "After sudan archives",
+      "venue": "Niceto Club",
+      "date": "2026-09-24",
+      "ticketUrl": "https://venti.live/evento/after-sudan-archives-en-niceto-club",
       "source": "niceto"
     },
     {
@@ -317,6 +324,13 @@
       "source": "niceto"
     },
     {
+      "artist": "SPEED ANIVERSARIO",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/speed-aniversario-en-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "SELF-TITLED: GOLDEN HOUR",
       "venue": "Niceto Club",
       "date": "2026-10-11",
@@ -335,20 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-11",
       "ticketUrl": "https://venti.live/evento/uncut-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "FIESTA TREVI 11 Oct",
-      "venue": "Niceto Club",
-      "date": "2026-10-11",
-      "ticketUrl": "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "MAD PROFESSOR",
-      "venue": "Niceto Club",
-      "date": "2026-10-14",
-      "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
       "source": "niceto"
     }
   ]

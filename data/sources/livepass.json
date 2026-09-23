@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22",
+  "fetchedAt": "2026-09-23",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -90,13 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Walter Colonna Band- Compartiendo Rock y Corazones",
-      "venue": "Café Berlín",
-      "date": "2026-09-22",
-      "ticketUrl": "https://livepass.com.ar/events/walter-colonna-band-compartiendo-rock-y-corazones-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -247,13 +240,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Simón Goñi",
-      "venue": "CCNU",
-      "date": "2026-09-27",
-      "ticketUrl": "https://livepass.com.ar/events/simon-goni-en-ccnu",
-      "source": "livepass"
-    },
-    {
       "artist": "Espíritu Pescado",
       "venue": "Café Berlín",
       "date": "2026-09-27",
@@ -352,6 +338,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Luis Philippe",
+      "venue": "CCNU",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/luis-philippe-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "SIN DATOS",
       "venue": "Guajira LP",
       "date": "2026-10-02",
@@ -391,6 +384,13 @@
       "venue": "MALBA",
       "date": "2026-10-03",
       "ticketUrl": "https://livepass.com.ar/events/carrere-cronista-en-malba",
+      "source": "livepass"
+    },
+    {
+      "artist": "Belén Ruiz y Bambu",
+      "venue": "CCNU",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/belen-ruiz-y-bambu-en-ccnu",
       "source": "livepass"
     },
     {
@@ -461,6 +461,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-07",
       "ticketUrl": "https://livepass.com.ar/events/the-crimson-kings-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Pelusa Latin Project",
+      "venue": "CCNU",
+      "date": "2026-10-07",
+      "ticketUrl": "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300",
       "source": "livepass"
     },
     {
@@ -695,6 +702,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Marsico, Vazquez, Mollard",
+      "venue": "CCNU",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/marsico-vazquez-mollard-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Vértigo",
       "venue": "Café Berlín",
       "date": "2026-10-23",
@@ -706,6 +720,13 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-10-23",
       "ticketUrl": "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "BS AS NU METAL FEST",
+      "venue": "San Miguel",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/bs-as-nu-metal-fest-en-san-miguel",
       "source": "livepass"
     },
     {
@@ -825,6 +846,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-01",
       "ticketUrl": "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Rushlight",
+      "venue": "Café Berlín",
+      "date": "2026-11-02",
+      "ticketUrl": "https://livepass.com.ar/events/rushlight-en-cafe-berlin",
       "source": "livepass"
     },
     {
