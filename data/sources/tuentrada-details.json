@@ -33,17 +33,6 @@
       }
     ]
   },
-  "bandana-tgr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-23",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Bandana"
-      }
-    ]
-  },
   "raphael-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -58,6 +47,41 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Raphael"
+      }
+    ]
+  },
+  "abel-pintos-tgr": {
+    "fetchedAt": "2026-09-14",
+    "sessions": [
+      {
+        "date": "2026-11-13",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-14",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-15",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
+      },
+      {
+        "date": "2026-11-20",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Abel Pintos"
       }
     ]
   },
@@ -124,38 +148,14 @@
       }
     ]
   },
-  "abel-pintos-tgr": {
+  "lfdaa-tucuman": {
     "fetchedAt": "2026-09-14",
     "sessions": [
       {
-        "date": "2026-11-13",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-14",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-15",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-19",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-20",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
+        "date": "2026-10-10",
+        "venue": "Hipodromo De Tucuman",
+        "city": "San Miguel De Tucumán",
+        "name": "Los Fundamentalistas Del Aire Acondicionado"
       }
     ]
   },
@@ -173,17 +173,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Dyango"
-      }
-    ]
-  },
-  "lfdaa-tucuman": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-10-10",
-        "venue": "Hipodromo De Tucuman",
-        "city": "San Miguel De Tucumán",
-        "name": "Los Fundamentalistas Del Aire Acondicionado"
       }
     ]
   },
@@ -272,17 +261,6 @@
       }
     ]
   },
-  "el-kuelgue-amr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-26",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "El Kuelgue"
-      }
-    ]
-  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -297,6 +275,17 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "el-kuelgue-amr": {
+    "fetchedAt": "2026-09-14",
+    "sessions": [
+      {
+        "date": "2026-09-26",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "El Kuelgue"
       }
     ]
   },

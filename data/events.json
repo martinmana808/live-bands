@@ -80,26 +80,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "fanweek-2026-09-16-livepass",
-    "shortId": "2don91e",
-    "artist": "FANWEEK",
-    "artistKey": "fanweek",
-    "date": "2026-09-16",
-    "venue": "Livepass",
-    "venueKey": "livepass",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fan-week-move-concerts"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-17"
-  },
-  {
     "id": "pjmorton-2026-09-16-vorterix",
     "shortId": "eysfmxo",
     "artist": "PJ MORTON",
@@ -222,132 +202,6 @@
       "classical"
     ],
     "firstSeenAt": "2026-09-18"
-  },
-  {
-    "id": "bandana-2026-09-23-granrex",
-    "shortId": "1gfakc1",
-    "artist": "Bandana",
-    "artistKey": "bandana",
-    "date": "2026-09-23",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/bandana-tgr"
-    ],
-    "sources": [
-      "songkick",
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "5SqghR4PmacEuzlpIOQI2k",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb8f3b5ebf9ab4e0bc82f19d",
-    "genres": [
-      "pop",
-      "teen pop"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "caifanes-2026-09-23-vorterix",
-    "shortId": "mcb4d8g",
-    "artist": "Caifanes",
-    "artistKey": "caifanes",
-    "date": "2026-09-23",
-    "venue": "Teatro Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "genres": [
-      "alternative rock",
-      "cumbia mexicana",
-      "gothic rock"
-    ],
-    "firstSeenAt": "2026-05-09"
-  },
-  {
-    "id": "camping-2026-09-23-ccnu",
-    "shortId": "1rmz927",
-    "artist": "Camping",
-    "artistKey": "camping",
-    "date": "2026-09-23",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/camping-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "DE",
-    "spotifyId": "05ugEOR6Mr3l27oIegLhYj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d7b12eac1bdf3bfa2a06c11d",
-    "genres": [],
-    "firstSeenAt": "2026-09-16"
-  },
-  {
-    "id": "cornejo-2026-09-23-ccnu",
-    "shortId": "qmcz59n",
-    "artist": "Cornejo",
-    "artistKey": "cornejo",
-    "date": "2026-09-23",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/cornejo-tamburo-charchir-oqui-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-16"
-  },
-  {
-    "id": "marttein-2026-09-23-niceto",
-    "shortId": "13v3he5",
-    "artist": "MARTTEIN",
-    "artistKey": "marttein",
-    "date": "2026-09-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/marttein-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "5EbzQCOHXCVsr4y0qNsB48",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9a345819834f64fe07d0325",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "rikyn-2026-09-23-cafeberlin",
-    "shortId": "cvezv4y",
-    "artist": "Rikyn",
-    "artistKey": "rikyn",
-    "date": "2026-09-23",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/rikyn-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "5planetas-2026-09-24-cafeberlin",
@@ -3033,6 +2887,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "pelusalatinproject-2026-10-04-ccnu",
+    "shortId": "18t7vx2",
+    "artist": "Pelusa Latin Project",
+    "artistKey": "pelusalatinproject",
+    "date": "2026-10-04",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-24"
+  },
+  {
     "id": "robbiewilliams-2026-10-04-movistararena",
     "shortId": "isv0dao",
     "artist": "Robbie Williams",
@@ -3178,26 +3052,6 @@
     "firstSeenAt": "2026-09-20"
   },
   {
-    "id": "pelusalatinproject-2026-10-07-ccnu",
-    "shortId": "19h3w14",
-    "artist": "Pelusa Latin Project",
-    "artistKey": "pelusalatinproject",
-    "date": "2026-10-07",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
     "id": "saturnus-2026-10-07-culturalbula",
     "shortId": "1wm0o80",
     "artist": "Saturnus",
@@ -3278,6 +3132,48 @@
     "firstSeenAt": "2026-09-14"
   },
   {
+    "id": "missuenossondetuadios-2026-10-08-moscuespaciocultural",
+    "shortId": "darkaf3",
+    "artist": "mis sueños son de tu adiós",
+    "artistKey": "missuenossondetuadios",
+    "date": "2026-10-08",
+    "venue": "Moscú Espacio Cultural",
+    "venueKey": "moscuespaciocultural",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6tUglhftsCV9KRMeizMhik",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db07dca694ddd706eb163ff4",
+    "genres": [
+      "emo",
+      "lo-fi",
+      "noise"
+    ],
+    "firstSeenAt": "2026-09-24"
+  },
+  {
+    "id": "morefayah-2026-10-08-niceto",
+    "shortId": "2mpoxcb",
+    "artist": "MORE FAYAH",
+    "artistKey": "morefayah",
+    "date": "2026-10-08",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/more-fayah-8-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-24"
+  },
+  {
     "id": "nochedeteatro-2026-10-08-cafeberlin",
     "shortId": "1fapsch",
     "artist": "Noche de Teatro",
@@ -3338,6 +3234,28 @@
       "pop punk"
     ],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "aflockofseagulls-2026-10-09-teatrito",
+    "shortId": "20rl84w",
+    "artist": "A Flock of Seagulls",
+    "artistKey": "aflockofseagulls",
+    "date": "2026-10-09",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "0uAjBatvB4ubpd4kCfjmNt",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d1fe8a526df0baa7767043e4",
+    "genres": [
+      "new wave",
+      "new romantic",
+      "dance-pop"
+    ],
+    "firstSeenAt": "2026-09-24"
   },
   {
     "id": "cameratarosario-2026-10-09-auditoriumsalaastorpiazzollamardelplata",
@@ -4927,15 +4845,15 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "bluenigths-2026-10-29-cafeberlin",
-    "shortId": "lzvy1tk",
-    "artist": "Blue Nigths",
-    "artistKey": "bluenigths",
+    "id": "bluenights-2026-10-29-cafeberlin",
+    "shortId": "x401twt",
+    "artist": "Blue Nights",
+    "artistKey": "bluenights",
     "date": "2026-10-29",
     "venue": "Café Berlín",
     "venueKey": "cafeberlin",
     "ticketUrls": [
-      "https://livepass.com.ar/events/blue-nigths-en-cafe-berlin"
+      "https://livepass.com.ar/events/blue-nights-en-cafe-berlin"
     ],
     "sources": [
       "livepass"
@@ -4944,7 +4862,7 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-09-24"
   },
   {
     "id": "thebeatles-2026-10-29-cafeberlin",
@@ -6597,6 +6515,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "lolomorales-2026-12-04-quilmes",
+    "shortId": "stk5fow",
+    "artist": "LOLO MORALES",
+    "artistKey": "lolomorales",
+    "date": "2026-12-04",
+    "venue": "Quilmes",
+    "venueKey": "quilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/lolo-morales-en-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-24"
   },
   {
     "id": "vilmapalmaevampiro-2026-12-04-vorterix",

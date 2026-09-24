@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23",
+  "fetchedAt": "2026-09-24",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -90,27 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Camping",
-      "venue": "CCNU",
-      "date": "2026-09-23",
-      "ticketUrl": "https://livepass.com.ar/events/camping-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Rikyn",
-      "venue": "Café Berlín",
-      "date": "2026-09-23",
-      "ticketUrl": "https://livepass.com.ar/events/rikyn-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Cornejo - Tamburo - Charchir - Oqui",
-      "venue": "CCNU",
-      "date": "2026-09-23",
-      "ticketUrl": "https://livepass.com.ar/events/cornejo-tamburo-charchir-oqui-en-ccnu",
       "source": "livepass"
     },
     {
@@ -450,6 +429,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Pelusa Latin Project",
+      "venue": "CCNU",
+      "date": "2026-10-04",
+      "ticketUrl": "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Gicela Méndez Ribeiro & Aluisio Rockembach - Música de Frontera",
       "venue": "Café Berlín",
       "date": "2026-10-06",
@@ -461,13 +447,6 @@
       "venue": "Café Berlín",
       "date": "2026-10-07",
       "ticketUrl": "https://livepass.com.ar/events/the-crimson-kings-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pelusa Latin Project",
-      "venue": "CCNU",
-      "date": "2026-10-07",
-      "ticketUrl": "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300",
       "source": "livepass"
     },
     {
@@ -786,10 +765,10 @@
       "source": "livepass"
     },
     {
-      "artist": "Blue Nigths",
+      "artist": "Blue Nights",
       "venue": "Café Berlín",
       "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/blue-nigths-en-cafe-berlin",
+      "ticketUrl": "https://livepass.com.ar/events/blue-nights-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -1171,6 +1150,13 @@
       "source": "livepass"
     },
     {
+      "artist": "LOLO MORALES",
+      "venue": "Quilmes",
+      "date": "2026-12-04",
+      "ticketUrl": "https://livepass.com.ar/events/lolo-morales-en-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "LUZ GAGGI",
       "venue": "el Teatro Ópera LP",
       "date": "2026-12-05",
@@ -1238,13 +1224,6 @@
       "venue": "el Teatro Colón",
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
-      "source": "livepass"
-    },
-    {
-      "artist": "FANWEEK - MOVE CONCERTS",
-      "venue": "Livepass",
-      "date": "2026-09-16",
-      "ticketUrl": "https://livepass.com.ar/events/fan-week-move-concerts",
       "source": "livepass"
     },
     {

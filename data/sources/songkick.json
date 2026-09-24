@@ -1,18 +1,6 @@
 {
-  "fetchedAt": "2026-09-23",
+  "fetchedAt": "2026-09-24",
   "events": [
-    {
-      "artist": "Caifanes",
-      "venue": "Teatro Vorterix",
-      "date": "2026-09-23",
-      "source": "songkick"
-    },
-    {
-      "artist": "Bandana (AR)",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-23",
-      "source": "songkick"
-    },
     {
       "artist": "Morat",
       "venue": "Movistar Arena",
@@ -293,6 +281,18 @@
       "artist": "Tigers Jaw",
       "venue": "Uniclub",
       "date": "2026-10-08",
+      "source": "songkick"
+    },
+    {
+      "artist": "mis sueños son de tu adiós, Llagas, and Adrede (Arg)",
+      "venue": "Moscú Espacio Cultural",
+      "date": "2026-10-08",
+      "source": "songkick"
+    },
+    {
+      "artist": "A Flock of Seagulls",
+      "venue": "El Teatrito",
+      "date": "2026-10-09",
       "source": "songkick"
     }
   ]
