@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -90,34 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Swingin’ classics",
-      "venue": "CCNU",
-      "date": "2026-09-24",
-      "ticketUrl": "https://livepass.com.ar/events/swingin-classics-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Jan Uve",
-      "venue": "Café Berlín",
-      "date": "2026-09-24",
-      "ticketUrl": "https://livepass.com.ar/events/jan-uve-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Abril Cormery Trio",
-      "venue": "CCNU",
-      "date": "2026-09-24",
-      "ticketUrl": "https://livepass.com.ar/events/abril-cormery-trio-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "5 Planetas",
-      "venue": "Café Berlín",
-      "date": "2026-09-24",
-      "ticketUrl": "https://livepass.com.ar/events/5-planetas-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -422,6 +394,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Adem Santos Bolo Fernández",
+      "venue": "CCNU",
+      "date": "2026-10-04",
+      "ticketUrl": "https://livepass.com.ar/events/adem-santos-bolo-fernandez-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Chuecas y Locas",
       "venue": "Café Berlín",
       "date": "2026-10-04",
@@ -450,6 +429,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Jazz & Brasil",
+      "venue": "CCNU",
+      "date": "2026-10-08",
+      "ticketUrl": "https://livepass.com.ar/events/jazz-brasil-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Noche de Teatro - Modo Pareja",
       "venue": "Café Berlín",
       "date": "2026-10-08",
@@ -457,10 +443,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Fatoumata",
+      "venue": "CCNU",
+      "date": "2026-10-08",
+      "ticketUrl": "https://livepass.com.ar/events/fatoumata-en-ccnu-2026-10-08",
+      "source": "livepass"
+    },
+    {
       "artist": "Sentimental Syncopators",
       "venue": "Café Berlín",
       "date": "2026-10-08",
       "ticketUrl": "https://livepass.com.ar/events/sentimental-syncopators-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Carola Kemper Quartet",
+      "venue": "CCNU",
+      "date": "2026-10-09",
+      "ticketUrl": "https://livepass.com.ar/events/carola-kemper-quartet-en-ccnu",
       "source": "livepass"
     },
     {
@@ -496,6 +496,13 @@
       "venue": "CCNU",
       "date": "2026-10-09",
       "ticketUrl": "https://livepass.com.ar/events/cuarteto-araoz-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nacho Pérez Trio",
+      "venue": "CCNU",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/nacho-perez-trio-en-ccnu",
       "source": "livepass"
     },
     {
@@ -1140,6 +1147,13 @@
       "venue": "Vorterix",
       "date": "2026-12-01",
       "ticketUrl": "https://livepass.com.ar/events/giant-rooks-en-vorterix",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dennis Chambers & Christian Gálvez Quartet",
+      "venue": "Café Berlín",
+      "date": "2026-12-01",
+      "ticketUrl": "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin-2026-12-01-20-45-00-0300",
       "source": "livepass"
     },
     {

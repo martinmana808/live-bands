@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "events": [
     {
       "artist": "Midachi",
@@ -114,27 +114,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Juan Diego Flórez",
-      "venue": "Teatro Colón",
-      "date": "2026-09-22",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Matthias Goerne",
-      "venue": "Teatro Colón",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Asmik Grigorian",
-      "venue": "Teatro Colón",
-      "date": "2026-12-08",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Dyango",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-04",
@@ -191,10 +170,31 @@
       "source": "tuentrada"
     },
     {
-      "artist": "La Repandilla",
+      "artist": "Juan Diego Flórez",
+      "venue": "Teatro Colón",
+      "date": "2026-09-22",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Matthias Goerne",
+      "venue": "Teatro Colón",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Asmik Grigorian",
+      "venue": "Teatro Colón",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Ahyre",
       "venue": "Teatro Gran Rex",
-      "date": "2026-09-24",
-      "ticketUrl": "https://www.tuentrada.com/la-repandilla-tgr",
+      "date": "2026-10-08",
+      "ticketUrl": "https://www.tuentrada.com/ahyre-tgr",
       "source": "tuentrada"
     },
     {

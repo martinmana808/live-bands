@@ -125,40 +125,6 @@
       }
     ]
   },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-09-18",
-    "sessions": [
-      {
-        "date": "2026-09-22",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Juan Diego Flórez"
-      },
-      {
-        "date": "2026-10-17",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Matthias Goerne"
-      },
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
-      }
-    ]
-  },
-  "lfdaa-tucuman": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-10-10",
-        "venue": "Hipodromo De Tucuman",
-        "city": "San Miguel De Tucumán",
-        "name": "Los Fundamentalistas Del Aire Acondicionado"
-      }
-    ]
-  },
   "dyango-tgr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -173,6 +139,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Dyango"
+      }
+    ]
+  },
+  "lfdaa-tucuman": {
+    "fetchedAt": "2026-09-14",
+    "sessions": [
+      {
+        "date": "2026-10-10",
+        "venue": "Hipodromo De Tucuman",
+        "city": "San Miguel De Tucumán",
+        "name": "Los Fundamentalistas Del Aire Acondicionado"
       }
     ]
   },
@@ -278,6 +255,29 @@
       }
     ]
   },
+  "grandes-interpretes-teatrocolon": {
+    "fetchedAt": "2026-09-18",
+    "sessions": [
+      {
+        "date": "2026-09-22",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Juan Diego Flórez"
+      },
+      {
+        "date": "2026-10-17",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Matthias Goerne"
+      },
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
+      }
+    ]
+  },
   "el-kuelgue-amr": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -289,14 +289,14 @@
       }
     ]
   },
-  "la-repandilla-tgr": {
-    "fetchedAt": "2026-09-21",
+  "ahyre-tgr": {
+    "fetchedAt": "2026-09-25",
     "sessions": [
       {
-        "date": "2026-09-24",
+        "date": "2026-10-08",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "La Repandilla"
+        "name": "Ahyre"
       }
     ]
   },

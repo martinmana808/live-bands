@@ -204,269 +204,6 @@
     "firstSeenAt": "2026-09-18"
   },
   {
-    "id": "5planetas-2026-09-24-cafeberlin",
-    "shortId": "2b30fi0",
-    "artist": "5 Planetas",
-    "artistKey": "5planetas",
-    "date": "2026-09-24",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/5-planetas-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "abrilcormerytrio-2026-09-24-ccnu",
-    "shortId": "1jp0sd6",
-    "artist": "Abril Cormery Trio",
-    "artistKey": "abrilcormerytrio",
-    "date": "2026-09-24",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/abril-cormery-trio-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "aftersudanarchives-2026-09-24-niceto",
-    "shortId": "2d8u10t",
-    "artist": "After sudan archives",
-    "artistKey": "aftersudanarchives",
-    "date": "2026-09-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/after-sudan-archives-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
-    "id": "dennisbovellclubhats-2026-09-24-niceto",
-    "shortId": "1licuaf",
-    "artist": "DENNIS BOVELL/CLUB HATS",
-    "artistKey": "dennisbovellclubhats",
-    "date": "2026-09-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/dennis-bovell-club-hats-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-02"
-  },
-  {
-    "id": "gestionmusicalelartedeconstruirunacarrera-2026-09-24-niceto",
-    "shortId": "2001and",
-    "artist": "Gestión Musical: El Arte de Construir una Carrera",
-    "artistKey": "gestionmusicalelartedeconstruirunacarrera",
-    "date": "2026-09-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/gesti-n-musical-el-arte-de-construir-una-carrera-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "januve-2026-09-24-cafeberlin",
-    "shortId": "19k4fru",
-    "artist": "Jan Uve",
-    "artistKey": "januve",
-    "date": "2026-09-24",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jan-uve-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "7hWXE61toZRP69BB1bQgDe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1c156a08448c8925321159b",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "laplayground-2026-09-24-niceto",
-    "shortId": "1fnt7b2",
-    "artist": "LA PLAYGROUND",
-    "artistKey": "laplayground",
-    "date": "2026-09-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-playground-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-04"
-  },
-  {
-    "id": "larepandilla-2026-09-24-granrex",
-    "shortId": "grvuccn",
-    "artist": "La Repandilla",
-    "artistKey": "larepandilla",
-    "date": "2026-09-24",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/la-repandilla-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "4TeM4orWQq9H1Wj2intCub",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd089040d525a1d364343e3e",
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "morat-2026-09-24-movistararena",
-    "shortId": "29izilh",
-    "artist": "Morat",
-    "artistKey": "morat",
-    "date": "2026-09-24",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CO",
-    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "genres": [
-      "latin",
-      "latin pop"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "oldmanschild-2026-09-24-groove",
-    "shortId": "2aw5uoq",
-    "artist": "Old Man's Child",
-    "artistKey": "oldmanschild",
-    "date": "2026-09-24",
-    "venue": "Groove",
-    "venueKey": "groove",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "NO",
-    "spotifyId": "4LT73i2bqTazQQkmODMaYf",
-    "spotifyImage": "https://i.scdn.co/image/8f80012d6b9d0f3a71dfd91a0f9ef6d2c071e1fd",
-    "genres": [
-      "melodic black metal"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pool-2026-09-24-yobla",
-    "shortId": "2p2eut1",
-    "artist": "Pool",
-    "artistKey": "pool",
-    "date": "2026-09-24",
-    "venue": "Yöbla Bar",
-    "venueKey": "yobla",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "sudanarchives-2026-09-24-niceto",
-    "shortId": "s4lw8cu",
-    "artist": "SUDAN ARCHIVES",
-    "artistKey": "sudanarchives",
-    "date": "2026-09-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/sudan-archives-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2MPHBxznH1fj59jbOWY38u",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780937734c7a4d13d8ef02e2f7",
-    "genres": [
-      "soul",
-      "alternative folk",
-      "electro"
-    ],
-    "firstSeenAt": "2026-08-30"
-  },
-  {
-    "id": "swinginclassics-2026-09-24-ccnu",
-    "shortId": "28uecp5",
-    "artist": "Swingin’ classics",
-    "artistKey": "swinginclassics",
-    "date": "2026-09-24",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/swingin-classics-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "antoniaadem-2026-09-25-ccnu",
     "shortId": "2mcdrjn",
     "artist": "Antonia Adem",
@@ -2803,6 +2540,26 @@
     "firstSeenAt": "2026-09-13"
   },
   {
+    "id": "ademsantosbolofernandez-2026-10-04-ccnu",
+    "shortId": "1h30a6i",
+    "artist": "Adem Santos Bolo Fernández",
+    "artistKey": "ademsantosbolofernandez",
+    "date": "2026-10-04",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/adem-santos-bolo-fernandez-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "chapterhouse-2026-10-04-niceto",
     "shortId": "19wn4hw",
     "artist": "Chapterhouse",
@@ -3094,6 +2851,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "ahyre-2026-10-08-granrex",
+    "shortId": "25dj6hq",
+    "artist": "Ahyre",
+    "artistKey": "ahyre",
+    "date": "2026-10-08",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/ahyre-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "2IucHN96T0BZ3e4mXe9AgP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff5450c70971c32e65a07d29",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "armandinho-2026-10-08-trastienda",
     "shortId": "2pmjkey",
     "artist": "Armandinho",
@@ -3110,6 +2887,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178826079575686a7c942e01da4",
     "genres": [],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "fatoumata-2026-10-08-ccnu",
+    "shortId": "s738m4l",
+    "artist": "Fatoumata",
+    "artistKey": "fatoumata",
+    "date": "2026-10-08",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fatoumata-en-ccnu-2026-10-08"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "4AoRW0Ho6Cm8mUeznK8nK7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178faec1e65b02425f55f424a0b",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "j4mes-2026-10-08-niceto",
@@ -3130,6 +2927,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c54f2d813f4f9e5fcea40810",
     "genres": [],
     "firstSeenAt": "2026-09-14"
+  },
+  {
+    "id": "jazzbrasil-2026-10-08-ccnu",
+    "shortId": "sc23bay",
+    "artist": "Jazz & Brasil",
+    "artistKey": "jazzbrasil",
+    "date": "2026-10-08",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/jazz-brasil-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "missuenossondetuadios-2026-10-08-moscuespaciocultural",
@@ -3278,6 +3095,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "carolakemperquartet-2026-10-09-ccnu",
+    "shortId": "150ts1f",
+    "artist": "Carola Kemper Quartet",
+    "artistKey": "carolakemperquartet",
+    "date": "2026-10-09",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/carola-kemper-quartet-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "cuartetoaraoz-2026-10-09-ccnu",
     "shortId": "1u1k8wv",
     "artist": "Cuarteto Aráoz",
@@ -3318,17 +3155,36 @@
     "firstSeenAt": "2026-09-19"
   },
   {
+    "id": "dregen-2026-10-09-liverpool",
+    "shortId": "8e3vdlm",
+    "artist": "Dregen",
+    "artistKey": "dregen",
+    "date": "2026-10-09",
+    "venue": "Liverpool Club",
+    "venueKey": "liverpool",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "SE",
+    "spotifyId": "663P1NUOnzy8MiAjQFXVYA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840deda62f182aa6a1220709f",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "feinesahnefischfilet-2026-10-09-vorterix",
     "shortId": "1tbk2ve",
-    "artist": "FEINE SAHNE FISCHFILET",
+    "artist": "Feine Sahne Fischfilet",
     "artistKey": "feinesahnefischfilet",
     "date": "2026-10-09",
-    "venue": "Vorterix",
+    "venue": "Teatro Vorterix",
     "venueKey": "vorterix",
     "ticketUrls": [
       "https://www.allaccess.com.ar/event/feine-sahne-fischfilet"
     ],
     "sources": [
+      "songkick",
       "vorterix"
     ],
     "country": "DE",
@@ -3441,6 +3297,24 @@
       "trap latino"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "pimpinela-2026-10-09-movistararena",
+    "shortId": "3kn07yd",
+    "artist": "Pimpinela",
+    "artistKey": "pimpinela",
+    "date": "2026-10-09",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "7E7CVSqFdLyh0K4AE9uTMo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb7429e08829bf1ab3e5887f",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "roquenarvaja-2026-10-09-cafeberlin",
@@ -3671,6 +3545,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "nachopereztrio-2026-10-10-ccnu",
+    "shortId": "10d9iug",
+    "artist": "Nacho Pérez Trio",
+    "artistKey": "nachopereztrio",
+    "date": "2026-10-10",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nacho-perez-trio-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "speedaniversario-2026-10-10-niceto",
     "shortId": "2qj3nfl",
     "artist": "SPEED ANIVERSARIO",
@@ -3775,6 +3669,26 @@
       "pop"
     ],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "fiestatrevi-2026-10-11-niceto",
+    "shortId": "1lrue68",
+    "artist": "FIESTA TREVI",
+    "artistKey": "fiestatrevi",
+    "date": "2026-10-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-21"
   },
   {
     "id": "masmusica-2026-10-11-cafeberlin",
@@ -3917,6 +3831,50 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "madprofessor-2026-10-14-niceto",
+    "shortId": "1zv9ut9",
+    "artist": "MAD PROFESSOR",
+    "artistKey": "madprofessor",
+    "date": "2026-10-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mad-professor-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "GB",
+    "spotifyId": "3hbnUwHvxyFxeJ9veCzOE7",
+    "spotifyImage": "https://i.scdn.co/image/e88d5e43c233694ef131bf53a576abcb26b3d8fc",
+    "genres": [
+      "ambient dub",
+      "dub",
+      "reggae"
+    ],
+    "firstSeenAt": "2026-09-21"
+  },
+  {
+    "id": "lamaquinacamaleon-2026-10-15-niceto",
+    "shortId": "153kbnn",
+    "artist": "La Máquina Camaleón",
+    "artistKey": "lamaquinacamaleon",
+    "date": "2026-10-15",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-15-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "EC",
+    "spotifyId": "6NIyDDyPBRTyPZ6ggjE8Rj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c894ad4a0809d8da20534e6",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
+  },
+  {
     "id": "localbluesallstars-2026-10-15-cafeberlin",
     "shortId": "2gmhtab",
     "artist": "LOCAL BLUES All Stars",
@@ -3935,6 +3893,46 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "sedaaniversario-2026-10-15-niceto",
+    "shortId": "83o14e1",
+    "artist": "SEDA Aniversario",
+    "artistKey": "sedaaniversario",
+    "date": "2026-10-15",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/seda-aniversario-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-21"
+  },
+  {
+    "id": "ainda-2026-10-16-niceto",
+    "shortId": "2bu2dw9",
+    "artist": "Ainda",
+    "artistKey": "ainda",
+    "date": "2026-10-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ainda-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3eZXi1et2XpXPD7PoUDDzE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863164bdfa4e37d1b1eca870f",
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "axelscheinsohncuarteto-2026-10-16-ccnu",
@@ -6452,6 +6450,26 @@
       "dance-pop"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "dennischamberschristiangalvezquartet-2026-12-01-cafeberlin",
+    "shortId": "1cfp6ah",
+    "artist": "Dennis Chambers & Christian Gálvez Quartet",
+    "artistKey": "dennischamberschristiangalvezquartet",
+    "date": "2026-12-01",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dennis-chambers-christian-galvez-quartet-en-cafe-berlin-2026-12-01-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "giantrooks-2026-12-01-vorterix",

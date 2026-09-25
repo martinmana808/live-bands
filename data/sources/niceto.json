@@ -1,41 +1,6 @@
 {
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "events": [
-    {
-      "artist": "SUDAN ARCHIVES",
-      "venue": "Niceto Club",
-      "date": "2026-09-24",
-      "ticketUrl": "https://venti.live/evento/sudan-archives-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "Gestión Musical: El Arte de Construir una Carrera",
-      "venue": "Niceto Club",
-      "date": "2026-09-24",
-      "ticketUrl": "https://venti.live/evento/gesti-n-musical-el-arte-de-construir-una-carrera-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "DENNIS BOVELL/CLUB HATS",
-      "venue": "Niceto Club",
-      "date": "2026-09-24",
-      "ticketUrl": "https://venti.live/evento/dennis-bovell-club-hats-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "LA PLAYGROUND",
-      "venue": "Niceto Club",
-      "date": "2026-09-24",
-      "ticketUrl": "https://venti.live/evento/la-playground-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "After sudan archives",
-      "venue": "Niceto Club",
-      "date": "2026-09-24",
-      "ticketUrl": "https://venti.live/evento/after-sudan-archives-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "RECámara Primavera",
       "venue": "Niceto Club",
@@ -261,7 +226,7 @@
       "source": "niceto"
     },
     {
-      "artist": "TOBIKA presenta INTELIGENCIA ARTESANAL",
+      "artist": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL",
       "venue": "Niceto Club",
       "date": "2026-10-09",
       "ticketUrl": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
@@ -349,6 +314,41 @@
       "venue": "Niceto Club",
       "date": "2026-10-11",
       "ticketUrl": "https://venti.live/evento/uncut-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "FIESTA TREVI 11 Oct",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "MAD PROFESSOR",
+      "venue": "Niceto Club",
+      "date": "2026-10-14",
+      "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SEDA Aniversario",
+      "venue": "Niceto Club",
+      "date": "2026-10-15",
+      "ticketUrl": "https://venti.live/evento/seda-aniversario-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "La Máquina Camaleón – Solito World Tour 15 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-15",
+      "ticketUrl": "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-15-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Ainda",
+      "venue": "Niceto Club",
+      "date": "2026-10-16",
+      "ticketUrl": "https://venti.live/evento/ainda-en-niceto-club",
       "source": "niceto"
     }
   ]

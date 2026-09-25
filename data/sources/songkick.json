@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "events": [
-    {
-      "artist": "Morat",
-      "venue": "Movistar Arena",
-      "date": "2026-09-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Old Man's Child",
-      "venue": "Groove",
-      "date": "2026-09-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Pool (AR)",
-      "venue": "Yöbla Bar",
-      "date": "2026-09-24",
-      "source": "songkick"
-    },
     {
       "artist": "Morat",
       "venue": "Movistar Arena",
@@ -292,6 +274,24 @@
     {
       "artist": "A Flock of Seagulls",
       "venue": "El Teatrito",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Pimpinela",
+      "venue": "Movistar Arena",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Feine Sahne Fischfilet",
+      "venue": "Teatro Vorterix",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Dregen",
+      "venue": "Liverpool Club",
       "date": "2026-10-09",
       "source": "songkick"
     }
