@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-26",
   "events": [
     {
       "artist": "RECámara Primavera",
@@ -142,6 +142,13 @@
       "source": "niceto"
     },
     {
+      "artist": "JERO JONES y Marttein",
+      "venue": "Niceto Club",
+      "date": "2026-10-01",
+      "ticketUrl": "https://venti.live/evento/jero-jones-y-marttein-en-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "SANTI MUK",
       "venue": "Niceto Club",
       "date": "2026-10-02",
@@ -160,6 +167,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-02",
       "ticketUrl": "https://venti.live/evento/ala-sur-presentando-la-revancha-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "NORTH GROOVE x ABASIS x EDÉN x NULL",
+      "venue": "Niceto Club",
+      "date": "2026-10-02",
+      "ticketUrl": "https://venti.live/evento/north-groove-x-abasis-x-ed-n-x-null-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -209,6 +223,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-08",
       "ticketUrl": "https://venti.live/evento/j4mes-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Correo Argentino, Narciso y Plomero líquido",
+      "venue": "Niceto Club",
+      "date": "2026-10-08",
+      "ticketUrl": "https://venti.live/evento/correo-argentino-narciso-y-plomero-l-quido-en-humboldt-niceto-club",
       "source": "niceto"
     },
     {
@@ -328,27 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-14",
       "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "SEDA Aniversario",
-      "venue": "Niceto Club",
-      "date": "2026-10-15",
-      "ticketUrl": "https://venti.live/evento/seda-aniversario-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Máquina Camaleón – Solito World Tour 15 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-15",
-      "ticketUrl": "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-15-oct-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Ainda",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/ainda-en-niceto-club",
       "source": "niceto"
     }
   ]

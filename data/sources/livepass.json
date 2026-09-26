@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-26",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -90,48 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Antonia Adem, Felipe Bafaro, Mati Jablonka y Romeo Rebairols",
-      "venue": "CCNU",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/antonia-adem-felipe-bafaro-mati-jablonka-y-romeo-rebairols-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "ROMPIENDO ESPEJOS - Tributo a Callejeros",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Daniel Melero",
-      "venue": "Café Berlín",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2026-09-25",
-      "source": "livepass"
-    },
-    {
-      "artist": "CEREMONIA ROCK NACIONAL",
-      "venue": "San Miguel",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/ceremonia-rock-nacional-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Quarter Quartet",
-      "venue": "CCNU",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/quarter-quartet-en-ccnu-2026-09-25",
-      "source": "livepass"
-    },
-    {
-      "artist": "Hermanos Martínez- Nuestros Años junto a Iorio",
-      "venue": "Café Berlín",
-      "date": "2026-09-25",
-      "ticketUrl": "https://livepass.com.ar/events/hermanos-martinez-nuestros-anos-junto-a-iorio-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -548,6 +506,13 @@
       "source": "livepass"
     },
     {
+      "artist": "HAY PLAN - Hay Peña: Edición Choriplaneada",
+      "venue": "Livepass",
+      "date": "2026-10-12",
+      "ticketUrl": "https://livepass.com.ar/events/hay-plan-hay-pena-edicion-choriplaneada",
+      "source": "livepass"
+    },
+    {
       "artist": "Festival de Cocina y Teatro Judío",
       "venue": "Café Berlín",
       "date": "2026-10-13",
@@ -874,6 +839,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-06",
       "ticketUrl": "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fabiana Cantilo",
+      "venue": "Quilmes",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/fabiana-cantilo-en-quilmes",
       "source": "livepass"
     },
     {

@@ -1,187 +1,5 @@
 [
   {
-    "id": "erickbrian-2026-09-11-vorterix",
-    "shortId": "1o4vsgf",
-    "artist": "ERICK BRIAN",
-    "artistKey": "erickbrian",
-    "date": "2026-09-11",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/erick-brian"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "4tSDK2ySq41vxwERzxVRZH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff2542a0c8b51e333059d99d",
-    "genres": [],
-    "firstSeenAt": "2026-07-02"
-  },
-  {
-    "id": "fiestaclickenvorterix-2026-09-11-vorterix",
-    "shortId": "1czrg6x",
-    "artist": "FIESTA CLICK EN VORTERIX",
-    "artistKey": "fiestaclickenvorterix",
-    "date": "2026-09-11",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-click-en-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
-    "id": "dancingmood-2026-09-12-vorterix",
-    "shortId": "8dtd405",
-    "artist": "DANCING MOOD",
-    "artistKey": "dancingmood",
-    "date": "2026-09-12",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/dancing-mood---special-guest-mimi-maura"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "70XauTb6oEJbXxFoH6wY9F",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842bc03857f5c2a8f6744d57a",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "fiestaforever90s-2026-09-12-vorterix",
-    "shortId": "1o6hsde",
-    "artist": "FIESTA FOREVER 90s",
-    "artistKey": "fiestaforever90s",
-    "date": "2026-09-12",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-forever-90s-edicion-primavera"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pjmorton-2026-09-16-vorterix",
-    "shortId": "eysfmxo",
-    "artist": "PJ MORTON",
-    "artistKey": "pjmorton",
-    "date": "2026-09-16",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/pj-morton"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "US",
-    "spotifyId": "2FMOHE79X98yptp4RpPrt7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c2b3307740b1421793cff28",
-    "genres": [
-      "soul"
-    ],
-    "firstSeenAt": "2026-06-14"
-  },
-  {
-    "id": "gustavocorderafestejasucumpleanosenvorterix-2026-09-18-vorterix",
-    "shortId": "1y2l73f",
-    "artist": "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX",
-    "artistKey": "gustavocorderafestejasucumpleanosenvorterix",
-    "date": "2026-09-18",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/gustavo-cordera-festeja-su-cumpleaos-en-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
-    "id": "pogofest-2026-09-18-vorterix",
-    "shortId": "l2o5xur",
-    "artist": "POGOFEST",
-    "artistKey": "pogofest",
-    "date": "2026-09-18",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/pogofest-especial-metal"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "fiestaclimax-2026-09-19-vorterix",
-    "shortId": "2rjimkq",
-    "artist": "FIESTA CLIMAX",
-    "artistKey": "fiestaclimax",
-    "date": "2026-09-19",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-climax-dia-de-la-primavera"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "losperezgarcia-2026-09-19-vorterix",
-    "shortId": "1jvojdj",
-    "artist": "LOS PEREZ GARCIA",
-    "artistKey": "losperezgarcia",
-    "date": "2026-09-19",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/los-perez--garcia"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "juandiegoflorez-2026-09-22-colon",
     "shortId": "115ht8a",
     "artist": "Juan Diego Flórez",
@@ -204,66 +22,6 @@
     "firstSeenAt": "2026-09-18"
   },
   {
-    "id": "antoniaadem-2026-09-25-ccnu",
-    "shortId": "2mcdrjn",
-    "artist": "Antonia Adem",
-    "artistKey": "antoniaadem",
-    "date": "2026-09-25",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/antonia-adem-felipe-bafaro-mati-jablonka-y-romeo-rebairols-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "bahianoenvorterix-2026-09-25-vorterix",
-    "shortId": "20gcepu",
-    "artist": "BAHIANO EN VORTERIX",
-    "artistKey": "bahianoenvorterix",
-    "date": "2026-09-25",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/bahiano-en-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-05-17"
-  },
-  {
-    "id": "ceremoniarocknacional-2026-09-25-sanmiguel",
-    "shortId": "1e18beh",
-    "artist": "CEREMONIA ROCK NACIONAL",
-    "artistKey": "ceremoniarocknacional",
-    "date": "2026-09-25",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ceremonia-rock-nacional-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "conociendorusia-2026-09-25-granrex",
     "shortId": "2b9wmwa",
     "artist": "Conociendo Rusia",
@@ -271,12 +29,9 @@
     "date": "2026-09-25",
     "venue": "Teatro Gran Rex",
     "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/conociendo-rusia-tgr"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "tuentrada"
+      "songkick"
     ],
     "country": "AR",
     "spotifyId": "79R7PUc6T6j09G8mJzNml2",
@@ -301,26 +56,6 @@
     "country": null,
     "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "danielmelero-2026-09-25-cafeberlin",
-    "shortId": "n5lf1cz",
-    "artist": "Daniel Melero",
-    "artistKey": "danielmelero",
-    "date": "2026-09-25",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2026-09-25"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "5ohM2ZA35IpUZNIAiK4RoY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841562370177887da0b3f6889",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -361,46 +96,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788e59a3b6486c3d1b67a5616e",
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hermanosmartinez-2026-09-25-cafeberlin",
-    "shortId": "1ql6fwt",
-    "artist": "Hermanos Martínez",
-    "artistKey": "hermanosmartinez",
-    "date": "2026-09-25",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hermanos-martinez-nuestros-anos-junto-a-iorio-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "4t75tim4RSC1FXQJcHXS4x",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178352f66eed1020dee8d83dcf7",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "kaosrave-2026-09-25-vorterix",
-    "shortId": "1x4rw1t",
-    "artist": "KAOS RAVE",
-    "artistKey": "kaosrave",
-    "date": "2026-09-25",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/kaos---rave"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-06-28"
   },
   {
     "id": "lashistorias-2026-09-25-culturalbula",
@@ -564,26 +259,6 @@
     "firstSeenAt": "2026-09-06"
   },
   {
-    "id": "quarterquartet-2026-09-25-ccnu",
-    "shortId": "12ixlsq",
-    "artist": "Quarter Quartet",
-    "artistKey": "quarterquartet",
-    "date": "2026-09-25",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/quarter-quartet-en-ccnu-2026-09-25"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "recamaraprimavera-2026-09-25-niceto",
     "shortId": "ewqoxyl",
     "artist": "RECámara Primavera",
@@ -602,26 +277,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-15"
-  },
-  {
-    "id": "rompiendoespejos-2026-09-25-operalp",
-    "shortId": "jivy1s8",
-    "artist": "ROMPIENDO ESPEJOS",
-    "artistKey": "rompiendoespejos",
-    "date": "2026-09-25",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/rompiendo-espejos-tributo-a-callejeros-en-el-teatro-opera-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "vulkaomora-2026-09-25-niceto",
@@ -742,26 +397,6 @@
     "firstSeenAt": "2026-08-30"
   },
   {
-    "id": "fiestadebar20anos-2026-09-26-vorterix",
-    "shortId": "t793y4m",
-    "artist": "FIESTA DEBAR 20 AÑOS",
-    "artistKey": "fiestadebar20anos",
-    "date": "2026-09-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-debar-20-anios"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "fiestaplophomenajeamoriacasan-2026-09-26-operalp",
     "shortId": "23pw28n",
     "artist": "FIESTA PLOP: Homenaje a Moria Casan",
@@ -800,26 +435,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-08-30"
-  },
-  {
-    "id": "kiddvoodoo-2026-09-26-vorterix",
-    "shortId": "12jjzue",
-    "artist": "KIDD VOODOO",
-    "artistKey": "kiddvoodoo",
-    "date": "2026-09-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/kidd-voodoo"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "CL",
-    "spotifyId": "10VBp06W8NIgMW4JruLCC4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d0e88f64b46ef78e65e2a916",
-    "genres": [],
-    "firstSeenAt": "2026-05-21"
   },
   {
     "id": "lachanchamuda-2026-09-26-operalp",
@@ -1641,6 +1256,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "jerojonesymarttein-2026-10-01-niceto",
+    "shortId": "11n66ho",
+    "artist": "JERO JONES y Marttein",
+    "artistKey": "jerojonesymarttein",
+    "date": "2026-10-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/jero-jones-y-marttein-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-26"
+  },
+  {
     "id": "maddabergeret-2026-10-01-cafeberlin",
     "shortId": "pr148lk",
     "artist": "Madda Bergeret",
@@ -1797,26 +1432,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786f7e98617f76d3edda13dfa8",
     "genres": [],
     "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "ekisdefest-2026-10-02-vorterix",
-    "shortId": "2carsvb",
-    "artist": "EKISDE FEST",
-    "artistKey": "ekisdefest",
-    "date": "2026-10-02",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/ekisde-fest-6-0"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "emanero-2026-10-02-salaginasteraargentinoplata",
@@ -2009,6 +1624,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "northgroovexabasisxedenxnull-2026-10-02-niceto",
+    "shortId": "yrgxo50",
+    "artist": "NORTH GROOVE x ABASIS x EDÉN x NULL",
+    "artistKey": "northgroovexabasisxedenxnull",
+    "date": "2026-10-02",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/north-groove-x-abasis-x-ed-n-x-null-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-26"
   },
   {
     "id": "oktoberkench-2026-10-02-niceto",
@@ -2264,12 +1899,9 @@
     "date": "2026-10-03",
     "venue": "Teatro Vorterix",
     "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/chiara-oliver"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "vorterix"
+      "songkick"
     ],
     "country": null,
     "spotifyId": "5zeSRJxJzaOyxt9p4kxMLg",
@@ -2296,26 +1928,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cfe7ec72afa9e807e0b47314",
     "genres": [],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "fiestabacktothe80s-2026-10-03-vorterix",
-    "shortId": "9zyf3cv",
-    "artist": "FIESTA BACK TO THE 80s",
-    "artistKey": "fiestabacktothe80s",
-    "date": "2026-10-03",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-back-to-the-80s--"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "highonfire-2026-10-03-uniclub",
@@ -2889,6 +2501,26 @@
     "firstSeenAt": "2026-09-23"
   },
   {
+    "id": "correoargentinonarcisoyplomeroliquido-2026-10-08-niceto",
+    "shortId": "36dr9jr",
+    "artist": "Correo Argentino, Narciso y Plomero líquido",
+    "artistKey": "correoargentinonarcisoyplomeroliquido",
+    "date": "2026-10-08",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/correo-argentino-narciso-y-plomero-l-quido-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-26"
+  },
+  {
     "id": "fatoumata-2026-10-08-ccnu",
     "shortId": "s738m4l",
     "artist": "Fatoumata",
@@ -3180,12 +2812,9 @@
     "date": "2026-10-09",
     "venue": "Teatro Vorterix",
     "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/feine-sahne-fischfilet"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "vorterix"
+      "songkick"
     ],
     "country": "DE",
     "spotifyId": "1BdtWszUR1z5SeU5qXNU31",
@@ -3195,26 +2824,6 @@
       "punk rock"
     ],
     "firstSeenAt": "2026-06-09"
-  },
-  {
-    "id": "fiestarockdelpais-2026-10-09-vorterix",
-    "shortId": "10rkqs7",
-    "artist": "FIESTA ROCK DEL PAIS",
-    "artistKey": "fiestarockdelpais",
-    "date": "2026-10-09",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fiesta-rock-del-pais-teatro-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "gauchitoclub-2026-10-09-operalp",
@@ -3483,26 +3092,6 @@
     "firstSeenAt": "2026-09-19"
   },
   {
-    "id": "homerelmeromero-2026-10-10-vorterix",
-    "shortId": "2hz9dqk",
-    "artist": "HOMER EL MERO MERO",
-    "artistKey": "homerelmeromero",
-    "date": "2026-10-10",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/homer"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "0Xo4VFS3v07L0GwIVkZLfg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787b04cdd58a2e8f9230b016d9",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "lamaisonferres-2026-10-10-cafeberlin",
     "shortId": "s046e0s",
     "artist": "La Maison Ferrés",
@@ -3751,26 +3340,6 @@
     "firstSeenAt": "2026-09-21"
   },
   {
-    "id": "tkenbuenosaires-2026-10-11-vorterix",
-    "shortId": "2guzjo3",
-    "artist": "T&K EN BUENOS AIRES",
-    "artistKey": "tkenbuenosaires",
-    "date": "2026-10-11",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/tk-en-buenos-aires"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "uncut-2026-10-11-niceto",
     "shortId": "1xeed3a",
     "artist": "UNCUT",
@@ -3789,6 +3358,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-21"
+  },
+  {
+    "id": "hayplan-2026-10-12-livepass",
+    "shortId": "16dsa6k",
+    "artist": "HAY PLAN",
+    "artistKey": "hayplan",
+    "date": "2026-10-12",
+    "venue": "Livepass",
+    "venueKey": "livepass",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hay-plan-hay-pena-edicion-choriplaneada"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-26"
   },
   {
     "id": "festivaldecocinayteatrojudio-2026-10-13-cafeberlin",
@@ -3855,26 +3444,6 @@
     "firstSeenAt": "2026-09-21"
   },
   {
-    "id": "lamaquinacamaleon-2026-10-15-niceto",
-    "shortId": "153kbnn",
-    "artist": "La Máquina Camaleón",
-    "artistKey": "lamaquinacamaleon",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-15-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "EC",
-    "spotifyId": "6NIyDDyPBRTyPZ6ggjE8Rj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c894ad4a0809d8da20534e6",
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
     "id": "localbluesallstars-2026-10-15-cafeberlin",
     "shortId": "2gmhtab",
     "artist": "LOCAL BLUES All Stars",
@@ -3893,46 +3462,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "sedaaniversario-2026-10-15-niceto",
-    "shortId": "83o14e1",
-    "artist": "SEDA Aniversario",
-    "artistKey": "sedaaniversario",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/seda-aniversario-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "ainda-2026-10-16-niceto",
-    "shortId": "2bu2dw9",
-    "artist": "Ainda",
-    "artistKey": "ainda",
-    "date": "2026-10-16",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ainda-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3eZXi1et2XpXPD7PoUDDzE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863164bdfa4e37d1b1eca870f",
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
   },
   {
     "id": "axelscheinsohncuarteto-2026-10-16-ccnu",
@@ -4035,26 +3564,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "viejaslocasxfyacumplemilshowsy15anosdeldiscocontralapared-2026-10-16-vorterix",
-    "shortId": "1vmhx7o",
-    "artist": "VIEJAS LOCAS X FyA Cumple MIL SHOWS Y 15 AÑOS del disco \"CONTRA LA PARED\"",
-    "artistKey": "viejaslocasxfyacumplemilshowsy15anosdeldiscocontralapared",
-    "date": "2026-10-16",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/viejas-locas-x-fya-cumple-mil-shows-y-15-aos-del-disco-contra-la-pared"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "dancingmood-2026-10-17-operalp",
     "shortId": "2jxoqvs",
     "artist": "DANCING MOOD",
@@ -4093,26 +3602,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "loscaligaris-2026-10-17-vorterix",
-    "shortId": "1xw1tcc",
-    "artist": "LOS CALIGARIS",
-    "artistKey": "loscaligaris",
-    "date": "2026-10-17",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/los-caligaris"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "13wFTN72PGSUxzEHJP5Ljs",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17877938e267d2bc5f137120558",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "losperezgarcia-2026-10-17-quilmes",
@@ -4244,26 +3733,6 @@
       "pop"
     ],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "fmsargentina-2026-10-18-vorterix",
-    "shortId": "14xcay6",
-    "artist": "FMS ARGENTINA",
-    "artistKey": "fmsargentina",
-    "date": "2026-10-18",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/fms-argentina-jornada-1"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "palo-2026-10-18-guajiralp",
@@ -4621,26 +4090,6 @@
     "firstSeenAt": "2026-09-23"
   },
   {
-    "id": "saltalabanca-2026-10-23-vorterix",
-    "shortId": "4ejjq01",
-    "artist": "SALTA LA BANCA",
-    "artistKey": "saltalabanca",
-    "date": "2026-10-23",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/salta-la-banca"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "4JathQD0aoyE5WwaIB2JxC",
-    "spotifyImage": "https://i.scdn.co/image/be6576ed7f05feece7c07c1d9f709995c769791e",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "vertigo-2026-10-23-cafeberlin",
     "shortId": "1c9hch5",
     "artist": "Vértigo",
@@ -4763,26 +4212,6 @@
     "firstSeenAt": "2026-09-16"
   },
   {
-    "id": "elnueveonce-2026-10-25-vorterix",
-    "shortId": "1wwl33a",
-    "artist": "ELNUEVEONCE",
-    "artistKey": "elnueveonce",
-    "date": "2026-10-25",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/elnueveonce-presenta-nuevo-disco"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "3Sg4d4kPgf4zotCAq4kEIz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178afff14feeb2cc57bc899bb3d",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "freddiedetommasonadinesierra-2026-10-26-colon",
     "shortId": "23iqfn7",
     "artist": "Freddie De Tommaso / Nadine Sierra",
@@ -4821,26 +4250,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "losredondosdericotahomenajesinfonico-2026-10-28-vorterix",
-    "shortId": "ifr51cf",
-    "artist": "LOS REDONDOS DE RICOTA HOMENAJE SINFONICO",
-    "artistKey": "losredondosdericotahomenajesinfonico",
-    "date": "2026-10-28",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/los-redondos-de-ricota-homenaje-sinfonico"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "bluenights-2026-10-29-cafeberlin",
@@ -5211,26 +4620,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "bulldogenelteatrovorterix-2026-11-07-vorterix",
-    "shortId": "zgy9e28",
-    "artist": "BULLDOG EN EL TEATRO VORTERIX",
-    "artistKey": "bulldogenelteatrovorterix",
-    "date": "2026-11-07",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/bulldog-en-el-teatro-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "carmensanchezviamonte-2026-11-07-operalp",
     "shortId": "2k6f83v",
     "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -5249,6 +4638,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17816a98c3575ad46a676ec932c",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "fabianacantilo-2026-11-07-quilmes",
+    "shortId": "r25sg4i",
+    "artist": "Fabiana Cantilo",
+    "artistKey": "fabianacantilo",
+    "date": "2026-11-07",
+    "venue": "Quilmes",
+    "venueKey": "quilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fabiana-cantilo-en-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178434234315c5dcd60c2b5da6e",
+    "genres": [
+      "rock"
+    ],
+    "firstSeenAt": "2026-09-26"
   },
   {
     "id": "javiercalamaro-2026-11-07-cafeberlin",
@@ -5309,26 +4720,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "ardelasangre-2026-11-08-vorterix",
-    "shortId": "2jm84ud",
-    "artist": "ARDE LA SANGRE",
-    "artistKey": "ardelasangre",
-    "date": "2026-11-08",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/arde-la-sangre-presenta-su-nuevo-album-desesperada-mente"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "0ygnmKrobIE3eHiDCQyTpm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780da68dccd212c92825bfd786",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "masmusica-2026-11-08-cafeberlin",
@@ -5471,29 +4862,6 @@
       "latin"
     ],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "flema-2026-11-13-vorterix",
-    "shortId": "ofjqdsx",
-    "artist": "FLEMA",
-    "artistKey": "flema",
-    "date": "2026-11-13",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "2E0SVBO1NkyVTl7PDmGGw4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e429d274542bde36bcbfe13",
-    "genres": [
-      "punk",
-      "punk rock"
-    ],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "giros-2026-11-13-operalp",
@@ -5723,30 +5091,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "alexisonfire-2026-11-17-vorterix",
-    "shortId": "2ags1wd",
-    "artist": "ALEXISONFIRE",
-    "artistKey": "alexisonfire",
-    "date": "2026-11-17",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/alexisonfire"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "CA",
-    "spotifyId": "53RsXctnNmj9oKXvcbvzI2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17885d7a4bb1614c9c300ce6fae",
-    "genres": [
-      "post-hardcore",
-      "emo",
-      "rock"
-    ],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "momorey-2026-11-17-cafeberlin",
     "shortId": "hrfr5fw",
     "artist": "Momo Rey",
@@ -5765,26 +5109,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-22"
-  },
-  {
-    "id": "easykid-2026-11-18-vorterix",
-    "shortId": "wu2eudt",
-    "artist": "EASYKID",
-    "artistKey": "easykid",
-    "date": "2026-11-18",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/easykid"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "4xEDJHMQ8PN1U2pEldwI6O",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781875db9d984a7dcdce6e392b",
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "santimartinez-2026-11-18-cafeberlin",
@@ -6021,26 +5345,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "lagreciaenvorterix-2026-11-21-vorterix",
-    "shortId": "159dvan",
-    "artist": "LA GRECIA EN VORTERIX",
-    "artistKey": "lagreciaenvorterix",
-    "date": "2026-11-21",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/la-grecia-en-vorterix"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "lavelapuercalaspelotas-2026-11-21-hipodromoplata",
     "shortId": "2njvnlq",
     "artist": "La Vela Puerca + Las Pelotas",
@@ -6099,46 +5403,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
     "genres": [],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "nanpabasico-2026-11-22-vorterix",
-    "shortId": "2r0d6pn",
-    "artist": "NANPA BASICO",
-    "artistKey": "nanpabasico",
-    "date": "2026-11-22",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/nanpa-basico---que-tin-y-que-tan-tour"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "1cUpGtXcSQsovNYEZOQgOG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ea528f9602f69166c6d33ef",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "neurofest-2026-11-22-vorterix",
-    "shortId": "1irggon",
-    "artist": "NEUROFEST",
-    "artistKey": "neurofest",
-    "date": "2026-11-22",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/neuro-fest"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "tinkaroup-2026-11-23-cafeberlin",
@@ -6245,26 +5509,6 @@
     "firstSeenAt": "2026-09-19"
   },
   {
-    "id": "zeballos-2026-11-26-vorterix",
-    "shortId": "8uwj8t4",
-    "artist": "ZEBALLOS",
-    "artistKey": "zeballos",
-    "date": "2026-11-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/zeballos-amor-fiado-en-buenos-aires"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "UY",
-    "spotifyId": "5ayyPSqoObeTOj1UGtM79C",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f61c535f2b2aced786c90171",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "k4os-2026-11-27-neuquen",
     "shortId": "2je3aud",
     "artist": "K4OS",
@@ -6301,26 +5545,6 @@
     "country": null,
     "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
     "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "unverano-2026-11-27-vorterix",
-    "shortId": "1nb00sy",
-    "artist": "UN VERANO",
-    "artistKey": "unverano",
-    "date": "2026-11-27",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/un-verano"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "AR",
-    "spotifyId": "2vaSBYGcW5v46jnDdXhawN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788c370c4e032c5df7718cf0c3",
     "genres": [],
     "firstSeenAt": "2026-09-11"
   },
@@ -6555,26 +5779,6 @@
     "firstSeenAt": "2026-09-24"
   },
   {
-    "id": "vilmapalmaevampiro-2026-12-04-vorterix",
-    "shortId": "2bafzck",
-    "artist": "VILMA PALMA e VAMPIRO",
-    "artistKey": "vilmapalmaevampiro",
-    "date": "2026-12-04",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/vilma-palma-e-vampiro"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "diegocapusotto-2026-12-05-cafeberlin",
     "shortId": "zh3dqh3",
     "artist": "Diego Capusotto",
@@ -6695,26 +5899,6 @@
     "firstSeenAt": "2026-09-21"
   },
   {
-    "id": "lagos-2026-12-09-vorterix",
-    "shortId": "2obkcg6",
-    "artist": "LAGOS",
-    "artistKey": "lagos",
-    "date": "2026-12-09",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/lagos--buenos-aires--tour-2026"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "7uQ1D2NNHs5cUL3CLKRbia",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "latencia-2026-12-09-cafeberlin",
     "shortId": "2g21vsu",
     "artist": "Latencia",
@@ -6753,26 +5937,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17811b4a830213d09f969c36944",
     "genres": [],
     "firstSeenAt": "2026-09-17"
-  },
-  {
-    "id": "gondwanaquiqueneira-2026-12-11-vorterix",
-    "shortId": "5w92w71",
-    "artist": "GONDWANA & QUIQUE NEIRA",
-    "artistKey": "gondwanaquiqueneira",
-    "date": "2026-12-11",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/gondwana--quique-neira-en-vivo"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
   },
   {
     "id": "tanbionica-2026-12-12-uno",
@@ -6841,26 +6005,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "elsindromedepeter-2026-12-18-vorterix",
-    "shortId": "2fqpodu",
-    "artist": "EL SÍNDROME DE PETER",
-    "artistKey": "elsindromedepeter",
-    "date": "2026-12-18",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/el-sndrome-de-peter"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": "6JKZLnwyVPZAWV2EEf4ymg",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178767d90eaf2eeaec4df577f31",
-    "genres": [],
-    "firstSeenAt": "2026-09-06"
-  },
-  {
     "id": "johnnytedesco-2026-12-18-cafeberlin",
     "shortId": "npyb4vs",
     "artist": "Johnny Tedesco",
@@ -6881,46 +6025,6 @@
     "firstSeenAt": "2026-09-16"
   },
   {
-    "id": "maritobaracusynpvfestedicionmultiversocontrukinialejoyvalentinaymas-2026-12-26-vorterix",
-    "shortId": "u7o4211",
-    "artist": "MARITO BARACUS y NPV FEST: Edición Multiverso con Trukini, Alejo y Valentina y más",
-    "artistKey": "maritobaracusynpvfestedicionmultiversocontrukinialejoyvalentinaymas",
-    "date": "2026-12-26",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/marito-baracus-y-npv-fest-edicin-multiverso-con-trukini-alejo-y-valentina-y-ms"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-07-08"
-  },
-  {
-    "id": "geofftate-2027-01-14-vorterix",
-    "shortId": "1s61vzf",
-    "artist": "GEOFF TATE",
-    "artistKey": "geofftate",
-    "date": "2027-01-14",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/geoff-tate--operation-mindcrime--the-final-chapter-tour"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "US",
-    "spotifyId": "4YGXSFiOaglXLDO92EDVeU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178493856961c7414faede318b2",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "ludovicoeinaudisolopiano-2027-03-01-colon",
     "shortId": "ilj44oz",
     "artist": "Ludovico Einaudi: Solo Piano",
@@ -6939,29 +6043,5 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "caifanes-2027-04-14-vorterix",
-    "shortId": "2744p8p",
-    "artist": "CAIFANES",
-    "artistKey": "caifanes",
-    "date": "2027-04-14",
-    "venue": "Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [
-      "https://www.allaccess.com.ar/event/caifanes"
-    ],
-    "sources": [
-      "vorterix"
-    ],
-    "country": "MX",
-    "spotifyId": "1GImnM7WYVp95431ypofy9",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0",
-    "genres": [
-      "alternative rock",
-      "cumbia mexicana",
-      "gothic rock"
-    ],
-    "firstSeenAt": "2026-09-06"
   }
 ]

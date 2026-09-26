@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-26",
   "events": [
     {
       "artist": "Midachi",
@@ -195,13 +195,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-08",
       "ticketUrl": "https://www.tuentrada.com/ahyre-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Conociendo Rusia",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-25",
-      "ticketUrl": "https://www.tuentrada.com/conociendo-rusia-tgr",
       "source": "tuentrada"
     }
   ]
