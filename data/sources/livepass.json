@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -90,48 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Paula Dorrego",
-      "venue": "CCNU",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/paula-dorrego-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "LA CHANCHA MUDA",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-el-teatro-opera-lp-26-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "Miguel Cantilo",
-      "venue": "Café Berlín",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/miguel-cantilo-en-cafe-berlin-26-09",
-      "source": "livepass"
-    },
-    {
-      "artist": "ALE KURZ",
-      "venue": "San Miguel",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/ale-kurz-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Vitico y Los Leones",
-      "venue": "Café Berlín",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/vitico-y-los-leones-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "FIESTA PLOP: Homenaje a Moria Casan",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-09-26",
-      "ticketUrl": "https://livepass.com.ar/events/fiesta-plop-homenaje-a-moria-casan-en-el-teatro-opera-lp",
       "source": "livepass"
     },
     {

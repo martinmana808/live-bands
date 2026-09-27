@@ -278,17 +278,6 @@
       }
     ]
   },
-  "el-kuelgue-amr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-26",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "El Kuelgue"
-      }
-    ]
-  },
   "ahyre-tgr": {
     "fetchedAt": "2026-09-25",
     "sessions": [
