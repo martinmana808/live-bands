@@ -155,126 +155,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "camigalzlicoretzalupus-2026-09-26-niceto",
-    "shortId": "13bin0b",
-    "artist": "CAMI GALZ: Licoretza Lupus",
-    "artistKey": "camigalzlicoretzalupus",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "club69aniversario-2026-09-26-niceto",
-    "shortId": "wala9f0",
-    "artist": "Club 69 | ANIVERSARIO",
-    "artistKey": "club69aniversario",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-aniversario-26-sep-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "cuasifunky-2026-09-26-niceto",
-    "shortId": "d41km5k",
-    "artist": "CUASIFUNKY",
-    "artistKey": "cuasifunky",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/cuasifunky-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-30"
-  },
-  {
-    "id": "fungipresjosemonsalveaugustobrunoledesma-2026-09-26-niceto",
-    "shortId": "q7xcvij",
-    "artist": "FUNGI PRES. JOSÉ MONSALVE / AUGUSTO / BRUNO LEDESMA",
-    "artistKey": "fungipresjosemonsalveaugustobrunoledesma",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fungi-pres-jos-monsalve-augusto-bruno-ledesma-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-30"
-  },
-  {
-    "id": "lalifestbymandalay-2026-09-26-niceto",
-    "shortId": "12fj4mn",
-    "artist": "LALIFEST by MANDALAY",
-    "artistKey": "lalifestbymandalay",
-    "date": "2026-09-26",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "midachi-2026-09-26-granrex",
-    "shortId": "mby5pjb",
-    "artist": "Midachi",
-    "artistKey": "midachi",
-    "date": "2026-09-26",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/midachi-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "3H1aUspFdWiBWwajNHASCj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178055ebbc1557796abf1553158",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "missuenossondetuadios-2026-09-26-culturadelbarrio",
     "shortId": "2kxcssh",
     "artist": "mis sueños son de tu adiós",
@@ -361,12 +241,9 @@
     "date": "2026-09-27",
     "venue": "Niceto Club",
     "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/bar-italia-en-niceto-club"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "niceto"
+      "songkick"
     ],
     "country": null,
     "spotifyId": "6tYmTHApvspl6KAgTfHjAY",
@@ -377,86 +254,6 @@
       "noise pop"
     ],
     "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "espiritupescado-2026-09-27-cafeberlin",
-    "shortId": "tffbuts",
-    "artist": "Espíritu Pescado",
-    "artistKey": "espiritupescado",
-    "date": "2026-09-27",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/espiritu-pescado-en-cafe-berlin-2026-09-27-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hayplan-2026-09-27-livepass",
-    "shortId": "4anhhi5",
-    "artist": "HAY PLAN",
-    "artistKey": "hayplan",
-    "date": "2026-09-27",
-    "venue": "Livepass",
-    "venueKey": "livepass",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hay-plan-ayer-no-sali-2026-09-27"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hecatombe-2026-09-27-salapiazzollaargentinolp",
-    "shortId": "9vl06rt",
-    "artist": "HECATOMBE",
-    "artistKey": "hecatombe",
-    "date": "2026-09-27",
-    "venue": "Sala Piazzolla - Teatro Argentino LP",
-    "venueKey": "salapiazzollaargentinolp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hecatombe-mi-primera-guerra-mundial-en-sala-piazzolla-teatro-argentino-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "FR",
-    "spotifyId": "35yPs2WopMmCFuDLQmNXNw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f6aa2538cab110be02d4ff2",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "midachi-2026-09-27-granrex",
-    "shortId": "21tzpa2",
-    "artist": "Midachi",
-    "artistKey": "midachi",
-    "date": "2026-09-27",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/midachi-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "3H1aUspFdWiBWwajNHASCj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178055ebbc1557796abf1553158",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "nofunatall-2026-09-27-culturalbula",
@@ -477,26 +274,6 @@
       "punk"
     ],
     "firstSeenAt": "2026-09-13"
-  },
-  {
-    "id": "sebastianbraseroswingbook-2026-09-27-ccnu",
-    "shortId": "1ktwwll",
-    "artist": "Sebastian Brasero Swingbook",
-    "artistKey": "sebastianbraseroswingbook",
-    "date": "2026-09-27",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sebastian-brasero-swingbook-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "labombadetiempo-2026-09-28-ciudadculturalkonex",
@@ -2500,6 +2277,26 @@
     "firstSeenAt": "2026-09-25"
   },
   {
+    "id": "elzar-2026-10-09-granrex",
+    "shortId": "12kr7th",
+    "artist": "El Zar",
+    "artistKey": "elzar",
+    "date": "2026-10-09",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/el-zar-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "1cj1ov4uZ0Htsx9PWDpNvi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dc82285f53c82fd2f2a98436",
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
     "id": "feinesahnefischfilet-2026-10-09-vorterix",
     "shortId": "1tbk2ve",
     "artist": "Feine Sahne Fischfilet",
@@ -2745,6 +2542,26 @@
       "rock"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "cardellino-2026-10-10-granrex",
+    "shortId": "jmr7i5k",
+    "artist": "Cardellino",
+    "artistKey": "cardellino",
+    "date": "2026-10-10",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/cardellino-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "7HFja6X48hWE58m3pQnGV0",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872d134e5449af2a20cfa7579",
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "festivalpardocaprichoylascruxes-2026-10-10-niceto",
@@ -3439,6 +3256,68 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "2tierrasrock-2026-10-17-niceto",
+    "shortId": "2hybp2n",
+    "artist": "\"2 TIERRAS ROCK\"",
+    "artistKey": "2tierrasrock",
+    "date": "2026-10-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/2-tierras-rock-en-vivo-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
+    "id": "cientificosdelpalo-2026-10-17-niceto",
+    "shortId": "268bklk",
+    "artist": "Cientificos del Palo",
+    "artistKey": "cientificosdelpalo",
+    "date": "2026-10-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cientificos-del-palo-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "0zBXOHR1zgy9N8rOQNqt25",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17831177dcc244fe2586cd8072b",
+    "genres": [
+      "rock"
+    ],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
+    "id": "clublabproduccionesxpandaxmaktubexperience-2026-10-17-niceto",
+    "shortId": "1034cbs",
+    "artist": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE",
+    "artistKey": "clublabproduccionesxpandaxmaktubexperience",
+    "date": "2026-10-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-lab-producciones-x-panda-x-maktub-experience-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
     "id": "dancingmood-2026-10-17-operalp",
     "shortId": "2jxoqvs",
     "artist": "DANCING MOOD",
@@ -3477,6 +3356,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "lacontroversia-2026-10-17-niceto",
+    "shortId": "a4o072x",
+    "artist": "La Controversia",
+    "artistKey": "lacontroversia",
+    "date": "2026-10-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-controversia-presenta-estamos-en-salsa-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "losperezgarcia-2026-10-17-quilmes",
@@ -3761,6 +3660,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "homogenicafesteja1anodepostpop-2026-10-21-niceto",
+    "shortId": "10up8hc",
+    "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
+    "artistKey": "homogenicafesteja1anodepostpop",
+    "date": "2026-10-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
     "id": "ironmaiden-2026-10-21-huracan",
     "shortId": "26yempw",
     "artist": "IRON MAIDEN",
@@ -3803,6 +3722,30 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818b6970b32cd0eefb63c02c8",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "cantamarta-2026-10-22-niceto",
+    "shortId": "6rv3oem",
+    "artist": "ÇANTAMARTA",
+    "artistKey": "cantamarta",
+    "date": "2026-10-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/antamarta-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "5Ayb9yqemFxECJB8LEG8ln",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178415578fd9d92d416316f2570",
+    "genres": [
+      "alternative pop",
+      "cumbia",
+      "dancehall"
+    ],
+    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "filarmonicadeberlin-2026-10-22-colon",
@@ -3883,6 +3826,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "axel-2026-10-23-granrex",
+    "shortId": "2nkzqkc",
+    "artist": "Axel",
+    "artistKey": "axel",
+    "date": "2026-10-23",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/axel-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "32x1uogH2zajP85pzZAtuE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785ff76dce78ed349fb83684ea",
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "bsasnumetalfest-2026-10-23-sanmiguel",

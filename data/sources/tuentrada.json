@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-09-27",
+  "fetchedAt": "2026-09-28",
   "events": [
-    {
-      "artist": "Midachi",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-26",
-      "ticketUrl": "https://www.tuentrada.com/midachi-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Midachi",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-27",
-      "ticketUrl": "https://www.tuentrada.com/midachi-tgr",
-      "source": "tuentrada"
-    },
     {
       "artist": "Hablando Huevadas",
       "venue": "Teatro Gran Rex",
@@ -79,6 +65,20 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Dyango",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-04",
+      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Dyango",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-07",
+      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Pinchas Zukerman",
       "venue": "Teatro Colón",
       "date": "2026-09-28",
@@ -111,20 +111,6 @@
       "venue": "Teatro Colón",
       "date": "2026-10-23",
       "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Dyango",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-04",
-      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Dyango",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-07",
-      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
       "source": "tuentrada"
     },
     {
@@ -170,6 +156,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Axel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-23",
+      "ticketUrl": "https://www.tuentrada.com/axel-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Juan Diego Flórez",
       "venue": "Teatro Colón",
       "date": "2026-09-22",
@@ -191,10 +184,24 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Cardellino",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-10",
+      "ticketUrl": "https://www.tuentrada.com/cardellino-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Ahyre",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-08",
       "ticketUrl": "https://www.tuentrada.com/ahyre-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "El Zar",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-09",
+      "ticketUrl": "https://www.tuentrada.com/el-zar-tgr",
       "source": "tuentrada"
     }
   ]

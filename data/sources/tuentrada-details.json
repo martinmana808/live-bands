@@ -1,21 +1,4 @@
 {
-  "midachi-tgr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-09-26",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Midachi"
-      },
-      {
-        "date": "2026-09-27",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Midachi"
-      }
-    ]
-  },
   "hablando-huevadas": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -85,6 +68,23 @@
       }
     ]
   },
+  "dyango-tgr": {
+    "fetchedAt": "2026-09-14",
+    "sessions": [
+      {
+        "date": "2026-10-04",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Dyango"
+      },
+      {
+        "date": "2026-10-07",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Dyango"
+      }
+    ]
+  },
   "ciclo-aura-teatrocolon": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -122,23 +122,6 @@
         "venue": "Teatro Colón",
         "city": "Buenos Aires",
         "name": "Filarmónica De Berlín"
-      }
-    ]
-  },
-  "dyango-tgr": {
-    "fetchedAt": "2026-09-14",
-    "sessions": [
-      {
-        "date": "2026-10-04",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Dyango"
-      },
-      {
-        "date": "2026-10-07",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Dyango"
       }
     ]
   },
@@ -186,6 +169,17 @@
       }
     ]
   },
+  "lindsey-stirling-tgr": {
+    "fetchedAt": "2026-09-20",
+    "sessions": [
+      {
+        "date": "2026-09-30",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Lindsey Stirling - Duality Tour"
+      }
+    ]
+  },
   "ntvg-gira": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -227,17 +221,6 @@
       }
     ]
   },
-  "lindsey-stirling-tgr": {
-    "fetchedAt": "2026-09-20",
-    "sessions": [
-      {
-        "date": "2026-09-30",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Lindsey Stirling - Duality Tour"
-      }
-    ]
-  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-09-14",
     "sessions": [
@@ -252,6 +235,17 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "axel-tgr": {
+    "fetchedAt": "2026-09-28",
+    "sessions": [
+      {
+        "date": "2026-10-23",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Axel"
       }
     ]
   },
@@ -278,6 +272,17 @@
       }
     ]
   },
+  "cardellino-tgr": {
+    "fetchedAt": "2026-09-28",
+    "sessions": [
+      {
+        "date": "2026-10-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Cardellino"
+      }
+    ]
+  },
   "ahyre-tgr": {
     "fetchedAt": "2026-09-25",
     "sessions": [
@@ -286,6 +291,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Ahyre"
+      }
+    ]
+  },
+  "el-zar-tgr": {
+    "fetchedAt": "2026-09-28",
+    "sessions": [
+      {
+        "date": "2026-10-09",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "El Zar"
       }
     ]
   }
