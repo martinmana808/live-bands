@@ -1,6 +1,6 @@
 {
   "hablando-huevadas": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-01",
@@ -17,7 +17,7 @@
     ]
   },
   "raphael-tgr": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-17",
@@ -34,7 +34,7 @@
     ]
   },
   "abel-pintos-tgr": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-11-13",
@@ -69,7 +69,7 @@
     ]
   },
   "dyango-tgr": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-04",
@@ -86,14 +86,8 @@
     ]
   },
   "ciclo-aura-teatrocolon": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
-      {
-        "date": "2026-09-28",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Pinchas Zukerman"
-      },
       {
         "date": "2026-10-26",
         "venue": "Teatro Colón",
@@ -103,7 +97,7 @@
     ]
   },
   "filarmonica-de-berlin-tc": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-21",
@@ -126,7 +120,7 @@
     ]
   },
   "lfdaa-tucuman": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-10",
@@ -137,7 +131,7 @@
     ]
   },
   "alex-ubago-tgr": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-11-07",
@@ -148,7 +142,7 @@
     ]
   },
   "djavan-tgr": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-11-24",
@@ -181,32 +175,8 @@
     ]
   },
   "ntvg-gira": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
-      {
-        "date": "2026-09-16",
-        "venue": "Umma",
-        "city": "Posadas",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-09-22",
-        "venue": "Sky Club",
-        "city": "La Banda",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-09-24",
-        "venue": "La Terminal",
-        "city": "San Salvador De Jujuy",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-09-27",
-        "venue": "Mym Multiespacio",
-        "city": "La Rioja",
-        "name": "No Te Va Gustar"
-      },
       {
         "date": "2026-11-20",
         "venue": "Complejo Aeropuerto De San Andres De Giles",
@@ -218,11 +188,17 @@
         "venue": "Club Aleman",
         "city": "Villa Ballester",
         "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-22",
+        "venue": "Qac Estacionamiento",
+        "city": "Quilmes",
+        "name": "No Te Va Gustar"
       }
     ]
   },
   "jazz-bsas-ctba": {
-    "fetchedAt": "2026-09-14",
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
         "date": "2026-10-20",
@@ -238,14 +214,44 @@
       }
     ]
   },
-  "axel-tgr": {
-    "fetchedAt": "2026-09-28",
+  "boda-lyniel-tgr": {
+    "fetchedAt": "2026-09-29",
     "sessions": [
       {
-        "date": "2026-10-23",
+        "date": "2026-11-01",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Axel"
+        "name": "Boda Lyniel"
+      },
+      {
+        "date": "2026-11-01",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Boda Lyniel"
+      },
+      {
+        "date": "2026-11-08",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Boda Lyniel"
+      },
+      {
+        "date": "2026-11-08",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Boda Lyniel"
+      },
+      {
+        "date": "2026-11-22",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Boda Lyniel"
+      },
+      {
+        "date": "2026-11-22",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Boda Lyniel"
       }
     ]
   },
@@ -272,17 +278,6 @@
       }
     ]
   },
-  "cardellino-tgr": {
-    "fetchedAt": "2026-09-28",
-    "sessions": [
-      {
-        "date": "2026-10-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Cardellino"
-      }
-    ]
-  },
   "ahyre-tgr": {
     "fetchedAt": "2026-09-25",
     "sessions": [
@@ -302,6 +297,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "El Zar"
+      }
+    ]
+  },
+  "cardellino-tgr": {
+    "fetchedAt": "2026-09-28",
+    "sessions": [
+      {
+        "date": "2026-10-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Cardellino"
       }
     ]
   }

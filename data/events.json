@@ -22,318 +22,6 @@
     "firstSeenAt": "2026-09-18"
   },
   {
-    "id": "conociendorusia-2026-09-25-granrex",
-    "shortId": "2b9wmwa",
-    "artist": "Conociendo Rusia",
-    "artistKey": "conociendorusia",
-    "date": "2026-09-25",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "79R7PUc6T6j09G8mJzNml2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cfe7ec72afa9e807e0b47314",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "franbusso-2026-09-25-puraespaciocultural",
-    "shortId": "13pscc7",
-    "artist": "Fran Busso",
-    "artistKey": "franbusso",
-    "date": "2026-09-25",
-    "venue": "Pura espacio cultural",
-    "venueKey": "puraespaciocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "3ulWAHPDwSvZ0G6eaprCuy",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788e59a3b6486c3d1b67a5616e",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lashistorias-2026-09-25-culturalbula",
-    "shortId": "1g0rs5j",
-    "artist": "Las Historias",
-    "artistKey": "lashistorias",
-    "date": "2026-09-25",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
-    "genres": [
-      "psychedelic rock",
-      "rock",
-      "stoner metal"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "morat-2026-09-25-movistararena",
-    "shortId": "2p104yh",
-    "artist": "Morat",
-    "artistKey": "morat",
-    "date": "2026-09-25",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CO",
-    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "genres": [
-      "latin",
-      "latin pop"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "nanndos-2026-09-25-v",
-    "shortId": "oq05ol8",
-    "artist": "Nanndos",
-    "artistKey": "nanndos",
-    "date": "2026-09-25",
-    "venue": "Club V",
-    "venueKey": "v",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6gx9AATbFhFQ3INOgS7BDh",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pedropastorandloslocosdescalzos-2026-09-25-niceto",
-    "shortId": "18twpcn",
-    "artist": "Pedro Pastor and Los Locos Descalzos",
-    "artistKey": "pedropastorandloslocosdescalzos",
-    "date": "2026-09-25",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "ararat-2026-09-26-culturalbula",
-    "shortId": "jt2kntz",
-    "artist": "Ararat",
-    "artistKey": "ararat",
-    "date": "2026-09-26",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "DE",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "missuenossondetuadios-2026-09-26-culturadelbarrio",
-    "shortId": "2kxcssh",
-    "artist": "mis sueños son de tu adiós",
-    "artistKey": "missuenossondetuadios",
-    "date": "2026-09-26",
-    "venue": "La Cultura del Barrio",
-    "venueKey": "culturadelbarrio",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6tUglhftsCV9KRMeizMhik",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db07dca694ddd706eb163ff4",
-    "genres": [
-      "emo",
-      "lo-fi",
-      "noise"
-    ],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
-    "id": "morat-2026-09-26-movistararena",
-    "shortId": "20x5u4r",
-    "artist": "Morat",
-    "artistKey": "morat",
-    "date": "2026-09-26",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CO",
-    "spotifyId": "5C4PDR4LnhZTbVnKWXuDKD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77",
-    "genres": [
-      "latin",
-      "latin pop"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "riel-2026-09-26-imaginariocultural",
-    "shortId": "ulwro8b",
-    "artist": "Riel",
-    "artistKey": "riel",
-    "date": "2026-09-26",
-    "venue": "Imaginario Cultural",
-    "venueKey": "imaginariocultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-13"
-  },
-  {
-    "id": "smilelion-2026-09-26-tiobizarro",
-    "shortId": "ymuqw54",
-    "artist": "SMILE LION",
-    "artistKey": "smilelion",
-    "date": "2026-09-26",
-    "venue": "Tío Bizarro",
-    "venueKey": "tiobizarro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "56wcPiVyoiIMeVeHXehKAf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787bbd861dbe56099abcf3a11a",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "baritalia-2026-09-27-niceto",
-    "shortId": "12b0yyb",
-    "artist": "bar italia",
-    "artistKey": "baritalia",
-    "date": "2026-09-27",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6tYmTHApvspl6KAgTfHjAY",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f0cfddd94131d3fbb5443b0e",
-    "genres": [
-      "indie rock",
-      "hypnagogic pop",
-      "noise pop"
-    ],
-    "firstSeenAt": "2026-08-31"
-  },
-  {
-    "id": "nofunatall-2026-09-27-culturalbula",
-    "shortId": "1sowsi9",
-    "artist": "No Fun At All",
-    "artistKey": "nofunatall",
-    "date": "2026-09-27",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "SE",
-    "spotifyId": "6usO1o98RY3cUWxqaQxi8O",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785288a94d155d8e8f09b74219",
-    "genres": [
-      "punk"
-    ],
-    "firstSeenAt": "2026-09-13"
-  },
-  {
-    "id": "labombadetiempo-2026-09-28-ciudadculturalkonex",
-    "shortId": "2i86ofg",
-    "artist": "La Bomba De Tiempo",
-    "artistKey": "labombadetiempo",
-    "date": "2026-09-28",
-    "venue": "Ciudad Cultural Konex",
-    "venueKey": "ciudadculturalkonex",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "genres": [],
-    "firstSeenAt": "2026-09-13"
-  },
-  {
-    "id": "larockandfolk-2026-09-28-niceto",
-    "shortId": "13yrbwu",
-    "artist": "LA ROCK AND FOLK",
-    "artistKey": "larockandfolk",
-    "date": "2026-09-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-rock-and-folk-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "pinchaszukerman-2026-09-28-colon",
-    "shortId": "19i94xe",
-    "artist": "Pinchas Zukerman",
-    "artistKey": "pinchaszukerman",
-    "date": "2026-09-28",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/ciclo-aura-teatrocolon"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "CA",
-    "spotifyId": "57J4DccKLul7z7kqfRPiER",
-    "spotifyImage": "https://i.scdn.co/image/4b3e4e49231571f2d99a6529d2011eea8d885366",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "blonderedhead-2026-09-29-ccomplejoartmedia",
     "shortId": "nlr4opd",
     "artist": "Blonde Redhead",
@@ -376,26 +64,6 @@
       "rock"
     ],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "greenvalleymeetsalborosie-2026-09-29-niceto",
-    "shortId": "1a2u85h",
-    "artist": "Green Valley meets Alborosie",
-    "artistKey": "greenvalleymeetsalborosie",
-    "date": "2026-09-29",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-08-31"
   },
   {
     "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
@@ -748,6 +416,26 @@
     "firstSeenAt": "2026-09-26"
   },
   {
+    "id": "kilombo-2026-10-01-niceto",
+    "shortId": "1lpp714",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-10-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-1-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "maddabergeret-2026-10-01-cafeberlin",
     "shortId": "pr148lk",
     "artist": "Madda Bergeret",
@@ -1096,6 +784,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "nadinequartetsinginswingin-2026-10-02-ccnu",
+    "shortId": "2gop4dk",
+    "artist": "Nadine Quartet Singin' & Swingin'",
+    "artistKey": "nadinequartetsinginswingin",
+    "date": "2026-10-02",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nadine-quartet-singin-swingin-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "northgroovexabasisxedenxnull-2026-10-02-niceto",
@@ -2013,6 +1721,26 @@
     "firstSeenAt": "2026-09-25"
   },
   {
+    "id": "happygroovejam-2026-10-08-niceto",
+    "shortId": "1vb33o1",
+    "artist": "Happy Groove Jam",
+    "artistKey": "happygroovejam",
+    "date": "2026-10-08",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/happy-groove-jam-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "j4mes-2026-10-08-niceto",
     "shortId": "8kt2eoy",
     "artist": "J4MES",
@@ -2400,6 +2128,24 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "marceloezquiaga-2026-10-09-biribiri",
+    "shortId": "hbuhhg4",
+    "artist": "Marcelo Ezquiaga",
+    "artistKey": "marceloezquiaga",
+    "date": "2026-10-09",
+    "venue": "Biri Biri",
+    "venueKey": "biribiri",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "4jebZZ02kHZt64YNq0oWzl",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "pimpinela-2026-10-09-movistararena",
     "shortId": "3kn07yd",
     "artist": "Pimpinela",
@@ -2416,6 +2162,24 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb7429e08829bf1ab3e5887f",
     "genres": [],
     "firstSeenAt": "2026-09-25"
+  },
+  {
+    "id": "ramoneson45-2026-10-09-clandestino",
+    "shortId": "793nlk7",
+    "artist": "Ramones on 45",
+    "artistKey": "ramoneson45",
+    "date": "2026-10-09",
+    "venue": "Bar Clandestino",
+    "venueKey": "clandestino",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "roquenarvaja-2026-10-09-cafeberlin",
@@ -2521,6 +2285,24 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "bertoncelli-2026-10-10-uniclub",
+    "shortId": "ns3jhak",
+    "artist": "Bertoncelli",
+    "artistKey": "bertoncelli",
+    "date": "2026-10-10",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3VW9s45opooAuxi0XypVVI",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17854c452840cb093f2f86b0c8c",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "bestiabebe-2026-10-10-operalp",
     "shortId": "1lonnvm",
     "artist": "BESTIA BEBÉ",
@@ -2562,6 +2344,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872d134e5449af2a20cfa7579",
     "genres": [],
     "firstSeenAt": "2026-09-28"
+  },
+  {
+    "id": "dietotenhosen-2026-10-10-movistararena",
+    "shortId": "1d7mt0j",
+    "artist": "Die Toten Hosen",
+    "artistKey": "dietotenhosen",
+    "date": "2026-10-10",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "DE",
+    "spotifyId": "2F8GvYuY0lfZNYu45dY6gJ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ffdfdf660ff4430c14bb5519",
+    "genres": [
+      "punk rock",
+      "hard rock",
+      "pop punk"
+    ],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "festivalpardocaprichoylascruxes-2026-10-10-niceto",
@@ -2664,6 +2468,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-25"
+  },
+  {
+    "id": "parusiaorquesta-2026-10-10-playonmunicipalcaseros",
+    "shortId": "m3qqa8r",
+    "artist": "Parusía Orquesta",
+    "artistKey": "parusiaorquesta",
+    "date": "2026-10-10",
+    "venue": "Playón Municipal de Caseros",
+    "venueKey": "playonmunicipalcaseros",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "2jBz7kYEu66ar1NhiQUiWi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e978584e1724760ceb255ad9",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "speedaniversario-2026-10-10-niceto",
@@ -2772,6 +2594,27 @@
     "firstSeenAt": "2026-09-19"
   },
   {
+    "id": "elcuartetodenos-2026-10-11-gei",
+    "shortId": "2rq2unt",
+    "artist": "El Cuarteto de Nos",
+    "artistKey": "elcuartetodenos",
+    "date": "2026-10-11",
+    "venue": "Estadio GEI",
+    "venueKey": "gei",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "UY",
+    "spotifyId": "13JJKrUewC1CJYmIDXQNoH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781cc3029cc7653a31a3b5171e",
+    "genres": [
+      "alternative rock",
+      "latin rock"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "fiestatrevi-2026-10-11-niceto",
     "shortId": "1lrue68",
     "artist": "FIESTA TREVI",
@@ -2810,6 +2653,28 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-27"
+  },
+  {
+    "id": "lashistorias-2026-10-11-culturalbula",
+    "shortId": "9rdr22g",
+    "artist": "Las Historias",
+    "artistKey": "lashistorias",
+    "date": "2026-10-11",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6vqqSr9kKd72RwiSQBtfXi",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb725b24b0407fed2ce28111",
+    "genres": [
+      "psychedelic rock",
+      "rock",
+      "stoner metal"
+    ],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "masmusica-2026-10-11-cafeberlin",
@@ -2892,6 +2757,49 @@
     "firstSeenAt": "2026-09-21"
   },
   {
+    "id": "davidbisbal-2026-10-12-movistararena",
+    "shortId": "ar3xldp",
+    "artist": "David Bisbal",
+    "artistKey": "davidbisbal",
+    "date": "2026-10-12",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "ES",
+    "spotifyId": "5gOJTI4TusSENizxhcG7jB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789633eaa7ed6283a340cb373d",
+    "genres": [
+      "latin pop",
+      "latin",
+      "pop"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
+    "id": "elcuartetodenos-2026-10-12-auditoriosur",
+    "shortId": "zoxvrm7",
+    "artist": "El Cuarteto de Nos",
+    "artistKey": "elcuartetodenos",
+    "date": "2026-10-12",
+    "venue": "Auditorio Sur",
+    "venueKey": "auditoriosur",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "UY",
+    "spotifyId": "13JJKrUewC1CJYmIDXQNoH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781cc3029cc7653a31a3b5171e",
+    "genres": [
+      "alternative rock",
+      "latin rock"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "hayplan-2026-10-12-livepass",
     "shortId": "16dsa6k",
     "artist": "HAY PLAN",
@@ -2912,6 +2820,28 @@
     "firstSeenAt": "2026-09-26"
   },
   {
+    "id": "amorphis-2026-10-13-teatrito",
+    "shortId": "1qbg04w",
+    "artist": "Amorphis",
+    "artistKey": "amorphis",
+    "date": "2026-10-13",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "FI",
+    "spotifyId": "2UOVgpgiNTC6KK0vSC77aD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781c268fd10eb0a74442dd947e",
+    "genres": [
+      "progressive metal",
+      "melodic death metal",
+      "death metal"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "festivaldecocinayteatrojudio-2026-10-13-cafeberlin",
     "shortId": "1bkrc2b",
     "artist": "Festival de Cocina y Teatro Judío",
@@ -2930,6 +2860,50 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "grupofrontera-2026-10-13-movistararena",
+    "shortId": "ixyc5cj",
+    "artist": "Grupo Frontera",
+    "artistKey": "grupofrontera",
+    "date": "2026-10-13",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6XkjpgcEsYab502Vr1bBeW",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a6bf603f1cd9f828da6c769b",
+    "genres": [
+      "norteño",
+      "regional mexicano",
+      "americana"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
+    "id": "badgyal-2026-10-14-movistararena",
+    "shortId": "10kd863",
+    "artist": "Bad Gyal",
+    "artistKey": "badgyal",
+    "date": "2026-10-14",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "4F4pp8NUW08JuXwnoxglpN",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785324f5c26f59452e21f6a2d9",
+    "genres": [
+      "dancehall",
+      "neoperreo",
+      "reggaeton"
+    ],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "leandrobarralessexteto-2026-10-14-cafeberlin",
@@ -2976,6 +2950,28 @@
     "firstSeenAt": "2026-09-21"
   },
   {
+    "id": "betweentheburiedandme-2026-10-15-uniclub",
+    "shortId": "gvv6viv",
+    "artist": "Between The Buried And Me",
+    "artistKey": "betweentheburiedandme",
+    "date": "2026-10-15",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "2JC4hZm1egeJDEolLsMwZ9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178aedba7a5799c454208611431",
+    "genres": [
+      "progressive metal",
+      "metalcore",
+      "mathcore"
+    ],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "lamaquinacamaleon-2026-10-15-niceto",
     "shortId": "153kbnn",
     "artist": "La Máquina Camaleón",
@@ -3014,6 +3010,42 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "moranavarro-2026-10-15-theroxylive",
+    "shortId": "409bzat",
+    "artist": "Mora Navarro",
+    "artistKey": "moranavarro",
+    "date": "2026-10-15",
+    "venue": "The Roxy Live!",
+    "venueKey": "theroxylive",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "1TVta41xrglUQxVheaXZJx",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17805659062df70efde87d73e24",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
+    "id": "robertacampos-2026-10-15-torquatotasso",
+    "shortId": "1f82j2m",
+    "artist": "Roberta Campos",
+    "artistKey": "robertacampos",
+    "date": "2026-10-15",
+    "venue": "Torquato Tasso",
+    "venueKey": "torquatotasso",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "BR",
+    "spotifyId": "5CC2At3k0Xnyc5s9yHdyax",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787370ae0f18d64db7c79d1ae3",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "sedaaniversario-2026-10-15-niceto",
@@ -3338,6 +3370,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "enramadabulos-2026-10-17-ccnu",
+    "shortId": "ce3f2w3",
+    "artist": "ENRAMADA + Bulos",
+    "artistKey": "enramadabulos",
+    "date": "2026-10-17",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/enramada-bulos-martinez-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "interpaul-2026-10-17-cafeberlin",
     "shortId": "2e269e1",
     "artist": "Interpaul",
@@ -3507,6 +3559,26 @@
       "pop"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "juicynise-2026-10-18-niceto",
+    "shortId": "1p3kp0j",
+    "artist": "Juicy Nise",
+    "artistKey": "juicynise",
+    "date": "2026-10-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0MSw8gYA4pujLZst10Zve8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789506de9825d1ac4acc432767",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "palo-2026-10-18-guajiralp",
@@ -3724,30 +3796,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "cantamarta-2026-10-22-niceto",
-    "shortId": "6rv3oem",
-    "artist": "ÇANTAMARTA",
-    "artistKey": "cantamarta",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/antamarta-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "5Ayb9yqemFxECJB8LEG8ln",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178415578fd9d92d416316f2570",
-    "genres": [
-      "alternative pop",
-      "cumbia",
-      "dancehall"
-    ],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
     "id": "filarmonicadeberlin-2026-10-22-colon",
     "shortId": "28pc7cf",
     "artist": "Filarmónica De Berlín",
@@ -3826,26 +3874,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "axel-2026-10-23-granrex",
-    "shortId": "2nkzqkc",
-    "artist": "Axel",
-    "artistKey": "axel",
-    "date": "2026-10-23",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/axel-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "32x1uogH2zajP85pzZAtuE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785ff76dce78ed349fb83684ea",
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "bsasnumetalfest-2026-10-23-sanmiguel",
@@ -4274,6 +4302,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "bodalyniel-2026-11-01-granrex",
+    "shortId": "hw94ewx",
+    "artist": "Boda Lyniel",
+    "artistKey": "bodalyniel",
+    "date": "2026-11-01",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/boda-lyniel-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
     "id": "maikelpereyra-2026-11-01-cafeberlin",
     "shortId": "2br1fhi",
     "artist": "Maikel Pereyra",
@@ -4558,6 +4606,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "bodalyniel-2026-11-08-granrex",
+    "shortId": "177af72",
+    "artist": "Boda Lyniel",
+    "artistKey": "bodalyniel",
+    "date": "2026-11-08",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/boda-lyniel-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "masmusica-2026-11-08-cafeberlin",
@@ -5241,6 +5309,46 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "bodalyniel-2026-11-22-granrex",
+    "shortId": "1j3t4lg",
+    "artist": "Boda Lyniel",
+    "artistKey": "bodalyniel",
+    "date": "2026-11-22",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/boda-lyniel-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
+  },
+  {
+    "id": "notevagustar-2026-11-22-qacestacionamiento",
+    "shortId": "e08pt4i",
+    "artist": "No Te Va Gustar",
+    "artistKey": "notevagustar",
+    "date": "2026-11-22",
+    "venue": "Qac Estacionamiento",
+    "venueKey": "qacestacionamiento",
+    "ticketUrls": [
+      "https://www.tuentrada.com/ntvg-gira"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "UY",
+    "spotifyId": "4ZDoy7AWNgQVmX7T0u0B1j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786dbac98019544cd6c3f9235a",
+    "genres": [],
+    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "tinkaroup-2026-11-23-cafeberlin",

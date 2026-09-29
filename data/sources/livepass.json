@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28",
+  "fetchedAt": "2026-09-29",
   "events": [
     {
       "artist": "CONOCIENDO RUSIA",
@@ -209,6 +209,13 @@
       "venue": "San Miguel",
       "date": "2026-10-02",
       "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-2026-10-02",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nadine Quartet Singin' & Swingin'",
+      "venue": "CCNU",
+      "date": "2026-10-02",
+      "ticketUrl": "https://livepass.com.ar/events/nadine-quartet-singin-swingin-en-ccnu",
       "source": "livepass"
     },
     {
@@ -531,6 +538,13 @@
       "venue": "San Miguel",
       "date": "2026-10-17",
       "ticketUrl": "https://livepass.com.ar/events/noche-fria-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "ENRAMADA + Bulos - Martínez",
+      "venue": "CCNU",
+      "date": "2026-10-17",
+      "ticketUrl": "https://livepass.com.ar/events/enramada-bulos-martinez-en-ccnu",
       "source": "livepass"
     },
     {

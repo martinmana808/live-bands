@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-09-28",
+  "fetchedAt": "2026-09-29",
   "events": [
-    {
-      "artist": "LA ROCK AND FOLK",
-      "venue": "Niceto Club",
-      "date": "2026-09-28",
-      "ticketUrl": "https://venti.live/evento/la-rock-and-folk-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "Green Valley meets Alborosie",
-      "venue": "Niceto Club",
-      "date": "2026-09-29",
-      "ticketUrl": "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "ALBERT PLA",
       "venue": "Niceto Club",
@@ -41,6 +27,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-01",
       "ticketUrl": "https://venti.live/evento/jero-jones-y-marttein-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "KILOMBO 1 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-01",
+      "ticketUrl": "https://venti.live/evento/kilombo-1-oct-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -118,6 +111,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-08",
       "ticketUrl": "https://venti.live/evento/j4mes-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Happy Groove Jam",
+      "venue": "Niceto Club",
+      "date": "2026-10-08",
+      "ticketUrl": "https://venti.live/evento/happy-groove-jam-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -338,17 +338,17 @@
       "source": "niceto"
     },
     {
+      "artist": "Juicy Nise",
+      "venue": "Niceto Club",
+      "date": "2026-10-18",
+      "ticketUrl": "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
       "venue": "Niceto Club",
       "date": "2026-10-21",
       "ticketUrl": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "ÇANTAMARTA",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/antamarta-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

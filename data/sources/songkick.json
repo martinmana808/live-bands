@@ -1,90 +1,6 @@
 {
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-29",
   "events": [
-    {
-      "artist": "Morat",
-      "venue": "Movistar Arena",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Conociendo Rusia",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Las Historias",
-      "venue": "Club Cultural Bula",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Pedro Pastor and Los Locos Descalzos",
-      "venue": "Niceto Club",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fran Busso",
-      "venue": "Pura espacio cultural",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nanndos",
-      "venue": "Club V",
-      "date": "2026-09-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Morat",
-      "venue": "Movistar Arena",
-      "date": "2026-09-26",
-      "source": "songkick"
-    },
-    {
-      "artist": "SMILE LION",
-      "venue": "Tío Bizarro",
-      "date": "2026-09-26",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ararat",
-      "venue": "Club Cultural Bula",
-      "date": "2026-09-26",
-      "source": "songkick"
-    },
-    {
-      "artist": "Riel",
-      "venue": "Imaginario Cultural",
-      "date": "2026-09-26",
-      "source": "songkick"
-    },
-    {
-      "artist": "mis sueños son de tu adiós, kyogre, and Portland Banda",
-      "venue": "La Cultura del Barrio",
-      "date": "2026-09-26",
-      "source": "songkick"
-    },
-    {
-      "artist": "bar italia",
-      "venue": "Niceto Club",
-      "date": "2026-09-27",
-      "source": "songkick"
-    },
-    {
-      "artist": "No Fun At All",
-      "venue": "Club Cultural Bula",
-      "date": "2026-09-27",
-      "source": "songkick"
-    },
-    {
-      "artist": "La Bomba De Tiempo",
-      "venue": "Ciudad Cultural Konex",
-      "date": "2026-09-28",
-      "source": "songkick"
-    },
     {
       "artist": "Morat",
       "venue": "Movistar Arena",
@@ -146,14 +62,20 @@
       "source": "songkick"
     },
     {
-      "artist": "Ana Carolina",
-      "venue": "La Trastienda",
+      "artist": "Onda Vaga",
+      "venue": "Teatro Margarita Xirgu",
       "date": "2026-10-02",
       "source": "songkick"
     },
     {
       "artist": "Las Tussi, Sugar Tampaxxx, and Baja Killa",
       "venue": "The Roxy Live!",
+      "date": "2026-10-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ana Carolina",
+      "venue": "La Trastienda",
       "date": "2026-10-02",
       "source": "songkick"
     },
@@ -166,12 +88,6 @@
     {
       "artist": "Lucas Cervetti",
       "venue": "CC Cuerda Mecánica",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Onda Vaga",
-      "venue": "Teatro Margarita Xirgu",
       "date": "2026-10-02",
       "source": "songkick"
     },
@@ -293,6 +209,96 @@
       "artist": "Dregen",
       "venue": "Liverpool Club",
       "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ramones on 45",
+      "venue": "Bar Clandestino",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Marcelo Ezquiaga",
+      "venue": "Biri Biri",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "venue": "Movistar Arena",
+      "date": "2026-10-10",
+      "source": "songkick"
+    },
+    {
+      "artist": "Bertoncelli",
+      "venue": "Uniclub",
+      "date": "2026-10-10",
+      "source": "songkick"
+    },
+    {
+      "artist": "Parusía Orquesta",
+      "venue": "Playón Municipal de Caseros",
+      "date": "2026-10-10",
+      "source": "songkick"
+    },
+    {
+      "artist": "El Cuarteto de Nos",
+      "venue": "Estadio GEI",
+      "date": "2026-10-11",
+      "source": "songkick"
+    },
+    {
+      "artist": "Las Historias",
+      "venue": "Club Cultural Bula",
+      "date": "2026-10-11",
+      "source": "songkick"
+    },
+    {
+      "artist": "David Bisbal",
+      "venue": "Movistar Arena",
+      "date": "2026-10-12",
+      "source": "songkick"
+    },
+    {
+      "artist": "El Cuarteto de Nos",
+      "venue": "Auditorio Sur",
+      "date": "2026-10-12",
+      "source": "songkick"
+    },
+    {
+      "artist": "Grupo Frontera",
+      "venue": "Movistar Arena",
+      "date": "2026-10-13",
+      "source": "songkick"
+    },
+    {
+      "artist": "Amorphis",
+      "venue": "El Teatrito",
+      "date": "2026-10-13",
+      "source": "songkick"
+    },
+    {
+      "artist": "Bad Gyal",
+      "venue": "Movistar Arena",
+      "date": "2026-10-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Between The Buried And Me",
+      "venue": "Uniclub",
+      "date": "2026-10-15",
+      "source": "songkick"
+    },
+    {
+      "artist": "Roberta Campos",
+      "venue": "Torquato Tasso",
+      "date": "2026-10-15",
+      "source": "songkick"
+    },
+    {
+      "artist": "Mora Navarro",
+      "venue": "The Roxy Live!",
+      "date": "2026-10-15",
       "source": "songkick"
     }
   ]
