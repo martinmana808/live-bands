@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-09-29",
+  "fetchedAt": "2026-09-30",
   "events": [
-    {
-      "artist": "CONOCIENDO RUSIA",
-      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "Pimpinela",
       "venue": "el Hipódromo de La Plata",
       "date": "2026-10-03",
       "ticketUrl": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "CONOCIENDO RUSIA",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-10-03",
+      "ticketUrl": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
       "source": "livepass"
     },
     {
@@ -93,20 +93,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Fabiana Cantilo",
-      "venue": "Café Berlín",
-      "date": "2026-09-29",
-      "ticketUrl": "https://livepass.com.ar/events/fabiana-cantilo-en-cafe-berlin-2026-09-29",
-      "source": "livepass"
-    },
-    {
-      "artist": "Leonardo Amuedo y Maza Daniel",
-      "venue": "Mondo Fonk - Concepción del Uruguay",
-      "date": "2026-09-29",
-      "ticketUrl": "https://livepass.com.ar/events/leonardo-amuedo-y-maza-daniel-en-mondo-fonk-concepcion-del-uruguay",
-      "source": "livepass"
-    },
-    {
       "artist": "Farolero",
       "venue": "CCNU",
       "date": "2026-09-30",
@@ -142,13 +128,6 @@
       "source": "livepass"
     },
     {
-      "artist": "DYANGO",
-      "venue": "la Sala Ginastera - Teatro Argentino LP",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
       "artist": "Madda Bergeret",
       "venue": "Café Berlín",
       "date": "2026-10-01",
@@ -160,6 +139,13 @@
       "venue": "San Miguel",
       "date": "2026-10-01",
       "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-01-10",
+      "source": "livepass"
+    },
+    {
+      "artist": "DYANGO",
+      "venue": "la Sala Ginastera - Teatro Argentino LP",
+      "date": "2026-10-01",
+      "ticketUrl": "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp",
       "source": "livepass"
     },
     {
@@ -793,13 +779,6 @@
       "source": "livepass"
     },
     {
-      "artist": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
-      "venue": "Sala Piazzolla - Teatro Argentino LP",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
       "artist": "Javier Calamaro",
       "venue": "Café Berlín",
       "date": "2026-11-07",
@@ -811,6 +790,13 @@
       "venue": "San Miguel",
       "date": "2026-11-07",
       "ticketUrl": "https://livepass.com.ar/events/panter-giuliano-guitarra-voz-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
+      "venue": "Sala Piazzolla - Teatro Argentino LP",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
       "source": "livepass"
     },
     {
@@ -1003,6 +989,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Raro Diamante - Hotel Olvido",
+      "venue": "Café Berlín",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/raro-diamante-hotel-olvido-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Tinka Roup - Presenta Radar",
       "venue": "Café Berlín",
       "date": "2026-11-23",
@@ -1035,6 +1028,13 @@
       "venue": "Neuquén",
       "date": "2026-11-27",
       "ticketUrl": "https://livepass.com.ar/events/k4os-en-neuquen",
+      "source": "livepass"
+    },
+    {
+      "artist": "Marían Inver",
+      "venue": "Café Berlín",
+      "date": "2026-11-27",
+      "ticketUrl": "https://livepass.com.ar/events/marian-inver-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -1140,6 +1140,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-13-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sobredosis de Soda - íntimo y a la carta Vol 2",
+      "venue": "Café Berlín",
+      "date": "2026-12-17",
+      "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-intimo-y-a-la-carta-vol-2-en-cafe-berlin",
       "source": "livepass"
     },
     {

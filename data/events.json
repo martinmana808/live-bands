@@ -44,48 +44,6 @@
     "firstSeenAt": "2026-09-14"
   },
   {
-    "id": "fabianacantilo-2026-09-29-cafeberlin",
-    "shortId": "1kg8xuq",
-    "artist": "Fabiana Cantilo",
-    "artistKey": "fabianacantilo",
-    "date": "2026-09-29",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fabiana-cantilo-en-cafe-berlin-2026-09-29"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178434234315c5dcd60c2b5da6e",
-    "genres": [
-      "rock"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "leonardoamuedoymazadaniel-2026-09-29-mondofonkconcepciondeluruguay",
-    "shortId": "2opfcyb",
-    "artist": "Leonardo Amuedo y Maza Daniel",
-    "artistKey": "leonardoamuedoymazadaniel",
-    "date": "2026-09-29",
-    "venue": "Mondo Fonk - Concepción del Uruguay",
-    "venueKey": "mondofonkconcepciondeluruguay",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/leonardo-amuedo-y-maza-daniel-en-mondo-fonk-concepcion-del-uruguay"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "morat-2026-09-29-movistararena",
     "shortId": "122lvre",
     "artist": "Morat",
@@ -1090,6 +1048,26 @@
     "firstSeenAt": "2026-05-09"
   },
   {
+    "id": "club69-2026-10-03-niceto",
+    "shortId": "rxwg8af",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-10-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-3-oct-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
+  },
+  {
     "id": "conociendorusia-2026-10-03-salaginasteraargentinoplata",
     "shortId": "1kdx4cu",
     "artist": "CONOCIENDO RUSIA",
@@ -2066,6 +2044,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "harsh-2026-10-09-niceto",
+    "shortId": "2ji9gai",
+    "artist": "HARSH",
+    "artistKey": "harsh",
+    "date": "2026-10-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/harsh-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FI",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
+  },
+  {
     "id": "indiosxcastellanosescuchaexclusiva-2026-10-09-niceto",
     "shortId": "17qad75",
     "artist": "INDIOS x CASTELLANOS ¨Escucha Exclusiva¨",
@@ -2344,6 +2342,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872d134e5449af2a20cfa7579",
     "genres": [],
     "firstSeenAt": "2026-09-28"
+  },
+  {
+    "id": "club69-2026-10-10-niceto",
+    "shortId": "2av07hy",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-10-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
   },
   {
     "id": "dietotenhosen-2026-10-10-movistararena",
@@ -2695,6 +2713,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-15"
+  },
+  {
+    "id": "miguelconejitoalejandro-2026-10-11-granrex",
+    "shortId": "2d39rm0",
+    "artist": "Miguel Conejito Alejandro",
+    "artistKey": "miguelconejitoalejandro",
+    "date": "2026-10-11",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/miguel-conejito-alejandro-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
   },
   {
     "id": "robotzondaklaxon-2026-10-11-niceto",
@@ -3330,26 +3368,6 @@
     "firstSeenAt": "2026-09-28"
   },
   {
-    "id": "clublabproduccionesxpandaxmaktubexperience-2026-10-17-niceto",
-    "shortId": "1034cbs",
-    "artist": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE",
-    "artistKey": "clublabproduccionesxpandaxmaktubexperience",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-lab-producciones-x-panda-x-maktub-experience-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
     "id": "dancingmood-2026-10-17-operalp",
     "shortId": "2jxoqvs",
     "artist": "DANCING MOOD",
@@ -3561,26 +3579,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "juicynise-2026-10-18-niceto",
-    "shortId": "1p3kp0j",
-    "artist": "Juicy Nise",
-    "artistKey": "juicynise",
-    "date": "2026-10-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0MSw8gYA4pujLZst10Zve8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789506de9825d1ac4acc432767",
-    "genres": [],
-    "firstSeenAt": "2026-09-29"
-  },
-  {
     "id": "palo-2026-10-18-guajiralp",
     "shortId": "tna17ln",
     "artist": "PALO",
@@ -3730,26 +3728,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "homogenicafesteja1anodepostpop-2026-10-21-niceto",
-    "shortId": "10up8hc",
-    "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
-    "artistKey": "homogenicafesteja1anodepostpop",
-    "date": "2026-10-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "ironmaiden-2026-10-21-huracan",
@@ -5271,6 +5249,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "rarodiamante-2026-11-21-cafeberlin",
+    "shortId": "2kkn155",
+    "artist": "Raro Diamante",
+    "artistKey": "rarodiamante",
+    "date": "2026-11-21",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/raro-diamante-hotel-olvido-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "497lGfC7mdLAqlkWlwJpou",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b0b6563d18148aeb38240f3c",
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
+  },
+  {
     "id": "santiagomolina-2026-11-21-cafeberlin",
     "shortId": "24yopan",
     "artist": "Santiago Molina",
@@ -5473,6 +5471,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2b84d05e2fc9000385a633a",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "marianinver-2026-11-27-cafeberlin",
+    "shortId": "1yyhtjk",
+    "artist": "Marían Inver",
+    "artistKey": "marianinver",
+    "date": "2026-11-27",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/marian-inver-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2vtYGg8Rm3MubA4S0OmoaF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a711989d77e69c5c89527dc",
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
   },
   {
     "id": "queteimporta-2026-11-27-cafeberlin",
@@ -5949,6 +5967,26 @@
       "latin pop"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "sobredosisdesoda-2026-12-17-cafeberlin",
+    "shortId": "o7hd29t",
+    "artist": "Sobredosis de Soda",
+    "artistKey": "sobredosisdesoda",
+    "date": "2026-12-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sobredosis-de-soda-intimo-y-a-la-carta-vol-2-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-09-30"
   },
   {
     "id": "johnnytedesco-2026-12-18-cafeberlin",

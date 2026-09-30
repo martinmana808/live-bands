@@ -141,17 +141,6 @@
       }
     ]
   },
-  "djavan-tgr": {
-    "fetchedAt": "2026-09-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Djavan"
-      }
-    ]
-  },
   "los-bybys-tgr": {
     "fetchedAt": "2026-09-18",
     "sessions": [
@@ -160,6 +149,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Los Bybys"
+      }
+    ]
+  },
+  "djavan-tgr": {
+    "fetchedAt": "2026-09-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Djavan"
       }
     ]
   },
@@ -308,6 +308,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Cardellino"
+      }
+    ]
+  },
+  "miguel-conejito-alejandro-tgr": {
+    "fetchedAt": "2026-09-30",
+    "sessions": [
+      {
+        "date": "2026-10-11",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Miguel Conejito Alejandro"
       }
     ]
   }

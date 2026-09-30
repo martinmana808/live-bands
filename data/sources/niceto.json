@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29",
+  "fetchedAt": "2026-09-30",
   "events": [
     {
       "artist": "ALBERT PLA",
@@ -100,6 +100,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Club 69 | 3 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-03",
+      "ticketUrl": "https://venti.live/evento/club-69-3-oct-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "Chapterhouse",
       "venue": "Niceto Club",
       "date": "2026-10-04",
@@ -170,6 +177,13 @@
       "source": "niceto"
     },
     {
+      "artist": "HARSH",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/harsh-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "Walls",
       "venue": "Niceto Club",
       "date": "2026-10-10",
@@ -209,6 +223,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-10",
       "ticketUrl": "https://venti.live/evento/speed-aniversario-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | 10 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-10",
+      "ticketUrl": "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -328,27 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-10-17",
       "ticketUrl": "https://venti.live/evento/la-controversia-presenta-estamos-en-salsa-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE",
-      "venue": "Niceto Club",
-      "date": "2026-10-17",
-      "ticketUrl": "https://venti.live/evento/club-lab-producciones-x-panda-x-maktub-experience-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Juicy Nise",
-      "venue": "Niceto Club",
-      "date": "2026-10-18",
-      "ticketUrl": "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
-      "venue": "Niceto Club",
-      "date": "2026-10-21",
-      "ticketUrl": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
       "source": "niceto"
     }
   ]

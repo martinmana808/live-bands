@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29",
+  "fetchedAt": "2026-09-30",
   "events": [
     {
       "artist": "Hablando Huevadas",
@@ -114,17 +114,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Djavan",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Los Bybys",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-06",
       "ticketUrl": "https://www.tuentrada.com/los-bybys-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Djavan",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
       "source": "tuentrada"
     },
     {
@@ -237,6 +237,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-10",
       "ticketUrl": "https://www.tuentrada.com/cardellino-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Miguel Conejito Alejandro",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-11",
+      "ticketUrl": "https://www.tuentrada.com/miguel-conejito-alejandro-tgr",
       "source": "tuentrada"
     }
   ]
