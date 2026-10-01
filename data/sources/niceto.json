@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-09-30",
+  "fetchedAt": "2026-10-01",
   "events": [
-    {
-      "artist": "ALBERT PLA",
-      "venue": "Niceto Club",
-      "date": "2026-09-30",
-      "ticketUrl": "https://venti.live/evento/albert-pla-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "PIANO BAR: MANU PIRÓ",
       "venue": "Niceto Club",
@@ -174,6 +167,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-09",
       "ticketUrl": "https://venti.live/evento/vasko-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "La Romana By Picheo 808",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
       "source": "niceto"
     },
     {

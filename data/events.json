@@ -92,78 +92,15 @@
     "date": "2026-09-30",
     "venue": "Niceto Club",
     "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/albert-pla-en-niceto-club"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "niceto"
+      "songkick"
     ],
     "country": "ES",
     "spotifyId": "0oIls1SE66gDuk4BZObFaN",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f7282d5194c20555039dc0fa",
     "genres": [],
     "firstSeenAt": "2026-09-13"
-  },
-  {
-    "id": "danielmazayleonardoamuedo-2026-09-30-gualeguaychu",
-    "shortId": "1a2qsrh",
-    "artist": "Daniel Maza y Leonardo Amuedo",
-    "artistKey": "danielmazayleonardoamuedo",
-    "date": "2026-09-30",
-    "venue": "Gualeguaychú",
-    "venueKey": "gualeguaychu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/daniel-maza-y-leonardo-amuedo-en-gualeguaychu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "doubledragon4tet-2026-09-30-ccnu",
-    "shortId": "215sel7",
-    "artist": "Double Dragon 4tet",
-    "artistKey": "doubledragon4tet",
-    "date": "2026-09-30",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/double-dragon-4tet-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "farolero-2026-09-30-ccnu",
-    "shortId": "xsdnz2k",
-    "artist": "Farolero",
-    "artistKey": "farolero",
-    "date": "2026-09-30",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/farolero-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "highvis-2026-09-30-uniclub",
@@ -186,26 +123,6 @@
     "firstSeenAt": "2026-09-19"
   },
   {
-    "id": "horaciolavandera-2026-09-30-cafeberlin",
-    "shortId": "2peckyu",
-    "artist": "Horacio Lavandera",
-    "artistKey": "horaciolavandera",
-    "date": "2026-09-30",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-09-30"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "6InVsS0LwuWOaxHomvrb4i",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17811b4a830213d09f969c36944",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "lindseystirling-2026-09-30-granrex",
     "shortId": "17yg0go",
     "artist": "Lindsey Stirling",
@@ -213,12 +130,9 @@
     "date": "2026-09-30",
     "venue": "Teatro Gran Rex",
     "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/lindsey-stirling-tgr"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "tuentrada"
+      "songkick"
     ],
     "country": "US",
     "spotifyId": "378dH6EszOLFShpRzAQkVM",
@@ -1621,26 +1535,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "ahyre-2026-10-08-granrex",
-    "shortId": "25dj6hq",
-    "artist": "Ahyre",
-    "artistKey": "ahyre",
-    "date": "2026-10-08",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/ahyre-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "2IucHN96T0BZ3e4mXe9AgP",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ff5450c70971c32e65a07d29",
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
     "id": "armandinho-2026-10-08-trastienda",
     "shortId": "2pmjkey",
     "artist": "Armandinho",
@@ -2102,6 +1996,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804d81f58e8378881e906318a",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "laromanabypicheo808-2026-10-09-niceto",
+    "shortId": "1nhsqhw",
+    "artist": "La Romana By Picheo 808",
+    "artistKey": "laromanabypicheo808",
+    "date": "2026-10-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-01"
   },
   {
     "id": "luchossj-2026-10-09-sanmiguel",
@@ -3854,6 +3768,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "axel-2026-10-23-granrex",
+    "shortId": "2nkzqkc",
+    "artist": "Axel",
+    "artistKey": "axel",
+    "date": "2026-10-23",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/axel-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "32x1uogH2zajP85pzZAtuE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785ff76dce78ed349fb83684ea",
+    "genres": [],
+    "firstSeenAt": "2026-09-28"
+  },
+  {
     "id": "bsasnumetalfest-2026-10-23-sanmiguel",
     "shortId": "yhul8i5",
     "artist": "BS AS NU METAL FEST",
@@ -5596,6 +5530,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "laportuaria-2026-11-28-quilmes",
+    "shortId": "2jk4aah",
+    "artist": "LA PORTUARIA",
+    "artistKey": "laportuaria",
+    "date": "2026-11-28",
+    "venue": "Quilmes",
+    "venueKey": "quilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-portuaria-en-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "0Q7HmY08qjZ6SrCb9DYji7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781b168b868203ac7e91eb68c0",
+    "genres": [],
+    "firstSeenAt": "2026-10-01"
+  },
+  {
     "id": "unpocoderuido-2026-11-28-hipodromoplata",
     "shortId": "2nwt7gu",
     "artist": "Un Poco de Ruido",
@@ -6007,6 +5961,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17846d814ba7c52e70aa1df08a4",
     "genres": [],
     "firstSeenAt": "2026-09-16"
+  },
+  {
+    "id": "elmatoaunpoliciamotorizado-2026-12-19-hipodromoplata",
+    "shortId": "9l3gjdq",
+    "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
+    "artistKey": "elmatoaunpoliciamotorizado",
+    "date": "2026-12-19",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5rLsN2LxYaEPLa1N7I2mPB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e6eaf3fc12c6ccd4bf57a7e",
+    "genres": [
+      "indie rock"
+    ],
+    "firstSeenAt": "2026-10-01"
   },
   {
     "id": "ludovicoeinaudisolopiano-2027-03-01-colon",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30",
+  "fetchedAt": "2026-10-01",
   "events": [
     {
       "artist": "Hablando Huevadas",
@@ -107,6 +107,27 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Juan Diego Flórez",
+      "venue": "Teatro Colón",
+      "date": "2026-09-22",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Matthias Goerne",
+      "venue": "Teatro Colón",
+      "date": "2026-10-17",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Asmik Grigorian",
+      "venue": "Teatro Colón",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Alex Ubago",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-07",
@@ -125,13 +146,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Lindsey Stirling - Duality Tour",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-30",
-      "ticketUrl": "https://www.tuentrada.com/lindsey-stirling-tgr",
       "source": "tuentrada"
     },
     {
@@ -198,31 +212,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Juan Diego Flórez",
-      "venue": "Teatro Colón",
-      "date": "2026-09-22",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Matthias Goerne",
-      "venue": "Teatro Colón",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Asmik Grigorian",
-      "venue": "Teatro Colón",
-      "date": "2026-12-08",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Ahyre",
+      "artist": "Axel",
       "venue": "Teatro Gran Rex",
-      "date": "2026-10-08",
-      "ticketUrl": "https://www.tuentrada.com/ahyre-tgr",
+      "date": "2026-10-23",
+      "ticketUrl": "https://www.tuentrada.com/axel-tgr",
       "source": "tuentrada"
     },
     {

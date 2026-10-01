@@ -119,6 +119,29 @@
       }
     ]
   },
+  "grandes-interpretes-teatrocolon": {
+    "fetchedAt": "2026-09-18",
+    "sessions": [
+      {
+        "date": "2026-09-22",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Juan Diego Flórez"
+      },
+      {
+        "date": "2026-10-17",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Matthias Goerne"
+      },
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
+      }
+    ]
+  },
   "lfdaa-tucuman": {
     "fetchedAt": "2026-09-29",
     "sessions": [
@@ -160,17 +183,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Djavan"
-      }
-    ]
-  },
-  "lindsey-stirling-tgr": {
-    "fetchedAt": "2026-09-20",
-    "sessions": [
-      {
-        "date": "2026-09-30",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Lindsey Stirling - Duality Tour"
       }
     ]
   },
@@ -255,37 +267,14 @@
       }
     ]
   },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-09-18",
+  "axel-tgr": {
+    "fetchedAt": "2026-10-01",
     "sessions": [
       {
-        "date": "2026-09-22",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Juan Diego Flórez"
-      },
-      {
-        "date": "2026-10-17",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Matthias Goerne"
-      },
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
-      }
-    ]
-  },
-  "ahyre-tgr": {
-    "fetchedAt": "2026-09-25",
-    "sessions": [
-      {
-        "date": "2026-10-08",
+        "date": "2026-10-23",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Ahyre"
+        "name": "Axel"
       }
     ]
   },
@@ -308,6 +297,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Cardellino"
+      }
+    ]
+  },
+  "babasonicos-amr": {
+    "fetchedAt": "2026-10-01",
+    "sessions": [
+      {
+        "date": "2026-12-11",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "Babasonicos"
       }
     ]
   },

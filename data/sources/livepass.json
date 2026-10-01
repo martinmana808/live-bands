@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30",
+  "fetchedAt": "2026-10-01",
   "events": [
     {
       "artist": "Pimpinela",
@@ -90,34 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Farolero",
-      "venue": "CCNU",
-      "date": "2026-09-30",
-      "ticketUrl": "https://livepass.com.ar/events/farolero-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Horacio Lavandera",
-      "venue": "Café Berlín",
-      "date": "2026-09-30",
-      "ticketUrl": "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-09-30",
-      "source": "livepass"
-    },
-    {
-      "artist": "Daniel Maza y Leonardo Amuedo",
-      "venue": "Gualeguaychú",
-      "date": "2026-09-30",
-      "ticketUrl": "https://livepass.com.ar/events/daniel-maza-y-leonardo-amuedo-en-gualeguaychu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Double Dragon 4tet",
-      "venue": "CCNU",
-      "date": "2026-09-30",
-      "ticketUrl": "https://livepass.com.ar/events/double-dragon-4tet-en-ccnu",
       "source": "livepass"
     },
     {
@@ -1045,6 +1017,13 @@
       "source": "livepass"
     },
     {
+      "artist": "LA PORTUARIA",
+      "venue": "Quilmes",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/la-portuaria-en-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "Fernando Cabrera - Hugo Fattoruso",
       "venue": "Café Berlín",
       "date": "2026-11-28",
@@ -1154,6 +1133,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-18",
       "ticketUrl": "https://livepass.com.ar/events/johnny-tedesco-en-cafe-berlin-18-12-26",
+      "source": "livepass"
+    },
+    {
+      "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-19",
+      "ticketUrl": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
       "source": "livepass"
     },
     {
