@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-10-01",
+  "fetchedAt": "2026-10-02",
   "events": [
-    {
-      "artist": "PIANO BAR: MANU PIRÓ",
-      "venue": "Niceto Club",
-      "date": "2026-10-01",
-      "ticketUrl": "https://venti.live/evento/piano-bar-manu-pir",
-      "source": "niceto"
-    },
-    {
-      "artist": "Chechi de Marcos",
-      "venue": "Niceto Club",
-      "date": "2026-10-01",
-      "ticketUrl": "https://venti.live/evento/chechi-de-marcos-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "JERO JONES y Marttein",
       "venue": "Niceto Club",
@@ -349,6 +335,20 @@
       "venue": "Niceto Club",
       "date": "2026-10-17",
       "ticketUrl": "https://venti.live/evento/la-controversia-presenta-estamos-en-salsa-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE",
+      "venue": "Niceto Club",
+      "date": "2026-10-17",
+      "ticketUrl": "https://venti.live/evento/club-lab-producciones-x-panda-x-maktub-experience-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | 17 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-17",
+      "ticketUrl": "https://venti.live/evento/club-69-17-oct-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

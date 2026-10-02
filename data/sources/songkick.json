@@ -1,63 +1,15 @@
 {
-  "fetchedAt": "2026-09-29",
+  "fetchedAt": "2026-10-02",
   "events": [
     {
-      "artist": "Morat",
-      "venue": "Movistar Arena",
-      "date": "2026-09-29",
-      "source": "songkick"
-    },
-    {
-      "artist": "Blonde Redhead",
-      "venue": "C Complejo Art Media",
-      "date": "2026-09-29",
-      "source": "songkick"
-    },
-    {
-      "artist": "Sonata Arctica",
-      "venue": "El Teatro Flores",
-      "date": "2026-09-29",
-      "source": "songkick"
-    },
-    {
-      "artist": "Lindsey Stirling",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-09-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Morat",
-      "venue": "Movistar Arena",
-      "date": "2026-09-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "High Vis",
-      "venue": "Uniclub",
-      "date": "2026-09-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Albert Pla",
-      "venue": "Niceto Club",
-      "date": "2026-09-30",
-      "source": "songkick"
-    },
-    {
       "artist": "Robbie Williams",
       "venue": "Movistar Arena",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "source": "songkick"
     },
     {
-      "artist": "Motel Montpellier",
-      "venue": "Centro Cultural Thames",
-      "date": "2026-10-01",
-      "source": "songkick"
-    },
-    {
-      "artist": "Robbie Williams",
-      "venue": "Movistar Arena",
+      "artist": "Ana Carolina",
+      "venue": "La Trastienda",
       "date": "2026-10-02",
       "source": "songkick"
     },
@@ -70,12 +22,6 @@
     {
       "artist": "Las Tussi, Sugar Tampaxxx, and Baja Killa",
       "venue": "The Roxy Live!",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ana Carolina",
-      "venue": "La Trastienda",
       "date": "2026-10-02",
       "source": "songkick"
     },
@@ -194,14 +140,14 @@
       "source": "songkick"
     },
     {
-      "artist": "Pimpinela",
-      "venue": "Movistar Arena",
+      "artist": "Feine Sahne Fischfilet",
+      "venue": "Teatro Vorterix",
       "date": "2026-10-09",
       "source": "songkick"
     },
     {
-      "artist": "Feine Sahne Fischfilet",
-      "venue": "Teatro Vorterix",
+      "artist": "Pimpinela",
+      "venue": "Movistar Arena",
       "date": "2026-10-09",
       "source": "songkick"
     },
@@ -220,6 +166,12 @@
     {
       "artist": "Marcelo Ezquiaga",
       "venue": "Biri Biri",
+      "date": "2026-10-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Kutis",
+      "venue": "Crow Bar Oculto",
       "date": "2026-10-09",
       "source": "songkick"
     },
@@ -299,6 +251,54 @@
       "artist": "Mora Navarro",
       "venue": "The Roxy Live!",
       "date": "2026-10-15",
+      "source": "songkick"
+    },
+    {
+      "artist": "LOBEL",
+      "venue": "La Tangente",
+      "date": "2026-10-15",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ramones on 45",
+      "venue": "Casa Colombo Cantina Club",
+      "date": "2026-10-15",
+      "source": "songkick"
+    },
+    {
+      "artist": "End It",
+      "venue": "Club Cultural Bula",
+      "date": "2026-10-16",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fede cabral and ALIMA",
+      "venue": "Zadar Club",
+      "date": "2026-10-16",
+      "source": "songkick"
+    },
+    {
+      "artist": "Gruesome",
+      "venue": "Uniclub",
+      "date": "2026-10-16",
+      "source": "songkick"
+    },
+    {
+      "artist": "SISTEMA DE ENTRETENIMIENTO",
+      "venue": "Casa Colombo Cantina Club",
+      "date": "2026-10-17",
+      "source": "songkick"
+    },
+    {
+      "artist": "Mortiis",
+      "venue": "Club Cultural Bula",
+      "date": "2026-10-17",
+      "source": "songkick"
+    },
+    {
+      "artist": "Suena Primavera 2026",
+      "venue": "Centro Cultural Thames",
+      "date": "2026-10-17",
       "source": "songkick"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01",
+  "fetchedAt": "2026-10-02",
   "events": [
     {
       "artist": "Pimpinela",
@@ -90,41 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "PLACERES CULPOSOS: #100 PROGRAMAS DE NDA",
-      "venue": "CCNU",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/placeres-culposos-100-programas-de-nda-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Madda Bergeret",
-      "venue": "Café Berlín",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/madda-bergeret-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "CADENA PERPETUA",
-      "venue": "San Miguel",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-01-10",
-      "source": "livepass"
-    },
-    {
-      "artist": "DYANGO",
-      "venue": "la Sala Ginastera - Teatro Argentino LP",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/dyango-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Banda de Héroes - Presenta Changes",
-      "venue": "Café Berlín",
-      "date": "2026-10-01",
-      "ticketUrl": "https://livepass.com.ar/events/banda-de-heroes-presenta-changes-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -1077,6 +1042,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-05",
       "ticketUrl": "https://livepass.com.ar/events/diego-capusotto-presenta-lado-c-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-12-06",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-06-20-00-00-0300",
       "source": "livepass"
     },
     {

@@ -153,17 +153,6 @@
       }
     ]
   },
-  "alex-ubago-tgr": {
-    "fetchedAt": "2026-09-29",
-    "sessions": [
-      {
-        "date": "2026-11-07",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Alex Ubago"
-      }
-    ]
-  },
   "los-bybys-tgr": {
     "fetchedAt": "2026-09-18",
     "sessions": [
@@ -172,6 +161,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Los Bybys"
+      }
+    ]
+  },
+  "alex-ubago-tgr": {
+    "fetchedAt": "2026-09-29",
+    "sessions": [
+      {
+        "date": "2026-11-07",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Alex Ubago"
       }
     ]
   },

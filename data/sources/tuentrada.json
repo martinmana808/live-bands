@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01",
+  "fetchedAt": "2026-10-02",
   "events": [
     {
       "artist": "Hablando Huevadas",
@@ -128,17 +128,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Alex Ubago",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-07",
-      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Los Bybys",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-06",
       "ticketUrl": "https://www.tuentrada.com/los-bybys-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Alex Ubago",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-07",
+      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
       "source": "tuentrada"
     },
     {
