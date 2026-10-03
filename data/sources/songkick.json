@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-10-02",
+  "fetchedAt": "2026-10-03",
   "events": [
-    {
-      "artist": "Robbie Williams",
-      "venue": "Movistar Arena",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ana Carolina",
-      "venue": "La Trastienda",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Onda Vaga",
-      "venue": "Teatro Margarita Xirgu",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Las Tussi, Sugar Tampaxxx, and Baja Killa",
-      "venue": "The Roxy Live!",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fran Busso and Callejón González",
-      "venue": "La Casa del Árbol",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "Lucas Cervetti",
-      "venue": "CC Cuerda Mecánica",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
-    {
-      "artist": "felipe avello",
-      "venue": "Espacio Aguirre",
-      "date": "2026-10-02",
-      "source": "songkick"
-    },
     {
       "artist": "High On Fire",
       "venue": "Uniclub",
@@ -299,6 +257,48 @@
       "artist": "Suena Primavera 2026",
       "venue": "Centro Cultural Thames",
       "date": "2026-10-17",
+      "source": "songkick"
+    },
+    {
+      "artist": "Pimpinela",
+      "venue": "Movistar Arena",
+      "date": "2026-10-18",
+      "source": "songkick"
+    },
+    {
+      "artist": "SMASHED FEST 2026",
+      "venue": "Espacio Rincón",
+      "date": "2026-10-18",
+      "source": "songkick"
+    },
+    {
+      "artist": "kneecap",
+      "venue": "C Complejo Art Media",
+      "date": "2026-10-19",
+      "source": "songkick"
+    },
+    {
+      "artist": "Iron Maiden",
+      "venue": "Estadio Club Atletico Huracan",
+      "date": "2026-10-20",
+      "source": "songkick"
+    },
+    {
+      "artist": "Iron Maiden",
+      "venue": "Estadio Club Atletico Huracan",
+      "date": "2026-10-21",
+      "source": "songkick"
+    },
+    {
+      "artist": "Aitana",
+      "venue": "Movistar Arena",
+      "date": "2026-10-21",
+      "source": "songkick"
+    },
+    {
+      "artist": "Alter Bridge",
+      "venue": "C Complejo Art Media",
+      "date": "2026-10-22",
       "source": "songkick"
     }
   ]

@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-10-02",
+  "fetchedAt": "2026-10-03",
   "events": [
-    {
-      "artist": "Hablando Huevadas",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-01",
-      "ticketUrl": "https://www.tuentrada.com/hablando-huevadas",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Hablando Huevadas",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-02",
-      "ticketUrl": "https://www.tuentrada.com/hablando-huevadas",
-      "source": "tuentrada"
-    },
     {
       "artist": "Raphael",
       "venue": "Teatro Gran Rex",
@@ -107,13 +93,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Juan Diego Flórez",
-      "venue": "Teatro Colón",
-      "date": "2026-09-22",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Matthias Goerne",
       "venue": "Teatro Colón",
       "date": "2026-10-17",
@@ -156,6 +135,48 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Melissa Aldana",
       "venue": "Sala Martin Coronado",
       "date": "2026-10-20",
@@ -170,52 +191,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Axel",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-23",
       "ticketUrl": "https://www.tuentrada.com/axel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Los Pericos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-22",
+      "ticketUrl": "https://www.tuentrada.com/los-pericos-tgr",
       "source": "tuentrada"
     },
     {

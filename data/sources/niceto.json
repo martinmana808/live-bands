@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-10-02",
+  "fetchedAt": "2026-10-03",
   "events": [
-    {
-      "artist": "JERO JONES y Marttein",
-      "venue": "Niceto Club",
-      "date": "2026-10-01",
-      "ticketUrl": "https://venti.live/evento/jero-jones-y-marttein-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "KILOMBO 1 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-01",
-      "ticketUrl": "https://venti.live/evento/kilombo-1-oct-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "SANTI MUK",
-      "venue": "Niceto Club",
-      "date": "2026-10-02",
-      "ticketUrl": "https://venti.live/evento/santi-muk-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Peña de los Vagamundos",
-      "venue": "Niceto Club",
-      "date": "2026-10-02",
-      "ticketUrl": "https://venti.live/evento/la-pe-a-de-los-vagamundos-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Ala sur presentando “La Revancha”",
-      "venue": "Niceto Club",
-      "date": "2026-10-02",
-      "ticketUrl": "https://venti.live/evento/ala-sur-presentando-la-revancha-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "NORTH GROOVE x ABASIS x EDÉN x NULL",
-      "venue": "Niceto Club",
-      "date": "2026-10-02",
-      "ticketUrl": "https://venti.live/evento/north-groove-x-abasis-x-ed-n-x-null-en-niceto-bar",
-      "source": "niceto"
-    },
     {
       "artist": "OKTOBER KENCH",
       "venue": "Niceto Club",
@@ -233,6 +191,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Fiesta Album",
+      "venue": "Niceto Club",
+      "date": "2026-10-11",
+      "ticketUrl": "https://venti.live/evento/fiesta-album",
+      "source": "niceto"
+    },
+    {
       "artist": "UNCUT",
       "venue": "Niceto Club",
       "date": "2026-10-11",
@@ -258,6 +223,20 @@
       "venue": "Niceto Club",
       "date": "2026-10-14",
       "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "After Gómez",
+      "venue": "Niceto Club",
+      "date": "2026-10-14",
+      "ticketUrl": "https://venti.live/evento/after-sudan-archives-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Preescucha EP Nati Jait",
+      "venue": "Niceto Club",
+      "date": "2026-10-15",
+      "ticketUrl": "https://venti.live/evento/preescucha-ep-nati-jait-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -349,6 +328,27 @@
       "venue": "Niceto Club",
       "date": "2026-10-17",
       "ticketUrl": "https://venti.live/evento/club-69-17-oct-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Juicy Nise",
+      "venue": "Niceto Club",
+      "date": "2026-10-18",
+      "ticketUrl": "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
+      "venue": "Niceto Club",
+      "date": "2026-10-21",
+      "ticketUrl": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "ÇANTAMARTA",
+      "venue": "Niceto Club",
+      "date": "2026-10-22",
+      "ticketUrl": "https://venti.live/evento/antamarta-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

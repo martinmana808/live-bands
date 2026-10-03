@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02",
+  "fetchedAt": "2026-10-03",
   "events": [
     {
       "artist": "Pimpinela",
@@ -90,62 +90,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Lectura. Claire Keegan por Claire Keegan",
-      "venue": "MALBA",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/lectura-claire-keegan-por-claire-keegan-en-malba",
-      "source": "livepass"
-    },
-    {
-      "artist": "Luis Philippe",
-      "venue": "CCNU",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/luis-philippe-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "SIN DATOS",
-      "venue": "Guajira LP",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/sin-datos-en-guajira-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Por el Sur",
-      "venue": "Café Berlín",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/por-el-sur-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "EMANERO",
-      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/emanero-en-la-sala-ginastera-teatro-argentino-la-plata-02-10",
-      "source": "livepass"
-    },
-    {
-      "artist": "CADENA PERPETUA",
-      "venue": "San Miguel",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-san-miguel-2026-10-02",
-      "source": "livepass"
-    },
-    {
-      "artist": "Nadine Quartet Singin' & Swingin'",
-      "venue": "CCNU",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/nadine-quartet-singin-swingin-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "La Foca Funk4",
-      "venue": "Café Berlín",
-      "date": "2026-10-02",
-      "ticketUrl": "https://livepass.com.ar/events/la-foca-funk4-en-cafe-berlin-2026-10-02-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -352,6 +296,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Catalina Erdelyi quinteto",
+      "venue": "CCNU",
+      "date": "2026-10-10",
+      "ticketUrl": "https://livepass.com.ar/events/catalina-erdelyi-quinteto-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Sur Oculto",
       "venue": "Café Berlín",
       "date": "2026-10-10",
@@ -363,6 +314,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-11",
       "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-11",
+      "source": "livepass"
+    },
+    {
+      "artist": "Eloy Michelini Trio",
+      "venue": "CCNU",
+      "date": "2026-10-11",
+      "ticketUrl": "https://livepass.com.ar/events/eloy-michelini-trio-en-ccnu-2026-10-11-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -492,6 +450,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Guille Saroka",
+      "venue": "CCNU",
+      "date": "2026-10-18",
+      "ticketUrl": "https://livepass.com.ar/events/guille-saroka-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "La Pardo Big Band",
       "venue": "Café Berlín",
       "date": "2026-10-20",
@@ -503,6 +468,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-21",
       "ticketUrl": "https://livepass.com.ar/events/liliana-herrero-en-cafe-berlin-2026-10-21-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Paula Giordano / Cel Mamone",
+      "venue": "CCNU",
+      "date": "2026-10-22",
+      "ticketUrl": "https://livepass.com.ar/events/paula-giordano-cel-mamone-en-ccnu",
       "source": "livepass"
     },
     {
@@ -587,6 +559,13 @@
       "venue": "Guajira LP",
       "date": "2026-10-25",
       "ticketUrl": "https://livepass.com.ar/events/143leti-bic-en-guajira-lp",
+      "source": "livepass"
+    },
+    {
+      "artist": "Astor's Back In Town",
+      "venue": "CCNU",
+      "date": "2026-10-28",
+      "ticketUrl": "https://livepass.com.ar/events/astor-s-back-in-town-en-ccnu",
       "source": "livepass"
     },
     {
@@ -1098,6 +1077,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-17",
       "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-intimo-y-a-la-carta-vol-2-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "BAHIANO",
+      "venue": "Quilmes",
+      "date": "2026-12-18",
+      "ticketUrl": "https://livepass.com.ar/events/bahiano-en-quilmes",
       "source": "livepass"
     },
     {
