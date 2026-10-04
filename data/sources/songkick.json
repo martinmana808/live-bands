@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-10-03",
+  "fetchedAt": "2026-10-04",
   "events": [
-    {
-      "artist": "High On Fire",
-      "venue": "Uniclub",
-      "date": "2026-10-03",
-      "source": "songkick"
-    },
-    {
-      "artist": "Chiara Oliver",
-      "venue": "Teatro Vorterix",
-      "date": "2026-10-03",
-      "source": "songkick"
-    },
-    {
-      "artist": "Olivia Wald",
-      "venue": "C Complejo Art Media",
-      "date": "2026-10-03",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ambkor",
-      "venue": "Niceto Club",
-      "date": "2026-10-03",
-      "source": "songkick"
-    },
-    {
-      "artist": "Magos",
-      "venue": "Ferona Club Social",
-      "date": "2026-10-03",
-      "source": "songkick"
-    },
     {
       "artist": "Robbie Williams",
       "venue": "Movistar Arena",
@@ -298,6 +268,36 @@
     {
       "artist": "Alter Bridge",
       "venue": "C Complejo Art Media",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Apocalyptica",
+      "venue": "Groove",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Aitana",
+      "venue": "Movistar Arena",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Los Pericos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fit for a King",
+      "venue": "El Teatrito",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Javiera Mena",
+      "venue": "Deseo",
       "date": "2026-10-22",
       "source": "songkick"
     }

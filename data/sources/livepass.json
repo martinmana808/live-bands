@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-10-03",
+  "fetchedAt": "2026-10-04",
   "events": [
-    {
-      "artist": "Pimpinela",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/pimpinela-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
-      "artist": "CONOCIENDO RUSIA",
-      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/conociendo-rusia-en-la-sala-ginastera-teatro-argentino-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "Julieta Rada",
       "venue": "Café Berlín",
@@ -90,69 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Carrère cronista",
-      "venue": "MALBA",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/carrere-cronista-en-malba",
-      "source": "livepass"
-    },
-    {
-      "artist": "Belén Ruiz y Bambu",
-      "venue": "CCNU",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/belen-ruiz-y-bambu-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "CADENA PERPETUA",
-      "venue": "Club Re",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/cadena-perpetua-en-club-re",
-      "source": "livepass"
-    },
-    {
-      "artist": "1915 + MUJER CEBRA + TERRORES NOCTURNOS",
-      "venue": "San Miguel",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/1915-mujer-cebra-terrores-nocturnos-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "KLEZMER: POR LA VIDA Y LA PAZ ENTRE LOS PUEBLOS",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/klezmer-por-la-vida-y-la-paz-entre-los-pueblos-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Los Endos",
-      "venue": "Café Berlín",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/los-endos-en-cafe-berlin-03-10",
-      "source": "livepass"
-    },
-    {
-      "artist": "AIRBAG",
-      "venue": "Rosario",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/airbag-en-rosario",
-      "source": "livepass"
-    },
-    {
-      "artist": "PAT CORIA TRIO",
-      "venue": "CCNU",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/pat-coria-trio-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Wadu Wadu - Tributo Oficial a Virus",
-      "venue": "Café Berlín",
-      "date": "2026-10-03",
-      "ticketUrl": "https://livepass.com.ar/events/wadu-wadu-tributo-oficial-a-virus-en-cafe-berlin",
       "source": "livepass"
     },
     {
