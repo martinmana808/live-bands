@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-05",
   "events": [
     {
       "artist": "Julieta Rada",
@@ -76,27 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Adem Santos Bolo Fernández",
-      "venue": "CCNU",
-      "date": "2026-10-04",
-      "ticketUrl": "https://livepass.com.ar/events/adem-santos-bolo-fernandez-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Chuecas y Locas",
-      "venue": "Café Berlín",
-      "date": "2026-10-04",
-      "ticketUrl": "https://livepass.com.ar/events/chuecas-y-locas-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pelusa Latin Project",
-      "venue": "CCNU",
-      "date": "2026-10-04",
-      "ticketUrl": "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300",
       "source": "livepass"
     },
     {

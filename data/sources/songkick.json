@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-05",
   "events": [
-    {
-      "artist": "Robbie Williams",
-      "venue": "Movistar Arena",
-      "date": "2026-10-04",
-      "source": "songkick"
-    },
-    {
-      "artist": "Chapterhouse",
-      "venue": "Niceto Club",
-      "date": "2026-10-04",
-      "source": "songkick"
-    },
-    {
-      "artist": "De La Rose",
-      "venue": "C Complejo Art Media",
-      "date": "2026-10-04",
-      "source": "songkick"
-    },
     {
       "artist": "ZAYN",
       "venue": "Movistar Arena",
@@ -272,14 +254,14 @@
       "source": "songkick"
     },
     {
-      "artist": "Apocalyptica",
-      "venue": "Groove",
+      "artist": "Aitana",
+      "venue": "Movistar Arena",
       "date": "2026-10-22",
       "source": "songkick"
     },
     {
-      "artist": "Aitana",
-      "venue": "Movistar Arena",
+      "artist": "Apocalyptica",
+      "venue": "Groove",
       "date": "2026-10-22",
       "source": "songkick"
     },
@@ -299,6 +281,24 @@
       "artist": "Javiera Mena",
       "venue": "Deseo",
       "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ramones on 45",
+      "venue": "Salas Ciro",
+      "date": "2026-10-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Malevolent Creation",
+      "venue": "El Teatrito",
+      "date": "2026-10-23",
+      "source": "songkick"
+    },
+    {
+      "artist": "Nicole Zignago",
+      "venue": "Niceto Club",
+      "date": "2026-10-23",
       "source": "songkick"
     }
   ]

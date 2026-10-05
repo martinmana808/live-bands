@@ -1,87 +1,5 @@
 [
   {
-    "id": "ademsantosbolofernandez-2026-10-04-ccnu",
-    "shortId": "1h30a6i",
-    "artist": "Adem Santos Bolo Fernández",
-    "artistKey": "ademsantosbolofernandez",
-    "date": "2026-10-04",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/adem-santos-bolo-fernandez-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
-    "id": "chapterhouse-2026-10-04-niceto",
-    "shortId": "19wn4hw",
-    "artist": "Chapterhouse",
-    "artistKey": "chapterhouse",
-    "date": "2026-10-04",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/chapterhouse-en-niceto-club"
-    ],
-    "sources": [
-      "songkick",
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3r94PF71LWRI5K6wqclNjQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178726c23578f3e4b35a55a404f",
-    "genres": [],
-    "firstSeenAt": "2026-09-14"
-  },
-  {
-    "id": "chuecasylocas-2026-10-04-cafeberlin",
-    "shortId": "11eodle",
-    "artist": "Chuecas y Locas",
-    "artistKey": "chuecasylocas",
-    "date": "2026-10-04",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/chuecas-y-locas-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "5YJaNTGKkgRkWGzGxizJhn",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851185fc71ccf70a27fef866f49",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "delarose-2026-10-04-ccomplejoartmedia",
-    "shortId": "28wm4zn",
-    "artist": "De La Rose",
-    "artistKey": "delarose",
-    "date": "2026-10-04",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PR",
-    "spotifyId": "54seKvtsZauR1iauN0ptpo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f556244205ea7e80f382f152",
-    "genres": [
-      "latin",
-      "reggaeton"
-    ],
-    "firstSeenAt": "2026-09-20"
-  },
-  {
     "id": "dyango-2026-10-04-granrex",
     "shortId": "yi2cq1a",
     "artist": "Dyango",
@@ -102,48 +20,6 @@
       "latin ballad"
     ],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "pelusalatinproject-2026-10-04-ccnu",
-    "shortId": "18t7vx2",
-    "artist": "Pelusa Latin Project",
-    "artistKey": "pelusalatinproject",
-    "date": "2026-10-04",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pelusa-latin-project-en-ccnu-2026-10-07-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-24"
-  },
-  {
-    "id": "robbiewilliams-2026-10-04-movistararena",
-    "shortId": "isv0dao",
-    "artist": "Robbie Williams",
-    "artistKey": "robbiewilliams",
-    "date": "2026-10-04",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "2HcwFjNelS49kFbfvMxQYw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ec4b5ff594ae3d7c5622cf23",
-    "genres": [
-      "pop",
-      "britpop",
-      "pop rock"
-    ],
-    "firstSeenAt": "2026-09-19"
   },
   {
     "id": "gicelamendezribeiroaluisiorockembach-2026-10-06-cafeberlin",
@@ -3234,6 +3110,24 @@
     "firstSeenAt": "2026-10-03"
   },
   {
+    "id": "ramoneson45-2026-10-22-salasciro",
+    "shortId": "893er45",
+    "artist": "Ramones on 45",
+    "artistKey": "ramoneson45",
+    "date": "2026-10-22",
+    "venue": "Salas Ciro",
+    "venueKey": "salasciro",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-05"
+  },
+  {
     "id": "abastojazzquinteto-2026-10-23-ccnu",
     "shortId": "21ayo94",
     "artist": "Abasto Jazz Quinteto",
@@ -3354,6 +3248,27 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "malevolentcreation-2026-10-23-teatrito",
+    "shortId": "297vqz2",
+    "artist": "Malevolent Creation",
+    "artistKey": "malevolentcreation",
+    "date": "2026-10-23",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "1NrkyGnaWUYV1hLP74pp6X",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786c64d54cd1c34de0af99ee49",
+    "genres": [
+      "death metal",
+      "metal"
+    ],
+    "firstSeenAt": "2026-10-05"
+  },
+  {
     "id": "marsico-2026-10-23-ccnu",
     "shortId": "1uxaog6",
     "artist": "Marsico",
@@ -3372,6 +3287,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048514c45d511665c3edbf8808370",
     "genres": [],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "nicolezignago-2026-10-23-niceto",
+    "shortId": "to995aw",
+    "artist": "Nicole Zignago",
+    "artistKey": "nicolezignago",
+    "date": "2026-10-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PE",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [
+      "latin pop"
+    ],
+    "firstSeenAt": "2026-10-05"
   },
   {
     "id": "self-2026-10-23-niceto",
@@ -3438,6 +3373,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3444951209feb94b5b4ecd9",
     "genres": [],
     "firstSeenAt": "2026-10-04"
+  },
+  {
+    "id": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris-2026-10-24-niceto",
+    "shortId": "2a4pegg",
+    "artist": "“NOCHE PICANTE Y RABIOSA” LOCAL FREAKS (tributo a Audioslave y Rage against the machine) + RED HOT CHIMICHURRIS",
+    "artistKey": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/noche-picante-y-rabiosa-local-freaks-tributo-a-audioslave-y-rage-against-the-machine-red-hot-chimichurris-tributo-a-rhcp-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-05"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",

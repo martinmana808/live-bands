@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-05",
   "events": [
-    {
-      "artist": "Chapterhouse",
-      "venue": "Niceto Club",
-      "date": "2026-10-04",
-      "ticketUrl": "https://venti.live/evento/chapterhouse-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "J4MES",
       "venue": "Niceto Club",
@@ -349,6 +342,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-24",
       "ticketUrl": "https://venti.live/evento/mustafunk-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "“NOCHE PICANTE Y RABIOSA” LOCAL FREAKS (tributo a Audioslave y Rage against the machine) + RED HOT CHIMICHURRIS (tributo a RHCP)",
+      "venue": "Niceto Club",
+      "date": "2026-10-24",
+      "ticketUrl": "https://venti.live/evento/noche-picante-y-rabiosa-local-freaks-tributo-a-audioslave-y-rage-against-the-machine-red-hot-chimichurris-tributo-a-rhcp-en-niceto-bar",
       "source": "niceto"
     }
   ]
