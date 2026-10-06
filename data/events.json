@@ -1422,6 +1422,26 @@
     "firstSeenAt": "2026-09-21"
   },
   {
+    "id": "tomasmartinezquartet-2026-10-11-ccnu",
+    "shortId": "hfj01wd",
+    "artist": "Tomas Martinez Quartet",
+    "artistKey": "tomasmartinezquartet",
+    "date": "2026-10-11",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/tomas-martinez-quartet-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-06"
+  },
+  {
     "id": "uncut-2026-10-11-niceto",
     "shortId": "1xeed3a",
     "artist": "UNCUT",
@@ -1675,6 +1695,26 @@
       "mathcore"
     ],
     "firstSeenAt": "2026-09-29"
+  },
+  {
+    "id": "deepsession20-2026-10-15-niceto",
+    "shortId": "21zilo5",
+    "artist": "DEEP SESSION #20",
+    "artistKey": "deepsession20",
+    "date": "2026-10-15",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-session-20-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-06"
   },
   {
     "id": "lamaquinacamaleon-2026-10-15-niceto",
@@ -3373,26 +3413,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3444951209feb94b5b4ecd9",
     "genres": [],
     "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris-2026-10-24-niceto",
-    "shortId": "2a4pegg",
-    "artist": "“NOCHE PICANTE Y RABIOSA” LOCAL FREAKS (tributo a Audioslave y Rage against the machine) + RED HOT CHIMICHURRIS",
-    "artistKey": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris",
-    "date": "2026-10-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/noche-picante-y-rabiosa-local-freaks-tributo-a-audioslave-y-rage-against-the-machine-red-hot-chimichurris-tributo-a-rhcp-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-05"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05",
+  "fetchedAt": "2026-10-06",
   "events": [
     {
       "artist": "Julieta Rada",
@@ -209,6 +209,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-10",
       "ticketUrl": "https://livepass.com.ar/events/sur-oculto-en-cafe-berlin-2026-10-10-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Tomas Martinez Quartet",
+      "venue": "CCNU",
+      "date": "2026-10-11",
+      "ticketUrl": "https://livepass.com.ar/events/tomas-martinez-quartet-en-ccnu",
       "source": "livepass"
     },
     {
