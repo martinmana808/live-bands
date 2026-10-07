@@ -22,89 +22,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "gicelamendezribeiroaluisiorockembach-2026-10-06-cafeberlin",
-    "shortId": "1rjldt0",
-    "artist": "Gicela Méndez Ribeiro & Aluisio Rockembach",
-    "artistKey": "gicelamendezribeiroaluisiorockembach",
-    "date": "2026-10-06",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gicela-mendez-ribeiro-aluisio-rockembach-musica-de-frontera-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "losbybys-2026-10-06-granrex",
-    "shortId": "1r7dv7c",
-    "artist": "Los Bybys",
-    "artistKey": "losbybys",
-    "date": "2026-10-06",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/los-bybys-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "MX",
-    "spotifyId": "3CmqbJaTL0hrMiYfY0ssiN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ffb7ab987af84cee2a3cc612",
-    "genres": [],
-    "firstSeenAt": "2026-09-18"
-  },
-  {
-    "id": "sepultura-2026-10-06-ccomplejoartmedia",
-    "shortId": "65byar1",
-    "artist": "Sepultura",
-    "artistKey": "sepultura",
-    "date": "2026-10-06",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "BR",
-    "spotifyId": "6JW8wliOEwaDZ231ZY7cf4",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842b136165ba6ce25d2c1ebdc",
-    "genres": [
-      "thrash metal",
-      "groove metal",
-      "death metal"
-    ],
-    "firstSeenAt": "2026-09-20"
-  },
-  {
-    "id": "zayn-2026-10-06-movistararena",
-    "shortId": "2i0tqt8",
-    "artist": "ZAYN",
-    "artistKey": "zayn",
-    "date": "2026-10-06",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "5ZsFI1h6hIdQRw2ti0hz81",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178830845d2fa6c5c7874176951",
-    "genres": [
-      "pop",
-      "r&b"
-    ],
-    "firstSeenAt": "2026-09-20"
-  },
-  {
     "id": "dyango-2026-10-07-granrex",
     "shortId": "1xvatvs",
     "artist": "Dyango",
@@ -3168,6 +3085,28 @@
     "firstSeenAt": "2026-10-05"
   },
   {
+    "id": "askylitdrive-2026-10-23-uniclub",
+    "shortId": "1tdl2zr",
+    "artist": "A Skylit Drive",
+    "artistKey": "askylitdrive",
+    "date": "2026-10-23",
+    "venue": "Uniclub",
+    "venueKey": "uniclub",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "2HSp2S2KwxKE7sASl6bMR9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d7f9990a603d25dcba5f6a6c",
+    "genres": [
+      "post-hardcore",
+      "emo",
+      "emocore"
+    ],
+    "firstSeenAt": "2026-10-07"
+  },
+  {
     "id": "abastojazzquinteto-2026-10-23-ccnu",
     "shortId": "21ayo94",
     "artist": "Abasto Jazz Quinteto",
@@ -3349,6 +3288,24 @@
     "firstSeenAt": "2026-10-05"
   },
   {
+    "id": "ramoneson45-2026-10-23-cemento",
+    "shortId": "1lcv9ll",
+    "artist": "Ramones on 45",
+    "artistKey": "ramoneson45",
+    "date": "2026-10-23",
+    "venue": "Cemento",
+    "venueKey": "cemento",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-07"
+  },
+  {
     "id": "self-2026-10-23-niceto",
     "shortId": "27yjbzm",
     "artist": "SELF",
@@ -3413,6 +3370,29 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3444951209feb94b5b4ecd9",
     "genres": [],
     "firstSeenAt": "2026-10-04"
+  },
+  {
+    "id": "airbag-2026-10-24-mendoza",
+    "shortId": "1fqhqxk",
+    "artist": "AIRBAG",
+    "artistKey": "airbag",
+    "date": "2026-10-24",
+    "venue": "Mendoza",
+    "venueKey": "mendoza",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/airbag-en-mendoza"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "ES",
+    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
+    "genres": [
+      "pop punk",
+      "power pop"
+    ],
+    "firstSeenAt": "2026-10-07"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",
@@ -3919,6 +3899,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cacbd3890ab51c43aa1e88b5",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "insomnes-2026-11-06-cafeberlin",
+    "shortId": "17tctvq",
+    "artist": "Insomnes",
+    "artistKey": "insomnes",
+    "date": "2026-11-06",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/insomnes-en-cafe-berlin-2026-11-06"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "3LJJFMLMYPJdHCEonSFm74",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb4674286893355ff26cc353",
+    "genres": [],
+    "firstSeenAt": "2026-10-07"
   },
   {
     "id": "theend-2026-11-06-cafeberlin",
@@ -5422,6 +5422,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d0000485132a7d7c95b3e6b5cf68b161b",
     "genres": [],
     "firstSeenAt": "2026-09-15"
+  },
+  {
+    "id": "geronimorauch-2026-12-10-granrex",
+    "shortId": "2q3emna",
+    "artist": "Geronimo Rauch",
+    "artistKey": "geronimorauch",
+    "date": "2026-12-10",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/geronimo-rauch-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "4u906EKZ3K68xEq6H96OSq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c91c28aa32a158a7d683ac81",
+    "genres": [],
+    "firstSeenAt": "2026-10-07"
   },
   {
     "id": "horaciolavandera-2026-12-10-cafeberlin",

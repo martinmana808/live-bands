@@ -1,18 +1,6 @@
 {
-  "fetchedAt": "2026-10-05",
+  "fetchedAt": "2026-10-07",
   "events": [
-    {
-      "artist": "ZAYN",
-      "venue": "Movistar Arena",
-      "date": "2026-10-06",
-      "source": "songkick"
-    },
-    {
-      "artist": "Sepultura",
-      "venue": "C Complejo Art Media",
-      "date": "2026-10-06",
-      "source": "songkick"
-    },
     {
       "artist": "Mercedes Cañas",
       "venue": "La Tangente",
@@ -298,6 +286,18 @@
     {
       "artist": "Nicole Zignago",
       "venue": "Niceto Club",
+      "date": "2026-10-23",
+      "source": "songkick"
+    },
+    {
+      "artist": "A Skylit Drive",
+      "venue": "Uniclub",
+      "date": "2026-10-23",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ramones on 45",
+      "venue": "Cemento",
       "date": "2026-10-23",
       "source": "songkick"
     }

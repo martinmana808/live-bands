@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06",
+  "fetchedAt": "2026-10-07",
   "events": [
     {
       "artist": "Raphael",
@@ -107,13 +107,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Los Bybys",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-06",
-      "ticketUrl": "https://www.tuentrada.com/los-bybys-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Alex Ubago",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-07",
@@ -177,6 +170,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Axel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-23",
+      "ticketUrl": "https://www.tuentrada.com/axel-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Melissa Aldana",
       "venue": "Sala Martin Coronado",
       "date": "2026-10-20",
@@ -191,17 +191,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Axel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-23",
-      "ticketUrl": "https://www.tuentrada.com/axel-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Los Pericos",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-22",
       "ticketUrl": "https://www.tuentrada.com/los-pericos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Geronimo Rauch",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-10",
+      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
       "source": "tuentrada"
     },
     {

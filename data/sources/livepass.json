@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06",
+  "fetchedAt": "2026-10-07",
   "events": [
     {
       "artist": "Julieta Rada",
@@ -76,13 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Gicela Méndez Ribeiro & Aluisio Rockembach - Música de Frontera",
-      "venue": "Café Berlín",
-      "date": "2026-10-06",
-      "ticketUrl": "https://livepass.com.ar/events/gicela-mendez-ribeiro-aluisio-rockembach-musica-de-frontera-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -457,6 +450,13 @@
       "source": "livepass"
     },
     {
+      "artist": "AIRBAG",
+      "venue": "Mendoza",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/airbag-en-mendoza",
+      "source": "livepass"
+    },
+    {
       "artist": "Small Axe",
       "venue": "Café Berlín",
       "date": "2026-10-24",
@@ -594,6 +594,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-06",
       "ticketUrl": "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Insomnes",
+      "venue": "Café Berlín",
+      "date": "2026-11-06",
+      "ticketUrl": "https://livepass.com.ar/events/insomnes-en-cafe-berlin-2026-11-06",
       "source": "livepass"
     },
     {
