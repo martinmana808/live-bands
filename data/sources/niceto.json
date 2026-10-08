@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07",
+  "fetchedAt": "2026-10-08",
   "events": [
     {
       "artist": "J4MES",
@@ -37,7 +37,7 @@
       "source": "niceto"
     },
     {
-      "artist": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL",
+      "artist": "TOBIKA presenta INTELIGENCIA ARTESANAL",
       "venue": "Niceto Club",
       "date": "2026-10-09",
       "ticketUrl": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
@@ -65,17 +65,17 @@
       "source": "niceto"
     },
     {
-      "artist": "La Romana By Picheo 808",
-      "venue": "Niceto Club",
-      "date": "2026-10-09",
-      "ticketUrl": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
-      "source": "niceto"
-    },
-    {
       "artist": "HARSH",
       "venue": "Niceto Club",
       "date": "2026-10-09",
       "ticketUrl": "https://venti.live/evento/harsh-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SOLO DISCOS | TERRAZA de Niceto Bar",
+      "venue": "Niceto Club",
+      "date": "2026-10-09",
+      "ticketUrl": "https://venti.live/evento/solo-discos-terraza-de-niceto-bar",
       "source": "niceto"
     },
     {
@@ -135,7 +135,7 @@
       "source": "niceto"
     },
     {
-      "artist": "ROBOT ZONDA + KLAXON",
+      "artist": "ROBOT ZONDA + NOMBRAME OTRA VEZ",
       "venue": "Niceto Club",
       "date": "2026-10-11",
       "ticketUrl": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
@@ -345,10 +345,10 @@
       "source": "niceto"
     },
     {
-      "artist": "Mustafunk 24 OCT",
+      "artist": "La Romana By Picheo 808",
       "venue": "Niceto Club",
-      "date": "2026-10-24",
-      "ticketUrl": "https://venti.live/evento/mustafunk-en-niceto-club-18-a-os",
+      "date": "2026-10-23",
+      "ticketUrl": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
       "source": "niceto"
     }
   ]

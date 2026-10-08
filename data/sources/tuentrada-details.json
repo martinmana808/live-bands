@@ -51,23 +51,6 @@
       }
     ]
   },
-  "dyango-tgr": {
-    "fetchedAt": "2026-09-29",
-    "sessions": [
-      {
-        "date": "2026-10-04",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Dyango"
-      },
-      {
-        "date": "2026-10-07",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Dyango"
-      }
-    ]
-  },
   "lfdaa-tucuman": {
     "fetchedAt": "2026-09-29",
     "sessions": [
@@ -76,6 +59,17 @@
         "venue": "Hipodromo De Tucuman",
         "city": "San Miguel De Tucumán",
         "name": "Los Fundamentalistas Del Aire Acondicionado"
+      }
+    ]
+  },
+  "alex-ubago-tgr": {
+    "fetchedAt": "2026-09-29",
+    "sessions": [
+      {
+        "date": "2026-11-07",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Alex Ubago"
       }
     ]
   },
@@ -127,17 +121,6 @@
         "venue": "Teatro Colón",
         "city": "Buenos Aires",
         "name": "Asmik Grigorian"
-      }
-    ]
-  },
-  "alex-ubago-tgr": {
-    "fetchedAt": "2026-09-29",
-    "sessions": [
-      {
-        "date": "2026-11-07",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Alex Ubago"
       }
     ]
   },
@@ -266,6 +249,17 @@
       }
     ]
   },
+  "connie-ballarini-tgi": {
+    "fetchedAt": "2026-10-08",
+    "sessions": [
+      {
+        "date": "2026-10-31",
+        "venue": "Teatro Gran Ituzaingó",
+        "city": "Ituzaingó",
+        "name": "Connie Ballarini"
+      }
+    ]
+  },
   "el-zar-tgr": {
     "fetchedAt": "2026-09-28",
     "sessions": [
@@ -288,17 +282,6 @@
       }
     ]
   },
-  "babasonicos-amr": {
-    "fetchedAt": "2026-10-01",
-    "sessions": [
-      {
-        "date": "2026-12-11",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "Babasonicos"
-      }
-    ]
-  },
   "miguel-conejito-alejandro-tgr": {
     "fetchedAt": "2026-09-30",
     "sessions": [
@@ -307,6 +290,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Miguel Conejito Alejandro"
+      }
+    ]
+  },
+  "babasonicos-amr": {
+    "fetchedAt": "2026-10-01",
+    "sessions": [
+      {
+        "date": "2026-12-11",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "Babasonicos"
       }
     ]
   }

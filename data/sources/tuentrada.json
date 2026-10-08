@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07",
+  "fetchedAt": "2026-10-08",
   "events": [
     {
       "artist": "Raphael",
@@ -51,17 +51,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Dyango",
+      "artist": "Alex Ubago",
       "venue": "Teatro Gran Rex",
-      "date": "2026-10-04",
-      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Dyango",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-07",
-      "ticketUrl": "https://www.tuentrada.com/dyango-tgr",
+      "date": "2026-11-07",
+      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
       "source": "tuentrada"
     },
     {
@@ -104,13 +97,6 @@
       "venue": "Teatro Colón",
       "date": "2026-12-08",
       "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Alex Ubago",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-07",
-      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
       "source": "tuentrada"
     },
     {

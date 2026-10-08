@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07",
+  "fetchedAt": "2026-10-08",
   "events": [
     {
       "artist": "Julieta Rada",
@@ -72,17 +72,17 @@
       "source": "livepass"
     },
     {
+      "artist": "ABEL PINTOS presenta Buenaventura Tour",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-07",
+      "ticketUrl": "https://livepass.com.ar/events/abel-pintos-presenta-buenaventura-tour-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
       "artist": "Valeria Lynch",
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "The Crimson Kings",
-      "venue": "Café Berlín",
-      "date": "2026-10-07",
-      "ticketUrl": "https://livepass.com.ar/events/the-crimson-kings-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -104,13 +104,6 @@
       "venue": "CCNU",
       "date": "2026-10-08",
       "ticketUrl": "https://livepass.com.ar/events/fatoumata-en-ccnu-2026-10-08",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sentimental Syncopators",
-      "venue": "Café Berlín",
-      "date": "2026-10-08",
-      "ticketUrl": "https://livepass.com.ar/events/sentimental-syncopators-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -247,6 +240,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Standard time !",
+      "venue": "CCNU",
+      "date": "2026-10-15",
+      "ticketUrl": "https://livepass.com.ar/events/standard-time-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "LOCAL BLUES All Stars",
       "venue": "Café Berlín",
       "date": "2026-10-15",
@@ -373,6 +373,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Soy Califa! Dexter Gordon Tribute",
+      "venue": "CCNU",
+      "date": "2026-10-21",
+      "ticketUrl": "https://livepass.com.ar/events/soy-califa-dexter-gordon-tribute-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Paula Giordano / Cel Mamone",
       "venue": "CCNU",
       "date": "2026-10-22",
@@ -471,6 +478,20 @@
       "source": "livepass"
     },
     {
+      "artist": "Más Música",
+      "venue": "Café Berlín",
+      "date": "2026-10-25",
+      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-25-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Treasures of Classic Jazz",
+      "venue": "CCNU",
+      "date": "2026-10-25",
+      "ticketUrl": "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu-2026-10-25-21-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Astor's Back In Town",
       "venue": "CCNU",
       "date": "2026-10-28",
@@ -548,6 +569,13 @@
       "source": "livepass"
     },
     {
+      "artist": "DÚO TRIXIE Y METEORO",
+      "venue": "CCNU",
+      "date": "2026-11-01",
+      "ticketUrl": "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu-2026-11-01-19-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Maikel Pereyra - La Guitarra infinita",
       "venue": "Café Berlín",
       "date": "2026-11-01",
@@ -597,6 +625,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Villalba Duré Unzu Vazquez Cuarteto",
+      "venue": "CCNU",
+      "date": "2026-11-06",
+      "ticketUrl": "https://livepass.com.ar/events/villalba-dure-unzu-vazquez-cuarteto-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Insomnes",
       "venue": "Café Berlín",
       "date": "2026-11-06",
@@ -632,10 +667,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Ceci Méndez",
+      "venue": "CCNU",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/ceci-mendez-en-ccnu-2026-11-07",
+      "source": "livepass"
+    },
+    {
       "artist": "Alambre & Amigos",
       "venue": "Café Berlín",
       "date": "2026-11-07",
       "ticketUrl": "https://livepass.com.ar/events/alambre-amigos-en-cafe-berlin-2026-11-07",
+      "source": "livepass"
+    },
+    {
+      "artist": "Ofidio Dellasoppa y El Cuarteto típico de las Hermanas Bevilacqua",
+      "venue": "CCNU",
+      "date": "2026-11-08",
+      "ticketUrl": "https://livepass.com.ar/events/ofidio-dellasoppa-y-el-cuarteto-tipico-de-las-hermanas-bevilacqua-en-ccnu-2026-11-08",
       "source": "livepass"
     },
     {
@@ -681,6 +730,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Combi",
+      "venue": "CCNU",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/combi-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "GIROS",
       "venue": "el Teatro Ópera LP",
       "date": "2026-11-13",
@@ -699,6 +755,13 @@
       "venue": "San Miguel",
       "date": "2026-11-13",
       "ticketUrl": "https://livepass.com.ar/events/hermanos-de-la-calle-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "BI",
+      "venue": "CCNU",
+      "date": "2026-11-13",
+      "ticketUrl": "https://livepass.com.ar/events/bi-en-ccnu",
       "source": "livepass"
     },
     {
@@ -846,6 +909,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-25",
       "ticketUrl": "https://livepass.com.ar/events/german-kaly-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Serie 2",
+      "venue": "Café Berlín",
+      "date": "2026-11-26",
+      "ticketUrl": "https://livepass.com.ar/events/serie-2-en-cafe-berlin-2026-11-26-20-45-00-0300",
       "source": "livepass"
     },
     {
