@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08",
+  "fetchedAt": "2026-10-09",
   "events": [
     {
       "artist": "Raphael",
@@ -195,13 +195,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-09",
       "ticketUrl": "https://www.tuentrada.com/el-zar-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Cardellino",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-10",
-      "ticketUrl": "https://www.tuentrada.com/cardellino-tgr",
       "source": "tuentrada"
     },
     {

@@ -271,17 +271,6 @@
       }
     ]
   },
-  "cardellino-tgr": {
-    "fetchedAt": "2026-09-28",
-    "sessions": [
-      {
-        "date": "2026-10-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Cardellino"
-      }
-    ]
-  },
   "miguel-conejito-alejandro-tgr": {
     "fetchedAt": "2026-09-30",
     "sessions": [

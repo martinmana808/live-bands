@@ -58,106 +58,6 @@
     "firstSeenAt": "2026-09-23"
   },
   {
-    "id": "correoargentinonarcisoyplomeroliquido-2026-10-08-niceto",
-    "shortId": "36dr9jr",
-    "artist": "Correo Argentino, Narciso y Plomero líquido",
-    "artistKey": "correoargentinonarcisoyplomeroliquido",
-    "date": "2026-10-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/correo-argentino-narciso-y-plomero-l-quido-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-26"
-  },
-  {
-    "id": "fatoumata-2026-10-08-ccnu",
-    "shortId": "s738m4l",
-    "artist": "Fatoumata",
-    "artistKey": "fatoumata",
-    "date": "2026-10-08",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fatoumata-en-ccnu-2026-10-08"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "4AoRW0Ho6Cm8mUeznK8nK7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178faec1e65b02425f55f424a0b",
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
-    "id": "happygroovejam-2026-10-08-niceto",
-    "shortId": "1vb33o1",
-    "artist": "Happy Groove Jam",
-    "artistKey": "happygroovejam",
-    "date": "2026-10-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/happy-groove-jam-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-29"
-  },
-  {
-    "id": "j4mes-2026-10-08-niceto",
-    "shortId": "8kt2eoy",
-    "artist": "J4MES",
-    "artistKey": "j4mes",
-    "date": "2026-10-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/j4mes-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "1QR3Y3SClEg7rddguLp2Oa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c54f2d813f4f9e5fcea40810",
-    "genres": [],
-    "firstSeenAt": "2026-09-14"
-  },
-  {
-    "id": "jazzbrasil-2026-10-08-ccnu",
-    "shortId": "sc23bay",
-    "artist": "Jazz & Brasil",
-    "artistKey": "jazzbrasil",
-    "date": "2026-10-08",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jazz-brasil-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
     "id": "missuenossondetuadios-2026-10-08-moscuespaciocultural",
     "shortId": "darkaf3",
     "artist": "mis sueños son de tu adiós",
@@ -178,46 +78,6 @@
       "noise"
     ],
     "firstSeenAt": "2026-09-24"
-  },
-  {
-    "id": "morefayah-2026-10-08-niceto",
-    "shortId": "2mpoxcb",
-    "artist": "MORE FAYAH",
-    "artistKey": "morefayah",
-    "date": "2026-10-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/more-fayah-8-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-24"
-  },
-  {
-    "id": "nochedeteatro-2026-10-08-cafeberlin",
-    "shortId": "1fapsch",
-    "artist": "Noche de Teatro",
-    "artistKey": "nochedeteatro",
-    "date": "2026-10-08",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/noche-de-teatro-modo-pareja-en-cafe-berlin-2026-10-08-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
   },
   {
     "id": "tigersjaw-2026-10-08-uniclub",
@@ -744,26 +604,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "cardellino-2026-10-10-granrex",
-    "shortId": "jmr7i5k",
-    "artist": "Cardellino",
-    "artistKey": "cardellino",
-    "date": "2026-10-10",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/cardellino-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "7HFja6X48hWE58m3pQnGV0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872d134e5449af2a20cfa7579",
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
     "id": "catalinaerdelyiquinteto-2026-10-10-ccnu",
     "shortId": "kcd3uxi",
     "artist": "Catalina Erdelyi quinteto",
@@ -886,13 +726,13 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "luchossj-2026-10-10-quilmes",
-    "shortId": "2e7iued",
+    "id": "luchossj-2026-10-10-requilmes",
+    "shortId": "1njtfh1",
     "artist": "LUCHO SSJ",
     "artistKey": "luchossj",
     "date": "2026-10-10",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/lucho-ssj-en-club-re"
     ],
@@ -905,7 +745,7 @@
     "genres": [
       "trap latino"
     ],
-    "firstSeenAt": "2026-09-12"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "nachopereztrio-2026-10-10-ccnu",
@@ -2162,13 +2002,13 @@
     "firstSeenAt": "2026-09-28"
   },
   {
-    "id": "losperezgarcia-2026-10-17-quilmes",
-    "shortId": "261of5g",
+    "id": "losperezgarcia-2026-10-17-requilmes",
+    "shortId": "24a6o58",
     "artist": "LOS PEREZ GARCIA",
     "artistKey": "losperezgarcia",
     "date": "2026-10-17",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/los-perez-garcia-en-club-re"
     ],
@@ -2179,7 +2019,7 @@
     "spotifyId": "4WEyRDFePTrRVfpV0Vdjs3",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e6fda19d63cc1799e9c16f78",
     "genres": [],
-    "firstSeenAt": "2026-09-11"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "matthiasgoerne-2026-10-17-colon",
@@ -3264,6 +3104,26 @@
     "firstSeenAt": "2026-10-05"
   },
   {
+    "id": "pretaportergitanospersea-2026-10-23-niceto",
+    "shortId": "1un8m0c",
+    "artist": "PRETA PORTER + GITANOS + PERSEA",
+    "artistKey": "pretaportergitanospersea",
+    "date": "2026-10-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/preta-porter-gitanos-persea-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-09"
+  },
+  {
     "id": "ramoneson45-2026-10-23-cemento",
     "shortId": "1lcv9ll",
     "artist": "Ramones on 45",
@@ -3348,6 +3208,26 @@
     "firstSeenAt": "2026-10-04"
   },
   {
+    "id": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris-2026-10-24-niceto",
+    "shortId": "2a4pegg",
+    "artist": "“NOCHE PICANTE Y RABIOSA” LOCAL FREAKS (tributo a Audioslave y Rage against the machine) + RED HOT CHIMICHURRIS",
+    "artistKey": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/noche-picante-y-rabiosa-local-freaks-tributo-a-audioslave-y-rage-against-the-machine-red-hot-chimichurris-tributo-a-rhcp-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-05"
+  },
+  {
     "id": "airbag-2026-10-24-mendoza",
     "shortId": "1fqhqxk",
     "artist": "AIRBAG",
@@ -3369,6 +3249,26 @@
       "power pop"
     ],
     "firstSeenAt": "2026-10-07"
+  },
+  {
+    "id": "benmarcusbuenasintencionestour-2026-10-24-niceto",
+    "shortId": "uvnzgam",
+    "artist": "Ben Marcus. \"Buenas intenciones Tour”",
+    "artistKey": "benmarcusbuenasintencionestour",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ben-marcus-buenas-intenciones-tour-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",
@@ -3409,6 +3309,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "mustafunkofunkillo-2026-10-24-niceto",
+    "shortId": "1lfh425",
+    "artist": "Mustafunk + O´funk´illo",
+    "artistKey": "mustafunkofunkillo",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mustafunk-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "pitufolombardonicoibarburu-2026-10-24-cafeberlin",
@@ -4059,13 +3979,13 @@
     "firstSeenAt": "2026-10-08"
   },
   {
-    "id": "fabianacantilo-2026-11-07-quilmes",
-    "shortId": "r25sg4i",
+    "id": "fabianacantilo-2026-11-07-requilmes",
+    "shortId": "5yxgxi3",
     "artist": "Fabiana Cantilo",
     "artistKey": "fabianacantilo",
     "date": "2026-11-07",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/fabiana-cantilo-en-quilmes"
     ],
@@ -4078,7 +3998,7 @@
     "genres": [
       "rock"
     ],
-    "firstSeenAt": "2026-09-26"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "javiercalamaro-2026-11-07-cafeberlin",
@@ -4907,13 +4827,13 @@
     "firstSeenAt": "2026-09-21"
   },
   {
-    "id": "ustedsenalemelo-2026-11-21-quilmes",
-    "shortId": "cob6r96",
+    "id": "ustedsenalemelo-2026-11-21-requilmes",
+    "shortId": "17f2mv9",
     "artist": "USTED SEÑALEMELO",
     "artistKey": "ustedsenalemelo",
     "date": "2026-11-21",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/usted-senalemelo-en-quilmes"
     ],
@@ -4924,7 +4844,7 @@
     "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
     "genres": [],
-    "firstSeenAt": "2026-09-12"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "bodalyniel-2026-11-22-granrex",
@@ -5234,13 +5154,13 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "laportuaria-2026-11-28-quilmes",
-    "shortId": "2jk4aah",
+    "id": "laportuaria-2026-11-28-requilmes",
+    "shortId": "z1kgy9b",
     "artist": "LA PORTUARIA",
     "artistKey": "laportuaria",
     "date": "2026-11-28",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/la-portuaria-en-quilmes"
     ],
@@ -5251,7 +5171,7 @@
     "spotifyId": "0Q7HmY08qjZ6SrCb9DYji7",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781b168b868203ac7e91eb68c0",
     "genres": [],
-    "firstSeenAt": "2026-10-01"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "unpocoderuido-2026-11-28-hipodromoplata",
@@ -5381,13 +5301,13 @@
     "firstSeenAt": "2026-09-19"
   },
   {
-    "id": "lolomorales-2026-12-04-quilmes",
-    "shortId": "stk5fow",
+    "id": "lolomorales-2026-12-04-requilmes",
+    "shortId": "264a4ao",
     "artist": "LOLO MORALES",
     "artistKey": "lolomorales",
     "date": "2026-12-04",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/lolo-morales-en-quilmes"
     ],
@@ -5398,7 +5318,7 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-09-24"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "diegocapusotto-2026-12-05-cafeberlin",
@@ -5709,13 +5629,13 @@
     "firstSeenAt": "2026-09-30"
   },
   {
-    "id": "bahiano-2026-12-18-quilmes",
-    "shortId": "11dso19",
+    "id": "bahiano-2026-12-18-requilmes",
+    "shortId": "1pxqogl",
     "artist": "BAHIANO",
     "artistKey": "bahiano",
     "date": "2026-12-18",
-    "venue": "Quilmes",
-    "venueKey": "quilmes",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
     "ticketUrls": [
       "https://livepass.com.ar/events/bahiano-en-quilmes"
     ],
@@ -5726,7 +5646,7 @@
     "spotifyId": "3FXD2eQcHOiacO9qXENLUN",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788f42b52815b25059bb37023a",
     "genres": [],
-    "firstSeenAt": "2026-10-03"
+    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "johnnytedesco-2026-12-18-cafeberlin",

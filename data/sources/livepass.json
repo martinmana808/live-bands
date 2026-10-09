@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08",
+  "fetchedAt": "2026-10-09",
   "events": [
     {
       "artist": "Julieta Rada",
@@ -86,27 +86,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Jazz & Brasil",
-      "venue": "CCNU",
-      "date": "2026-10-08",
-      "ticketUrl": "https://livepass.com.ar/events/jazz-brasil-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Noche de Teatro - Modo Pareja",
-      "venue": "Café Berlín",
-      "date": "2026-10-08",
-      "ticketUrl": "https://livepass.com.ar/events/noche-de-teatro-modo-pareja-en-cafe-berlin-2026-10-08-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Fatoumata",
-      "venue": "CCNU",
-      "date": "2026-10-08",
-      "ticketUrl": "https://livepass.com.ar/events/fatoumata-en-ccnu-2026-10-08",
-      "source": "livepass"
-    },
-    {
       "artist": "Carola Kemper Quartet",
       "venue": "CCNU",
       "date": "2026-10-09",
@@ -157,7 +136,7 @@
     },
     {
       "artist": "LUCHO SSJ",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-10-10",
       "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-club-re",
       "source": "livepass"
@@ -297,7 +276,7 @@
     },
     {
       "artist": "LOS PEREZ GARCIA",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-10-17",
       "ticketUrl": "https://livepass.com.ar/events/los-perez-garcia-en-club-re",
       "source": "livepass"
@@ -640,7 +619,7 @@
     },
     {
       "artist": "Fabiana Cantilo",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-11-07",
       "ticketUrl": "https://livepass.com.ar/events/fabiana-cantilo-en-quilmes",
       "source": "livepass"
@@ -857,7 +836,7 @@
     },
     {
       "artist": "USTED SEÑALEMELO",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-11-21",
       "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-quilmes",
       "source": "livepass"
@@ -948,7 +927,7 @@
     },
     {
       "artist": "LA PORTUARIA",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-11-28",
       "ticketUrl": "https://livepass.com.ar/events/la-portuaria-en-quilmes",
       "source": "livepass"
@@ -990,7 +969,7 @@
     },
     {
       "artist": "LOLO MORALES",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-12-04",
       "ticketUrl": "https://livepass.com.ar/events/lolo-morales-en-quilmes",
       "source": "livepass"
@@ -1067,7 +1046,7 @@
     },
     {
       "artist": "BAHIANO",
-      "venue": "Quilmes",
+      "venue": "Club Re Quilmes",
       "date": "2026-12-18",
       "ticketUrl": "https://livepass.com.ar/events/bahiano-en-quilmes",
       "source": "livepass"
