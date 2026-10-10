@@ -124,86 +124,6 @@
     "firstSeenAt": "2026-09-24"
   },
   {
-    "id": "cameratarosario-2026-10-09-auditoriumsalaastorpiazzollamardelplata",
-    "shortId": "1v1abai",
-    "artist": "Camerata Rosario",
-    "artistKey": "cameratarosario",
-    "date": "2026-10-09",
-    "venue": "el Teatro Auditorium - Sala Astor Piazzolla (Mar del Plata)",
-    "venueKey": "auditoriumsalaastorpiazzollamardelplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/camerata-rosario-en-mdq"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3mqu2Fl7QheVXdN26GUa4o",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881685df246381f22823d1261",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "carolakemperquartet-2026-10-09-ccnu",
-    "shortId": "150ts1f",
-    "artist": "Carola Kemper Quartet",
-    "artistKey": "carolakemperquartet",
-    "date": "2026-10-09",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/carola-kemper-quartet-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
-    "id": "cuartetoaraoz-2026-10-09-ccnu",
-    "shortId": "1u1k8wv",
-    "artist": "Cuarteto Aráoz",
-    "artistKey": "cuartetoaraoz",
-    "date": "2026-10-09",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/cuarteto-araoz-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "desorden-2026-10-09-niceto",
-    "shortId": "2i9gstt",
-    "artist": "DESORDEN",
-    "artistKey": "desorden",
-    "date": "2026-10-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/desorden-9oc-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "ES",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
-  },
-  {
     "id": "dregen-2026-10-09-liverpool",
     "shortId": "8e3vdlm",
     "artist": "Dregen",
@@ -220,26 +140,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17840deda62f182aa6a1220709f",
     "genres": [],
     "firstSeenAt": "2026-09-25"
-  },
-  {
-    "id": "elzar-2026-10-09-granrex",
-    "shortId": "12kr7th",
-    "artist": "El Zar",
-    "artistKey": "elzar",
-    "date": "2026-10-09",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/el-zar-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "1cj1ov4uZ0Htsx9PWDpNvi",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178dc82285f53c82fd2f2a98436",
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
   },
   {
     "id": "feinesahnefischfilet-2026-10-09-vorterix",
@@ -263,26 +163,6 @@
     "firstSeenAt": "2026-06-09"
   },
   {
-    "id": "gauchitoclub-2026-10-09-operalp",
-    "shortId": "2kjmk7c",
-    "artist": "GAUCHITO CLUB",
-    "artistKey": "gauchitoclub",
-    "date": "2026-10-09",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "58gIcdW6E0jd0846aI1sVj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786468693d374cf86dc9f7eb8d",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "harsh-2026-10-09-niceto",
     "shortId": "2ji9gai",
     "artist": "HARSH",
@@ -301,46 +181,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-30"
-  },
-  {
-    "id": "indiosxcastellanosescuchaexclusiva-2026-10-09-niceto",
-    "shortId": "17qad75",
-    "artist": "INDIOS x CASTELLANOS ¨Escucha Exclusiva¨",
-    "artistKey": "indiosxcastellanosescuchaexclusiva",
-    "date": "2026-10-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/indios-x-castellanos-escucha-exclusiva-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-18"
-  },
-  {
-    "id": "julietarada-2026-10-09-cafeberlin",
-    "shortId": "2adxpn4",
-    "artist": "Julieta Rada",
-    "artistKey": "julietarada",
-    "date": "2026-10-09",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/julieta-rada-en-cafe-berlin-2026-10-09-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "UY",
-    "spotifyId": "5KA95SZBQeMgNMTuqnxzJd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17804d81f58e8378881e906318a",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "kutis-2026-10-09-crowoculto",
@@ -362,28 +202,6 @@
       "rock"
     ],
     "firstSeenAt": "2026-10-02"
-  },
-  {
-    "id": "luchossj-2026-10-09-sanmiguel",
-    "shortId": "19ukjrq",
-    "artist": "LUCHO SSJ",
-    "artistKey": "luchossj",
-    "date": "2026-10-09",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/lucho-ssj-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1OBizG9nrnHJkrL9NjnWYN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17853423025279119366dab6f09",
-    "genres": [
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "marceloezquiaga-2026-10-09-biribiri",
@@ -440,26 +258,6 @@
     "firstSeenAt": "2026-09-29"
   },
   {
-    "id": "roquenarvaja-2026-10-09-cafeberlin",
-    "shortId": "28dkctv",
-    "artist": "Roque Narvaja",
-    "artistKey": "roquenarvaja",
-    "date": "2026-10-09",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/roque-narvaja-en-cafe-berlin-2026-10-09-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "7962171njr0mXGlo7bNVWx",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ae42d7bc09f3d62d2e04e1ea",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "solodiscosterrazadenicetobar-2026-10-09-niceto",
     "shortId": "1w1ndud",
     "artist": "SOLO DISCOS | TERRAZA de Niceto Bar",
@@ -478,46 +276,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "tobika-2026-10-09-niceto",
-    "shortId": "vf1cy4s",
-    "artist": "TOBIKA",
-    "artistKey": "tobika",
-    "date": "2026-10-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "2aJA34lnMLsr3deynZN9I5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e246ee9782aeda6ae2e51455",
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
-  },
-  {
-    "id": "vaninaidilica-2026-10-09-niceto",
-    "shortId": "kvul5id",
-    "artist": "VANINA: IDÍLICA",
-    "artistKey": "vaninaidilica",
-    "date": "2026-10-09",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
   },
   {
     "id": "vasko-2026-10-09-niceto",
@@ -2191,6 +1949,26 @@
     "firstSeenAt": "2026-10-02"
   },
   {
+    "id": "vinilosintimos-2026-10-17-niceto",
+    "shortId": "2bfhk16",
+    "artist": "Vinilos Íntimos",
+    "artistKey": "vinilosintimos",
+    "date": "2026-10-17",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/vinilos-ntimos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-10"
+  },
+  {
     "id": "guillesaroka-2026-10-18-ccnu",
     "shortId": "18rf0pw",
     "artist": "Guille Saroka",
@@ -3271,6 +3049,46 @@
     "firstSeenAt": "2026-10-09"
   },
   {
+    "id": "club69-2026-10-24-niceto",
+    "shortId": "dairr2s",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-24-oct-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-10-10"
+  },
+  {
+    "id": "corapa240ct-2026-10-24-niceto",
+    "shortId": "epjjc8e",
+    "artist": "Corapa 24 0ct",
+    "artistKey": "corapa240ct",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/corapa-24-0ct-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-10"
+  },
+  {
     "id": "escalandrum-2026-10-24-operalp",
     "shortId": "5sus4bt",
     "artist": "ESCALANDRUM",
@@ -3329,6 +3147,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-09"
+  },
+  {
+    "id": "ninety-2026-10-24-niceto",
+    "shortId": "hq0lt60",
+    "artist": "NINETY",
+    "artistKey": "ninety",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ninety-24-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-10"
   },
   {
     "id": "pitufolombardonicoibarburu-2026-10-24-cafeberlin",
@@ -5279,6 +5117,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "gyt-2026-12-04-cafeberlin",
+    "shortId": "c1t47wc",
+    "artist": "GYT",
+    "artistKey": "gyt",
+    "date": "2026-12-04",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gyt-es-por-amor-40-anos-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-10"
   },
   {
     "id": "labandadecarlitosyeugequevedo-2026-12-04-hipodromoplata",

@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-10-09",
+  "fetchedAt": "2026-10-10",
   "events": [
-    {
-      "artist": "Julieta Rada",
-      "venue": "Café Berlín",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/julieta-rada-en-cafe-berlin-2026-10-09-23-00-00-0300",
-      "source": "livepass"
-    },
     {
       "artist": "IRON MAIDEN",
       "venue": "Huracán",
@@ -83,48 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Carola Kemper Quartet",
-      "venue": "CCNU",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/carola-kemper-quartet-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "GAUCHITO CLUB",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/gauchito-club-en-el-teatro-opera-lp-09-10",
-      "source": "livepass"
-    },
-    {
-      "artist": "Camerata Rosario",
-      "venue": "el Teatro Auditorium - Sala Astor Piazzolla (Mar del Plata)",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/camerata-rosario-en-mdq",
-      "source": "livepass"
-    },
-    {
-      "artist": "Roque Narvaja",
-      "venue": "Café Berlín",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/roque-narvaja-en-cafe-berlin-2026-10-09-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "LUCHO SSJ",
-      "venue": "San Miguel",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Cuarteto Aráoz",
-      "venue": "CCNU",
-      "date": "2026-10-09",
-      "ticketUrl": "https://livepass.com.ar/events/cuarteto-araoz-en-ccnu",
       "source": "livepass"
     },
     {
@@ -972,6 +923,13 @@
       "venue": "Club Re Quilmes",
       "date": "2026-12-04",
       "ticketUrl": "https://livepass.com.ar/events/lolo-morales-en-quilmes",
+      "source": "livepass"
+    },
+    {
+      "artist": "GYT - Es por amor 40 años",
+      "venue": "Café Berlín",
+      "date": "2026-12-04",
+      "ticketUrl": "https://livepass.com.ar/events/gyt-es-por-amor-40-anos-en-cafe-berlin",
       "source": "livepass"
     },
     {

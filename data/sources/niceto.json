@@ -1,34 +1,6 @@
 {
-  "fetchedAt": "2026-10-09",
+  "fetchedAt": "2026-10-10",
   "events": [
-    {
-      "artist": "INDIOS x CASTELLANOS ¨Escucha Exclusiva¨",
-      "venue": "Niceto Club",
-      "date": "2026-10-09",
-      "ticketUrl": "https://venti.live/evento/indios-x-castellanos-escucha-exclusiva-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "TOBIKA presenta INTELIGENCIA ARTESANAL",
-      "venue": "Niceto Club",
-      "date": "2026-10-09",
-      "ticketUrl": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "DESORDEN 9 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-09",
-      "ticketUrl": "https://venti.live/evento/desorden-9oc-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "VANINA: IDÍLICA",
-      "venue": "Niceto Club",
-      "date": "2026-10-09",
-      "ticketUrl": "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Vasko",
       "venue": "Niceto Club",
@@ -240,6 +212,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Vinilos Íntimos",
+      "venue": "Niceto Club",
+      "date": "2026-10-17",
+      "ticketUrl": "https://venti.live/evento/vinilos-ntimos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "La Controversia presenta: Estamos",
       "venue": "Niceto Club",
       "date": "2026-10-17",
@@ -349,6 +328,27 @@
       "venue": "Niceto Club",
       "date": "2026-10-24",
       "ticketUrl": "https://venti.live/evento/ben-marcus-buenas-intenciones-tour-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "NINETY  24 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-24",
+      "ticketUrl": "https://venti.live/evento/ninety-24-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Corapa 24 0ct",
+      "venue": "Niceto Club",
+      "date": "2026-10-24",
+      "ticketUrl": "https://venti.live/evento/corapa-24-0ct-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | 24 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-24",
+      "ticketUrl": "https://venti.live/evento/club-69-24-oct-en-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

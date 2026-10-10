@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09",
+  "fetchedAt": "2026-10-10",
   "events": [
     {
       "artist": "Raphael",
@@ -188,13 +188,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-10",
       "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "El Zar",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-09",
-      "ticketUrl": "https://www.tuentrada.com/el-zar-tgr",
       "source": "tuentrada"
     },
     {
