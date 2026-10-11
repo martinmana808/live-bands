@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10",
+  "fetchedAt": "2026-10-11",
   "events": [
     {
       "artist": "Raphael",
@@ -58,6 +58,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Djavan",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Freddie De Tommaso / Nadine Sierra",
       "venue": "Teatro Colón",
       "date": "2026-10-26",
@@ -97,13 +104,6 @@
       "venue": "Teatro Colón",
       "date": "2026-12-08",
       "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Djavan",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
       "source": "tuentrada"
     },
     {
@@ -188,6 +188,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-10",
       "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Humbe",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-29",
+      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
       "source": "tuentrada"
     },
     {

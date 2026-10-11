@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10",
+  "fetchedAt": "2026-10-11",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,55 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Nacho Pérez Trio",
-      "venue": "CCNU",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/nacho-perez-trio-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "LUCHO SSJ",
-      "venue": "Club Re Quilmes",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-club-re",
-      "source": "livepass"
-    },
-    {
-      "artist": "BESTIA BEBÉ",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/bestia-bebe-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "La Maison Ferrés- Desde el Hondo Bajofondo",
-      "venue": "Café Berlín",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/la-maison-ferres-desde-el-hondo-bajofondo-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "AIRBAG",
-      "venue": "Córdoba",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/airbag-en-cordoba",
-      "source": "livepass"
-    },
-    {
-      "artist": "Catalina Erdelyi quinteto",
-      "venue": "CCNU",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/catalina-erdelyi-quinteto-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sur Oculto",
-      "venue": "Café Berlín",
-      "date": "2026-10-10",
-      "ticketUrl": "https://livepass.com.ar/events/sur-oculto-en-cafe-berlin-2026-10-10-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -566,6 +517,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-06",
       "ticketUrl": "https://livepass.com.ar/events/insomnes-en-cafe-berlin-2026-11-06",
+      "source": "livepass"
+    },
+    {
+      "artist": "POLENTA",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-11-06",
+      "ticketUrl": "https://livepass.com.ar/events/polenta-en-el-teatro-opera-lp-2026-11-06-23-55-00-0300",
       "source": "livepass"
     },
     {
