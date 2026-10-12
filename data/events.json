@@ -1,65 +1,5 @@
 [
   {
-    "id": "club69-2026-10-10-niceto",
-    "shortId": "2av07hy",
-    "artist": "Club 69",
-    "artistKey": "club69",
-    "date": "2026-10-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "genres": [],
-    "firstSeenAt": "2026-09-30"
-  },
-  {
-    "id": "speedaniversario-2026-10-10-niceto",
-    "shortId": "2qj3nfl",
-    "artist": "SPEED ANIVERSARIO",
-    "artistKey": "speedaniversario",
-    "date": "2026-10-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/speed-aniversario-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
-    "id": "stvnvol02-2026-10-10-niceto",
-    "shortId": "2fq9tb8",
-    "artist": "STVN Vol. 02",
-    "artistKey": "stvnvol02",
-    "date": "2026-10-10",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/stvn-vol-02-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
     "id": "elcuartetodenos-2026-10-11-gei",
     "shortId": "2rq2unt",
     "artist": "El Cuarteto de Nos",
@@ -79,46 +19,6 @@
       "latin rock"
     ],
     "firstSeenAt": "2026-09-29"
-  },
-  {
-    "id": "eloymichelinitrio-2026-10-11-ccnu",
-    "shortId": "tdkzveo",
-    "artist": "Eloy Michelini Trio",
-    "artistKey": "eloymichelinitrio",
-    "date": "2026-10-11",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/eloy-michelini-trio-en-ccnu-2026-10-11-21-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "fiestaalbum-2026-10-11-niceto",
-    "shortId": "1rbxv5d",
-    "artist": "Fiesta Album",
-    "artistKey": "fiestaalbum",
-    "date": "2026-10-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-album"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
   },
   {
     "id": "fiestatrevi-2026-10-11-niceto",
@@ -183,46 +83,6 @@
     "firstSeenAt": "2026-09-29"
   },
   {
-    "id": "masmusica-2026-10-11-cafeberlin",
-    "shortId": "1gjgqj1",
-    "artist": "Más Música",
-    "artistKey": "masmusica",
-    "date": "2026-10-11",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-11"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-15"
-  },
-  {
-    "id": "miguelconejitoalejandro-2026-10-11-granrex",
-    "shortId": "2d39rm0",
-    "artist": "Miguel Conejito Alejandro",
-    "artistKey": "miguelconejitoalejandro",
-    "date": "2026-10-11",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/miguel-conejito-alejandro-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-30"
-  },
-  {
     "id": "paulozoccali-2026-10-11-mutar",
     "shortId": "1vj8x6q",
     "artist": "Paulo zóccali",
@@ -239,66 +99,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d4a23db3f5a551bf8617f94e",
     "genres": [],
     "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "robotzondanombrameotravez-2026-10-11-niceto",
-    "shortId": "1946koy",
-    "artist": "ROBOT ZONDA + NOMBRAME OTRA VEZ",
-    "artistKey": "robotzondanombrameotravez",
-    "date": "2026-10-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "selftitledgoldenhour-2026-10-11-niceto",
-    "shortId": "2eafvn0",
-    "artist": "SELF-TITLED: GOLDEN HOUR",
-    "artistKey": "selftitledgoldenhour",
-    "date": "2026-10-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/self-titled-golden-hour-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "tomasmartinezquartet-2026-10-11-ccnu",
-    "shortId": "hfj01wd",
-    "artist": "Tomas Martinez Quartet",
-    "artistKey": "tomasmartinezquartet",
-    "date": "2026-10-11",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/tomas-martinez-quartet-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-06"
   },
   {
     "id": "uncut-2026-10-11-niceto",
@@ -2150,6 +1950,26 @@
     "firstSeenAt": "2026-10-04"
   },
   {
+    "id": "danceteria-2026-10-23-niceto",
+    "shortId": "284ygb7",
+    "artist": "DANCETERIA",
+    "artistKey": "danceteria",
+    "date": "2026-10-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/danceteria-23-oct-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
     "id": "filarmonicadeberlin-2026-10-23-colon",
     "shortId": "13e3ppu",
     "artist": "Filarmónica De Berlín",
@@ -2780,6 +2600,26 @@
     "firstSeenAt": "2026-10-11"
   },
   {
+    "id": "ligabazooka-2026-10-25-granrex",
+    "shortId": "rvnf3x2",
+    "artist": "Liga Bazooka",
+    "artistKey": "ligabazooka",
+    "date": "2026-10-25",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/liga-bazooka-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "2LdguY6uzXePwwoTISCZPX",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ee99908086c96fc4c0230b92",
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
     "id": "masmusica-2026-10-25-cafeberlin",
     "shortId": "21g9ozz",
     "artist": "Más Música",
@@ -2918,6 +2758,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "los40primaverapop-2026-10-28-granrex",
+    "shortId": "1o9u30u",
+    "artist": "Los 40 Primavera Pop",
+    "artistKey": "los40primaverapop",
+    "date": "2026-10-28",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/los-40-primavera-pop"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
   },
   {
     "id": "bluenights-2026-10-29-cafeberlin",
@@ -3286,6 +3146,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "club6931octhalloween-2026-10-31-niceto",
+    "shortId": "6kftgz0",
+    "artist": "Club 69 | 31 OCT HALLOWEEN",
+    "artistKey": "club6931octhalloween",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-31-oct-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
     "id": "danistonebarrioviejo-2026-10-31-cafeberlin",
     "shortId": "2aozam3",
     "artist": "Dani Stone & Barrio Viejo",
@@ -3304,6 +3184,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fiestamermelada-2026-10-31-niceto",
+    "shortId": "210wyfg",
+    "artist": "FIESTA MERMELADA",
+    "artistKey": "fiestamermelada",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-mermelada-halloween-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
   },
   {
     "id": "fiestamtv809000edicionhalloween-2026-10-31-sanmiguel",
@@ -3326,6 +3226,26 @@
     "firstSeenAt": "2026-09-22"
   },
   {
+    "id": "fiestasep-2026-10-31-requilmes",
+    "shortId": "btqxes1",
+    "artist": "FIESTA SEP",
+    "artistKey": "fiestasep",
+    "date": "2026-10-31",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fiesta-sep-en-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
     "id": "joefernandez-2026-10-31-cafeberlin",
     "shortId": "26whmfj",
     "artist": "Joe Fernández",
@@ -3344,6 +3264,66 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "mileycyrusfest-2026-10-31-niceto",
+    "shortId": "2klxn7o",
+    "artist": "Miley Cyrus Fest",
+    "artistKey": "mileycyrusfest",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/miley-cyrus-fest-edici-n-mileyween-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
+    "id": "riosanto-2026-10-31-niceto",
+    "shortId": "2jwuskl",
+    "artist": "RioSanto",
+    "artistKey": "riosanto",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/riosanto-hombre-b-ho-en-vivo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0L5YWMITop8NXIxHunXblE",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786fff946a1dc9798df45d6831",
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
+  },
+  {
+    "id": "akapellahlacruz-2026-11-01-niceto",
+    "shortId": "1tzzjj4",
+    "artist": "Akapellah La Cruz",
+    "artistKey": "akapellahlacruz",
+    "date": "2026-11-01",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/akapellah-la-cruz-tour-2026-en-buenos-aires-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-12"
   },
   {
     "id": "bodalyniel-2026-11-01-granrex",

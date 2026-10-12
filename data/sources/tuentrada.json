@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11",
+  "fetchedAt": "2026-10-12",
   "events": [
     {
       "artist": "Raphael",
@@ -198,10 +198,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Miguel Conejito Alejandro",
+      "artist": "Liga Bazooka",
       "venue": "Teatro Gran Rex",
-      "date": "2026-10-11",
-      "ticketUrl": "https://www.tuentrada.com/miguel-conejito-alejandro-tgr",
+      "date": "2026-10-25",
+      "ticketUrl": "https://www.tuentrada.com/liga-bazooka-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Los 40 Primavera Pop",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-28",
+      "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
       "source": "tuentrada"
     }
   ]

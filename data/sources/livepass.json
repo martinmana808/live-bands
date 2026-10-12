@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11",
+  "fetchedAt": "2026-10-12",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,27 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Tomas Martinez Quartet",
-      "venue": "CCNU",
-      "date": "2026-10-11",
-      "ticketUrl": "https://livepass.com.ar/events/tomas-martinez-quartet-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Más Música",
-      "venue": "Café Berlín",
-      "date": "2026-10-11",
-      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-11",
-      "source": "livepass"
-    },
-    {
-      "artist": "Eloy Michelini Trio",
-      "venue": "CCNU",
-      "date": "2026-10-11",
-      "ticketUrl": "https://livepass.com.ar/events/eloy-michelini-trio-en-ccnu-2026-10-11-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -447,6 +426,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-31",
       "ticketUrl": "https://livepass.com.ar/events/dani-stone-barrio-viejo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "FIESTA SEP",
+      "venue": "Club Re Quilmes",
+      "date": "2026-10-31",
+      "ticketUrl": "https://livepass.com.ar/events/fiesta-sep-en-quilmes",
       "source": "livepass"
     },
     {

@@ -260,14 +260,25 @@
       }
     ]
   },
-  "miguel-conejito-alejandro-tgr": {
-    "fetchedAt": "2026-09-30",
+  "liga-bazooka-tgr": {
+    "fetchedAt": "2026-10-12",
     "sessions": [
       {
-        "date": "2026-10-11",
+        "date": "2026-10-25",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Miguel Conejito Alejandro"
+        "name": "Liga Bazooka"
+      }
+    ]
+  },
+  "los-40-primavera-pop": {
+    "fetchedAt": "2026-10-12",
+    "sessions": [
+      {
+        "date": "2026-10-28",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Los 40 Primavera Pop"
       }
     ]
   },
