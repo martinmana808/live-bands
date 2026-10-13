@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12",
+  "fetchedAt": "2026-10-13",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -79,13 +79,6 @@
       "source": "livepass"
     },
     {
-      "artist": "HAY PLAN - Hay Peña: Edición Choriplaneada",
-      "venue": "Livepass",
-      "date": "2026-10-12",
-      "ticketUrl": "https://livepass.com.ar/events/hay-plan-hay-pena-edicion-choriplaneada",
-      "source": "livepass"
-    },
-    {
       "artist": "Festival de Cocina y Teatro Judío",
       "venue": "Café Berlín",
       "date": "2026-10-13",
@@ -111,6 +104,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-15",
       "ticketUrl": "https://livepass.com.ar/events/local-blues-all-stars-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Singers in Jam",
+      "venue": "CCNU",
+      "date": "2026-10-15",
+      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-15-21-00-00-0300",
       "source": "livepass"
     },
     {

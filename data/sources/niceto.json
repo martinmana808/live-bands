@@ -1,27 +1,6 @@
 {
-  "fetchedAt": "2026-10-12",
+  "fetchedAt": "2026-10-13",
   "events": [
-    {
-      "artist": "UNCUT",
-      "venue": "Niceto Club",
-      "date": "2026-10-11",
-      "ticketUrl": "https://venti.live/evento/uncut-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "FIESTA TREVI 11 Oct",
-      "venue": "Niceto Club",
-      "date": "2026-10-11",
-      "ticketUrl": "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Raxxet 11 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-11",
-      "ticketUrl": "https://venti.live/evento/la-raxxet-11-oct-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "MAD PROFESSOR",
       "venue": "Niceto Club",
@@ -349,6 +328,27 @@
       "venue": "Niceto Club",
       "date": "2026-11-01",
       "ticketUrl": "https://venti.live/evento/akapellah-la-cruz-tour-2026-en-buenos-aires-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "TR/ST",
+      "venue": "Niceto Club",
+      "date": "2026-11-04",
+      "ticketUrl": "https://venti.live/evento/tr-st-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "LEWIS OFMAN",
+      "venue": "Niceto Club",
+      "date": "2026-11-05",
+      "ticketUrl": "https://venti.live/evento/lewis-ofman-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SATURA: RFlakkkk + 1Tobi + ceroasco + Avalos Ntk",
+      "venue": "Niceto Club",
+      "date": "2026-11-05",
+      "ticketUrl": "https://venti.live/evento/satura-rflakkkk-1tobi-ceroasco-avalos-ntk-en-humbold-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]
