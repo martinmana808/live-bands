@@ -1,6 +1,6 @@
 {
   "raphael-tgr": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-10-17",
@@ -17,7 +17,7 @@
     ]
   },
   "abel-pintos-tgr": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-11-13",
@@ -52,7 +52,7 @@
     ]
   },
   "alex-ubago-tgr": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-11-07",
@@ -63,7 +63,7 @@
     ]
   },
   "djavan-tgr": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-11-24",
@@ -74,7 +74,7 @@
     ]
   },
   "ciclo-aura-teatrocolon": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-10-26",
@@ -85,7 +85,7 @@
     ]
   },
   "filarmonica-de-berlin-tc": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-10-21",
@@ -125,7 +125,7 @@
     ]
   },
   "ntvg-gira": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-11-20",
@@ -148,7 +148,7 @@
     ]
   },
   "boda-lyniel-tgr": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-11-01",
@@ -200,7 +200,7 @@
     ]
   },
   "jazz-bsas-ctba": {
-    "fetchedAt": "2026-09-29",
+    "fetchedAt": "2026-10-14",
     "sessions": [
       {
         "date": "2026-10-20",
@@ -227,17 +227,6 @@
       }
     ]
   },
-  "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-07",
-    "sessions": [
-      {
-        "date": "2026-12-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Geronimo Rauch"
-      }
-    ]
-  },
   "connie-ballarini-tgi": {
     "fetchedAt": "2026-10-08",
     "sessions": [
@@ -246,6 +235,17 @@
         "venue": "Teatro Gran Ituzaingó",
         "city": "Ituzaingó",
         "name": "Connie Ballarini"
+      }
+    ]
+  },
+  "geronimo-rauch-tgr": {
+    "fetchedAt": "2026-10-07",
+    "sessions": [
+      {
+        "date": "2026-12-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Geronimo Rauch"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13",
+  "fetchedAt": "2026-10-14",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -79,13 +79,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Festival de Cocina y Teatro Judío",
-      "venue": "Café Berlín",
-      "date": "2026-10-13",
-      "ticketUrl": "https://livepass.com.ar/events/festival-de-cocina-y-teatro-judio-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
       "artist": "Leandro Barrales Sexteto",
       "venue": "Café Berlín",
       "date": "2026-10-14",
@@ -139,6 +132,13 @@
       "venue": "el Teatro Ópera LP",
       "date": "2026-10-16",
       "ticketUrl": "https://livepass.com.ar/events/tarea-fina-en-el-teatro-opera-lp-2026-10-16-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Jazz One Trío Athos",
+      "venue": "CCNU",
+      "date": "2026-10-16",
+      "ticketUrl": "https://livepass.com.ar/events/jazz-one-trio-athos-en-ccnu",
       "source": "livepass"
     },
     {
@@ -223,6 +223,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-20",
       "ticketUrl": "https://livepass.com.ar/events/la-pardo-big-band-en-cafe-berlin-2026-10-20-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Monzani, Acosta, Villanueva, Perez Garber",
+      "venue": "CCNU",
+      "date": "2026-10-21",
+      "ticketUrl": "https://livepass.com.ar/events/monzani-acosta-villanueva-perez-garber-en-ccnu",
       "source": "livepass"
     },
     {
@@ -324,6 +331,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Chamcita - Agucho",
+      "venue": "CCNU",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/chamcita-agucho-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Small Axe",
       "venue": "Café Berlín",
       "date": "2026-10-24",
@@ -401,10 +415,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Ben & Sweets",
+      "venue": "CCNU",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/ben-sweets-en-ccnu-2026-10-30-22-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Pablo Cordonet",
       "venue": "Café Berlín",
       "date": "2026-10-30",
       "ticketUrl": "https://livepass.com.ar/events/pablo-cordonet-en-cafe-berlin-2026-10-30-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Karma Criollo - Música Peruana",
+      "venue": "CCNU",
+      "date": "2026-10-31",
+      "ticketUrl": "https://livepass.com.ar/events/karma-criollo-musica-peruana-en-ccnu",
       "source": "livepass"
     },
     {
@@ -447,6 +475,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-01",
       "ticketUrl": "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Vocayuva",
+      "venue": "CCNU",
+      "date": "2026-11-01",
+      "ticketUrl": "https://livepass.com.ar/events/vocayuva-en-ccnu-2026-11-01-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -839,6 +874,20 @@
       "venue": "Bahía Blanca",
       "date": "2026-11-28",
       "ticketUrl": "https://livepass.com.ar/events/k4os-en-bahia-blanca",
+      "source": "livepass"
+    },
+    {
+      "artist": "Plan Divino",
+      "venue": "Café Berlín",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/plan-divino-en-cafe-berlin-2026-11-28-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fernando Cabrera - Hugo Fattoruso",
+      "venue": "Café Berlín",
+      "date": "2026-11-29",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin-2026-11-29-20-45-00-0300",
       "source": "livepass"
     },
     {

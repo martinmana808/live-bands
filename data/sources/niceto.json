@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13",
+  "fetchedAt": "2026-10-14",
   "events": [
     {
       "artist": "MAD PROFESSOR",
@@ -104,6 +104,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-17",
       "ticketUrl": "https://venti.live/evento/vinilos-ntimos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "NICETO WHISKY BAR",
+      "venue": "Niceto Club",
+      "date": "2026-10-17",
+      "ticketUrl": "https://venti.live/evento/niceto-whisky-bar-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -296,6 +303,13 @@
       "source": "niceto"
     },
     {
+      "artist": "HALLOWEEN  / D'FOREST & MUSICOLOGY",
+      "venue": "Niceto Club",
+      "date": "2026-10-30",
+      "ticketUrl": "https://venti.live/evento/halloween-en-niceto-d-forest-musicology-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "RioSanto – Hombre Búho",
       "venue": "Niceto Club",
       "date": "2026-10-31",
@@ -335,20 +349,6 @@
       "venue": "Niceto Club",
       "date": "2026-11-04",
       "ticketUrl": "https://venti.live/evento/tr-st-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "LEWIS OFMAN",
-      "venue": "Niceto Club",
-      "date": "2026-11-05",
-      "ticketUrl": "https://venti.live/evento/lewis-ofman-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "SATURA: RFlakkkk + 1Tobi + ceroasco + Avalos Ntk",
-      "venue": "Niceto Club",
-      "date": "2026-11-05",
-      "ticketUrl": "https://venti.live/evento/satura-rflakkkk-1tobi-ceroasco-avalos-ntk-en-humbold-niceto-club-18-a-os",
       "source": "niceto"
     }
   ]

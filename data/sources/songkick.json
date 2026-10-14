@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-10-11",
+  "fetchedAt": "2026-10-14",
   "events": [
-    {
-      "artist": "El Cuarteto de Nos",
-      "venue": "Estadio GEI",
-      "date": "2026-10-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Las Historias",
-      "venue": "Club Cultural Bula",
-      "date": "2026-10-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Paulo zóccali",
-      "venue": "Mutar",
-      "date": "2026-10-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "David Bisbal",
-      "venue": "Movistar Arena",
-      "date": "2026-10-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "El Cuarteto de Nos",
-      "venue": "Auditorio Sur",
-      "date": "2026-10-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Grupo Frontera",
-      "venue": "Movistar Arena",
-      "date": "2026-10-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "Amorphis",
-      "venue": "El Teatrito",
-      "date": "2026-10-13",
-      "source": "songkick"
-    },
     {
       "artist": "Bad Gyal",
       "venue": "Movistar Arena",
@@ -118,6 +76,12 @@
     {
       "artist": "Pimpinela",
       "venue": "Movistar Arena",
+      "date": "2026-10-18",
+      "source": "songkick"
+    },
+    {
+      "artist": "El Último Vecino",
+      "venue": "Club Cultural Bula",
       "date": "2026-10-18",
       "source": "songkick"
     },
@@ -299,6 +263,42 @@
       "artist": "Fishbone",
       "venue": "La Trastienda",
       "date": "2026-10-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "Chris Liebing",
+      "venue": "Under Club",
+      "date": "2026-10-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "Tipling Rock",
+      "venue": "The Roxy Live!",
+      "date": "2026-10-31",
+      "source": "songkick"
+    },
+    {
+      "artist": "Jesse & Joy",
+      "venue": "Movistar Arena",
+      "date": "2026-11-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "A Wilhelm Scream",
+      "venue": "Club Cultural Bula",
+      "date": "2026-11-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Diosque",
+      "venue": "Centro Cultural Kirchner (CCK)",
+      "date": "2026-11-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Bersuit Vergarabat",
+      "venue": "Movistar Arena",
+      "date": "2026-11-03",
       "source": "songkick"
     }
   ]
