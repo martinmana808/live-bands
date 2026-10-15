@@ -199,6 +199,17 @@
       }
     ]
   },
+  "los-pericos-tgr": {
+    "fetchedAt": "2026-10-03",
+    "sessions": [
+      {
+        "date": "2026-10-22",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Los Pericos"
+      }
+    ]
+  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-10-14",
     "sessions": [
@@ -216,17 +227,6 @@
       }
     ]
   },
-  "los-pericos-tgr": {
-    "fetchedAt": "2026-10-03",
-    "sessions": [
-      {
-        "date": "2026-10-22",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Los Pericos"
-      }
-    ]
-  },
   "connie-ballarini-tgi": {
     "fetchedAt": "2026-10-08",
     "sessions": [
@@ -238,17 +238,6 @@
       }
     ]
   },
-  "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-07",
-    "sessions": [
-      {
-        "date": "2026-12-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Geronimo Rauch"
-      }
-    ]
-  },
   "humbe-tgr": {
     "fetchedAt": "2026-10-11",
     "sessions": [
@@ -257,6 +246,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Humbe"
+      }
+    ]
+  },
+  "geronimo-rauch-tgr": {
+    "fetchedAt": "2026-10-07",
+    "sessions": [
+      {
+        "date": "2026-12-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Geronimo Rauch"
       }
     ]
   },
@@ -290,6 +290,17 @@
         "venue": "Anfiteatro Municipal Rosario",
         "city": "Rosario",
         "name": "Babasonicos"
+      }
+    ]
+  },
+  "bobicraft-tgr": {
+    "fetchedAt": "2026-10-15",
+    "sessions": [
+      {
+        "date": "2026-10-27",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Bobicraft"
       }
     ]
   }

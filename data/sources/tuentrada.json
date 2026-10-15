@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14",
+  "fetchedAt": "2026-10-15",
   "events": [
     {
       "artist": "Raphael",
@@ -163,6 +163,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Los Pericos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-22",
+      "ticketUrl": "https://www.tuentrada.com/los-pericos-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Melissa Aldana",
       "venue": "Sala Martin Coronado",
       "date": "2026-10-20",
@@ -177,10 +184,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Los Pericos",
+      "artist": "Humbe",
       "venue": "Teatro Gran Rex",
-      "date": "2026-10-22",
-      "ticketUrl": "https://www.tuentrada.com/los-pericos-tgr",
+      "date": "2026-10-29",
+      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
       "source": "tuentrada"
     },
     {
@@ -188,13 +195,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-10",
       "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Humbe",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-29",
-      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
       "source": "tuentrada"
     },
     {
@@ -209,6 +209,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-28",
       "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Bobicraft",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-27",
+      "ticketUrl": "https://www.tuentrada.com/bobicraft-tgr",
       "source": "tuentrada"
     }
   ]

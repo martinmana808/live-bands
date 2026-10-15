@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-10-14",
+  "fetchedAt": "2026-10-15",
   "events": [
-    {
-      "artist": "MAD PROFESSOR",
-      "venue": "Niceto Club",
-      "date": "2026-10-14",
-      "ticketUrl": "https://venti.live/evento/mad-professor-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "After Gómez",
-      "venue": "Niceto Club",
-      "date": "2026-10-14",
-      "ticketUrl": "https://venti.live/evento/after-gomez-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Preescucha EP Nati Jait",
       "venue": "Niceto Club",
@@ -139,6 +125,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-18",
       "ticketUrl": "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Mamba Clvb (after show jugo!)",
+      "venue": "Niceto Club",
+      "date": "2026-10-18",
+      "ticketUrl": "https://venti.live/evento/mamba-clvb-after-show-jugo-en-niceto-club",
       "source": "niceto"
     },
     {
@@ -296,6 +289,13 @@
       "source": "niceto"
     },
     {
+      "artist": "BRUNO ALBANO",
+      "venue": "Niceto Club",
+      "date": "2026-10-30",
+      "ticketUrl": "https://venti.live/evento/bruno-albano-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "Fiesta Pixie - Halloween",
       "venue": "Niceto Club",
       "date": "2026-10-30",
@@ -349,6 +349,510 @@
       "venue": "Niceto Club",
       "date": "2026-11-04",
       "ticketUrl": "https://venti.live/evento/tr-st-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "LEWIS OFMAN",
+      "venue": "Niceto Club",
+      "date": "2026-11-05",
+      "ticketUrl": "https://venti.live/evento/lewis-ofman-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SATURA: RFlakkkk + 1Tobi + ceroasco + Avalos Ntk",
+      "venue": "Niceto Club",
+      "date": "2026-11-05",
+      "ticketUrl": "https://venti.live/evento/satura-rflakkkk-1tobi-ceroasco-avalos-ntk-en-humbold-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SAUNDERS - OPEN TO CLOSE",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Planeador V",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/planeador-v-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Karaoke canciones de señoras",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/karaoke-canciones-de-se-oras-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "SAN MARTIN VAMPIRE + CERETTI",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/san-martin-vampire-ceretti-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Polenta  6 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/polenta-6-nov-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "ZAPPO + DALTON + PUERTO CORAL",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/zappo-dalton-puerto-coral-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "TY SEGALL",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/ty-segall-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "CAZADORES - CONOR DELIA",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/cazadores-conor-delia-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "FIESTA TREVI 7 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/fiesta-trevi-7-nov-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Club 69 | PRIDE",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "BB ASUL",
+      "venue": "Niceto Club",
+      "date": "2026-11-08",
+      "ticketUrl": "https://venti.live/evento/bbasul-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA",
+      "venue": "Niceto Club",
+      "date": "2026-11-08",
+      "ticketUrl": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RE-UNIÓN NEGRA",
+      "venue": "Niceto Club",
+      "date": "2026-11-08",
+      "ticketUrl": "https://venti.live/evento/re-uni-n-negra-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Máze + Mora y los Metegoles",
+      "venue": "Niceto Club",
+      "date": "2026-11-09",
+      "ticketUrl": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Catalina Ammaturo",
+      "venue": "Niceto Club",
+      "date": "2026-11-11",
+      "ticketUrl": "https://venti.live/evento/catalina-ammaturo-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "QUÉ SE SIENTE | ARA T",
+      "venue": "Niceto Club",
+      "date": "2026-11-12",
+      "ticketUrl": "https://venti.live/evento/qu-se-siente-ara-t-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "El Ciclo Federal",
+      "venue": "Niceto Club",
+      "date": "2026-11-12",
+      "ticketUrl": "https://venti.live/evento/el-ciclo-federal-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Canto del Alma",
+      "venue": "Niceto Club",
+      "date": "2026-11-13",
+      "ticketUrl": "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "CICLO DESORDEN",
+      "venue": "Niceto Club",
+      "date": "2026-11-13",
+      "ticketUrl": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Mila",
+      "venue": "Niceto Club",
+      "date": "2026-11-13",
+      "ticketUrl": "https://venti.live/evento/mila-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Random Fiesta",
+      "venue": "Niceto Club",
+      "date": "2026-11-13",
+      "ticketUrl": "https://venti.live/evento/random-fiesta-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "EDU OLIVA + HALOS",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/edu-oliva-halos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "OEISIS - Familiar vibes in the area",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/oeisis-familiar-vibes-in-the-area-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CHOGGEO La primera fiesta de Chogger de llega a Humboldt | Niceto Club",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "ULTRALIGERA",
+      "venue": "Niceto Club",
+      "date": "2026-11-15",
+      "ticketUrl": "https://venti.live/evento/ultraligera-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "JAZE - QUIZÁ NO ES PARA TANTO TOUR II",
+      "venue": "Niceto Club",
+      "date": "2026-11-17",
+      "ticketUrl": "https://venti.live/evento/jaze-quiz-no-es-para-tanto-tour-ii-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "KAKKMADDAFAKKA",
+      "venue": "Niceto Club",
+      "date": "2026-11-18",
+      "ticketUrl": "https://venti.live/evento/kakkmaddafakka-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "ÁMBAR PRESENTA MARIPOSA",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Un Muerto Más",
+      "venue": "Niceto Club",
+      "date": "2026-11-20",
+      "ticketUrl": "https://venti.live/evento/un-muerto-m-s-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Temporada de Elefantes",
+      "venue": "Niceto Club",
+      "date": "2026-11-20",
+      "ticketUrl": "https://venti.live/evento/temporada-de-elefantes-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Kybba",
+      "venue": "Niceto Club",
+      "date": "2026-11-20",
+      "ticketUrl": "https://venti.live/evento/kybba-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Festival Tribulaciones 30 años",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/festival-tribulaciones-30-a-os-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "POP UP ROPA DE AUTOR",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/pop-up-ropa-de-autor-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "PIXEL 33 show",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/pixel-33-show-en-vivo-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "La Chicle - Fiesta Disco",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/la-chicle-fiesta-disco-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Gvtz",
+      "venue": "Niceto Club",
+      "date": "2026-11-22",
+      "ticketUrl": "https://venti.live/evento/gvtz-en-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "INDIOS",
+      "venue": "Niceto Club",
+      "date": "2026-11-22",
+      "ticketUrl": "https://venti.live/evento/indios-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "FLOR IBARRA",
+      "venue": "Niceto Club",
+      "date": "2026-11-22",
+      "ticketUrl": "https://venti.live/evento/flor-ibarra-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Dogos Waterpolo",
+      "venue": "Niceto Club",
+      "date": "2026-11-22",
+      "ticketUrl": "https://venti.live/evento/dogos-waterpolo-en-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "MOYKA",
+      "venue": "Niceto Club",
+      "date": "2026-11-24",
+      "ticketUrl": "https://venti.live/evento/moyka-en-niceto-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Piazzolla Electrónico x Nico Sorin 25 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-25",
+      "ticketUrl": "https://venti.live/evento/piazzolla-electr-nico-x-nico-sorin-25-nov-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Comida para Llevar",
+      "venue": "Niceto Club",
+      "date": "2026-11-26",
+      "ticketUrl": "https://venti.live/evento/comida-para-llevar-en-buenos-aires-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Montse • Fredrik Svabø • Thea Wang",
+      "venue": "Niceto Club",
+      "date": "2026-11-26",
+      "ticketUrl": "https://venti.live/evento/from-fjords-to-andes-tour-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Barbi Recanati",
+      "venue": "Niceto Club",
+      "date": "2026-11-27",
+      "ticketUrl": "https://venti.live/evento/barbi-recanati-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "LAGRIMITAS presenta",
+      "venue": "Niceto Club",
+      "date": "2026-11-27",
+      "ticketUrl": "https://venti.live/evento/lagrimitas-presenta-en-vivo-su-nueva-etapa-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SELF TITLED TECHNO SESSION",
+      "venue": "Niceto Club",
+      "date": "2026-11-28",
+      "ticketUrl": "https://venti.live/evento/self-titled-techno-session-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Ciclo Void",
+      "venue": "Niceto Club",
+      "date": "2026-11-28",
+      "ticketUrl": "https://venti.live/evento/ciclo-void-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "QUETZAL CHEBÚ",
+      "venue": "Niceto Club",
+      "date": "2026-11-28",
+      "ticketUrl": "https://venti.live/evento/quetzal-cheb-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Lucas Edi",
+      "venue": "Niceto Club",
+      "date": "2026-11-28",
+      "ticketUrl": "https://venti.live/evento/lucas-edi-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "LAUTA  29 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-29",
+      "ticketUrl": "https://venti.live/evento/lauta-29-nov-en-niceto-club-18a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "LEO MIDDEA PRESENTA NOTICIAS DE PUGLIA",
+      "venue": "Niceto Club",
+      "date": "2026-12-03",
+      "ticketUrl": "https://venti.live/evento/leo-middea-presenta-noticias-de-puglia-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Cloe Demer \"Sin Rodeos\"",
+      "venue": "Niceto Club",
+      "date": "2026-12-04",
+      "ticketUrl": "https://venti.live/evento/cloe-demer-sin-rodeos-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Mi Amigo Invencible Regresa a Niceto Club (+18 años)",
+      "venue": "Niceto Club",
+      "date": "2026-12-04",
+      "ticketUrl": "https://venti.live/evento/mi-amigo-invencible-regresa-a-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Lua + Lucyid",
+      "venue": "Niceto Club",
+      "date": "2026-12-04",
+      "ticketUrl": "https://venti.live/evento/lua-lucyd-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SHAILA lanza \" LA CONSTANTE\"",
+      "venue": "Niceto Club",
+      "date": "2026-12-05",
+      "ticketUrl": "https://venti.live/evento/shaila-lanza-la-constante-su-nuevo-disco",
+      "source": "niceto"
+    },
+    {
+      "artist": "Ciclo Void  5 DIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-05",
+      "ticketUrl": "https://venti.live/evento/ciclo-void-5-dic-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "LA PATRULLA ESPACIAL",
+      "venue": "Niceto Club",
+      "date": "2026-12-06",
+      "ticketUrl": "https://venti.live/evento/la-patrulla-espacial-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RYAN presenta “Zafarrancho”",
+      "venue": "Niceto Club",
+      "date": "2026-12-07",
+      "ticketUrl": "https://venti.live/evento/ryan-presenta-zafarrancho-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Shintaro Sakamoto",
+      "venue": "Niceto Club",
+      "date": "2026-12-08",
+      "ticketUrl": "https://venti.live/evento/shintaro-sakamoto-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "FELIPE BALDOMIR",
+      "venue": "Niceto Club",
+      "date": "2026-12-09",
+      "ticketUrl": "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SuperVos cierra el año",
+      "venue": "Niceto Club",
+      "date": "2026-12-12",
+      "ticketUrl": "https://venti.live/evento/supervos-cierra-el-a-o-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Festival Plasma 4ta edición",
+      "venue": "Niceto Club",
+      "date": "2026-12-13",
+      "ticketUrl": "https://venti.live/evento/festival-plasma-4ta-edici-n-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Gallo Criollo celebra su 1er año",
+      "venue": "Niceto Club",
+      "date": "2026-12-13",
+      "ticketUrl": "https://venti.live/evento/gallo-criollo-celebra-su-1er-a-o-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Feli Colina",
+      "venue": "Niceto Club",
+      "date": "2026-12-15",
+      "ticketUrl": "https://venti.live/evento/feli-colina-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "OCTAFONIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-17",
+      "ticketUrl": "https://venti.live/evento/octafonic-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RENZO LEALI Y LOS DESERTORES",
+      "venue": "Niceto Club",
+      "date": "2026-12-18",
+      "ticketUrl": "https://venti.live/evento/renzo-leali-y-los-desertores-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Sara Hebe Presenta Negocionismo",
+      "venue": "Niceto Club",
+      "date": "2026-12-19",
+      "ticketUrl": "https://venti.live/evento/sara-hebe-presenta-negocionismo-en-bs-as-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "HOJAS POR EL BARRIO presenta AÚN QUE SEA",
+      "venue": "Niceto Club",
+      "date": "2026-12-19",
+      "ticketUrl": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "DONAVON",
+      "venue": "Niceto Club",
+      "date": "2027-02-14",
+      "ticketUrl": "https://venti.live/evento/donavon-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "CABARET VOLTAIRE",
+      "venue": "Niceto Club",
+      "date": "2027-03-04",
+      "ticketUrl": "https://venti.live/evento/cabaret-voltaire-en-niceto-club",
       "source": "niceto"
     }
   ]

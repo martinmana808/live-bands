@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14",
+  "fetchedAt": "2026-10-15",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,13 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Leandro Barrales Sexteto",
-      "venue": "Café Berlín",
-      "date": "2026-10-14",
-      "ticketUrl": "https://livepass.com.ar/events/leandro-barrales-sexteto-en-cafe-berlin-2026-10-14-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -303,6 +296,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Lucero Loguercio Dartiguelongue Gerez",
+      "venue": "CCNU",
+      "date": "2026-10-24",
+      "ticketUrl": "https://livepass.com.ar/events/lucero-loguercio-dartiguelongue-gerez-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "ESCALANDRUM",
       "venue": "el Teatro Ópera LP",
       "date": "2026-10-24",
@@ -380,6 +380,13 @@
       "source": "livepass"
     },
     {
+      "artist": "García - Gómez - Oqui",
+      "venue": "CCNU",
+      "date": "2026-10-28",
+      "ticketUrl": "https://livepass.com.ar/events/garcia-gomez-oqui-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "The Beatles - In My Life - By Parisi",
       "venue": "Café Berlín",
       "date": "2026-10-29",
@@ -387,10 +394,31 @@
       "source": "livepass"
     },
     {
-      "artist": "Blue Nights",
+      "artist": "Jazz After Hours",
+      "venue": "CCNU",
+      "date": "2026-10-29",
+      "ticketUrl": "https://livepass.com.ar/events/jazz-after-hours-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Singers in Jam",
+      "venue": "CCNU",
+      "date": "2026-10-29",
+      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-29",
+      "source": "livepass"
+    },
+    {
+      "artist": "Rebel Kind",
       "venue": "Café Berlín",
       "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/blue-nights-en-cafe-berlin",
+      "ticketUrl": "https://livepass.com.ar/events/rebel-kind-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "CDS",
+      "venue": "CCNU",
+      "date": "2026-10-30",
+      "ticketUrl": "https://livepass.com.ar/events/cds-en-ccnu",
       "source": "livepass"
     },
     {
@@ -867,6 +895,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-28",
       "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "ESLAVOS",
+      "venue": "San Miguel",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/eslavos-en-san-miguel-2026-11-28",
       "source": "livepass"
     },
     {
