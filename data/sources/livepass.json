@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15",
+  "fetchedAt": "2026-10-16",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,27 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Standard time !",
-      "venue": "CCNU",
-      "date": "2026-10-15",
-      "ticketUrl": "https://livepass.com.ar/events/standard-time-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "LOCAL BLUES All Stars",
-      "venue": "Café Berlín",
-      "date": "2026-10-15",
-      "ticketUrl": "https://livepass.com.ar/events/local-blues-all-stars-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-10-15",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-15-21-00-00-0300",
       "source": "livepass"
     },
     {
@@ -296,6 +275,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Blues del Sur",
+      "venue": "Café Berlín",
+      "date": "2026-10-23",
+      "ticketUrl": "https://livepass.com.ar/events/blues-del-sur-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Lucero Loguercio Dartiguelongue Gerez",
       "venue": "CCNU",
       "date": "2026-10-24",
@@ -478,10 +464,10 @@
       "source": "livepass"
     },
     {
-      "artist": "Dani Stone & Barrio Viejo",
+      "artist": "Andy Rex - Sandro",
       "venue": "Café Berlín",
       "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/dani-stone-barrio-viejo-en-cafe-berlin",
+      "ticketUrl": "https://livepass.com.ar/events/andy-rex-sandro-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -737,6 +723,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Dchampions",
+      "venue": "Café Berlín",
+      "date": "2026-11-15",
+      "ticketUrl": "https://livepass.com.ar/events/dchampions-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Momo Rey",
       "venue": "Café Berlín",
       "date": "2026-11-17",
@@ -947,6 +940,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Juan Falú & Clara Cantore",
+      "venue": "Café Berlín",
+      "date": "2026-12-03",
+      "ticketUrl": "https://livepass.com.ar/events/juan-falu-clara-cantore-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "LOLO MORALES",
       "venue": "Club Re Quilmes",
       "date": "2026-12-04",
@@ -1014,6 +1014,13 @@
       "venue": "Estadio Uno",
       "date": "2026-12-12",
       "ticketUrl": "https://livepass.com.ar/events/tan-bionica-en-estadio-uno",
+      "source": "livepass"
+    },
+    {
+      "artist": "Ariel “Zurdo” Araoz",
+      "venue": "Café Berlín",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/ariel-zurdo-araoz-en-cafe-berlin-2026-12-12-23-00-00-0300",
       "source": "livepass"
     },
     {

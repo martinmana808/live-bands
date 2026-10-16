@@ -44,46 +44,6 @@
     "firstSeenAt": "2026-09-29"
   },
   {
-    "id": "deepsession20-2026-10-15-niceto",
-    "shortId": "21zilo5",
-    "artist": "DEEP SESSION #20",
-    "artistKey": "deepsession20",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-session-20-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-06"
-  },
-  {
-    "id": "lamaquinacamaleon-2026-10-15-niceto",
-    "shortId": "153kbnn",
-    "artist": "La Máquina Camaleón",
-    "artistKey": "lamaquinacamaleon",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-15-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "EC",
-    "spotifyId": "6NIyDDyPBRTyPZ6ggjE8Rj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c894ad4a0809d8da20534e6",
-    "genres": [],
-    "firstSeenAt": "2026-09-25"
-  },
-  {
     "id": "lobel-2026-10-15-tangente",
     "shortId": "1j8xk29",
     "artist": "LOBEL",
@@ -100,26 +60,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803ad7d44aa41d807cb3cdeb8",
     "genres": [],
     "firstSeenAt": "2026-10-02"
-  },
-  {
-    "id": "localbluesallstars-2026-10-15-cafeberlin",
-    "shortId": "2gmhtab",
-    "artist": "LOCAL BLUES All Stars",
-    "artistKey": "localbluesallstars",
-    "date": "2026-10-15",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/local-blues-all-stars-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "moranavarro-2026-10-15-theroxylive",
@@ -140,26 +80,6 @@
     "firstSeenAt": "2026-09-29"
   },
   {
-    "id": "preescuchaepnatijait-2026-10-15-niceto",
-    "shortId": "11lg10y",
-    "artist": "Preescucha EP Nati Jait",
-    "artistKey": "preescuchaepnatijait",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/preescucha-ep-nati-jait-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
     "id": "robertacampos-2026-10-15-torquatotasso",
     "shortId": "1f82j2m",
     "artist": "Roberta Campos",
@@ -176,66 +96,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787370ae0f18d64db7c79d1ae3",
     "genres": [],
     "firstSeenAt": "2026-09-29"
-  },
-  {
-    "id": "sedaaniversario-2026-10-15-niceto",
-    "shortId": "83o14e1",
-    "artist": "SEDA Aniversario",
-    "artistKey": "sedaaniversario",
-    "date": "2026-10-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/seda-aniversario-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "singersinjam-2026-10-15-ccnu",
-    "shortId": "198w9ct",
-    "artist": "Singers in Jam",
-    "artistKey": "singersinjam",
-    "date": "2026-10-15",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-15-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-13"
-  },
-  {
-    "id": "standardtime-2026-10-15-ccnu",
-    "shortId": "2lfedox",
-    "artist": "Standard time !",
-    "artistKey": "standardtime",
-    "date": "2026-10-15",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/standard-time-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
   },
   {
     "id": "ainda-2026-10-16-niceto",
@@ -1451,6 +1311,26 @@
     "firstSeenAt": "2026-10-04"
   },
   {
+    "id": "bhavi-2026-10-22-niceto",
+    "shortId": "2d11p7h",
+    "artist": "BHAVI",
+    "artistKey": "bhavi",
+    "date": "2026-10-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bhavi-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "7fT2Me47PQ8T7954PKrcwR",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178502c516ea88457406db38fac",
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "cantamarta-2026-10-22-niceto",
     "shortId": "6rv3oem",
     "artist": "ÇANTAMARTA",
@@ -1714,6 +1594,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785ff76dce78ed349fb83684ea",
     "genres": [],
     "firstSeenAt": "2026-09-28"
+  },
+  {
+    "id": "bluesdelsur-2026-10-23-cafeberlin",
+    "shortId": "1rrchyq",
+    "artist": "Blues del Sur",
+    "artistKey": "bluesdelsur",
+    "date": "2026-10-23",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/blues-del-sur-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
   },
   {
     "id": "bsasnumetalfest-2026-10-23-sanmiguel",
@@ -3176,6 +3076,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "andyrex-2026-10-31-cafeberlin",
+    "shortId": "1mmlfef",
+    "artist": "Andy Rex",
+    "artistKey": "andyrex",
+    "date": "2026-10-31",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/andy-rex-sandro-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "club6931octhalloween-2026-10-31-niceto",
     "shortId": "6kftgz0",
     "artist": "Club 69 | 31 OCT HALLOWEEN",
@@ -3194,26 +3114,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "danistonebarrioviejo-2026-10-31-cafeberlin",
-    "shortId": "2aozam3",
-    "artist": "Dani Stone & Barrio Viejo",
-    "artistKey": "danistonebarrioviejo",
-    "date": "2026-10-31",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/dani-stone-barrio-viejo-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "fiestamermelada-2026-10-31-niceto",
@@ -4909,6 +4809,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "dchampions-2026-11-15-cafeberlin",
+    "shortId": "t8t5oa3",
+    "artist": "Dchampions",
+    "artistKey": "dchampions",
+    "date": "2026-11-15",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dchampions-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "4htwA6Ps1enFs4qPlXGVT6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bf569dc430a14598b68a1a33",
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "ultraligera-2026-11-15-niceto",
     "shortId": "26c4asu",
     "artist": "ULTRALIGERA",
@@ -5133,6 +5053,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "festivalpardoelektromanoslucassequeiralalovelyband-2026-11-20-niceto",
+    "shortId": "15mcx8u",
+    "artist": "FESTIVAL PARDO: Elektromanos + Lucas Sequeira & la lovely band",
+    "artistKey": "festivalpardoelektromanoslucassequeiralalovelyband",
+    "date": "2026-11-20",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/festival-pardo-elektromanos-lucas-sequeira-la-lovely-band-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
   },
   {
     "id": "granmartell-2026-11-20-cafeberlin",
@@ -5751,6 +5691,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "errorvanessa-2026-11-26-niceto",
+    "shortId": "28455qy",
+    "artist": "ERROR VANESSA",
+    "artistKey": "errorvanessa",
+    "date": "2026-11-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/error-vanessa-presenta-indomable-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "0uF5hCCa4TNv6iFcQnRujF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781b73a11449d1606b1016bb26",
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "montsefredriksvabtheawang-2026-11-26-niceto",
     "shortId": "6l57zr5",
     "artist": "Montse • Fredrik Svabø • Thea Wang",
@@ -6266,6 +6226,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "juanfaluclaracantore-2026-12-03-cafeberlin",
+    "shortId": "27l44qp",
+    "artist": "Juan Falú & Clara Cantore",
+    "artistKey": "juanfaluclaracantore",
+    "date": "2026-12-03",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/juan-falu-clara-cantore-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "leomiddea-2026-12-03-niceto",
     "shortId": "2a8v4b7",
     "artist": "LEO MIDDEA",
@@ -6748,6 +6728,26 @@
     "firstSeenAt": "2026-09-17"
   },
   {
+    "id": "arielzurdoaraoz-2026-12-12-cafeberlin",
+    "shortId": "29rqnr7",
+    "artist": "Ariel “Zurdo” Araoz",
+    "artistKey": "arielzurdoaraoz",
+    "date": "2026-12-12",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ariel-zurdo-araoz-en-cafe-berlin-2026-12-12-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "1R7y9SdLPhvnXNZXlZuK1Z",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048517dfadc4f7805f8801ce48a87",
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "supervoscierraelano-2026-12-12-niceto",
     "shortId": "xzqfm5t",
     "artist": "SuperVos cierra el año",
@@ -7036,6 +7036,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "lolaavesani-2026-12-19-niceto",
+    "shortId": "1e3qavw",
+    "artist": "Lola Avesani",
+    "artistKey": "lolaavesani",
+    "date": "2026-12-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/lola-avesani-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4m89B8XYPiwcBItT8Y1xFU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f8f494948209ce764370c2f1",
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
+  },
+  {
     "id": "sarahebe-2026-12-19-niceto",
     "shortId": "auv6yke",
     "artist": "Sara Hebe",
@@ -7118,5 +7138,25 @@
       "electronic"
     ],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "santiagocruzvuelvealaargentina-2027-04-09-niceto",
+    "shortId": "4ody2c6",
+    "artist": "Santiago Cruz vuelve a la Argentina",
+    "artistKey": "santiagocruzvuelvealaargentina",
+    "date": "2027-04-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/santiago-cruz-vuelve-a-la-argentina-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-16"
   }
 ]
