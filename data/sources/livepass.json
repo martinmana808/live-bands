@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16",
+  "fetchedAt": "2026-10-17",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,48 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Axel Scheinsohn Cuarteto",
-      "venue": "CCNU",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/axel-scheinsohn-cuarteto-en-ccnu-2026-10-16-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Fernando Sanjiao",
-      "venue": "Café Berlín",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2026-10-16-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "SOBREDOSIS DE SODA",
-      "venue": "San Miguel",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "TAREA FINA",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/tarea-fina-en-el-teatro-opera-lp-2026-10-16-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Jazz One Trío Athos",
-      "venue": "CCNU",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/jazz-one-trio-athos-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Nano Stern",
-      "venue": "Café Berlín",
-      "date": "2026-10-16",
-      "ticketUrl": "https://livepass.com.ar/events/nano-stern-en-cafe-berlin-2026-10-16-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -230,6 +188,13 @@
       "venue": "Café Berlín",
       "date": "2026-10-22",
       "ticketUrl": "https://livepass.com.ar/events/javier-sa-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Jazz Standards & Ballads!",
+      "venue": "CCNU",
+      "date": "2026-10-22",
+      "ticketUrl": "https://livepass.com.ar/events/jazz-standards-ballads-en-ccnu",
       "source": "livepass"
     },
     {
@@ -352,13 +317,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Astor's Back In Town",
-      "venue": "CCNU",
-      "date": "2026-10-28",
-      "ticketUrl": "https://livepass.com.ar/events/astor-s-back-in-town-en-ccnu",
-      "source": "livepass"
-    },
-    {
       "artist": "Hernán Romero",
       "venue": "Café Berlín",
       "date": "2026-10-28",
@@ -384,13 +342,6 @@
       "venue": "CCNU",
       "date": "2026-10-29",
       "ticketUrl": "https://livepass.com.ar/events/jazz-after-hours-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-29",
       "source": "livepass"
     },
     {
@@ -517,6 +468,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-04",
       "ticketUrl": "https://livepass.com.ar/events/blue-art-jorge-migoya-rocio-gimenez-lopez-quinteto-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Astor's Back In Town",
+      "venue": "CCNU",
+      "date": "2026-11-05",
+      "ticketUrl": "https://livepass.com.ar/events/astor-s-back-in-town-en-ccnu",
       "source": "livepass"
     },
     {
@@ -685,13 +643,6 @@
       "venue": "CCNU",
       "date": "2026-11-13",
       "ticketUrl": "https://livepass.com.ar/events/bi-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "La Jarana",
-      "venue": "Café Berlín",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/la-jarana-en-cafe-berlin",
       "source": "livepass"
     },
     {
