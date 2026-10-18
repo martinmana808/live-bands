@@ -108,14 +108,8 @@
     ]
   },
   "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-10-03",
+    "fetchedAt": "2026-10-18",
     "sessions": [
-      {
-        "date": "2026-10-17",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Matthias Goerne"
-      },
       {
         "date": "2026-12-08",
         "venue": "Teatro Colón",
@@ -200,7 +194,7 @@
     ]
   },
   "los-pericos-tgr": {
-    "fetchedAt": "2026-10-03",
+    "fetchedAt": "2026-10-18",
     "sessions": [
       {
         "date": "2026-10-22",

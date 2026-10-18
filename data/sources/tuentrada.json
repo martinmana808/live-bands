@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17",
+  "fetchedAt": "2026-10-18",
   "events": [
     {
       "artist": "Raphael",
@@ -90,13 +90,6 @@
       "venue": "Teatro Colón",
       "date": "2026-10-23",
       "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Matthias Goerne",
-      "venue": "Teatro Colón",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
       "source": "tuentrada"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17",
+  "fetchedAt": "2026-10-18",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,55 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pedro Velázquez",
-      "venue": "CCNU",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/pedro-velazquez-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "LOS PEREZ GARCIA",
-      "venue": "Club Re Quilmes",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/los-perez-garcia-en-club-re",
-      "source": "livepass"
-    },
-    {
-      "artist": "DANCING MOOD",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/dancing-mood-en-el-teatro-opera-lp-2026-10-17",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pez",
-      "venue": "Café Berlín",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/pez-en-cafe-berlin-2026-10-17-20",
-      "source": "livepass"
-    },
-    {
-      "artist": "NOCHE FRIA",
-      "venue": "San Miguel",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/noche-fria-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "ENRAMADA + Bulos - Martínez",
-      "venue": "CCNU",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/enramada-bulos-martinez-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Interpaul",
-      "venue": "Café Berlín",
-      "date": "2026-10-17",
-      "ticketUrl": "https://livepass.com.ar/events/interpaul-en-cafe-berlin-2026-10-17-23-00-00-0300",
       "source": "livepass"
     },
     {

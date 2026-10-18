@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-10-17",
+  "fetchedAt": "2026-10-18",
   "events": [
-    {
-      "artist": "Ainda",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/ainda-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Máquina Camaleón – Solito World Tour",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "ARKADIA PRESENTA: EL FIN DE LA NOSTALGIA",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/arkadia-presenta-el-fin-de-la-nostalgia-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "BESARABIA pres. BABAN & VASCO",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/besarabia-pres-baban-vasco-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "GENESIS VOL. 2",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/genesis-vol-2-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY",
-      "venue": "Niceto Club",
-      "date": "2026-10-16",
-      "ticketUrl": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
-      "source": "niceto"
-    },
     {
       "artist": "\"2 TIERRAS ROCK\"",
       "venue": "Niceto Club",

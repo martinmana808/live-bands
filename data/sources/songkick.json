@@ -1,30 +1,6 @@
 {
-  "fetchedAt": "2026-10-17",
+  "fetchedAt": "2026-10-18",
   "events": [
-    {
-      "artist": "SISTEMA DE ENTRETENIMIENTO",
-      "venue": "Casa Colombo Cantina Club",
-      "date": "2026-10-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Mortiis",
-      "venue": "Club Cultural Bula",
-      "date": "2026-10-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Pez De Buenos Aires",
-      "venue": "Café Berlín Buenos Aires",
-      "date": "2026-10-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "Suena Primavera 2026",
-      "venue": "Centro Cultural Thames",
-      "date": "2026-10-17",
-      "source": "songkick"
-    },
     {
       "artist": "Pimpinela",
       "venue": "Movistar Arena",
@@ -299,6 +275,30 @@
       "artist": "OneUs",
       "venue": "Groove",
       "date": "2026-11-04",
+      "source": "songkick"
+    },
+    {
+      "artist": "Def Leppard",
+      "venue": "Movistar Arena",
+      "date": "2026-11-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lewis OfMan",
+      "venue": "Niceto Club",
+      "date": "2026-11-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "Teresa Cristina",
+      "venue": "La Trastienda",
+      "date": "2026-11-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "It's All Red",
+      "venue": "La Quadra Bar",
+      "date": "2026-11-05",
       "source": "songkick"
     }
   ]
