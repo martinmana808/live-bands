@@ -1,127 +1,5 @@
 [
   {
-    "id": "2tierrasrock-2026-10-17-niceto",
-    "shortId": "2hybp2n",
-    "artist": "\"2 TIERRAS ROCK\"",
-    "artistKey": "2tierrasrock",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/2-tierras-rock-en-vivo-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
-    "id": "cientificosdelpalo-2026-10-17-niceto",
-    "shortId": "268bklk",
-    "artist": "Cientificos del Palo",
-    "artistKey": "cientificosdelpalo",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/cientificos-del-palo-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "0zBXOHR1zgy9N8rOQNqt25",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17831177dcc244fe2586cd8072b",
-    "genres": [
-      "rock"
-    ],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
-    "id": "club69-2026-10-17-niceto",
-    "shortId": "2hiodsx",
-    "artist": "Club 69",
-    "artistKey": "club69",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-17-oct-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "genres": [],
-    "firstSeenAt": "2026-10-02"
-  },
-  {
-    "id": "clublabproduccionesxpandaxmaktubexperience-2026-10-17-niceto",
-    "shortId": "1034cbs",
-    "artist": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE",
-    "artistKey": "clublabproduccionesxpandaxmaktubexperience",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-lab-producciones-x-panda-x-maktub-experience-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
-    "id": "lacontroversia-2026-10-17-niceto",
-    "shortId": "a4o072x",
-    "artist": "La Controversia",
-    "artistKey": "lacontroversia",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-controversia-presenta-estamos-en-salsa-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
-    "id": "nicetowhiskybar-2026-10-17-niceto",
-    "shortId": "xm7eab4",
-    "artist": "NICETO WHISKY BAR",
-    "artistKey": "nicetowhiskybar",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/niceto-whisky-bar-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
     "id": "raphael-2026-10-17-granrex",
     "shortId": "2mmoq90",
     "artist": "Raphael",
@@ -146,26 +24,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "vinilosintimos-2026-10-17-niceto",
-    "shortId": "2bfhk16",
-    "artist": "Vinilos Íntimos",
-    "artistKey": "vinilosintimos",
-    "date": "2026-10-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/vinilos-ntimos-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-10"
-  },
-  {
     "id": "elultimovecino-2026-10-18-culturalbula",
     "shortId": "bk76rex",
     "artist": "El Último Vecino",
@@ -182,46 +40,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b185c56dfc7e2fc3a60508b",
     "genres": [],
     "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "guillesaroka-2026-10-18-ccnu",
-    "shortId": "18rf0pw",
-    "artist": "Guille Saroka",
-    "artistKey": "guillesaroka",
-    "date": "2026-10-18",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/guille-saroka-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "juicynise-2026-10-18-niceto",
-    "shortId": "1p3kp0j",
-    "artist": "Juicy Nise",
-    "artistKey": "juicynise",
-    "date": "2026-10-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "0MSw8gYA4pujLZst10Zve8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789506de9825d1ac4acc432767",
-    "genres": [],
-    "firstSeenAt": "2026-09-29"
   },
   {
     "id": "mambaclvb-2026-10-18-niceto",
@@ -242,26 +60,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "palo-2026-10-18-guajiralp",
-    "shortId": "tna17ln",
-    "artist": "PALO",
-    "artistKey": "palo",
-    "date": "2026-10-18",
-    "venue": "Guajira LP",
-    "venueKey": "guajiralp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "US",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-17"
   },
   {
     "id": "pimpinela-2026-10-18-movistararena",
@@ -298,26 +96,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "tresmundos-2026-10-18-cafeberlin",
-    "shortId": "15p89p9",
-    "artist": "Tres Mundos",
-    "artistKey": "tresmundos",
-    "date": "2026-10-18",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/tres-mundos-en-cafe-berlin-2026-10-18-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "7dzRqPGbbJECQk6p1QD3Ht",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178587e454c0175d29e39a0673b",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "kneecap-2026-10-19-ccomplejoartmedia",
@@ -3796,6 +3574,29 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "emba-2026-11-09-cafeberlin",
+    "shortId": "2ojrx72",
+    "artist": "EMBA",
+    "artistKey": "emba",
+    "date": "2026-11-09",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/emba-canciones-de-autor-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "718ksZSrtH1230gfJwkMrU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9a1be0f144dddd45b5b3e4d",
+    "genres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "firstSeenAt": "2026-10-19"
+  },
+  {
     "id": "mazemoraylosmetegoles-2026-11-09-niceto",
     "shortId": "1c9j4l8",
     "artist": "Máze + Mora y los Metegoles",
@@ -4742,6 +4543,26 @@
       "trap latino"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "sofiaviola-2026-11-20-cafeberlin",
+    "shortId": "1gpmdrv",
+    "artist": "Sofía Viola",
+    "artistKey": "sofiaviola",
+    "date": "2026-11-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sofia-viola-en-cafe-berlin-2026-11-20-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "4sJIwgaLC0VVZpK3LriAtT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4f0b27f91ed18c5809f76be",
+    "genres": [],
+    "firstSeenAt": "2026-10-19"
   },
   {
     "id": "temporadadeelefantes-2026-11-20-niceto",

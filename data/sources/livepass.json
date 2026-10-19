@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18",
+  "fetchedAt": "2026-10-19",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,27 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "PALO - MÁS ALLÁ TOUR",
-      "venue": "Guajira LP",
-      "date": "2026-10-18",
-      "ticketUrl": "https://livepass.com.ar/events/paloma-lopez-diaz-mas-alla-tour-en-guajira-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Tres Mundos",
-      "venue": "Café Berlín",
-      "date": "2026-10-18",
-      "ticketUrl": "https://livepass.com.ar/events/tres-mundos-en-cafe-berlin-2026-10-18-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Guille Saroka",
-      "venue": "CCNU",
-      "date": "2026-10-18",
-      "ticketUrl": "https://livepass.com.ar/events/guille-saroka-en-ccnu",
       "source": "livepass"
     },
     {
@@ -527,6 +506,13 @@
       "source": "livepass"
     },
     {
+      "artist": "EMBA - Canciones de Autor",
+      "venue": "Café Berlín",
+      "date": "2026-11-09",
+      "ticketUrl": "https://livepass.com.ar/events/emba-canciones-de-autor-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Los Demás son un Montón - Ezequiel Campa & Agustina Aguilar",
       "venue": "Café Berlín",
       "date": "2026-11-10",
@@ -685,6 +671,13 @@
       "venue": "CCNU",
       "date": "2026-11-20",
       "ticketUrl": "https://livepass.com.ar/events/carcamo-sexteto-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sofía Viola",
+      "venue": "Café Berlín",
+      "date": "2026-11-20",
+      "ticketUrl": "https://livepass.com.ar/events/sofia-viola-en-cafe-berlin-2026-11-20-23-00-00-0300",
       "source": "livepass"
     },
     {
