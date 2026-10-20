@@ -1,29 +1,5 @@
 [
   {
-    "id": "raphael-2026-10-17-granrex",
-    "shortId": "2mmoq90",
-    "artist": "Raphael",
-    "artistKey": "raphael",
-    "date": "2026-10-17",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/raphael-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "ES",
-    "spotifyId": "796OSRuB0E9Hq55uTFL9U8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896822478799640119e30628a",
-    "genres": [
-      "latin ballad",
-      "canción melódica",
-      "pop"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "elultimovecino-2026-10-18-culturalbula",
     "shortId": "bk76rex",
     "artist": "El Último Vecino",
@@ -40,26 +16,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b185c56dfc7e2fc3a60508b",
     "genres": [],
     "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "mambaclvb-2026-10-18-niceto",
-    "shortId": "294ao4x",
-    "artist": "Mamba Clvb",
-    "artistKey": "mambaclvb",
-    "date": "2026-10-18",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mamba-clvb-after-show-jugo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "pimpinela-2026-10-18-movistararena",
@@ -118,30 +74,6 @@
       "gangsta rap"
     ],
     "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "raphael-2026-10-19-granrex",
-    "shortId": "1gaysf4",
-    "artist": "Raphael",
-    "artistKey": "raphael",
-    "date": "2026-10-19",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/raphael-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "ES",
-    "spotifyId": "796OSRuB0E9Hq55uTFL9U8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17896822478799640119e30628a",
-    "genres": [
-      "latin ballad",
-      "canción melódica",
-      "pop"
-    ],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "ironmaiden-2026-10-20-atleticohuracan",
@@ -609,6 +541,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-17"
+  },
+  {
+    "id": "kilombo-2026-10-22-niceto",
+    "shortId": "10gmny2",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-10-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-22-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
   },
   {
     "id": "lamaquinacamaleon-2026-10-22-niceto",
@@ -2430,6 +2382,26 @@
     "firstSeenAt": "2026-10-12"
   },
   {
+    "id": "santurronahalloween3110-2026-10-31-niceto",
+    "shortId": "279yliy",
+    "artist": "SANTURRONA | HALLOWEEN 31-10",
+    "artistKey": "santurronahalloween3110",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/santurrona-halloween-31-10-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
     "id": "tiplingrock-2026-10-31-theroxylive",
     "shortId": "c5fp8us",
     "artist": "Tipling Rock",
@@ -2979,6 +2951,26 @@
     "firstSeenAt": "2026-10-13"
   },
   {
+    "id": "singersinjam-2026-11-05-ccnu",
+    "shortId": "vbruq7x",
+    "artist": "Singers in Jam",
+    "artistKey": "singersinjam",
+    "date": "2026-11-05",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-05-21-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
     "id": "teresacristina-2026-11-05-trastienda",
     "shortId": "fu9qx0a",
     "artist": "Teresa Cristina",
@@ -3038,6 +3030,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "marcelamorelo-2026-11-06-granrex",
+    "shortId": "hi3n8iv",
+    "artist": "Marcela Morelo",
+    "artistKey": "marcelamorelo",
+    "date": "2026-11-06",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/marcela-morelo-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "63xFjf6Ww22O5gHrBP79G9",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783edb7d1695740d6ef00bb9f6",
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
   },
   {
     "id": "planeadorv-2026-11-06-niceto",
@@ -4375,6 +4387,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "ivansalolosparacaidistas-2026-11-19-niceto",
+    "shortId": "2ooiyl1",
+    "artist": "IVAN SALO & Los Paracaidistas",
+    "artistKey": "ivansalolosparacaidistas",
+    "date": "2026-11-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ivan-salo-los-paracaidistas-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
     "id": "pipocipolatti-2026-11-19-cafeberlin",
     "shortId": "275l70k",
     "artist": "Pipo Cipolatti",
@@ -5398,6 +5430,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "lachanchamuda-2026-11-28-niceto",
+    "shortId": "12vreq6",
+    "artist": "La Chancha Muda",
+    "artistKey": "lachanchamuda",
+    "date": "2026-11-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-chancha-muda-antes-que-se-abra-el-corral-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "3q7B22drORYGk4srVegr3T",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
     "id": "laportuaria-2026-11-28-requilmes",
     "shortId": "z1kgy9b",
     "artist": "LA PORTUARIA",
@@ -6170,6 +6222,26 @@
     "firstSeenAt": "2026-09-17"
   },
   {
+    "id": "estelares-2026-12-11-salaginasteraargentinoplata",
+    "shortId": "1nnx2m6",
+    "artist": "ESTELARES",
+    "artistKey": "estelares",
+    "date": "2026-12-11",
+    "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+    "venueKey": "salaginasteraargentinoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "6Nm62oNQCdPxVoiQtFSksF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783871e4d0a7cdd3946d3dbaf3",
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
     "id": "arielzurdoaraoz-2026-12-12-cafeberlin",
     "shortId": "29rqnr7",
     "artist": "Ariel “Zurdo” Araoz",
@@ -6188,6 +6260,46 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d000048517dfadc4f7805f8801ce48a87",
     "genres": [],
     "firstSeenAt": "2026-10-16"
+  },
+  {
+    "id": "elunipersonaldeluchomellera-2026-12-12-salaginasteraargentinoplata",
+    "shortId": "20sh7hx",
+    "artist": "EL UNIPERSONAL DE LUCHO MELLERA",
+    "artistKey": "elunipersonaldeluchomellera",
+    "date": "2026-12-12",
+    "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+    "venueKey": "salaginasteraargentinoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/el-unipersonal-de-lucho-mellera-en-la-sala-ginastera-teatro-argentino-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "mimimaura-2026-12-12-niceto",
+    "shortId": "1tdk2kf",
+    "artist": "MIMI MAURA",
+    "artistKey": "mimimaura",
+    "date": "2026-12-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/mimi-maura-presenta-bailar-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "4VKHNaUBImLsxPOCdG5Mwl",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cf7c07b47ce0680fbcde54b",
+    "genres": [],
+    "firstSeenAt": "2026-10-20"
   },
   {
     "id": "supervoscierraelano-2026-12-12-niceto",
@@ -6516,26 +6628,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78acf935785a85d179a03ef",
     "genres": [],
     "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "lachanchamuda-2026-12-28-niceto",
-    "shortId": "634ntqa",
-    "artist": "La Chancha Muda",
-    "artistKey": "lachanchamuda",
-    "date": "2026-12-28",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-chancha-muda-antes-que-se-abra-el-corral-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "3q7B22drORYGk4srVegr3T",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
-    "genres": [],
-    "firstSeenAt": "2026-10-17"
   },
   {
     "id": "donavon-2027-02-14-niceto",

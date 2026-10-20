@@ -1,21 +1,4 @@
 {
-  "raphael-tgr": {
-    "fetchedAt": "2026-10-14",
-    "sessions": [
-      {
-        "date": "2026-10-17",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Raphael"
-      },
-      {
-        "date": "2026-10-19",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Raphael"
-      }
-    ]
-  },
   "abel-pintos-tgr": {
     "fetchedAt": "2026-10-14",
     "sessions": [
@@ -73,6 +56,29 @@
       }
     ]
   },
+  "ntvg-gira": {
+    "fetchedAt": "2026-10-14",
+    "sessions": [
+      {
+        "date": "2026-11-20",
+        "venue": "Complejo Aeropuerto De San Andres De Giles",
+        "city": "San Andres De Giles",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-21",
+        "venue": "Club Aleman",
+        "city": "Villa Ballester",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-22",
+        "venue": "Qac Estacionamiento",
+        "city": "Quilmes",
+        "name": "No Te Va Gustar"
+      }
+    ]
+  },
   "ciclo-aura-teatrocolon": {
     "fetchedAt": "2026-10-14",
     "sessions": [
@@ -115,29 +121,6 @@
         "venue": "Teatro Colón",
         "city": "Buenos Aires",
         "name": "Asmik Grigorian"
-      }
-    ]
-  },
-  "ntvg-gira": {
-    "fetchedAt": "2026-10-14",
-    "sessions": [
-      {
-        "date": "2026-11-20",
-        "venue": "Complejo Aeropuerto De San Andres De Giles",
-        "city": "San Andres De Giles",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-21",
-        "venue": "Club Aleman",
-        "city": "Villa Ballester",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-22",
-        "venue": "Qac Estacionamiento",
-        "city": "Quilmes",
-        "name": "No Te Va Gustar"
       }
     ]
   },
@@ -251,6 +234,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Geronimo Rauch"
+      }
+    ]
+  },
+  "marcela-morelo-tgr": {
+    "fetchedAt": "2026-10-20",
+    "sessions": [
+      {
+        "date": "2026-11-06",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Marcela Morelo"
       }
     ]
   },

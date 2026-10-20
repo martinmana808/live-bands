@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-10-19",
+  "fetchedAt": "2026-10-20",
   "events": [
-    {
-      "artist": "Raphael",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-17",
-      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Raphael",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-19",
-      "ticketUrl": "https://www.tuentrada.com/raphael-tgr",
-      "source": "tuentrada"
-    },
     {
       "artist": "Abel Pintos",
       "venue": "Teatro Gran Rex",
@@ -65,6 +51,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "No Te Va Gustar",
+      "venue": "Qac Estacionamiento",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/ntvg-gira",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Freddie De Tommaso / Nadine Sierra",
       "venue": "Teatro Colón",
       "date": "2026-10-26",
@@ -97,13 +90,6 @@
       "venue": "Teatro Colón",
       "date": "2026-12-08",
       "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "No Te Va Gustar",
-      "venue": "Qac Estacionamiento",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/ntvg-gira",
       "source": "tuentrada"
     },
     {
@@ -188,6 +174,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-10",
       "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Marcela Morelo",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-06",
+      "ticketUrl": "https://www.tuentrada.com/marcela-morelo-tgr",
       "source": "tuentrada"
     },
     {

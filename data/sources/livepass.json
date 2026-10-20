@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19",
+  "fetchedAt": "2026-10-20",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -412,6 +412,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-05",
       "ticketUrl": "https://livepass.com.ar/events/jorge-vinas-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Singers in Jam",
+      "venue": "CCNU",
+      "date": "2026-11-05",
+      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-05-21-00-00-0300",
       "source": "livepass"
     },
     {
@@ -902,6 +909,20 @@
       "venue": "Café Berlín",
       "date": "2026-12-10",
       "ticketUrl": "https://livepass.com.ar/events/horacio-lavandera-en-cafe-berlin-2026-12-10-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "ESTELARES",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "EL UNIPERSONAL DE LUCHO MELLERA",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/el-unipersonal-de-lucho-mellera-en-la-sala-ginastera-teatro-argentino-la-plata",
       "source": "livepass"
     },
     {

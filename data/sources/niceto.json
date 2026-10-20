@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-10-19",
+  "fetchedAt": "2026-10-20",
   "events": [
-    {
-      "artist": "Mamba Clvb (after show jugo!)",
-      "venue": "Niceto Club",
-      "date": "2026-10-18",
-      "ticketUrl": "https://venti.live/evento/mamba-clvb-after-show-jugo-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
       "venue": "Niceto Club",
@@ -27,6 +20,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-22",
       "ticketUrl": "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-22-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "KILOMBO Jue 22 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-22",
+      "ticketUrl": "https://venti.live/evento/kilombo-jue-22-oct-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -216,6 +216,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-31",
       "ticketUrl": "https://venti.live/evento/fiesta-mermelada-halloween-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SANTURRONA | HALLOWEEN 31-10",
+      "venue": "Niceto Club",
+      "date": "2026-10-31",
+      "ticketUrl": "https://venti.live/evento/santurrona-halloween-31-10-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -457,6 +464,13 @@
       "source": "niceto"
     },
     {
+      "artist": "IVAN SALO  & Los Paracaidistas",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/ivan-salo-los-paracaidistas-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Un Muerto Más",
       "venue": "Niceto Club",
       "date": "2026-11-20",
@@ -597,6 +611,13 @@
       "source": "niceto"
     },
     {
+      "artist": "La Chancha Muda - Antes que se abra el corral",
+      "venue": "Niceto Club",
+      "date": "2026-11-28",
+      "ticketUrl": "https://venti.live/evento/la-chancha-muda-antes-que-se-abra-el-corral-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "Ciclo Void",
       "venue": "Niceto Club",
       "date": "2026-11-28",
@@ -702,6 +723,13 @@
       "source": "niceto"
     },
     {
+      "artist": "MIMI MAURA presenta Bailaré",
+      "venue": "Niceto Club",
+      "date": "2026-12-12",
+      "ticketUrl": "https://venti.live/evento/mimi-maura-presenta-bailar-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "SuperVos cierra el año",
       "venue": "Niceto Club",
       "date": "2026-12-12",
@@ -762,13 +790,6 @@
       "venue": "Niceto Club",
       "date": "2026-12-19",
       "ticketUrl": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Chancha Muda - Antes que se abra el corral",
-      "venue": "Niceto Club",
-      "date": "2026-12-28",
-      "ticketUrl": "https://venti.live/evento/la-chancha-muda-antes-que-se-abra-el-corral-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
