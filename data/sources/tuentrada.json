@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20",
+  "fetchedAt": "2026-10-21",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -51,10 +51,45 @@
       "source": "tuentrada"
     },
     {
-      "artist": "No Te Va Gustar",
-      "venue": "Qac Estacionamiento",
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
       "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/ntvg-gira",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
       "source": "tuentrada"
     },
     {
@@ -93,45 +128,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
+      "artist": "No Te Va Gustar",
+      "venue": "Qac Estacionamiento",
       "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "ticketUrl": "https://www.tuentrada.com/ntvg-gira",
       "source": "tuentrada"
     },
     {
@@ -170,17 +170,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Geronimo Rauch",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-12-10",
-      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Marcela Morelo",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-06",
       "ticketUrl": "https://www.tuentrada.com/marcela-morelo-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Geronimo Rauch",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-10",
+      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
       "source": "tuentrada"
     },
     {

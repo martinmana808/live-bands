@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-10-18",
+  "fetchedAt": "2026-10-21",
   "events": [
-    {
-      "artist": "Pimpinela",
-      "venue": "Movistar Arena",
-      "date": "2026-10-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "El Último Vecino",
-      "venue": "Club Cultural Bula",
-      "date": "2026-10-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "SMASHED FEST 2026",
-      "venue": "Espacio Rincón",
-      "date": "2026-10-18",
-      "source": "songkick"
-    },
-    {
-      "artist": "kneecap",
-      "venue": "C Complejo Art Media",
-      "date": "2026-10-19",
-      "source": "songkick"
-    },
-    {
-      "artist": "Iron Maiden",
-      "venue": "Estadio Club Atletico Huracan",
-      "date": "2026-10-20",
-      "source": "songkick"
-    },
     {
       "artist": "Iron Maiden",
       "venue": "Estadio Club Atletico Huracan",
@@ -86,12 +56,6 @@
       "source": "songkick"
     },
     {
-      "artist": "Ramones on 45",
-      "venue": "Salas Ciro",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
       "artist": "Malevolent Creation",
       "venue": "El Teatrito",
       "date": "2026-10-23",
@@ -104,8 +68,8 @@
       "source": "songkick"
     },
     {
-      "artist": "Ramones on 45",
-      "venue": "Cemento",
+      "artist": "Cecilia Zabala",
+      "venue": "Sociedad Italiana de Morón",
       "date": "2026-10-23",
       "source": "songkick"
     },
@@ -299,6 +263,42 @@
       "artist": "It's All Red",
       "venue": "La Quadra Bar",
       "date": "2026-11-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "Noelia Sinkunas",
+      "venue": "Galpón B",
+      "date": "2026-11-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "Akriila",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fran Busso and Callejón González",
+      "venue": "El Terzo Posto",
+      "date": "2026-11-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Crim",
+      "venue": "Club Cultural Bula",
+      "date": "2026-11-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "It's All Red",
+      "venue": "Jony Bar",
+      "date": "2026-11-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Los Sub",
+      "venue": "Lalalá",
+      "date": "2026-11-06",
       "source": "songkick"
     }
   ]

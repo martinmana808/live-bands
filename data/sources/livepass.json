@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20",
+  "fetchedAt": "2026-10-21",
   "events": [
     {
       "artist": "IRON MAIDEN",
@@ -76,13 +76,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "La Pardo Big Band",
-      "venue": "Café Berlín",
-      "date": "2026-10-20",
-      "ticketUrl": "https://livepass.com.ar/events/la-pardo-big-band-en-cafe-berlin-2026-10-20-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -748,6 +741,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-26",
       "ticketUrl": "https://livepass.com.ar/events/serie-2-en-cafe-berlin-2026-11-26-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Música No Disponible",
+      "venue": "Internet en Café Berlín",
+      "date": "2026-11-26",
+      "ticketUrl": "https://livepass.com.ar/events/musica-no-disponible-en-internet-en-cafe-berlin",
       "source": "livepass"
     },
     {

@@ -1,103 +1,5 @@
 [
   {
-    "id": "elultimovecino-2026-10-18-culturalbula",
-    "shortId": "bk76rex",
-    "artist": "El Último Vecino",
-    "artistKey": "elultimovecino",
-    "date": "2026-10-18",
-    "venue": "Club Cultural Bula",
-    "venueKey": "culturalbula",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "ES",
-    "spotifyId": "7pMvkMVRImOSDAicV69zAX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b185c56dfc7e2fc3a60508b",
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "pimpinela-2026-10-18-movistararena",
-    "shortId": "2mc8qby",
-    "artist": "Pimpinela",
-    "artistKey": "pimpinela",
-    "date": "2026-10-18",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "7E7CVSqFdLyh0K4AE9uTMo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fb7429e08829bf1ab3e5887f",
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "smashedfest2026-2026-10-18-espaciorincon",
-    "shortId": "2ix39oz",
-    "artist": "SMASHED FEST 2026",
-    "artistKey": "smashedfest2026",
-    "date": "2026-10-18",
-    "venue": "Espacio Rincón",
-    "venueKey": "espaciorincon",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "kneecap-2026-10-19-ccomplejoartmedia",
-    "shortId": "pwzfu2p",
-    "artist": "kneecap",
-    "artistKey": "kneecap",
-    "date": "2026-10-19",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "IE",
-    "spotifyId": "1ZVACPeq7ccGCoUXwtafUU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17889e7c69a7d827bcede0f4bad",
-    "genres": [
-      "hip hop",
-      "political hip hop",
-      "gangsta rap"
-    ],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "ironmaiden-2026-10-20-atleticohuracan",
-    "shortId": "2fi588o",
-    "artist": "Iron Maiden",
-    "artistKey": "ironmaiden",
-    "date": "2026-10-20",
-    "venue": "Estadio Club Atletico Huracan",
-    "venueKey": "atleticohuracan",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
-    "genres": [
-      "heavy metal",
-      "nwobhm",
-      "metal"
-    ],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
     "id": "ironmaiden-2026-10-20-huracan",
     "shortId": "u6mvich",
     "artist": "IRON MAIDEN",
@@ -119,26 +21,6 @@
       "nwobhm",
       "metal"
     ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lapardobigband-2026-10-20-cafeberlin",
-    "shortId": "12pu49k",
-    "artist": "La Pardo Big Band",
-    "artistKey": "lapardobigband",
-    "date": "2026-10-20",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-pardo-big-band-en-cafe-berlin-2026-10-20-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "7CRvmSc7wvM8xyM97mJarR",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485135b90954541f12c5c8219873",
-    "genres": [],
     "firstSeenAt": "2026-09-11"
   },
   {
@@ -666,24 +548,6 @@
     "firstSeenAt": "2026-10-03"
   },
   {
-    "id": "ramoneson45-2026-10-22-salasciro",
-    "shortId": "893er45",
-    "artist": "Ramones on 45",
-    "artistKey": "ramoneson45",
-    "date": "2026-10-22",
-    "venue": "Salas Ciro",
-    "venueKey": "salasciro",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-05"
-  },
-  {
     "id": "tomatesenverano-2026-10-22-social911",
     "shortId": "i3z84k5",
     "artist": "Tomates en Verano",
@@ -780,6 +644,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-23"
+  },
+  {
+    "id": "ceciliazabala-2026-10-23-sociedaditalianamoron",
+    "shortId": "29cuvuf",
+    "artist": "Cecilia Zabala",
+    "artistKey": "ceciliazabala",
+    "date": "2026-10-23",
+    "venue": "Sociedad Italiana de Morón",
+    "venueKey": "sociedaditalianamoron",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "6eqOpzqZRWWVxv31nYX3Ku",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17898b16fe430faabca0dd598b2",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
   },
   {
     "id": "cicloroto-2026-10-23-niceto",
@@ -961,24 +843,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-09"
-  },
-  {
-    "id": "ramoneson45-2026-10-23-cemento",
-    "shortId": "1lcv9ll",
-    "artist": "Ramones on 45",
-    "artistKey": "ramoneson45",
-    "date": "2026-10-23",
-    "venue": "Cemento",
-    "venueKey": "cemento",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-07"
   },
   {
     "id": "self-2026-10-23-niceto",
@@ -1954,26 +1818,6 @@
     "firstSeenAt": "2026-10-11"
   },
   {
-    "id": "brunoalbano-2026-10-30-niceto",
-    "shortId": "21v61bf",
-    "artist": "BRUNO ALBANO",
-    "artistKey": "brunoalbano",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/bruno-albano-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "5SPn97xEYlWyf9SYzzD731",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788bc1ed1a814f6fc4acc9dc63",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "cds-2026-10-30-ccnu",
     "shortId": "htg5r69",
     "artist": "CDS",
@@ -2220,6 +2064,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-16"
+  },
+  {
+    "id": "brunoalbano-2026-10-31-niceto",
+    "shortId": "1s3kyas",
+    "artist": "BRUNO ALBANO",
+    "artistKey": "brunoalbano",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bruno-albano-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "5SPn97xEYlWyf9SYzzD731",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788bc1ed1a814f6fc4acc9dc63",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
   },
   {
     "id": "club6931octhalloween-2026-10-31-niceto",
@@ -2911,6 +2775,24 @@
     "firstSeenAt": "2026-10-13"
   },
   {
+    "id": "noeliasinkunas-2026-11-05-galponb",
+    "shortId": "2nvdatj",
+    "artist": "Noelia Sinkunas",
+    "artistKey": "noeliasinkunas",
+    "date": "2026-11-05",
+    "venue": "Galpón B",
+    "venueKey": "galponb",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "4HUdSdEPd2TFlEBO334EuF",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787364efe68934932142231396",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
     "id": "orlandocurtithegrooveseekers-2026-11-05-cafeberlin",
     "shortId": "1c4j5v9",
     "artist": "Orlando Curti & The Groove Seekers",
@@ -2992,6 +2874,60 @@
     "firstSeenAt": "2026-10-18"
   },
   {
+    "id": "akriila-2026-11-06-ccomplejoartmedia",
+    "shortId": "268t6rf",
+    "artist": "Akriila",
+    "artistKey": "akriila",
+    "date": "2026-11-06",
+    "venue": "C Complejo Art Media",
+    "venueKey": "ccomplejoartmedia",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "39hfuTf4PHfnHgIl0QBDGL",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd8bc141bc8afa6f086346a5",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
+    "id": "crim-2026-11-06-culturalbula",
+    "shortId": "1lic0sf",
+    "artist": "Crim",
+    "artistKey": "crim",
+    "date": "2026-11-06",
+    "venue": "Club Cultural Bula",
+    "venueKey": "culturalbula",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
+    "id": "franbussoandcallejongonzalez-2026-11-06-terzoposto",
+    "shortId": "1rw1zvm",
+    "artist": "Fran Busso and Callejón González",
+    "artistKey": "franbussoandcallejongonzalez",
+    "date": "2026-11-06",
+    "venue": "El Terzo Posto",
+    "venueKey": "terzoposto",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
     "id": "insomnes-2026-11-06-cafeberlin",
     "shortId": "17tctvq",
     "artist": "Insomnes",
@@ -3012,6 +2948,24 @@
     "firstSeenAt": "2026-10-07"
   },
   {
+    "id": "itsallred-2026-11-06-jony",
+    "shortId": "qgib10v",
+    "artist": "It's All Red",
+    "artistKey": "itsallred",
+    "date": "2026-11-06",
+    "venue": "Jony Bar",
+    "venueKey": "jony",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0qPJYXTdVEFI7zdBseipYp",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842bcc496a8b910d8b419d03c",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
     "id": "karaokecancionesdesenoras-2026-11-06-niceto",
     "shortId": "7m40w9n",
     "artist": "Karaoke canciones de señoras",
@@ -3030,6 +2984,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "lossub-2026-11-06-lalala",
+    "shortId": "lf50n9c",
+    "artist": "Los Sub",
+    "artistKey": "lossub",
+    "date": "2026-11-06",
+    "venue": "Lalalá",
+    "venueKey": "lalala",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
   },
   {
     "id": "marcelamorelo-2026-11-06-granrex",
@@ -3362,6 +3334,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "fooddrinks-2026-11-07-niceto",
+    "shortId": "bdebhus",
+    "artist": "FOOD & DRINKS",
+    "artistKey": "fooddrinks",
+    "date": "2026-11-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/food-drinks-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
     "id": "javiercalamaro-2026-11-07-cafeberlin",
     "shortId": "fbeerlu",
     "artist": "Javier Calamaro",
@@ -3584,6 +3576,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bb6365fcf3e75912f7f5bf7c",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "chinwezz-2026-11-09-niceto",
+    "shortId": "kmizywn",
+    "artist": "CHINWEZZ",
+    "artistKey": "chinwezz",
+    "date": "2026-11-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/chinwezz-en-niceto-gg-salort-y-fiesta-obligado-trasnoche-y-derroche-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "55TOeWjmviVoDqMVvVqqde",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781982cf089eb14a3f649f17ae",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
   },
   {
     "id": "emba-2026-11-09-cafeberlin",
@@ -5185,6 +5197,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "musicanodisponible-2026-11-26-internetencafeberlin",
+    "shortId": "2g6zi0r",
+    "artist": "Música No Disponible",
+    "artistKey": "musicanodisponible",
+    "date": "2026-11-26",
+    "venue": "Internet en Café Berlín",
+    "venueKey": "internetencafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/musica-no-disponible-en-internet-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
+  },
+  {
     "id": "serie2-2026-11-26-cafeberlin",
     "shortId": "2ihxmqg",
     "artist": "Serie 2",
@@ -5698,6 +5730,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "arkadia-2026-12-03-niceto",
+    "shortId": "1h8gco4",
+    "artist": "ARKADIA",
+    "artistKey": "arkadia",
+    "date": "2026-12-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/arkadia-presenta-el-fin-de-la-nostalgia-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1bKkPsraDYfv8XxQMG1Yyq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d484013947ba6f7e5d62bdf6",
+    "genres": [],
+    "firstSeenAt": "2026-10-21"
   },
   {
     "id": "juanfaluclaracantore-2026-12-03-cafeberlin",
