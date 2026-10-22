@@ -45,17 +45,6 @@
       }
     ]
   },
-  "djavan-tgr": {
-    "fetchedAt": "2026-10-14",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Djavan"
-      }
-    ]
-  },
   "boda-lyniel-tgr": {
     "fetchedAt": "2026-10-14",
     "sessions": [
@@ -94,6 +83,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Boda Lyniel"
+      }
+    ]
+  },
+  "djavan-tgr": {
+    "fetchedAt": "2026-10-14",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Djavan"
       }
     ]
   },
@@ -238,7 +238,7 @@
     ]
   },
   "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-07",
+    "fetchedAt": "2026-10-22",
     "sessions": [
       {
         "date": "2026-12-10",

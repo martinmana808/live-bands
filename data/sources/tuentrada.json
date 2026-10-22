@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21",
+  "fetchedAt": "2026-10-22",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -44,52 +44,52 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-01",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-08",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Boda Lyniel",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-22",
+      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Djavan",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-22",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
       "source": "tuentrada"
     },
     {

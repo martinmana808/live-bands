@@ -1,29 +1,5 @@
 [
   {
-    "id": "ironmaiden-2026-10-20-huracan",
-    "shortId": "u6mvich",
-    "artist": "IRON MAIDEN",
-    "artistKey": "ironmaiden",
-    "date": "2026-10-20",
-    "venue": "Huracán",
-    "venueKey": "huracan",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/iron-maiden-en-huracan"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "GB",
-    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
-    "genres": [
-      "heavy metal",
-      "nwobhm",
-      "metal"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "melissaaldana-2026-10-20-salamartincoronado",
     "shortId": "17ezdke",
     "artist": "Melissa Aldana",
@@ -89,26 +65,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "homogenicafesteja1anodepostpop-2026-10-21-niceto",
-    "shortId": "10up8hc",
-    "artist": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”",
-    "artistKey": "homogenicafesteja1anodepostpop",
-    "date": "2026-10-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
     "id": "ironmaiden-2026-10-21-atleticohuracan",
     "shortId": "sctbmak",
     "artist": "Iron Maiden",
@@ -129,90 +85,6 @@
       "metal"
     ],
     "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "ironmaiden-2026-10-21-huracan",
-    "shortId": "26yempw",
-    "artist": "IRON MAIDEN",
-    "artistKey": "ironmaiden",
-    "date": "2026-10-21",
-    "venue": "Huracán",
-    "venueKey": "huracan",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/iron-maiden-en-huracan"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "GB",
-    "spotifyId": "6mdiAmATAx73kdxrNrnlao",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19",
-    "genres": [
-      "heavy metal",
-      "nwobhm",
-      "metal"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lilianaherrero-2026-10-21-cafeberlin",
-    "shortId": "1g6bp8h",
-    "artist": "Liliana Herrero",
-    "artistKey": "lilianaherrero",
-    "date": "2026-10-21",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/liliana-herrero-en-cafe-berlin-2026-10-21-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "6iqeypk1XRa2zQVRcIVmlF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17818b6970b32cd0eefb63c02c8",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "monzani-2026-10-21-ccnu",
-    "shortId": "zcx6y7w",
-    "artist": "Monzani",
-    "artistKey": "monzani",
-    "date": "2026-10-21",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/monzani-acosta-villanueva-perez-garber-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3YKzn7fUZcDU00vQTajHDW",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "soycalifadextergordontribute-2026-10-21-ccnu",
-    "shortId": "2gs7gsw",
-    "artist": "Soy Califa! Dexter Gordon Tribute",
-    "artistKey": "soycalifadextergordontribute",
-    "date": "2026-10-21",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/soy-califa-dexter-gordon-tribute-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
   },
   {
     "id": "aitana-2026-10-22-movistararena",
@@ -762,6 +634,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-08"
+  },
+  {
+    "id": "latinpianobar-2026-10-23-niceto",
+    "shortId": "7ubtaza",
+    "artist": "LATIN PIANO BAR",
+    "artistKey": "latinpianobar",
+    "date": "2026-10-23",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/latin-piano-bar-23-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "malevolentcreation-2026-10-23-teatrito",
@@ -1696,6 +1588,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "singersinjam-2026-10-29-ccnu",
+    "shortId": "1d6hc96",
+    "artist": "Singers in Jam",
+    "artistKey": "singersinjam",
+    "date": "2026-10-29",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-29"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-15"
+  },
+  {
     "id": "sofiacampos-2026-10-29-biribiri",
     "shortId": "2h1iwoz",
     "artist": "Sofía Campos",
@@ -2064,6 +1976,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-16"
+  },
+  {
+    "id": "bamhxmusicology-2026-10-31-niceto",
+    "shortId": "7fweuxg",
+    "artist": "BAMH X MUSICOLOGY",
+    "artistKey": "bamhxmusicology",
+    "date": "2026-10-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bamh-x-musicology-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "brunoalbano-2026-10-31-niceto",
@@ -2547,6 +2479,26 @@
     "firstSeenAt": "2026-10-17"
   },
   {
+    "id": "ax4-2026-11-04-ccnu",
+    "shortId": "1tef03b",
+    "artist": "A x 4",
+    "artistKey": "ax4",
+    "date": "2026-11-04",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/a-x-4-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "adanowsky-2026-11-04-trastienda",
     "shortId": "mmr4rwj",
     "artist": "Adanowsky",
@@ -2563,6 +2515,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c0b5bc0416831b390830f41",
     "genres": [],
     "firstSeenAt": "2026-10-17"
+  },
+  {
+    "id": "arrua-2026-11-04-ccnu",
+    "shortId": "24ie604",
+    "artist": "Arrúa",
+    "artistKey": "arrua",
+    "date": "2026-11-04",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/arrua-ceccoli-deluka-de-vita-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "0gwr5PDM5FgvXE1VaaavNT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f3e840d524fc6608dc247d0e",
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "blueart-2026-11-04-cafeberlin",
@@ -2885,10 +2857,14 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "CL",
     "spotifyId": "39hfuTf4PHfnHgIl0QBDGL",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bd8bc141bc8afa6f086346a5",
-    "genres": [],
+    "genres": [
+      "alternative pop",
+      "alternative r&b",
+      "neoperreo"
+    ],
     "firstSeenAt": "2026-10-21"
   },
   {
@@ -3701,6 +3677,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "lospablosjazztrio-2026-11-11-ccnu",
+    "shortId": "1eaz4vc",
+    "artist": "Los Pablos Jazz trio",
+    "artistKey": "lospablosjazztrio",
+    "date": "2026-11-11",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-pablos-jazz-trio-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "sudestada-2026-11-11-ccnu",
     "shortId": "1xa9kuu",
     "artist": "SUDESTADA",
@@ -3739,6 +3735,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935a2ae22c4a630373da5481",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "arritmia-2026-11-12-ccnu",
+    "shortId": "2k6asvf",
+    "artist": "Arritmia",
+    "artistKey": "arritmia",
+    "date": "2026-11-12",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/arritmia-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "CL",
+    "spotifyId": "6ASPNudsnfsRttSeorElRn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b5889c4ef1dbb1e59b2b30b4",
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "elciclofederal-2026-11-12-niceto",
@@ -3966,6 +3982,46 @@
     "firstSeenAt": "2026-09-20"
   },
   {
+    "id": "laanalogica-2026-11-13-niceto",
+    "shortId": "2d1mlkf",
+    "artist": "LA ANALÓGICA",
+    "artistKey": "laanalogica",
+    "date": "2026-11-13",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/la-anal-gica-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "losabuelos-2026-11-13-cafeberlin",
+    "shortId": "2qqz0v0",
+    "artist": "Los Abuelos",
+    "artistKey": "losabuelos",
+    "date": "2026-11-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-abuelos-la-musica-de-los-abuelos-de-la-nada-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "mila-2026-11-13-niceto",
     "shortId": "3ga23qo",
     "artist": "Mila",
@@ -4093,6 +4149,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "cirofogliatta-2026-11-14-ccnu",
+    "shortId": "1dc5yb2",
+    "artist": "Ciro Fogliatta",
+    "artistKey": "cirofogliatta",
+    "date": "2026-11-14",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ciro-fogliatta-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "0sQdu8OMB73qtv7YrRIpxA",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "doneurona-2026-11-14-cafeberlin",
     "shortId": "2426r3s",
     "artist": "Do Neurona",
@@ -4171,6 +4247,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "marruecoscromoformajazzquartet-2026-11-14-ccnu",
+    "shortId": "ldnsaqk",
+    "artist": "Marruecos / Cromoforma Jazz Quartet",
+    "artistKey": "marruecoscromoformajazzquartet",
+    "date": "2026-11-14",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/marruecos-cromoforma-jazz-quartet-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "oeisis-2026-11-14-niceto",
@@ -4357,6 +4453,46 @@
     "firstSeenAt": "2026-09-21"
   },
   {
+    "id": "thenotaloco5tet-2026-11-18-ccnu",
+    "shortId": "gla649c",
+    "artist": "The Notaloco 5tet",
+    "artistKey": "thenotaloco5tet",
+    "date": "2026-11-18",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-notaloco-5tet-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "villalba-2026-11-18-ccnu",
+    "shortId": "zt797tu",
+    "artist": "Villalba",
+    "artistKey": "villalba",
+    "date": "2026-11-18",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/villalba-loza-unzu-canzio-nawi-ls-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "3P0kB9ukB94l8ssZVvXgbI",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17805791c7e681c93eeadfb3963",
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "abelpintos-2026-11-19-granrex",
     "shortId": "1siz3au",
     "artist": "Abel Pintos",
@@ -4397,6 +4533,46 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "arias-2026-11-19-ccnu",
+    "shortId": "zoajpo4",
+    "artist": "Arias",
+    "artistKey": "arias",
+    "date": "2026-11-19",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/arias-induini-quevedo-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2GK6y5dmhaWM16VZxHiO15",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d5f3722365f4c81e278fa30",
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "blackradiolamusicadeglasper-2026-11-19-ccnu",
+    "shortId": "qoemeuy",
+    "artist": "Black Radio: La música de Glasper",
+    "artistKey": "blackradiolamusicadeglasper",
+    "date": "2026-11-19",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/black-radio-la-musica-de-glasper-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "ivansalolosparacaidistas-2026-11-19-niceto",
@@ -4587,6 +4763,26 @@
       "trap latino"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "orillasjazzensamble-2026-11-20-ccnu",
+    "shortId": "eb3r1c0",
+    "artist": "Orillas jazz ensamble",
+    "artistKey": "orillasjazzensamble",
+    "date": "2026-11-20",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/orillas-jazz-ensamble-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "sofiaviola-2026-11-20-cafeberlin",
@@ -5095,6 +5291,46 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784032c259b01181d1a15228d3",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "ellasingsgershwin-2026-11-25-ccnu",
+    "shortId": "1xa4c33",
+    "artist": "ELLA SINGS GERSHWIN",
+    "artistKey": "ellasingsgershwin",
+    "date": "2026-11-25",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ella-sings-gershwin-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "gerezdartesromeotrio-2026-11-25-ccnu",
+    "shortId": "11pw27l",
+    "artist": "Gerez, Dartes & Romeo Trío",
+    "artistKey": "gerezdartesromeotrio",
+    "date": "2026-11-25",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gerez-dartes-romeo-trio-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "germankaly-2026-11-25-cafeberlin",
@@ -5752,6 +5988,26 @@
     "firstSeenAt": "2026-10-21"
   },
   {
+    "id": "danielraffoamigos-2026-12-03-cafeberlin",
+    "shortId": "1qko8z1",
+    "artist": "Daniel Raffo & Amigos",
+    "artistKey": "danielraffoamigos",
+    "date": "2026-12-03",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/daniel-raffo-amigos-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
     "id": "juanfaluclaracantore-2026-12-03-cafeberlin",
     "shortId": "27l44qp",
     "artist": "Juan Falú & Clara Cantore",
@@ -6292,6 +6548,46 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783871e4d0a7cdd3946d3dbaf3",
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "paisanosdemarte-2026-12-11-niceto",
+    "shortId": "mhqqgzv",
+    "artist": "PAISANOS DE MARTE",
+    "artistKey": "paisanosdemarte",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/paisanos-de-marte-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "2MXYnnSoC4ow5V5KI3sIxa",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17876da2337ce07d703d5d93ac1",
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "valentincaba-2026-12-11-niceto",
+    "shortId": "11jezuj",
+    "artist": "Valentín Caba",
+    "artistKey": "valentincaba",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/valent-n-caba-acoustic-session-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "arielzurdoaraoz-2026-12-12-cafeberlin",
