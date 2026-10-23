@@ -86,14 +86,26 @@
       }
     ]
   },
-  "djavan-tgr": {
+  "ntvg-gira": {
     "fetchedAt": "2026-10-14",
     "sessions": [
       {
-        "date": "2026-11-24",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Djavan"
+        "date": "2026-11-20",
+        "venue": "Complejo Aeropuerto De San Andres De Giles",
+        "city": "San Andres De Giles",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-21",
+        "venue": "Club Aleman",
+        "city": "Villa Ballester",
+        "name": "No Te Va Gustar"
+      },
+      {
+        "date": "2026-11-22",
+        "venue": "Qac Estacionamiento",
+        "city": "Quilmes",
+        "name": "No Te Va Gustar"
       }
     ]
   },
@@ -142,26 +154,14 @@
       }
     ]
   },
-  "ntvg-gira": {
+  "djavan-tgr": {
     "fetchedAt": "2026-10-14",
     "sessions": [
       {
-        "date": "2026-11-20",
-        "venue": "Complejo Aeropuerto De San Andres De Giles",
-        "city": "San Andres De Giles",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-21",
-        "venue": "Club Aleman",
-        "city": "Villa Ballester",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-22",
-        "venue": "Qac Estacionamiento",
-        "city": "Quilmes",
-        "name": "No Te Va Gustar"
+        "date": "2026-11-24",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Djavan"
       }
     ]
   },
@@ -173,17 +173,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Axel"
-      }
-    ]
-  },
-  "los-pericos-tgr": {
-    "fetchedAt": "2026-10-18",
-    "sessions": [
-      {
-        "date": "2026-10-22",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Los Pericos"
       }
     ]
   },
@@ -205,7 +194,7 @@
     ]
   },
   "connie-ballarini-tgi": {
-    "fetchedAt": "2026-10-08",
+    "fetchedAt": "2026-10-23",
     "sessions": [
       {
         "date": "2026-10-31",
@@ -245,6 +234,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Geronimo Rauch"
+      }
+    ]
+  },
+  "god-save-the-queen-tgr": {
+    "fetchedAt": "2026-10-23",
+    "sessions": [
+      {
+        "date": "2026-11-28",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "God Save The Queen"
       }
     ]
   },
@@ -289,6 +289,17 @@
         "venue": "Anfiteatro Municipal Rosario",
         "city": "Rosario",
         "name": "Babasonicos"
+      }
+    ]
+  },
+  "se-fue-larga-tgr": {
+    "fetchedAt": "2026-10-23",
+    "sessions": [
+      {
+        "date": "2026-10-31",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Se Fue Larga Late Night"
       }
     ]
   }

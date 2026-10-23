@@ -1,41 +1,6 @@
 {
-  "fetchedAt": "2026-10-22",
+  "fetchedAt": "2026-10-23",
   "events": [
-    {
-      "artist": "ÇANTAMARTA",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/antamarta-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "La Máquina Camaleón – Solito World Tour 22 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-22-oct-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "KILOMBO Jue 22 OCT",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/kilombo-jue-22-oct-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "MAG PRESENTA \"Cuando esté rota las pelotas no diré nada pero habrá señales!!\"",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/mag-presenta-cuando-est-rota-las-pelotas-no-dir-nada-pero-habr-se-ales-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "BHAVI",
-      "venue": "Niceto Club",
-      "date": "2026-10-22",
-      "ticketUrl": "https://venti.live/evento/bhavi-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "SELF- TITLED AFTERGLOW 2.0",
       "venue": "Niceto Club",
@@ -111,6 +76,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-24",
       "ticketUrl": "https://venti.live/evento/ninety-24-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Deep sessions - Sinfonik W/ Suppa",
+      "venue": "Niceto Club",
+      "date": "2026-10-24",
+      "ticketUrl": "https://venti.live/evento/deep-sessions-sinfonik-w-suppa-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -300,6 +272,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-06",
       "ticketUrl": "https://venti.live/evento/polenta-6-nov-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Natural progressive Sunset",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "ticketUrl": "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -496,6 +475,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-19",
       "ticketUrl": "https://venti.live/evento/ivan-salo-los-paracaidistas-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Willy Bronca 19 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club",
       "source": "niceto"
     },
     {

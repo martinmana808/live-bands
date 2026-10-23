@@ -153,50 +153,6 @@
     "firstSeenAt": "2026-10-04"
   },
   {
-    "id": "bhavi-2026-10-22-niceto",
-    "shortId": "2d11p7h",
-    "artist": "BHAVI",
-    "artistKey": "bhavi",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/bhavi-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "7fT2Me47PQ8T7954PKrcwR",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178502c516ea88457406db38fac",
-    "genres": [],
-    "firstSeenAt": "2026-10-16"
-  },
-  {
-    "id": "cantamarta-2026-10-22-niceto",
-    "shortId": "6rv3oem",
-    "artist": "ÇANTAMARTA",
-    "artistKey": "cantamarta",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/antamarta-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "5Ayb9yqemFxECJB8LEG8ln",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178415578fd9d92d416316f2570",
-    "genres": [
-      "alternative pop",
-      "cumbia",
-      "dancehall"
-    ],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
     "id": "filarmonicadeberlin-2026-10-22-colon",
     "shortId": "28pc7cf",
     "artist": "Filarmónica De Berlín",
@@ -239,26 +195,6 @@
     "firstSeenAt": "2026-10-04"
   },
   {
-    "id": "javiersa-2026-10-22-cafeberlin",
-    "shortId": "1biuysx",
-    "artist": "Javier Sá",
-    "artistKey": "javiersa",
-    "date": "2026-10-22",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/javier-sa-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "javieramena-2026-10-22-deseo",
     "shortId": "2edayti",
     "artist": "Javiera Mena",
@@ -277,86 +213,6 @@
     "firstSeenAt": "2026-10-04"
   },
   {
-    "id": "jazzstandardsballads-2026-10-22-ccnu",
-    "shortId": "2bdi90u",
-    "artist": "Jazz Standards & Ballads!",
-    "artistKey": "jazzstandardsballads",
-    "date": "2026-10-22",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jazz-standards-ballads-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-17"
-  },
-  {
-    "id": "kilombo-2026-10-22-niceto",
-    "shortId": "10gmny2",
-    "artist": "KILOMBO",
-    "artistKey": "kilombo",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-jue-22-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-20"
-  },
-  {
-    "id": "lamaquinacamaleon-2026-10-22-niceto",
-    "shortId": "179kkz1",
-    "artist": "La Máquina Camaleón",
-    "artistKey": "lamaquinacamaleon",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-m-quina-camale-n-solito-world-tour-22-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "EC",
-    "spotifyId": "6NIyDDyPBRTyPZ6ggjE8Rj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c894ad4a0809d8da20534e6",
-    "genres": [],
-    "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "leotravaglio-2026-10-22-cafeberlin",
-    "shortId": "2y79129",
-    "artist": "Leo Travaglio",
-    "artistKey": "leotravaglio",
-    "date": "2026-10-22",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/leo-travaglio-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "16rSbDmxWXGn8ChDODuEmy",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048513fcd70fda4b608cecff16b97",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "lospericos-2026-10-22-granrex",
     "shortId": "1ghfr29",
     "artist": "Los Pericos",
@@ -364,12 +220,9 @@
     "date": "2026-10-22",
     "venue": "Teatro Gran Rex",
     "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/los-pericos-tgr"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "tuentrada"
+      "songkick"
     ],
     "country": "AR",
     "spotifyId": "7FnZWGw9lwOr7WzieTKEPR",
@@ -377,46 +230,6 @@
     "genres": [
       "reggae"
     ],
-    "firstSeenAt": "2026-10-03"
-  },
-  {
-    "id": "mag-2026-10-22-niceto",
-    "shortId": "osa6aba",
-    "artist": "MAG",
-    "artistKey": "mag",
-    "date": "2026-10-22",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mag-presenta-cuando-est-rota-las-pelotas-no-dir-nada-pero-habr-se-ales-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "UA",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "paulagiordanocelmamone-2026-10-22-ccnu",
-    "shortId": "vx2f6ze",
-    "artist": "Paula Giordano / Cel Mamone",
-    "artistKey": "paulagiordanocelmamone",
-    "date": "2026-10-22",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/paula-giordano-cel-mamone-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
     "firstSeenAt": "2026-10-03"
   },
   {
@@ -960,6 +773,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-10"
+  },
+  {
+    "id": "deepsessions-2026-10-24-niceto",
+    "shortId": "i9pket2",
+    "artist": "Deep sessions",
+    "artistKey": "deepsessions",
+    "date": "2026-10-24",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-sessions-sinfonik-w-suppa-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-23"
   },
   {
     "id": "escalandrum-2026-10-24-operalp",
@@ -2198,6 +2031,26 @@
     "firstSeenAt": "2026-10-20"
   },
   {
+    "id": "sefuelargalatenight-2026-10-31-granrex",
+    "shortId": "2v5ugfv",
+    "artist": "Se Fue Larga Late Night",
+    "artistKey": "sefuelargalatenight",
+    "date": "2026-10-31",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/se-fue-larga-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-23"
+  },
+  {
     "id": "tiplingrock-2026-10-31-theroxylive",
     "shortId": "c5fp8us",
     "artist": "Tipling Rock",
@@ -3368,6 +3221,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d664c931f47a020d1490c734",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "naturalprogressivesunset-2026-11-07-niceto",
+    "shortId": "21tbii9",
+    "artist": "Natural progressive Sunset",
+    "artistKey": "naturalprogressivesunset",
+    "date": "2026-11-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-23"
   },
   {
     "id": "pantergiulianoguitarravoz-2026-11-07-sanmiguel",
@@ -4548,7 +4421,7 @@
     "sources": [
       "livepass"
     ],
-    "country": null,
+    "country": "FR",
     "spotifyId": "2GK6y5dmhaWM16VZxHiO15",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d5f3722365f4c81e278fa30",
     "genres": [],
@@ -4633,6 +4506,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "willybronca-2026-11-19-niceto",
+    "shortId": "pxkzldp",
+    "artist": "Willy Bronca",
+    "artistKey": "willybronca",
+    "date": "2026-11-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "72LcvCe3u6J31WGoz55n9c",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879277bcdcda7002549b23ca8",
+    "genres": [],
+    "firstSeenAt": "2026-10-23"
   },
   {
     "id": "abelpintos-2026-11-20-granrex",
@@ -5678,6 +5571,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "godsavethequeen-2026-11-28-granrex",
+    "shortId": "1q6qmb9",
+    "artist": "God Save The Queen",
+    "artistKey": "godsavethequeen",
+    "date": "2026-11-28",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/god-save-the-queen-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "440fli8dXmTUhN4ecKJEHz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781e4bbcd3a4861c828200b645",
+    "genres": [],
+    "firstSeenAt": "2026-10-23"
+  },
+  {
     "id": "k4os-2026-11-28-bahiablanca",
     "shortId": "ayrk4d8",
     "artist": "K4OS",
@@ -5903,6 +5816,29 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e601649883bf5b2a6088ba4c",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "emba-2026-11-30-cafeberlin",
+    "shortId": "2ox5sm2",
+    "artist": "Emba",
+    "artistKey": "emba",
+    "date": "2026-11-30",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/emba-noche-de-las-voces-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "718ksZSrtH1230gfJwkMrU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9a1be0f144dddd45b5b3e4d",
+    "genres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "firstSeenAt": "2026-10-23"
   },
   {
     "id": "dennischamberschristiangalvezquartet-2026-12-01-cafeberlin",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22",
+  "fetchedAt": "2026-10-23",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,34 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Paula Giordano / Cel Mamone",
-      "venue": "CCNU",
-      "date": "2026-10-22",
-      "ticketUrl": "https://livepass.com.ar/events/paula-giordano-cel-mamone-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Javier Sá",
-      "venue": "Café Berlín",
-      "date": "2026-10-22",
-      "ticketUrl": "https://livepass.com.ar/events/javier-sa-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Jazz Standards & Ballads!",
-      "venue": "CCNU",
-      "date": "2026-10-22",
-      "ticketUrl": "https://livepass.com.ar/events/jazz-standards-ballads-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Leo Travaglio",
-      "venue": "Café Berlín",
-      "date": "2026-10-22",
-      "ticketUrl": "https://livepass.com.ar/events/leo-travaglio-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -888,6 +860,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-29",
       "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin-2026-11-29-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Emba - Noche de las voces",
+      "venue": "Café Berlín",
+      "date": "2026-11-30",
+      "ticketUrl": "https://livepass.com.ar/events/emba-noche-de-las-voces-en-cafe-berlin",
       "source": "livepass"
     },
     {
