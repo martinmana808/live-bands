@@ -45,26 +45,6 @@
     "firstSeenAt": "2026-10-03"
   },
   {
-    "id": "filarmonicadeberlin-2026-10-21-colon",
-    "shortId": "al1qb1n",
-    "artist": "Filarmónica De Berlín",
-    "artistKey": "filarmonicadeberlin",
-    "date": "2026-10-21",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/filarmonica-de-berlin-tc"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "ironmaiden-2026-10-21-atleticohuracan",
     "shortId": "sctbmak",
     "artist": "Iron Maiden",
@@ -153,26 +133,6 @@
     "firstSeenAt": "2026-10-04"
   },
   {
-    "id": "filarmonicadeberlin-2026-10-22-colon",
-    "shortId": "28pc7cf",
-    "artist": "Filarmónica De Berlín",
-    "artistKey": "filarmonicadeberlin",
-    "date": "2026-10-22",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/filarmonica-de-berlin-tc"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "fitforaking-2026-10-22-teatrito",
     "shortId": "14uxl77",
     "artist": "Fit for a King",
@@ -251,86 +211,6 @@
     "firstSeenAt": "2026-10-17"
   },
   {
-    "id": "abastojazzquinteto-2026-10-23-ccnu",
-    "shortId": "21ayo94",
-    "artist": "Abasto Jazz Quinteto",
-    "artistKey": "abastojazzquinteto",
-    "date": "2026-10-23",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/abasto-jazz-quinteto-en-ccnu-2026-10-23-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "axel-2026-10-23-granrex",
-    "shortId": "2nkzqkc",
-    "artist": "Axel",
-    "artistKey": "axel",
-    "date": "2026-10-23",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/axel-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "32x1uogH2zajP85pzZAtuE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785ff76dce78ed349fb83684ea",
-    "genres": [],
-    "firstSeenAt": "2026-09-28"
-  },
-  {
-    "id": "bluesdelsur-2026-10-23-cafeberlin",
-    "shortId": "1rrchyq",
-    "artist": "Blues del Sur",
-    "artistKey": "bluesdelsur",
-    "date": "2026-10-23",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/blues-del-sur-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-16"
-  },
-  {
-    "id": "bsasnumetalfest-2026-10-23-sanmiguel",
-    "shortId": "yhul8i5",
-    "artist": "BS AS NU METAL FEST",
-    "artistKey": "bsasnumetalfest",
-    "date": "2026-10-23",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bs-as-nu-metal-fest-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
     "id": "ceciliazabala-2026-10-23-sociedaditalianamoron",
     "shortId": "29cuvuf",
     "artist": "Cecilia Zabala",
@@ -387,46 +267,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
     "genres": [],
     "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "filarmonicadeberlin-2026-10-23-colon",
-    "shortId": "13e3ppu",
-    "artist": "Filarmónica De Berlín",
-    "artistKey": "filarmonicadeberlin",
-    "date": "2026-10-23",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/filarmonica-de-berlin-tc"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "lakonga-2026-10-23-hipodromoplata",
-    "shortId": "nlsl1p4",
-    "artist": "LA KONGA",
-    "artistKey": "lakonga",
-    "date": "2026-10-23",
-    "venue": "el Hipódromo de La Plata",
-    "venueKey": "hipodromoplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-konga-en-el-hipodromo-de-la-plata"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3ghRXw2nUEH2THaL82hw8R",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178124a6a41568f43401994f4c8",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "laromanabypicheo808-2026-10-23-niceto",
@@ -488,26 +328,6 @@
       "metal"
     ],
     "firstSeenAt": "2026-10-05"
-  },
-  {
-    "id": "marsico-2026-10-23-ccnu",
-    "shortId": "1uxaog6",
-    "artist": "Marsico",
-    "artistKey": "marsico",
-    "date": "2026-10-23",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/marsico-vazquez-mollard-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "79hSMFtRZH6DucMHy175xz",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048514c45d511665c3edbf8808370",
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
   },
   {
     "id": "nicolezignago-2026-10-23-niceto",
@@ -572,28 +392,6 @@
       "geek rock"
     ],
     "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "vertigo-2026-10-23-cafeberlin",
-    "shortId": "1c9hch5",
-    "artist": "Vértigo",
-    "artistKey": "vertigo",
-    "date": "2026-10-23",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/vertigo-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "US",
-    "spotifyId": "76tWYjH87oae3NUNdgE5KD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b582f8ef924857ad01f39a7",
-    "genres": [
-      "christian hardcore"
-    ],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "zepequena-2026-10-23-niceto",
@@ -1457,6 +1255,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178427d7a99de45d7a9425cf4ed",
     "genres": [],
     "firstSeenAt": "2026-10-11"
+  },
+  {
+    "id": "sunlidypizza-2026-10-29-niceto",
+    "shortId": "2fcqc7p",
+    "artist": "Sunlid y Pizza",
+    "artistKey": "sunlidypizza",
+    "date": "2026-10-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/sunlid-y-pizza-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-24"
   },
   {
     "id": "thebeatles-2026-10-29-cafeberlin",
@@ -2450,6 +2268,29 @@
       "k-pop"
     ],
     "firstSeenAt": "2026-10-17"
+  },
+  {
+    "id": "sergiodalma-2026-11-04-granrex",
+    "shortId": "12ct7of",
+    "artist": "Sergio Dalma",
+    "artistKey": "sergiodalma",
+    "date": "2026-11-04",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/sergio-dalma-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "ES",
+    "spotifyId": "7x6XYw3yCC67Pizi4o0wvZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ddd3cd7d72cf9d4bb7f799f8",
+    "genres": [
+      "latin ballad",
+      "pop"
+    ],
+    "firstSeenAt": "2026-10-24"
   },
   {
     "id": "therasmus-2026-11-04-flores",
@@ -3915,6 +3756,26 @@
       "pop"
     ],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "nochepantera-2026-11-13-niceto",
+    "shortId": "2akinrc",
+    "artist": "NOCHE PANTERA",
+    "artistKey": "nochepantera",
+    "date": "2026-11-13",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/noche-pantera-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-24"
   },
   {
     "id": "randomfiesta-2026-11-13-niceto",
@@ -6142,6 +6003,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-15"
+  },
+  {
+    "id": "luissalinas-2026-12-05-cafeberlin",
+    "shortId": "rcvp7k5",
+    "artist": "Luis Salinas",
+    "artistKey": "luissalinas",
+    "date": "2026-12-05",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/luis-salinas-en-cafe-berlin-2026-12-05-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "6lfuGeSEIAZl1WlXN3lSjk",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17881ae03f9d0cbcdb8a07caeac",
+    "genres": [],
+    "firstSeenAt": "2026-10-24"
   },
   {
     "id": "luzgaggi-2026-12-05-operalp",

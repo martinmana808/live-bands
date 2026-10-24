@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23",
+  "fetchedAt": "2026-10-24",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,27 +100,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Filarmónica De Berlín",
-      "venue": "Teatro Colón",
-      "date": "2026-10-21",
-      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Filarmónica De Berlín",
-      "venue": "Teatro Colón",
-      "date": "2026-10-22",
-      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Filarmónica De Berlín",
-      "venue": "Teatro Colón",
-      "date": "2026-10-23",
-      "ticketUrl": "https://www.tuentrada.com/filarmonica-de-berlin-tc",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Asmik Grigorian",
       "venue": "Teatro Colón",
       "date": "2026-12-08",
@@ -132,13 +111,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Axel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-23",
-      "ticketUrl": "https://www.tuentrada.com/axel-tgr",
       "source": "tuentrada"
     },
     {
@@ -184,6 +156,13 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Sergio Dalma",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-04",
+      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Liga Bazooka",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-25",
@@ -191,17 +170,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Los 40 Primavera Pop",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-28",
-      "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Bobicraft",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-27",
       "ticketUrl": "https://www.tuentrada.com/bobicraft-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Los 40 Primavera Pop",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-28",
+      "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
       "source": "tuentrada"
     },
     {

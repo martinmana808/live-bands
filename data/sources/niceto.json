@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23",
+  "fetchedAt": "2026-10-24",
   "events": [
     {
       "artist": "SELF- TITLED AFTERGLOW 2.0",
@@ -118,6 +118,13 @@
       "venue": "Niceto Club",
       "date": "2026-10-29",
       "ticketUrl": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Sunlid y Pizza",
+      "venue": "Niceto Club",
+      "date": "2026-10-29",
+      "ticketUrl": "https://venti.live/evento/sunlid-y-pizza-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -419,6 +426,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-13",
       "ticketUrl": "https://venti.live/evento/random-fiesta-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "NOCHE PANTERA",
+      "venue": "Niceto Club",
+      "date": "2026-11-13",
+      "ticketUrl": "https://venti.live/evento/noche-pantera-en-niceto-bar",
       "source": "niceto"
     },
     {
