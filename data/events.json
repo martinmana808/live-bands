@@ -229,86 +229,6 @@
     "firstSeenAt": "2026-10-21"
   },
   {
-    "id": "cicloroto-2026-10-23-niceto",
-    "shortId": "4uq1gwf",
-    "artist": "CICLO ROTO",
-    "artistKey": "cicloroto",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ciclo-roto-23-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "danceteria-2026-10-23-niceto",
-    "shortId": "284ygb7",
-    "artist": "DANCETERIA",
-    "artistKey": "danceteria",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/danceteria-23-oct-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3htKbvpfsGJPUcZFLo6oQf",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17872bbbc372ccdec297edd0bba",
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "laromanabypicheo808-2026-10-23-niceto",
-    "shortId": "14pkuzm",
-    "artist": "La Romana By Picheo 808",
-    "artistKey": "laromanabypicheo808",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "latinpianobar-2026-10-23-niceto",
-    "shortId": "7ubtaza",
-    "artist": "LATIN PIANO BAR",
-    "artistKey": "latinpianobar",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/latin-piano-bar-23-oct-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
     "id": "malevolentcreation-2026-10-23-teatrito",
     "shortId": "297vqz2",
     "artist": "Malevolent Creation",
@@ -350,70 +270,6 @@
     "firstSeenAt": "2026-10-05"
   },
   {
-    "id": "pretaportergitanospersea-2026-10-23-niceto",
-    "shortId": "1un8m0c",
-    "artist": "PRETA PORTER + GITANOS + PERSEA",
-    "artistKey": "pretaportergitanospersea",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/preta-porter-gitanos-persea-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-09"
-  },
-  {
-    "id": "self-2026-10-23-niceto",
-    "shortId": "27yjbzm",
-    "artist": "SELF",
-    "artistKey": "self",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/self-titled-afterglow-2-0-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "US",
-    "spotifyId": "5NL0NG8VTzLRtKhqsqm3PD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c6189ea85514f7f142145f1",
-    "genres": [
-      "alternative rock",
-      "electronic",
-      "geek rock"
-    ],
-    "firstSeenAt": "2026-10-04"
-  },
-  {
-    "id": "zepequena-2026-10-23-niceto",
-    "shortId": "d3vgz5a",
-    "artist": "Ze Pequeña",
-    "artistKey": "zepequena",
-    "date": "2026-10-23",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ze-peque-a-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "3XRUcyfxcvfUR4EHAA7p9C",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c3444951209feb94b5b4ecd9",
-    "genres": [],
-    "firstSeenAt": "2026-10-04"
-  },
-  {
     "id": "nochepicanteyrabiosalocalfreakstributoaaudioslaveyrageagainstthemachineredhotchimichurris-2026-10-24-niceto",
     "shortId": "2a4pegg",
     "artist": "“NOCHE PICANTE Y RABIOSA” LOCAL FREAKS (tributo a Audioslave y Rage against the machine) + RED HOT CHIMICHURRIS",
@@ -432,29 +288,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-05"
-  },
-  {
-    "id": "airbag-2026-10-24-mendoza",
-    "shortId": "1fqhqxk",
-    "artist": "AIRBAG",
-    "artistKey": "airbag",
-    "date": "2026-10-24",
-    "venue": "Mendoza",
-    "venueKey": "mendoza",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/airbag-en-mendoza"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "ES",
-    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
-    "genres": [
-      "pop punk",
-      "power pop"
-    ],
-    "firstSeenAt": "2026-10-07"
   },
   {
     "id": "benmarcus-2026-10-24-niceto",
@@ -511,26 +344,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "chamcita-2026-10-24-ccnu",
-    "shortId": "2ra3y2x",
-    "artist": "Chamcita",
-    "artistKey": "chamcita",
-    "date": "2026-10-24",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/chamcita-agucho-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "6bcusqc2ItnoyENhAgB4kz",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048519162db81f073cc59b5a5da55",
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
   },
   {
     "id": "club69-2026-10-24-niceto",
@@ -591,66 +404,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-23"
-  },
-  {
-    "id": "escalandrum-2026-10-24-operalp",
-    "shortId": "5sus4bt",
-    "artist": "ESCALANDRUM",
-    "artistKey": "escalandrum",
-    "date": "2026-10-24",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3QZEbpYuO36TVmqHEbxpkZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e99c31822c44f54e8ebc3805",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lachanchamuda-2026-10-24-sanmiguel",
-    "shortId": "riqmrl7",
-    "artist": "LA CHANCHA MUDA",
-    "artistKey": "lachanchamuda",
-    "date": "2026-10-24",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-chancha-muda-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "3q7B22drORYGk4srVegr3T",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "lucerologuerciodartiguelonguegerez-2026-10-24-ccnu",
-    "shortId": "xbyz0vr",
-    "artist": "Lucero Loguercio Dartiguelongue Gerez",
-    "artistKey": "lucerologuerciodartiguelonguegerez",
-    "date": "2026-10-24",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/lucero-loguercio-dartiguelongue-gerez-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "lucianopereyra-2026-10-24-movistararena",
@@ -733,26 +486,6 @@
     "firstSeenAt": "2026-10-10"
   },
   {
-    "id": "pitufolombardonicoibarburu-2026-10-24-cafeberlin",
-    "shortId": "l2npwhs",
-    "artist": "Pitufo Lombardo & Nico Ibarburu",
-    "artistKey": "pitufolombardonicoibarburu",
-    "date": "2026-10-24",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pitufo-lombardo-nico-ibarburu-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "silvinamoreno-2026-10-24-margaritaxirgu",
     "shortId": "2e9gik3",
     "artist": "Silvina Moreno",
@@ -775,26 +508,6 @@
     "firstSeenAt": "2026-10-11"
   },
   {
-    "id": "smallaxe-2026-10-24-cafeberlin",
-    "shortId": "no8cfwe",
-    "artist": "Small Axe",
-    "artistKey": "smallaxe",
-    "date": "2026-10-24",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/small-axe-en-cafe-berlin-2026-10-24-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "6LCHKukUoFS596qTFnxgIb",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178958a663c79188863cde1005a",
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
-  },
-  {
     "id": "143letibic-2026-10-25-guajiralp",
     "shortId": "22wo7wj",
     "artist": "143LETI + BIC",
@@ -813,6 +526,29 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-16"
+  },
+  {
+    "id": "airbag-2026-10-25-mendoza",
+    "shortId": "wgc2ec6",
+    "artist": "AIRBAG",
+    "artistKey": "airbag",
+    "date": "2026-10-25",
+    "venue": "Mendoza",
+    "venueKey": "mendoza",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/airbag-en-mendoza"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "ES",
+    "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787e7ce771bde5235afd45cb43",
+    "genres": [
+      "pop punk",
+      "power pop"
+    ],
+    "firstSeenAt": "2026-10-25"
   },
   {
     "id": "boomboomkid-2026-10-25-niceto",

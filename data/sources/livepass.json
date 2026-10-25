@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24",
+  "fetchedAt": "2026-10-25",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -65,52 +65,10 @@
       "source": "livepass"
     },
     {
-      "artist": "Lucero Loguercio Dartiguelongue Gerez",
-      "venue": "CCNU",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/lucero-loguercio-dartiguelongue-gerez-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "ESCALANDRUM",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/escalandrum-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pitufo Lombardo & Nico Ibarburu",
-      "venue": "Café Berlín",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/pitufo-lombardo-nico-ibarburu-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "LA CHANCHA MUDA",
-      "venue": "San Miguel",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/la-chancha-muda-en-san-miguel",
-      "source": "livepass"
-    },
-    {
       "artist": "AIRBAG",
       "venue": "Mendoza",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "ticketUrl": "https://livepass.com.ar/events/airbag-en-mendoza",
-      "source": "livepass"
-    },
-    {
-      "artist": "Chamcita - Agucho",
-      "venue": "CCNU",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/chamcita-agucho-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Small Axe",
-      "venue": "Café Berlín",
-      "date": "2026-10-24",
-      "ticketUrl": "https://livepass.com.ar/events/small-axe-en-cafe-berlin-2026-10-24-23-00-00-0300",
       "source": "livepass"
     },
     {
