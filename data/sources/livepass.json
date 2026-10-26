@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25",
+  "fetchedAt": "2026-10-26",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,34 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "AIRBAG",
-      "venue": "Mendoza",
-      "date": "2026-10-25",
-      "ticketUrl": "https://livepass.com.ar/events/airbag-en-mendoza",
-      "source": "livepass"
-    },
-    {
-      "artist": "143LETI + BIC",
-      "venue": "Guajira LP",
-      "date": "2026-10-25",
-      "ticketUrl": "https://livepass.com.ar/events/143leti-bic-en-guajira-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Más Música",
-      "venue": "Café Berlín",
-      "date": "2026-10-25",
-      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-10-25-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Treasures of Classic Jazz",
-      "venue": "CCNU",
-      "date": "2026-10-25",
-      "ticketUrl": "https://livepass.com.ar/events/treasures-of-classic-jazz-en-ccnu-2026-10-25-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -958,6 +930,13 @@
       "venue": "el Teatro Colón",
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
+      "source": "livepass"
+    },
+    {
+      "artist": "MARKY RAMONE",
+      "venue": "el Teatro Ópera LP",
+      "date": "2027-05-05",
+      "ticketUrl": "https://livepass.com.ar/events/marky-ramone-en-el-teatro-opera-lp-2026-05-05",
       "source": "livepass"
     },
     {

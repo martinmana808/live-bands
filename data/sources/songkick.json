@@ -1,120 +1,6 @@
 {
-  "fetchedAt": "2026-10-21",
+  "fetchedAt": "2026-10-26",
   "events": [
-    {
-      "artist": "Iron Maiden",
-      "venue": "Estadio Club Atletico Huracan",
-      "date": "2026-10-21",
-      "source": "songkick"
-    },
-    {
-      "artist": "Aitana",
-      "venue": "Movistar Arena",
-      "date": "2026-10-21",
-      "source": "songkick"
-    },
-    {
-      "artist": "Alter Bridge",
-      "venue": "C Complejo Art Media",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Apocalyptica",
-      "venue": "Groove",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Aitana",
-      "venue": "Movistar Arena",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Los Pericos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fit for a King",
-      "venue": "El Teatrito",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Javiera Mena",
-      "venue": "Deseo",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Tomates en Verano, todas las anteriores, and COMEVIDRIO",
-      "venue": "Club Social 911",
-      "date": "2026-10-22",
-      "source": "songkick"
-    },
-    {
-      "artist": "Malevolent Creation",
-      "venue": "El Teatrito",
-      "date": "2026-10-23",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nicole Zignago",
-      "venue": "Niceto Club",
-      "date": "2026-10-23",
-      "source": "songkick"
-    },
-    {
-      "artist": "Cecilia Zabala",
-      "venue": "Sociedad Italiana de Morón",
-      "date": "2026-10-23",
-      "source": "songkick"
-    },
-    {
-      "artist": "Luciano Pereyra",
-      "venue": "Movistar Arena",
-      "date": "2026-10-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Mujer Cebra",
-      "venue": "Club de Arte Tempuja",
-      "date": "2026-10-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Silvina Moreno",
-      "venue": "Teatro Margarita Xirgu",
-      "date": "2026-10-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "BEN MARCUS",
-      "venue": "Niceto Club",
-      "date": "2026-10-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Briganti",
-      "venue": "Jony Bar Multiespacio",
-      "date": "2026-10-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Camilo",
-      "venue": "Movistar Arena",
-      "date": "2026-10-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Dethklok",
-      "venue": "El Teatrito",
-      "date": "2026-10-25",
-      "source": "songkick"
-    },
     {
       "artist": "Six Feet Under",
       "venue": "El Teatrito",
@@ -299,6 +185,120 @@
       "artist": "Los Sub",
       "venue": "Lalalá",
       "date": "2026-11-06",
+      "source": "songkick"
+    },
+    {
+      "artist": "Alex Ubago",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ty Segall",
+      "venue": "Niceto Club",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maneva",
+      "venue": "La Trastienda",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Gene Loves Jezebel",
+      "venue": "Fundación Beethoven",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "0800ALGO",
+      "venue": "Centro Cultural Thames",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Policromía",
+      "venue": "Club V",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Romphonics and Juan Navia",
+      "venue": "Biri Biri",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "CHOCOLATE REMIX",
+      "venue": "Quetren Club Cultural",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Latin Metal Invasión 2026",
+      "venue": "SixBar",
+      "date": "2026-11-07",
+      "source": "songkick"
+    },
+    {
+      "artist": "Cypress Hill",
+      "venue": "Estadio Cubierto Malvinas Argentinas",
+      "date": "2026-11-08",
+      "source": "songkick"
+    },
+    {
+      "artist": "It's All Red",
+      "venue": "Aura",
+      "date": "2026-11-08",
+      "source": "songkick"
+    },
+    {
+      "artist": "Social Distortion",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Jorja Smith",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-11",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ill Niño",
+      "venue": "Uniclub",
+      "date": "2026-11-12",
+      "source": "songkick"
+    },
+    {
+      "artist": "MARO",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-12",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fede cabral",
+      "venue": "MORÁN",
+      "date": "2026-11-12",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maria Becerra",
+      "venue": "Movistar Arena",
+      "date": "2026-11-13",
+      "source": "songkick"
+    },
+    {
+      "artist": "Casiqueva",
+      "venue": "XLR Club",
+      "date": "2026-11-13",
+      "source": "songkick"
+    },
+    {
+      "artist": "NATAS - Broide - Villagra - Bereciartúa",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-13",
       "source": "songkick"
     }
   ]

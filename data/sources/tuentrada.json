@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25",
+  "fetchedAt": "2026-10-26",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -142,13 +142,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Geronimo Rauch",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-12-10",
-      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
@@ -156,17 +149,17 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Geronimo Rauch",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-10",
+      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
+      "source": "tuentrada"
+    },
+    {
       "artist": "Sergio Dalma",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-04",
       "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Liga Bazooka",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-25",
-      "ticketUrl": "https://www.tuentrada.com/liga-bazooka-tgr",
       "source": "tuentrada"
     },
     {
@@ -181,6 +174,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-10-28",
       "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Ney Matogrosso",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-30",
+      "ticketUrl": "https://www.tuentrada.com/ney-matogroso-tgr",
       "source": "tuentrada"
     },
     {

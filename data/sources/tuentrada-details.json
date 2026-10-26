@@ -171,7 +171,7 @@
     ]
   },
   "humbe-tgr": {
-    "fetchedAt": "2026-10-11",
+    "fetchedAt": "2026-10-26",
     "sessions": [
       {
         "date": "2026-10-29",
@@ -192,17 +192,6 @@
       }
     ]
   },
-  "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-22",
-    "sessions": [
-      {
-        "date": "2026-12-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Geronimo Rauch"
-      }
-    ]
-  },
   "god-save-the-queen-tgr": {
     "fetchedAt": "2026-10-23",
     "sessions": [
@@ -214,6 +203,17 @@
       }
     ]
   },
+  "geronimo-rauch-tgr": {
+    "fetchedAt": "2026-10-22",
+    "sessions": [
+      {
+        "date": "2026-12-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Geronimo Rauch"
+      }
+    ]
+  },
   "sergio-dalma-tgr": {
     "fetchedAt": "2026-10-24",
     "sessions": [
@@ -222,17 +222,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Sergio Dalma"
-      }
-    ]
-  },
-  "liga-bazooka-tgr": {
-    "fetchedAt": "2026-10-12",
-    "sessions": [
-      {
-        "date": "2026-10-25",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Liga Bazooka"
       }
     ]
   },
@@ -255,6 +244,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Los 40 Primavera Pop"
+      }
+    ]
+  },
+  "ney-matogroso-tgr": {
+    "fetchedAt": "2026-10-26",
+    "sessions": [
+      {
+        "date": "2026-10-30",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Ney Matogrosso"
       }
     ]
   },
