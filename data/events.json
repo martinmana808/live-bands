@@ -23,26 +23,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "freddiedetommasonadinesierra-2026-10-26-colon",
-    "shortId": "23iqfn7",
-    "artist": "Freddie De Tommaso / Nadine Sierra",
-    "artistKey": "freddiedetommasonadinesierra",
-    "date": "2026-10-26",
-    "venue": "Teatro Colón",
-    "venueKey": "colon",
-    "ticketUrls": [
-      "https://www.tuentrada.com/ciclo-aura-teatrocolon"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "bobicraft-2026-10-27-granrex",
     "shortId": "dukin9b",
     "artist": "Bobicraft",
@@ -220,6 +200,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "kilombo-2026-10-29-niceto",
+    "shortId": "2qasu8o",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-10-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-29-oct-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "marcelotoledodepena-2026-10-29-niceto",
@@ -631,29 +631,6 @@
     "firstSeenAt": "2026-10-17"
   },
   {
-    "id": "neymatogrosso-2026-10-30-granrex",
-    "shortId": "1kwrdlx",
-    "artist": "Ney Matogrosso",
-    "artistKey": "neymatogrosso",
-    "date": "2026-10-30",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/ney-matogroso-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "BR",
-    "spotifyId": "2SFIMUkCdZowbeisskDdhn",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1692ccde710b6a64884e87f",
-    "genres": [
-      "mpb",
-      "pop"
-    ],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
     "id": "oliverheldens-2026-10-30-pmopenair",
     "shortId": "26ig78v",
     "artist": "Oliver Heldens",
@@ -714,6 +691,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178782631061155e679a2615bde",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "recamaraafteroffice-2026-10-30-niceto",
+    "shortId": "2ddz0ul",
+    "artist": "RECámara After Office",
+    "artistKey": "recamaraafteroffice",
+    "date": "2026-10-30",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/rec-mara-after-office-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "andyrex-2026-10-31-cafeberlin",
@@ -1072,26 +1069,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2997533005faa9d01e8581d",
     "genres": [],
     "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "duotrixieymeteoro-2026-11-01-ccnu",
-    "shortId": "2jm66tq",
-    "artist": "DÚO TRIXIE Y METEORO",
-    "artistKey": "duotrixieymeteoro",
-    "date": "2026-11-01",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu-2026-11-01-19-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
   },
   {
     "id": "jessejoy-2026-11-01-movistararena",
@@ -1467,6 +1444,26 @@
     "firstSeenAt": "2026-10-17"
   },
   {
+    "id": "benjaminamadeo-2026-11-05-granrex",
+    "shortId": "1nv9dbi",
+    "artist": "Benjamin Amadeo",
+    "artistKey": "benjaminamadeo",
+    "date": "2026-11-05",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/benjamin-amadeo-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "6GYXfifD78PYARjZzxQzrG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d75e1e256996a5c3e3491383",
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
+  },
+  {
     "id": "defleppard-2026-11-05-movistararena",
     "shortId": "1tz3pdz",
     "artist": "Def Leppard",
@@ -1801,6 +1798,26 @@
     "firstSeenAt": "2026-10-20"
   },
   {
+    "id": "nochedetributos-2026-11-06-niceto",
+    "shortId": "25cojj1",
+    "artist": "Noche de Tributos",
+    "artistKey": "nochedetributos",
+    "date": "2026-11-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/noche-de-tributos-save-the-population-fresh-potix-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
+  },
+  {
     "id": "planeadorv-2026-11-06-niceto",
     "shortId": "bhaccil",
     "artist": "Planeador V",
@@ -1885,10 +1902,10 @@
     "firstSeenAt": "2026-10-15"
   },
   {
-    "id": "saunders-2026-11-06-niceto",
-    "shortId": "13iktb4",
-    "artist": "SAUNDERS",
-    "artistKey": "saunders",
+    "id": "selftitled-2026-11-06-niceto",
+    "shortId": "21kp1zi",
+    "artist": "SELF-TITLED",
+    "artistKey": "selftitled",
     "date": "2026-11-06",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -1899,10 +1916,10 @@
       "niceto"
     ],
     "country": null,
-    "spotifyId": null,
+    "spotifyId": "6tbg2uYnCNBg0FsyEE0EqZ",
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-10-15"
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "theend-2026-11-06-cafeberlin",
@@ -2446,6 +2463,29 @@
       "gangsta rap"
     ],
     "firstSeenAt": "2026-10-26"
+  },
+  {
+    "id": "deux-2026-11-08-niceto",
+    "shortId": "yvdhrv7",
+    "artist": "DEUX",
+    "artistKey": "deux",
+    "date": "2026-11-08",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deux-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "FR",
+    "spotifyId": "64RfnYDHtR3ZaLdtxAjPDA",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518c28cf92673b662f7ccb269f",
+    "genres": [
+      "minimal synth",
+      "minimal wave"
+    ],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "itsallred-2026-11-08-aura",
@@ -3259,6 +3299,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "107faunos-2026-11-14-niceto",
+    "shortId": "17icubf",
+    "artist": "107 Faunos",
+    "artistKey": "107faunos",
+    "date": "2026-11-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "AR",
+    "spotifyId": "5CyGExgiIO5AfElXLtoU7r",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e8659fa5d045274df949324",
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
+  },
+  {
     "id": "abelpintos-2026-11-14-granrex",
     "shortId": "aqfq4ik",
     "artist": "Abel Pintos",
@@ -3482,6 +3542,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a74b47c7f8dcd84ca98ad2c7",
     "genres": [],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "penareginalabrasitademichala-2026-11-14-niceto",
+    "shortId": "199opyi",
+    "artist": "Peña Regina: La brasita de mi Chala",
+    "artistKey": "penareginalabrasitademichala",
+    "date": "2026-11-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "abelpintos-2026-11-15-granrex",
@@ -5788,6 +5868,26 @@
     "firstSeenAt": "2026-09-17"
   },
   {
+    "id": "valeriolosextravagantes-2026-12-10-niceto",
+    "shortId": "1e593d6",
+    "artist": "VALERIO & LOS EXTRAVAGANTES",
+    "artistKey": "valeriolosextravagantes",
+    "date": "2026-12-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
+  },
+  {
     "id": "estelares-2026-12-11-salaginasteraargentinoplata",
     "shortId": "1nnx2m6",
     "artist": "ESTELARES",
@@ -5826,6 +5926,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17876da2337ce07d703d5d93ac1",
     "genres": [],
     "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "raullavie-2026-12-11-cafeberlin",
+    "shortId": "77dg2yt",
+    "artist": "Raúl Lavié",
+    "artistKey": "raullavie",
+    "date": "2026-12-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/raul-lavie-en-cafe-berlin-2026-12-11-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2GFIX098sqpvCSY9ZQHI4D",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518017c05e0494170a8ae7596a",
+    "genres": [
+      "tango"
+    ],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "valentincaba-2026-12-11-niceto",
@@ -6032,6 +6154,26 @@
       "latin pop"
     ],
     "firstSeenAt": "2026-09-12"
+  },
+  {
+    "id": "laslobasastroarmonia-2026-12-14-cafeberlin",
+    "shortId": "eci7czn",
+    "artist": "Las Lobas & Astroarmonía",
+    "artistKey": "laslobasastroarmonia",
+    "date": "2026-12-14",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/las-lobas-astroarmonia-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "felicolina-2026-12-15-niceto",

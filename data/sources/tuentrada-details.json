@@ -109,17 +109,6 @@
       }
     ]
   },
-  "ciclo-aura-teatrocolon": {
-    "fetchedAt": "2026-10-14",
-    "sessions": [
-      {
-        "date": "2026-10-26",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Freddie De Tommaso / Nadine Sierra"
-      }
-    ]
-  },
   "grandes-interpretes-teatrocolon": {
     "fetchedAt": "2026-10-18",
     "sessions": [
@@ -237,24 +226,13 @@
     ]
   },
   "los-40-primavera-pop": {
-    "fetchedAt": "2026-10-12",
+    "fetchedAt": "2026-10-27",
     "sessions": [
       {
         "date": "2026-10-28",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Los 40 Primavera Pop"
-      }
-    ]
-  },
-  "ney-matogroso-tgr": {
-    "fetchedAt": "2026-10-26",
-    "sessions": [
-      {
-        "date": "2026-10-30",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Ney Matogrosso"
       }
     ]
   },
@@ -266,6 +244,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Se Fue Larga Late Night"
+      }
+    ]
+  },
+  "benjamin-amadeo-tgr": {
+    "fetchedAt": "2026-10-27",
+    "sessions": [
+      {
+        "date": "2026-11-05",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Benjamin Amadeo"
       }
     ]
   },

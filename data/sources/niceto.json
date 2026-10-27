@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26",
+  "fetchedAt": "2026-10-27",
   "events": [
     {
       "artist": "Franco Rizzaro",
@@ -30,10 +30,24 @@
       "source": "niceto"
     },
     {
+      "artist": "KILOMBO Jue 29 OCT",
+      "venue": "Niceto Club",
+      "date": "2026-10-29",
+      "ticketUrl": "https://venti.live/evento/kilombo-jue-29-oct-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Kasta Greatest Hits",
       "venue": "Niceto Club",
       "date": "2026-10-30",
       "ticketUrl": "https://venti.live/evento/kasta-greatest-hits-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "RECámara After Office",
+      "venue": "Niceto Club",
+      "date": "2026-10-30",
+      "ticketUrl": "https://venti.live/evento/rec-mara-after-office-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -142,7 +156,7 @@
       "source": "niceto"
     },
     {
-      "artist": "SAUNDERS - OPEN TO CLOSE",
+      "artist": "SELF-TITLED - OPEN AIR  PRE-PRIDE",
       "venue": "Niceto Club",
       "date": "2026-11-06",
       "ticketUrl": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
@@ -167,6 +181,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-06",
       "ticketUrl": "https://venti.live/evento/san-martin-vampire-ceretti-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Noche de Tributos - Save The Population + Fresh Potix",
+      "venue": "Niceto Club",
+      "date": "2026-11-06",
+      "ticketUrl": "https://venti.live/evento/noche-de-tributos-save-the-population-fresh-potix-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -237,6 +258,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-08",
       "ticketUrl": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "DEUX",
+      "venue": "Niceto Club",
+      "date": "2026-11-08",
+      "ticketUrl": "https://venti.live/evento/deux-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -331,6 +359,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "EDU OLIVA + HALOS",
       "venue": "Niceto Club",
       "date": "2026-11-14",
@@ -342,6 +377,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-14",
       "ticketUrl": "https://venti.live/evento/oeisis-familiar-vibes-in-the-area-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "107 Faunos",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -650,6 +692,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-09",
       "ticketUrl": "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "VALERIO & LOS EXTRAVAGANTES",
+      "venue": "Niceto Club",
+      "date": "2026-12-10",
+      "ticketUrl": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

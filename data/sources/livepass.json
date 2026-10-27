@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26",
+  "fetchedAt": "2026-10-27",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -181,13 +181,6 @@
       "venue": "Club Re Quilmes",
       "date": "2026-10-31",
       "ticketUrl": "https://livepass.com.ar/events/fiesta-sep-en-quilmes",
-      "source": "livepass"
-    },
-    {
-      "artist": "DÚO TRIXIE Y METEORO",
-      "venue": "CCNU",
-      "date": "2026-11-01",
-      "ticketUrl": "https://livepass.com.ar/events/duo-trixie-y-meteoro-en-ccnu-2026-11-01-19-00-00-0300",
       "source": "livepass"
     },
     {
@@ -863,6 +856,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Raúl Lavié",
+      "venue": "Café Berlín",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/raul-lavie-en-cafe-berlin-2026-12-11-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "ESTELARES",
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
       "date": "2026-12-11",
@@ -895,6 +895,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-12-13-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Las Lobas & Astroarmonía",
+      "venue": "Café Berlín",
+      "date": "2026-12-14",
+      "ticketUrl": "https://livepass.com.ar/events/las-lobas-astroarmonia-en-cafe-berlin",
       "source": "livepass"
     },
     {

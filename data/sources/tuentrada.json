@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26",
+  "fetchedAt": "2026-10-27",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -93,13 +93,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Freddie De Tommaso / Nadine Sierra",
-      "venue": "Teatro Colón",
-      "date": "2026-10-26",
-      "ticketUrl": "https://www.tuentrada.com/ciclo-aura-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Asmik Grigorian",
       "venue": "Teatro Colón",
       "date": "2026-12-08",
@@ -177,17 +170,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Ney Matogrosso",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-30",
-      "ticketUrl": "https://www.tuentrada.com/ney-matogroso-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Se Fue Larga Late Night",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-31",
       "ticketUrl": "https://www.tuentrada.com/se-fue-larga-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Benjamin Amadeo",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-05",
+      "ticketUrl": "https://www.tuentrada.com/benjamin-amadeo-tgr",
       "source": "tuentrada"
     }
   ]
