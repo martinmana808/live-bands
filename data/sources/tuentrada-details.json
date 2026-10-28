@@ -131,6 +131,17 @@
       }
     ]
   },
+  "connie-ballarini-tgi": {
+    "fetchedAt": "2026-10-23",
+    "sessions": [
+      {
+        "date": "2026-10-31",
+        "venue": "Teatro Gran Ituzaingó",
+        "city": "Ituzaingó",
+        "name": "Connie Ballarini"
+      }
+    ]
+  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-10-14",
     "sessions": [
@@ -145,17 +156,6 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
-      }
-    ]
-  },
-  "connie-ballarini-tgi": {
-    "fetchedAt": "2026-10-23",
-    "sessions": [
-      {
-        "date": "2026-10-31",
-        "venue": "Teatro Gran Ituzaingó",
-        "city": "Ituzaingó",
-        "name": "Connie Ballarini"
       }
     ]
   },
@@ -214,17 +214,6 @@
       }
     ]
   },
-  "bobicraft-tgr": {
-    "fetchedAt": "2026-10-15",
-    "sessions": [
-      {
-        "date": "2026-10-27",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Bobicraft"
-      }
-    ]
-  },
   "los-40-primavera-pop": {
     "fetchedAt": "2026-10-27",
     "sessions": [
@@ -266,6 +255,17 @@
         "venue": "Anfiteatro Municipal Rosario",
         "city": "Rosario",
         "name": "Babasonicos"
+      }
+    ]
+  },
+  "tcr-rosario": {
+    "fetchedAt": "2026-10-28",
+    "sessions": [
+      {
+        "date": "2026-11-07",
+        "venue": "Autódromo Ciudad De Rosario",
+        "city": "Rosario",
+        "name": "Gran Premio Paladini"
       }
     ]
   }

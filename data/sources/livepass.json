@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27",
+  "fetchedAt": "2026-10-28",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -856,13 +856,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Raúl Lavié",
-      "venue": "Café Berlín",
-      "date": "2026-12-11",
-      "ticketUrl": "https://livepass.com.ar/events/raul-lavie-en-cafe-berlin-2026-12-11-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
       "artist": "ESTELARES",
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
       "date": "2026-12-11",
@@ -930,6 +923,13 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2026-12-19",
       "ticketUrl": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "JAF",
+      "venue": "Café Berlín",
+      "date": "2026-12-20",
+      "ticketUrl": "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300",
       "source": "livepass"
     },
     {

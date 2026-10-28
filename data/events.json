@@ -23,46 +23,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "bobicraft-2026-10-27-granrex",
-    "shortId": "dukin9b",
-    "artist": "Bobicraft",
-    "artistKey": "bobicraft",
-    "date": "2026-10-27",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/bobicraft-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": "25KJxQHTw8Tm0nTmTTNDQe",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17890d3772bb521d22e45735041",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "francorizzaro-2026-10-27-niceto",
-    "shortId": "1w6gpu8",
-    "artist": "Franco Rizzaro",
-    "artistKey": "francorizzaro",
-    "date": "2026-10-27",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/franco-rizzaro-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "1QLXQU95X4LRBK4VNTUAQB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785649c23172ea6060fc8c4e4b",
-    "genres": [],
-    "firstSeenAt": "2026-10-11"
-  },
-  {
     "id": "sixfeetunder-2026-10-27-teatrito",
     "shortId": "22k728u",
     "artist": "Six Feet Under",
@@ -141,6 +101,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-12"
+  },
+  {
+    "id": "electricpartyvisperasdehalloween-2026-10-29-niceto",
+    "shortId": "1zq9qpd",
+    "artist": "Electric Party VÍSPERAS DE HALLOWEEN",
+    "artistKey": "electricpartyvisperasdehalloween",
+    "date": "2026-10-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
   },
   {
     "id": "h2o-2026-10-29-teatrito",
@@ -2604,6 +2584,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781982cf089eb14a3f649f17ae",
     "genres": [],
     "firstSeenAt": "2026-10-21"
+  },
+  {
+    "id": "codabruxismo-2026-11-09-niceto",
+    "shortId": "24z0dxu",
+    "artist": "CODA + BRUXISMO",
+    "artistKey": "codabruxismo",
+    "date": "2026-11-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
   },
   {
     "id": "emba-2026-11-09-cafeberlin",
@@ -5180,6 +5180,26 @@
     "firstSeenAt": "2026-10-14"
   },
   {
+    "id": "festivalpardodaskate-2026-11-29-niceto",
+    "shortId": "1vuzhd1",
+    "artist": "FESTIVAL PARDO: da skate",
+    "artistKey": "festivalpardodaskate",
+    "date": "2026-11-29",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/festival-pardo-da-skate-en-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
+  },
+  {
     "id": "lauta-2026-11-29-niceto",
     "shortId": "yhl5af8",
     "artist": "LAUTA",
@@ -5346,6 +5366,26 @@
     "firstSeenAt": "2026-10-16"
   },
   {
+    "id": "julijelen-2026-12-03-niceto",
+    "shortId": "1mxii3n",
+    "artist": "JULI JELEN",
+    "artistKey": "julijelen",
+    "date": "2026-12-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/juli-jelen-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6bWEwwTMAz8eFGi3m7yORZ",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a31c3324e9298bc5ff0ba82",
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
+  },
+  {
     "id": "leomiddea-2026-12-03-niceto",
     "shortId": "2a8v4b7",
     "artist": "LEO MIDDEA",
@@ -5364,6 +5404,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4f809c471d1d81eb1ca0f7a",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "cattoeyewearss27-2026-12-04-niceto",
+    "shortId": "mcj2htu",
+    "artist": "CATTO EYEWEAR SS27",
+    "artistKey": "cattoeyewearss27",
+    "date": "2026-12-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/catto-eyewear-ss27-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
   },
   {
     "id": "cloedemersinrodeos-2026-12-04-niceto",
@@ -5928,28 +5988,6 @@
     "firstSeenAt": "2026-10-22"
   },
   {
-    "id": "raullavie-2026-12-11-cafeberlin",
-    "shortId": "77dg2yt",
-    "artist": "Raúl Lavié",
-    "artistKey": "raullavie",
-    "date": "2026-12-11",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/raul-lavie-en-cafe-berlin-2026-12-11-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "2GFIX098sqpvCSY9ZQHI4D",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518017c05e0494170a8ae7596a",
-    "genres": [
-      "tango"
-    ],
-    "firstSeenAt": "2026-10-27"
-  },
-  {
     "id": "valentincaba-2026-12-11-niceto",
     "shortId": "11jezuj",
     "artist": "Valentín Caba",
@@ -6376,6 +6414,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d78acf935785a85d179a03ef",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "jaf-2026-12-20-cafeberlin",
+    "shortId": "bsxbrd1",
+    "artist": "JAF",
+    "artistKey": "jaf",
+    "date": "2026-12-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-28"
   },
   {
     "id": "donavon-2027-02-14-niceto",

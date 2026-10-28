@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27",
+  "fetchedAt": "2026-10-28",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -153,13 +153,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-04",
       "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Bobicraft",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-27",
-      "ticketUrl": "https://www.tuentrada.com/bobicraft-tgr",
       "source": "tuentrada"
     },
     {
