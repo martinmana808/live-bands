@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28",
+  "fetchedAt": "2026-10-29",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,20 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Hernán Romero",
-      "venue": "Café Berlín",
-      "date": "2026-10-28",
-      "ticketUrl": "https://livepass.com.ar/events/hernan-romero-en-cafe-berlin-2026-10-28",
-      "source": "livepass"
-    },
-    {
-      "artist": "García - Gómez - Oqui",
-      "venue": "CCNU",
-      "date": "2026-10-28",
-      "ticketUrl": "https://livepass.com.ar/events/garcia-gomez-oqui-en-ccnu",
       "source": "livepass"
     },
     {
@@ -797,6 +783,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-04",
       "ticketUrl": "https://livepass.com.ar/events/gyt-es-por-amor-40-anos-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Vértigo",
+      "venue": "Café Berlín",
+      "date": "2026-12-04",
+      "ticketUrl": "https://livepass.com.ar/events/vertigo-en-cafe-berlin-2026-12-04-23-00-00-0300",
       "source": "livepass"
     },
     {

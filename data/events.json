@@ -1,28 +1,5 @@
 [
   {
-    "id": "melissaaldana-2026-10-20-salamartincoronado",
-    "shortId": "17ezdke",
-    "artist": "Melissa Aldana",
-    "artistKey": "melissaaldana",
-    "date": "2026-10-20",
-    "venue": "Sala Martin Coronado",
-    "venueKey": "salamartincoronado",
-    "ticketUrls": [
-      "https://www.tuentrada.com/jazz-bsas-ctba"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "CL",
-    "spotifyId": "56qrzp61GEif1i0UjqkHrz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17806299d9d54f795b0ebc022cd",
-    "genres": [
-      "jazz",
-      "post-bop"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "sixfeetunder-2026-10-27-teatrito",
     "shortId": "22k728u",
     "artist": "Six Feet Under",
@@ -43,66 +20,6 @@
     "firstSeenAt": "2026-10-11"
   },
   {
-    "id": "garcia-2026-10-28-ccnu",
-    "shortId": "1ci9b2l",
-    "artist": "García",
-    "artistKey": "garcia",
-    "date": "2026-10-28",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/garcia-gomez-oqui-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "hernanromero-2026-10-28-cafeberlin",
-    "shortId": "o5m7xhr",
-    "artist": "Hernán Romero",
-    "artistKey": "hernanromero",
-    "date": "2026-10-28",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hernan-romero-en-cafe-berlin-2026-10-28"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3IFe0nS1QsWfow70RzaAaH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178597c2446e08b4c40ecf61a4f",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "los40primaverapop-2026-10-28-granrex",
-    "shortId": "1o9u30u",
-    "artist": "Los 40 Primavera Pop",
-    "artistKey": "los40primaverapop",
-    "date": "2026-10-28",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/los-40-primavera-pop"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
-  },
-  {
     "id": "electricpartyvisperasdehalloween-2026-10-29-niceto",
     "shortId": "1zq9qpd",
     "artist": "Electric Party VÍSPERAS DE HALLOWEEN",
@@ -111,7 +28,7 @@
     "venue": "Niceto Club",
     "venueKey": "niceto",
     "ticketUrls": [
-      "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-humboldt-niceto-club-18-a-os"
+      "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-niceto-club-18-a-os"
     ],
     "sources": [
       "niceto"
@@ -4164,6 +4081,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "artrox-2026-11-21-niceto",
+    "shortId": "psukses",
+    "artist": "ARTROX",
+    "artistKey": "artrox",
+    "date": "2026-11-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6AEd1CQSBtvDwhUzu07WEK",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850e7290090051da4c5f2cf8c",
+    "genres": [],
+    "firstSeenAt": "2026-10-29"
+  },
+  {
     "id": "benjaminamadeo-2026-11-21-operalp",
     "shortId": "2bnf0lw",
     "artist": "BENJAMIN AMADEO",
@@ -4242,6 +4179,29 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "miguelmateos-2026-11-21-granrex",
+    "shortId": "199efnj",
+    "artist": "Miguel Mateos",
+    "artistKey": "miguelmateos",
+    "date": "2026-11-21",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/miguel-mateos-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": "02Nbktg6lCJiazPM6YYTMz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178214fc2e7cec0826d96968321",
+    "genres": [
+      "rock",
+      "singer-songwriter"
+    ],
+    "firstSeenAt": "2026-10-29"
   },
   {
     "id": "pixel33-2026-11-21-niceto",
@@ -4449,7 +4409,7 @@
     "artist": "No Te Va Gustar",
     "artistKey": "notevagustar",
     "date": "2026-11-22",
-    "venue": "Qac Estacionamiento",
+    "venue": "Estadio Qac (estacionamiento)",
     "venueKey": "qacestacionamiento",
     "ticketUrls": [
       "https://www.tuentrada.com/ntvg-gira"
@@ -5546,6 +5506,28 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "vertigo-2026-12-04-cafeberlin",
+    "shortId": "2jlxe5s",
+    "artist": "Vértigo",
+    "artistKey": "vertigo",
+    "date": "2026-12-04",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/vertigo-en-cafe-berlin-2026-12-04-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "US",
+    "spotifyId": "76tWYjH87oae3NUNdgE5KD",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783b582f8ef924857ad01f39a7",
+    "genres": [
+      "christian hardcore"
+    ],
+    "firstSeenAt": "2026-10-29"
+  },
+  {
     "id": "ciclovoid-2026-12-05-niceto",
     "shortId": "fnvhlgv",
     "artist": "Ciclo Void",
@@ -5986,6 +5968,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17876da2337ce07d703d5d93ac1",
     "genres": [],
     "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "richardcolemaneltranssiberianexpress-2026-12-11-niceto",
+    "shortId": "v8jhzbd",
+    "artist": "Richard Coleman & El Trans-Siberian Express",
+    "artistKey": "richardcolemaneltranssiberianexpress",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/richard-coleman-el-trans-siberian-express-11-dic-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-29"
   },
   {
     "id": "valentincaba-2026-12-11-niceto",

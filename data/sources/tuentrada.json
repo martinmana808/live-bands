@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28",
+  "fetchedAt": "2026-10-29",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -87,7 +87,7 @@
     },
     {
       "artist": "No Te Va Gustar",
-      "venue": "Qac Estacionamiento",
+      "venue": "Estadio Qac (estacionamiento)",
       "date": "2026-11-22",
       "ticketUrl": "https://www.tuentrada.com/ntvg-gira",
       "source": "tuentrada"
@@ -107,10 +107,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Melissa Aldana",
-      "venue": "Sala Martin Coronado",
-      "date": "2026-10-20",
-      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "artist": "Humbe",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-10-29",
+      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
       "source": "tuentrada"
     },
     {
@@ -118,13 +118,6 @@
       "venue": "Sala Martin Coronado",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Humbe",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-29",
-      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
       "source": "tuentrada"
     },
     {
@@ -156,13 +149,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Los 40 Primavera Pop",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-28",
-      "ticketUrl": "https://www.tuentrada.com/los-40-primavera-pop",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Se Fue Larga Late Night",
       "venue": "Teatro Gran Rex",
       "date": "2026-10-31",
@@ -174,6 +160,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-05",
       "ticketUrl": "https://www.tuentrada.com/benjamin-amadeo-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Miguel Mateos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-21",
+      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
       "source": "tuentrada"
     }
   ]

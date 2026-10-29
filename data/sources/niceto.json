@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28",
+  "fetchedAt": "2026-10-29",
   "events": [
     {
       "artist": "Pepechet y Soldana",
@@ -33,7 +33,7 @@
       "artist": "Electric Party VÍSPERAS DE HALLOWEEN - AFTER SHOW",
       "venue": "Niceto Club",
       "date": "2026-10-29",
-      "ticketUrl": "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-humboldt-niceto-club-18-a-os",
+      "ticketUrl": "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -492,6 +492,13 @@
       "source": "niceto"
     },
     {
+      "artist": "ARTROX -  PREESCUCHA 11:23",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club",
+      "source": "niceto"
+    },
+    {
       "artist": "La Chicle - Fiesta Disco",
       "venue": "Niceto Club",
       "date": "2026-11-21",
@@ -727,6 +734,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-10",
       "ticketUrl": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Richard Coleman & El Trans-Siberian Express 11 DIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-11",
+      "ticketUrl": "https://venti.live/evento/richard-coleman-el-trans-siberian-express-11-dic-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

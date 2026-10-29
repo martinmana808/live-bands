@@ -1,6 +1,6 @@
 {
   "abel-pintos-tgr": {
-    "fetchedAt": "2026-10-14",
+    "fetchedAt": "2026-10-29",
     "sessions": [
       {
         "date": "2026-11-13",
@@ -35,7 +35,7 @@
     ]
   },
   "alex-ubago-tgr": {
-    "fetchedAt": "2026-10-14",
+    "fetchedAt": "2026-10-29",
     "sessions": [
       {
         "date": "2026-11-07",
@@ -46,7 +46,7 @@
     ]
   },
   "boda-lyniel-tgr": {
-    "fetchedAt": "2026-10-14",
+    "fetchedAt": "2026-10-29",
     "sessions": [
       {
         "date": "2026-11-01",
@@ -87,7 +87,7 @@
     ]
   },
   "ntvg-gira": {
-    "fetchedAt": "2026-10-14",
+    "fetchedAt": "2026-10-29",
     "sessions": [
       {
         "date": "2026-11-20",
@@ -103,7 +103,7 @@
       },
       {
         "date": "2026-11-22",
-        "venue": "Qac Estacionamiento",
+        "venue": "Estadio Qac (estacionamiento)",
         "city": "Quilmes",
         "name": "No Te Va Gustar"
       }
@@ -121,7 +121,7 @@
     ]
   },
   "djavan-tgr": {
-    "fetchedAt": "2026-10-14",
+    "fetchedAt": "2026-10-29",
     "sessions": [
       {
         "date": "2026-11-24",
@@ -142,23 +142,6 @@
       }
     ]
   },
-  "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-14",
-    "sessions": [
-      {
-        "date": "2026-10-20",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Melissa Aldana"
-      },
-      {
-        "date": "2026-11-24",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Christian Sands Quartet"
-      }
-    ]
-  },
   "humbe-tgr": {
     "fetchedAt": "2026-10-26",
     "sessions": [
@@ -167,6 +150,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Humbe"
+      }
+    ]
+  },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
       }
     ]
   },
@@ -214,17 +208,6 @@
       }
     ]
   },
-  "los-40-primavera-pop": {
-    "fetchedAt": "2026-10-27",
-    "sessions": [
-      {
-        "date": "2026-10-28",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Los 40 Primavera Pop"
-      }
-    ]
-  },
   "se-fue-larga-tgr": {
     "fetchedAt": "2026-10-23",
     "sessions": [
@@ -244,6 +227,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Benjamin Amadeo"
+      }
+    ]
+  },
+  "miguel-mateos-tgr": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-21",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Miguel Mateos"
       }
     ]
   },
