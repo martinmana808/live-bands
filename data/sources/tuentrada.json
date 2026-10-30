@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29",
+  "fetchedAt": "2026-10-30",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -107,13 +107,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Humbe",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-29",
-      "ticketUrl": "https://www.tuentrada.com/humbe-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Christian Sands Quartet",
       "venue": "Sala Martin Coronado",
       "date": "2026-11-24",
@@ -149,13 +142,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Se Fue Larga Late Night",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-10-31",
-      "ticketUrl": "https://www.tuentrada.com/se-fue-larga-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Benjamin Amadeo",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-05",
@@ -167,6 +153,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-21",
       "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Greeicy",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-26",
+      "ticketUrl": "https://www.tuentrada.com/greeicy-tgr",
       "source": "tuentrada"
     }
   ]

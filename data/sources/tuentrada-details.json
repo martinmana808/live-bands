@@ -142,17 +142,6 @@
       }
     ]
   },
-  "humbe-tgr": {
-    "fetchedAt": "2026-10-26",
-    "sessions": [
-      {
-        "date": "2026-10-29",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Humbe"
-      }
-    ]
-  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-10-29",
     "sessions": [
@@ -208,14 +197,20 @@
       }
     ]
   },
-  "se-fue-larga-tgr": {
-    "fetchedAt": "2026-10-23",
+  "bomberitos": {
+    "fetchedAt": "2026-10-30",
     "sessions": [
       {
-        "date": "2026-10-31",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Se Fue Larga Late Night"
+        "date": "2026-11-07",
+        "venue": "Espacio Bomberitos",
+        "city": "Villa Ballester",
+        "name": "Visitá Espacio Bomberitos"
+      },
+      {
+        "date": "2026-11-14",
+        "venue": "Espacio Bomberitos",
+        "city": "Villa Ballester",
+        "name": "Visitá Espacio Bomberitos"
       }
     ]
   },
@@ -260,6 +255,17 @@
         "venue": "Autódromo Ciudad De Rosario",
         "city": "Rosario",
         "name": "Gran Premio Paladini"
+      }
+    ]
+  },
+  "greeicy-tgr": {
+    "fetchedAt": "2026-10-30",
+    "sessions": [
+      {
+        "date": "2026-11-26",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Greeicy"
       }
     ]
   }

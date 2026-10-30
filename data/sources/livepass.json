@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29",
+  "fetchedAt": "2026-10-30",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,34 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "The Beatles - In My Life - By Parisi",
-      "venue": "Café Berlín",
-      "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/the-beatles-in-my-life-by-parisi-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Jazz After Hours",
-      "venue": "CCNU",
-      "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/jazz-after-hours-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-10-29",
-      "source": "livepass"
-    },
-    {
-      "artist": "Rebel Kind",
-      "venue": "Café Berlín",
-      "date": "2026-10-29",
-      "ticketUrl": "https://livepass.com.ar/events/rebel-kind-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -331,6 +303,13 @@
       "source": "livepass"
     },
     {
+      "artist": "GEMA",
+      "venue": "CCNU",
+      "date": "2026-11-08",
+      "ticketUrl": "https://livepass.com.ar/events/gema-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "EMBA - Canciones de Autor",
       "venue": "Café Berlín",
       "date": "2026-11-09",
@@ -468,6 +447,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-14",
       "ticketUrl": "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "HAY PLAN - LA NOCTURNA: una fiesta de noche",
+      "venue": "Livepass",
+      "date": "2026-11-14",
+      "ticketUrl": "https://livepass.com.ar/events/hay-plan-la-nocturna-una-fiesta-de-noche-2026-11-14-23-55-00-0300",
       "source": "livepass"
     },
     {
@@ -923,6 +909,20 @@
       "venue": "Café Berlín",
       "date": "2026-12-20",
       "ticketUrl": "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Smor",
+      "venue": "Café Berlín",
+      "date": "2027-01-17",
+      "ticketUrl": "https://livepass.com.ar/events/smor-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Hilda Lizarazu",
+      "venue": "Café Berlín",
+      "date": "2027-01-21",
+      "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
       "source": "livepass"
     },
     {
