@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30",
+  "fetchedAt": "2026-10-31",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,48 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "CDS",
-      "venue": "CCNU",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/cds-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "ALE KURZ",
-      "venue": "Guajira LP",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/ale-kurz-en-guajira-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pasarla Bien",
-      "venue": "Café Berlín",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/pasarla-bien-en-cafe-berlin-2026-10-30-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "DANCING MOOD",
-      "venue": "San Miguel",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/dancing-mood-en-san-miguel-2026-10-30-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Ben & Sweets",
-      "venue": "CCNU",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/ben-sweets-en-ccnu-2026-10-30-22-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pablo Cordonet",
-      "venue": "Café Berlín",
-      "date": "2026-10-30",
-      "ticketUrl": "https://livepass.com.ar/events/pablo-cordonet-en-cafe-berlin-2026-10-30-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -923,6 +881,13 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Juliano Barreto & Eduardo Farías",
+      "venue": "Café Berlín",
+      "date": "2027-01-24",
+      "ticketUrl": "https://livepass.com.ar/events/juliano-barreto-eduardo-farias-en-cafe-berlin",
       "source": "livepass"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30",
+  "fetchedAt": "2026-10-31",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -128,17 +128,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Geronimo Rauch",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-12-10",
-      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Sergio Dalma",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-04",
       "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Geronimo Rauch",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-10",
+      "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
       "source": "tuentrada"
     },
     {

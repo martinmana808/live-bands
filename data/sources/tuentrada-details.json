@@ -175,17 +175,6 @@
       }
     ]
   },
-  "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-22",
-    "sessions": [
-      {
-        "date": "2026-12-10",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Geronimo Rauch"
-      }
-    ]
-  },
   "sergio-dalma-tgr": {
     "fetchedAt": "2026-10-24",
     "sessions": [
@@ -194,6 +183,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Sergio Dalma"
+      }
+    ]
+  },
+  "geronimo-rauch-tgr": {
+    "fetchedAt": "2026-10-22",
+    "sessions": [
+      {
+        "date": "2026-12-10",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Geronimo Rauch"
       }
     ]
   },
@@ -237,7 +237,7 @@
     ]
   },
   "babasonicos-amr": {
-    "fetchedAt": "2026-10-16",
+    "fetchedAt": "2026-10-31",
     "sessions": [
       {
         "date": "2026-12-11",

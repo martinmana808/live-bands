@@ -1,65 +1,5 @@
 [
   {
-    "id": "alekurz-2026-10-30-guajiralp",
-    "shortId": "1mqwluc",
-    "artist": "ALE KURZ",
-    "artistKey": "alekurz",
-    "date": "2026-10-30",
-    "venue": "Guajira LP",
-    "venueKey": "guajiralp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ale-kurz-en-guajira-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "6702vlPBoiA7zeDvv6wPkW",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880fb77f26c5627e89212aba0",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "andyhillarcarismaticoplayer-2026-10-30-niceto",
-    "shortId": "11z2ggu",
-    "artist": "Andy Hillar + Carismático Player",
-    "artistKey": "andyhillarcarismaticoplayer",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/andy-hillar-carism-tico-player-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "bensweets-2026-10-30-ccnu",
-    "shortId": "sccsu00",
-    "artist": "Ben & Sweets",
-    "artistKey": "bensweets",
-    "date": "2026-10-30",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ben-sweets-en-ccnu-2026-10-30-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
     "id": "benediction-2026-10-30-uniclub",
     "shortId": "2hg1ee1",
     "artist": "Benediction",
@@ -78,28 +18,6 @@
       "death metal"
     ],
     "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "cds-2026-10-30-ccnu",
-    "shortId": "htg5r69",
-    "artist": "CDS",
-    "artistKey": "cds",
-    "date": "2026-10-30",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/cds-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [
-      "punk"
-    ],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "chrisliebing-2026-10-30-under",
@@ -122,46 +40,6 @@
       "hard techno"
     ],
     "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "dancingmood-2026-10-30-sanmiguel",
-    "shortId": "lowwxpj",
-    "artist": "DANCING MOOD",
-    "artistKey": "dancingmood",
-    "date": "2026-10-30",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/dancing-mood-en-san-miguel-2026-10-30-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "70XauTb6oEJbXxFoH6wY9F",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842bc03857f5c2a8f6744d57a",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "fiestapixie-2026-10-30-niceto",
-    "shortId": "4585fp3",
-    "artist": "Fiesta Pixie",
-    "artistKey": "fiestapixie",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-pixie-halloween-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-11"
   },
   {
     "id": "fishbone-2026-10-30-trastienda",
@@ -204,66 +82,6 @@
     "firstSeenAt": "2026-10-30"
   },
   {
-    "id": "halloweendforestmusicology-2026-10-30-niceto",
-    "shortId": "1idlpbs",
-    "artist": "HALLOWEEN / D'FOREST & MUSICOLOGY",
-    "artistKey": "halloweendforestmusicology",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/halloween-en-niceto-d-forest-musicology-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "kastagreatesthits-2026-10-30-niceto",
-    "shortId": "bpsv0sw",
-    "artist": "Kasta Greatest Hits",
-    "artistKey": "kastagreatesthits",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kasta-greatest-hits-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "laraxxet-2026-10-30-niceto",
-    "shortId": "2kkpapr",
-    "artist": "La Raxxet",
-    "artistKey": "laraxxet",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-raxxet-30-oct-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-17"
-  },
-  {
     "id": "oliverheldens-2026-10-30-pmopenair",
     "shortId": "26ig78v",
     "artist": "Oliver Heldens",
@@ -284,66 +102,6 @@
       "electronic"
     ],
     "firstSeenAt": "2026-10-11"
-  },
-  {
-    "id": "pablocordonet-2026-10-30-cafeberlin",
-    "shortId": "ck1rfhr",
-    "artist": "Pablo Cordonet",
-    "artistKey": "pablocordonet",
-    "date": "2026-10-30",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pablo-cordonet-en-cafe-berlin-2026-10-30-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "pasarlabien-2026-10-30-cafeberlin",
-    "shortId": "qpg2oa5",
-    "artist": "Pasarla Bien",
-    "artistKey": "pasarlabien",
-    "date": "2026-10-30",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pasarla-bien-en-cafe-berlin-2026-10-30-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "51riRWvyJlXbgaRxjUGdcu",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178782631061155e679a2615bde",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "recamaraafteroffice-2026-10-30-niceto",
-    "shortId": "2ddz0ul",
-    "artist": "RECámara After Office",
-    "artistKey": "recamaraafteroffice",
-    "date": "2026-10-30",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/rec-mara-after-office-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "andyrex-2026-10-31-cafeberlin",
@@ -1409,6 +1167,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783edb7d1695740d6ef00bb9f6",
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "minelekxixaniversario-2026-11-06-niceto",
+    "shortId": "1xixiwa",
+    "artist": "MINELEK XIX ANIVERSARIO",
+    "artistKey": "minelekxixaniversario",
+    "date": "2026-11-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/minelek-xix-aniversario-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-31"
   },
   {
     "id": "nochedetributos-2026-11-06-niceto",
@@ -6348,6 +6126,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17877e4fa193b0994b705a75f1b",
     "genres": [],
     "firstSeenAt": "2026-10-30"
+  },
+  {
+    "id": "julianobarretoeduardofarias-2027-01-24-cafeberlin",
+    "shortId": "1pnwfv0",
+    "artist": "Juliano Barreto & Eduardo Farías",
+    "artistKey": "julianobarretoeduardofarias",
+    "date": "2027-01-24",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/juliano-barreto-eduardo-farias-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-10-31"
   },
   {
     "id": "donavon-2027-02-14-niceto",
