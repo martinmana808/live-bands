@@ -120,28 +120,6 @@
       }
     ]
   },
-  "djavan-tgr": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Djavan"
-      }
-    ]
-  },
-  "connie-ballarini-tgi": {
-    "fetchedAt": "2026-10-23",
-    "sessions": [
-      {
-        "date": "2026-10-31",
-        "venue": "Teatro Gran Ituzaingó",
-        "city": "Ituzaingó",
-        "name": "Connie Ballarini"
-      }
-    ]
-  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-10-29",
     "sessions": [
@@ -150,6 +128,28 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "sergio-dalma-tgr": {
+    "fetchedAt": "2026-10-24",
+    "sessions": [
+      {
+        "date": "2026-11-04",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Sergio Dalma"
+      }
+    ]
+  },
+  "djavan-tgr": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Djavan"
       }
     ]
   },
@@ -172,17 +172,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
-      }
-    ]
-  },
-  "sergio-dalma-tgr": {
-    "fetchedAt": "2026-10-24",
-    "sessions": [
-      {
-        "date": "2026-11-04",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Sergio Dalma"
       }
     ]
   },
@@ -211,6 +200,17 @@
         "venue": "Espacio Bomberitos",
         "city": "Villa Ballester",
         "name": "Visitá Espacio Bomberitos"
+      }
+    ]
+  },
+  "connie-ballarini-tdb": {
+    "fetchedAt": "2026-11-01",
+    "sessions": [
+      {
+        "date": "2026-11-13",
+        "venue": "Teatro Don Bosco San Isidro",
+        "city": "San Isidro",
+        "name": "Connie Ballarini"
       }
     ]
   },

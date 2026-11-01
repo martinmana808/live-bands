@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31",
+  "fetchedAt": "2026-11-01",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,17 +100,24 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Djavan",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Christian Sands Quartet",
       "venue": "Sala Martin Coronado",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Sergio Dalma",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-04",
+      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Djavan",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
       "source": "tuentrada"
     },
     {
@@ -128,17 +135,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Sergio Dalma",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-04",
-      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Geronimo Rauch",
       "venue": "Teatro Gran Rex",
       "date": "2026-12-10",
       "ticketUrl": "https://www.tuentrada.com/geronimo-rauch-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Connie Ballarini",
+      "venue": "Teatro Don Bosco San Isidro",
+      "date": "2026-11-13",
+      "ticketUrl": "https://www.tuentrada.com/connie-ballarini-tdb",
       "source": "tuentrada"
     },
     {

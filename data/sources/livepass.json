@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31",
+  "fetchedAt": "2026-11-01",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,41 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Karma Criollo - Música Peruana",
-      "venue": "CCNU",
-      "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/karma-criollo-musica-peruana-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Joe Fernández",
-      "venue": "Café Berlín",
-      "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/joe-fernandez-en-cafe-berlin-2026-10-24",
-      "source": "livepass"
-    },
-    {
-      "artist": "FIESTA MTV 80' 90' 00 ' Edición Halloween",
-      "venue": "San Miguel",
-      "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/fiesta-mtv-80-90-00-edicion-halloween-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Andy Rex - Sandro",
-      "venue": "Café Berlín",
-      "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/andy-rex-sandro-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "FIESTA SEP",
-      "venue": "Club Re Quilmes",
-      "date": "2026-10-31",
-      "ticketUrl": "https://livepass.com.ar/events/fiesta-sep-en-quilmes",
       "source": "livepass"
     },
     {

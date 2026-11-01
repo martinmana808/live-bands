@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-10-30",
+  "fetchedAt": "2026-11-01",
   "events": [
-    {
-      "artist": "Oliver Heldens",
-      "venue": "PM Open Air",
-      "date": "2026-10-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Benediction",
-      "venue": "Uniclub",
-      "date": "2026-10-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fishbone",
-      "venue": "La Trastienda",
-      "date": "2026-10-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Chris Liebing",
-      "venue": "Under Club",
-      "date": "2026-10-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Grace & Badlove",
-      "venue": "La Dire es Olaya 1258 (House Show)",
-      "date": "2026-10-30",
-      "source": "songkick"
-    },
-    {
-      "artist": "Tipling Rock",
-      "venue": "The Roxy Live!",
-      "date": "2026-10-31",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nonpalidece",
-      "venue": "Area Costanera",
-      "date": "2026-10-31",
-      "source": "songkick"
-    },
     {
       "artist": "Jesse & Joy",
       "venue": "Movistar Arena",
@@ -218,8 +176,8 @@
       "source": "songkick"
     },
     {
-      "artist": "Latin Metal Invasión 2026",
-      "venue": "SixBar",
+      "artist": "Vinociraptor and Dolmen",
+      "venue": "Moscú Espacio Cultural",
       "date": "2026-11-07",
       "source": "songkick"
     },
@@ -233,12 +191,6 @@
       "artist": "It's All Red",
       "venue": "Aura",
       "date": "2026-11-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "Social Distortion",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-09",
       "source": "songkick"
     },
     {
@@ -299,6 +251,54 @@
       "artist": "NATAS - Broide - Villagra - Bereciartúa",
       "venue": "C Complejo Art Media",
       "date": "2026-11-13",
+      "source": "songkick"
+    },
+    {
+      "artist": "Romeo Santos and Prince Royce",
+      "venue": "Estadio José Amalfitani (Vélez Sarsfield)",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maria Becerra",
+      "venue": "Movistar Arena",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Loud Luxury",
+      "venue": "Creamfields",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Peaches",
+      "venue": "Deseo",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Nocturnal Depression",
+      "venue": "Uniclub",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Poseidotica and EL RELOJ",
+      "venue": "Club de Arte Tempuja",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "felipe avello",
+      "venue": "Teatro Abasto Center",
+      "date": "2026-11-14",
+      "source": "songkick"
+    },
+    {
+      "artist": "Diego Marchionatti",
+      "venue": "Thames Cultural",
+      "date": "2026-11-14",
       "source": "songkick"
     }
   ]
