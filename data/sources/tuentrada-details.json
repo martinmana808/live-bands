@@ -110,35 +110,13 @@
     ]
   },
   "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-10-18",
+    "fetchedAt": "2026-11-02",
     "sessions": [
       {
         "date": "2026-12-08",
         "venue": "Teatro Colón",
         "city": "Buenos Aires",
         "name": "Asmik Grigorian"
-      }
-    ]
-  },
-  "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Christian Sands Quartet"
-      }
-    ]
-  },
-  "sergio-dalma-tgr": {
-    "fetchedAt": "2026-10-24",
-    "sessions": [
-      {
-        "date": "2026-11-04",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Sergio Dalma"
       }
     ]
   },
@@ -150,6 +128,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Djavan"
+      }
+    ]
+  },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
       }
     ]
   },
@@ -172,6 +161,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
+      }
+    ]
+  },
+  "sergio-dalma-tgr": {
+    "fetchedAt": "2026-10-24",
+    "sessions": [
+      {
+        "date": "2026-11-04",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Sergio Dalma"
       }
     ]
   },
@@ -225,28 +225,6 @@
       }
     ]
   },
-  "miguel-mateos-tgr": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-21",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Miguel Mateos"
-      }
-    ]
-  },
-  "babasonicos-amr": {
-    "fetchedAt": "2026-10-31",
-    "sessions": [
-      {
-        "date": "2026-12-11",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "Babasonicos"
-      }
-    ]
-  },
   "tcr-rosario": {
     "fetchedAt": "2026-10-28",
     "sessions": [
@@ -258,6 +236,17 @@
       }
     ]
   },
+  "miguel-mateos-tgr": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-21",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Miguel Mateos"
+      }
+    ]
+  },
   "greeicy-tgr": {
     "fetchedAt": "2026-10-30",
     "sessions": [
@@ -266,6 +255,28 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Greeicy"
+      }
+    ]
+  },
+  "y-que-tgr": {
+    "fetchedAt": "2026-11-02",
+    "sessions": [
+      {
+        "date": "2026-11-27",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Y Que ?"
+      }
+    ]
+  },
+  "babasonicos-amr": {
+    "fetchedAt": "2026-10-31",
+    "sessions": [
+      {
+        "date": "2026-12-11",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "Babasonicos"
       }
     ]
   }

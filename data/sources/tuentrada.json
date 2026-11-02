@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01",
+  "fetchedAt": "2026-11-02",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,24 +100,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Christian Sands Quartet",
-      "venue": "Sala Martin Coronado",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Sergio Dalma",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-04",
-      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Djavan",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Christian Sands Quartet",
+      "venue": "Sala Martin Coronado",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
       "source": "tuentrada"
     },
     {
@@ -132,6 +125,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
       "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Sergio Dalma",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-04",
+      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
       "source": "tuentrada"
     },
     {
@@ -167,6 +167,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-26",
       "ticketUrl": "https://www.tuentrada.com/greeicy-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Y Que ?",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-27",
+      "ticketUrl": "https://www.tuentrada.com/y-que-tgr",
       "source": "tuentrada"
     }
   ]

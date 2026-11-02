@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01",
+  "fetchedAt": "2026-11-02",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,20 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Maikel Pereyra - La Guitarra infinita",
-      "venue": "Café Berlín",
-      "date": "2026-11-01",
-      "ticketUrl": "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Vocayuva",
-      "venue": "CCNU",
-      "date": "2026-11-01",
-      "ticketUrl": "https://livepass.com.ar/events/vocayuva-en-ccnu-2026-11-01-21-30-00-0300",
       "source": "livepass"
     },
     {
@@ -555,6 +541,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Contreras Gramigna Gerez re",
+      "venue": "CCNU",
+      "date": "2026-11-26",
+      "ticketUrl": "https://livepass.com.ar/events/contreras-gramigna-gerez-re-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Serie 2",
       "venue": "Café Berlín",
       "date": "2026-11-26",
@@ -566,6 +559,13 @@
       "venue": "Internet en Café Berlín",
       "date": "2026-11-26",
       "ticketUrl": "https://livepass.com.ar/events/musica-no-disponible-en-internet-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Nora Sarmoria & Victoria Zotalis",
+      "venue": "CCNU",
+      "date": "2026-11-27",
+      "ticketUrl": "https://livepass.com.ar/events/nora-sarmoria-victoria-zotalis-en-ccnu",
       "source": "livepass"
     },
     {
@@ -583,10 +583,24 @@
       "source": "livepass"
     },
     {
+      "artist": "BRUNO VARELA ORGAN TRÍO",
+      "venue": "CCNU",
+      "date": "2026-11-27",
+      "ticketUrl": "https://livepass.com.ar/events/bruno-varela-organ-trio-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Marían Inver",
       "venue": "Café Berlín",
       "date": "2026-11-27",
       "ticketUrl": "https://livepass.com.ar/events/marian-inver-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dómine-González",
+      "venue": "CCNU",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/domine-gonzalez-en-ccnu",
       "source": "livepass"
     },
     {
@@ -625,6 +639,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Maia Korosec & Victoria Scioli",
+      "venue": "CCNU",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/maia-korosec-victoria-scioli-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Plan Divino",
       "venue": "Café Berlín",
       "date": "2026-11-28",
@@ -632,10 +653,24 @@
       "source": "livepass"
     },
     {
+      "artist": "PELLICAN JAZZ DUO",
+      "venue": "CCNU",
+      "date": "2026-11-29",
+      "ticketUrl": "https://livepass.com.ar/events/pellican-jazz-duo-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Fernando Cabrera - Hugo Fattoruso",
       "venue": "Café Berlín",
       "date": "2026-11-29",
       "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin-2026-11-29-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Lara Fichera & Andrés Martínez",
+      "venue": "CCNU",
+      "date": "2026-11-29",
+      "ticketUrl": "https://livepass.com.ar/events/lara-fichera-andres-martinez-en-ccnu",
       "source": "livepass"
     },
     {

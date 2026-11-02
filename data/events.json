@@ -1,85 +1,5 @@
 [
   {
-    "id": "club6931octhalloween-2026-10-31-niceto",
-    "shortId": "6kftgz0",
-    "artist": "Club 69 | 31 OCT HALLOWEEN",
-    "artistKey": "club6931octhalloween",
-    "date": "2026-10-31",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-31-oct-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "fiestamermelada-2026-10-31-niceto",
-    "shortId": "210wyfg",
-    "artist": "FIESTA MERMELADA",
-    "artistKey": "fiestamermelada",
-    "date": "2026-10-31",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-mermelada-halloween-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "mileycyrusfest-2026-10-31-niceto",
-    "shortId": "2klxn7o",
-    "artist": "Miley Cyrus Fest",
-    "artistKey": "mileycyrusfest",
-    "date": "2026-10-31",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/miley-cyrus-fest-edici-n-mileyween-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
-  },
-  {
-    "id": "santurronahalloween3110-2026-10-31-niceto",
-    "shortId": "279yliy",
-    "artist": "SANTURRONA | HALLOWEEN 31-10",
-    "artistKey": "santurronahalloween3110",
-    "date": "2026-10-31",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/santurrona-halloween-31-10-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-20"
-  },
-  {
     "id": "awilhelmscream-2026-11-01-culturalbula",
     "shortId": "1db60zh",
     "artist": "A Wilhelm Scream",
@@ -100,26 +20,6 @@
       "punk"
     ],
     "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "akapellahlacruz-2026-11-01-niceto",
-    "shortId": "1tzzjj4",
-    "artist": "Akapellah La Cruz",
-    "artistKey": "akapellahlacruz",
-    "date": "2026-11-01",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/akapellah-la-cruz-tour-2026-en-buenos-aires-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-12"
   },
   {
     "id": "bodalyniel-2026-11-01-granrex",
@@ -179,46 +79,6 @@
       "latin",
       "ballad"
     ],
-    "firstSeenAt": "2026-10-14"
-  },
-  {
-    "id": "maikelpereyra-2026-11-01-cafeberlin",
-    "shortId": "2br1fhi",
-    "artist": "Maikel Pereyra",
-    "artistKey": "maikelpereyra",
-    "date": "2026-11-01",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/maikel-pereyra-la-guitarra-infinita-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "2ms8Svp5iPNP7R3PXSsOFx",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485151c79ca3f7b0f405a7146860",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "vocayuva-2026-11-01-ccnu",
-    "shortId": "1yxfv7u",
-    "artist": "Vocayuva",
-    "artistKey": "vocayuva",
-    "date": "2026-11-01",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/vocayuva-en-ccnu-2026-11-01-21-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
     "firstSeenAt": "2026-10-14"
   },
   {
@@ -611,6 +471,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "kilombo-2026-11-05-niceto",
+    "shortId": "2fxgo21",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-11-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-5-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "lewisofman-2026-11-05-niceto",
@@ -2562,26 +2442,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "choggeolaprimerafiestadechoggerdellegaahumboldtnicetoclub-2026-11-14-niceto",
-    "shortId": "rx35qw4",
-    "artist": "CHOGGEO La primera fiesta de Chogger de llega a Humboldt | Niceto Club",
-    "artistKey": "choggeolaprimerafiestadechoggerdellegaahumboldtnicetoclub",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "cirofogliatta-2026-11-14-ccnu",
     "shortId": "1dc5yb2",
     "artist": "Ciro Fogliatta",
@@ -4087,6 +3947,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "contrerasgramignagerezre-2026-11-26-ccnu",
+    "shortId": "1bh9xw4",
+    "artist": "Contreras Gramigna Gerez re",
+    "artistKey": "contrerasgramignagerezre",
+    "date": "2026-11-26",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/contreras-gramigna-gerez-re-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
+  },
+  {
     "id": "errorvanessa-2026-11-26-niceto",
     "shortId": "28455qy",
     "artist": "ERROR VANESSA",
@@ -4211,6 +4091,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "brunovarelaorgantrio-2026-11-27-ccnu",
+    "shortId": "1wqymf4",
+    "artist": "BRUNO VARELA ORGAN TRÍO",
+    "artistKey": "brunovarelaorgantrio",
+    "date": "2026-11-27",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/bruno-varela-organ-trio-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
+  },
+  {
     "id": "julianelordimartinztaylafliacohete-2026-11-27-niceto",
     "shortId": "1pth0ab",
     "artist": "Julián Elordi + Martín Zta y la Flia Cohete",
@@ -4291,6 +4191,26 @@
     "firstSeenAt": "2026-09-30"
   },
   {
+    "id": "norasarmoriavictoriazotalis-2026-11-27-ccnu",
+    "shortId": "ucj1rb4",
+    "artist": "Nora Sarmoria & Victoria Zotalis",
+    "artistKey": "norasarmoriavictoriazotalis",
+    "date": "2026-11-27",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nora-sarmoria-victoria-zotalis-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
+  },
+  {
     "id": "queteimporta-2026-11-27-cafeberlin",
     "shortId": "2uvz17k",
     "artist": "Queteimporta",
@@ -4309,6 +4229,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "yque-2026-11-27-granrex",
+    "shortId": "1fa602l",
+    "artist": "Y Que ?",
+    "artistKey": "yque",
+    "date": "2026-11-27",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/y-que-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "aperfectcirclepuscifer-2026-11-28-buenosaires",
@@ -4369,6 +4309,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e31e9a62b067e5200af19eb5",
     "genres": [],
     "firstSeenAt": "2026-09-16"
+  },
+  {
+    "id": "dominegonzalez-2026-11-28-ccnu",
+    "shortId": "1pgz85x",
+    "artist": "Dómine-González",
+    "artistKey": "dominegonzalez",
+    "date": "2026-11-28",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/domine-gonzalez-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "eslavos-2026-11-28-sanmiguel",
@@ -4514,6 +4474,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d81a365a9f49d03bfc446ed4",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "maiakorosecvictoriascioli-2026-11-28-ccnu",
+    "shortId": "138ani6",
+    "artist": "Maia Korosec & Victoria Scioli",
+    "artistKey": "maiakorosecvictoriascioli",
+    "date": "2026-11-28",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/maia-korosec-victoria-scioli-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "plandivino-2026-11-28-cafeberlin",
@@ -4663,6 +4643,26 @@
     "firstSeenAt": "2026-10-28"
   },
   {
+    "id": "laraficheraandresmartinez-2026-11-29-ccnu",
+    "shortId": "1tmfh4d",
+    "artist": "Lara Fichera & Andrés Martínez",
+    "artistKey": "laraficheraandresmartinez",
+    "date": "2026-11-29",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/lara-fichera-andres-martinez-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
+  },
+  {
     "id": "lauta-2026-11-29-niceto",
     "shortId": "yhl5af8",
     "artist": "LAUTA",
@@ -4681,6 +4681,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e601649883bf5b2a6088ba4c",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "pellicanjazzduo-2026-11-29-ccnu",
+    "shortId": "1nz3rtm",
+    "artist": "PELLICAN JAZZ DUO",
+    "artistKey": "pellicanjazzduo",
+    "date": "2026-11-29",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pellican-jazz-duo-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "emba-2026-11-30-cafeberlin",
@@ -5049,6 +5069,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "desordenconopinel-2026-12-05-niceto",
+    "shortId": "2nxcdt2",
+    "artist": "DESORDEN con OPINEL",
+    "artistKey": "desordenconopinel",
+    "date": "2026-12-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "diegocapusotto-2026-12-05-cafeberlin",
@@ -5819,6 +5859,26 @@
     "firstSeenAt": "2026-09-16"
   },
   {
+    "id": "octafonic-2026-12-18-niceto",
+    "shortId": "dt2mvqo",
+    "artist": "OCTAFONIC",
+    "artistKey": "octafonic",
+    "date": "2026-12-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/octafonic-18-dic-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "0zH8fHWkJtawv3gpK43wIf",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863efcd4331a2504efc5eba42",
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
+  },
+  {
     "id": "renzolealiylosdesertores-2026-12-18-niceto",
     "shortId": "yj3gqox",
     "artist": "RENZO LEALI Y LOS DESERTORES",
@@ -5939,6 +5999,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-28"
+  },
+  {
+    "id": "festivalpardolasligasmenores-2026-12-26-niceto",
+    "shortId": "2g1nib4",
+    "artist": "FESTIVAL PARDO: LAS LIGAS MENORES",
+    "artistKey": "festivalpardolasligasmenores",
+    "date": "2026-12-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/festival-pardo-las-ligas-menores-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "smor-2027-01-17-cafeberlin",
