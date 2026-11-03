@@ -82,26 +82,6 @@
     "firstSeenAt": "2026-10-14"
   },
   {
-    "id": "rushlight-2026-11-02-cafeberlin",
-    "shortId": "1uu0pwj",
-    "artist": "Rushlight",
-    "artistKey": "rushlight",
-    "date": "2026-11-02",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/rushlight-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-23"
-  },
-  {
     "id": "bersuitvergarabat-2026-11-03-movistararena",
     "shortId": "18bdrez",
     "artist": "Bersuit Vergarabat",
@@ -1031,6 +1011,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "catalinaerdelyicuarteto-2026-11-07-ccnu",
+    "shortId": "1j7u9zb",
+    "artist": "Catalina Erdelyi Cuarteto",
+    "artistKey": "catalinaerdelyicuarteto",
+    "date": "2026-11-07",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/catalina-erdelyi-cuarteto-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-03"
+  },
+  {
     "id": "cazadores-2026-11-07-niceto",
     "shortId": "xn1az8x",
     "artist": "CAZADORES",
@@ -1449,6 +1449,26 @@
       "gangsta rap"
     ],
     "firstSeenAt": "2026-10-26"
+  },
+  {
+    "id": "deepsession-2026-11-08-niceto",
+    "shortId": "2jk10d6",
+    "artist": "DEEP SESSION",
+    "artistKey": "deepsession",
+    "date": "2026-11-08",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-session-extended-format-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-03"
   },
   {
     "id": "deux-2026-11-08-niceto",
@@ -2860,6 +2880,29 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b4194e39c688a7409da25ef",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "emba-2026-11-16-cafeberlin",
+    "shortId": "ggy1ya5",
+    "artist": "EMBA",
+    "artistKey": "emba",
+    "date": "2026-11-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/emba-rock-funk-fusion-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "718ksZSrtH1230gfJwkMrU",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9a1be0f144dddd45b5b3e4d",
+    "genres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "firstSeenAt": "2026-11-03"
   },
   {
     "id": "jaze-2026-11-17-niceto",
@@ -4536,10 +4579,10 @@
     "firstSeenAt": "2026-10-15"
   },
   {
-    "id": "selftitledtechnosession-2026-11-28-niceto",
-    "shortId": "22ot03v",
-    "artist": "SELF TITLED TECHNO SESSION",
-    "artistKey": "selftitledtechnosession",
+    "id": "selftitledxfound-2026-11-28-niceto",
+    "shortId": "13vmmhj",
+    "artist": "SELF-TITLED x FOUND",
+    "artistKey": "selftitledxfound",
     "date": "2026-11-28",
     "venue": "Niceto Club",
     "venueKey": "niceto",
@@ -4553,7 +4596,7 @@
     "spotifyId": null,
     "spotifyImage": null,
     "genres": [],
-    "firstSeenAt": "2026-10-15"
+    "firstSeenAt": "2026-11-03"
   },
   {
     "id": "unpocoderuido-2026-11-28-hipodromoplata",
@@ -5191,6 +5234,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "labombadetiempo-2026-12-06-requilmes",
+    "shortId": "4iunt7j",
+    "artist": "LA BOMBA DE TIEMPO",
+    "artistKey": "labombadetiempo",
+    "date": "2026-12-06",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/la-bomba-de-tiempo-en-club-re-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
+    "genres": [],
+    "firstSeenAt": "2026-11-03"
+  },
+  {
     "id": "lapatrullaespacial-2026-12-06-niceto",
     "shortId": "2jcnzky",
     "artist": "LA PATRULLA ESPACIAL",
@@ -5311,6 +5374,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "thofassj-2026-12-07-niceto",
+    "shortId": "2l0y5ko",
+    "artist": "Thofa SSJ",
+    "artistKey": "thofassj",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/thofa-ssj-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-03"
   },
   {
     "id": "asmikgrigorian-2026-12-08-colon",
@@ -6019,6 +6102,48 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-02"
+  },
+  {
+    "id": "adrianavarela-2027-01-16-cafeberlin",
+    "shortId": "44hm660",
+    "artist": "Adriana Varela",
+    "artistKey": "adrianavarela",
+    "date": "2027-01-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2027-01-16-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5diAzb0BD6mSdU1xOhM7dc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cb61e24b20f3518e4bed7b",
+    "genres": [
+      "tango"
+    ],
+    "firstSeenAt": "2026-11-03"
+  },
+  {
+    "id": "leomasliah-2027-01-16-cafeberlin",
+    "shortId": "1xelxsm",
+    "artist": "Leo Masliah",
+    "artistKey": "leomasliah",
+    "date": "2027-01-16",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leo-masliah-en-cafe-berlin-2027-01-16-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "1V91O7M7AAOZxWnTRDlJy7",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178223a66128e8270e2d670d83e",
+    "genres": [],
+    "firstSeenAt": "2026-11-03"
   },
   {
     "id": "smor-2027-01-17-cafeberlin",

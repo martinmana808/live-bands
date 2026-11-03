@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02",
+  "fetchedAt": "2026-11-03",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,13 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Rushlight",
-      "venue": "Café Berlín",
-      "date": "2026-11-02",
-      "ticketUrl": "https://livepass.com.ar/events/rushlight-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -153,6 +146,13 @@
       "venue": "el Teatro Ópera LP",
       "date": "2026-11-06",
       "ticketUrl": "https://livepass.com.ar/events/polenta-en-el-teatro-opera-lp-2026-11-06-23-55-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Catalina Erdelyi Cuarteto",
+      "venue": "CCNU",
+      "date": "2026-11-07",
+      "ticketUrl": "https://livepass.com.ar/events/catalina-erdelyi-cuarteto-en-ccnu",
       "source": "livepass"
     },
     {
@@ -370,6 +370,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-15",
       "ticketUrl": "https://livepass.com.ar/events/dchampions-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "EMBA - Rock - Funk - Fusión",
+      "venue": "Café Berlín",
+      "date": "2026-11-16",
+      "ticketUrl": "https://livepass.com.ar/events/emba-rock-funk-fusion-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -765,6 +772,13 @@
       "source": "livepass"
     },
     {
+      "artist": "LA BOMBA DE TIEMPO",
+      "venue": "Club Re Quilmes",
+      "date": "2026-12-06",
+      "ticketUrl": "https://livepass.com.ar/events/la-bomba-de-tiempo-en-club-re-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "Martín Carrillo",
       "venue": "Café Berlín",
       "date": "2026-12-07",
@@ -867,6 +881,20 @@
       "venue": "Café Berlín",
       "date": "2026-12-20",
       "ticketUrl": "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Adriana Varela",
+      "venue": "Café Berlín",
+      "date": "2027-01-16",
+      "ticketUrl": "https://livepass.com.ar/events/adriana-varela-en-cafe-berlin-2027-01-16-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Leo Masliah",
+      "venue": "Café Berlín",
+      "date": "2027-01-16",
+      "ticketUrl": "https://livepass.com.ar/events/leo-masliah-en-cafe-berlin-2027-01-16-23-00-00-0300",
       "source": "livepass"
     },
     {
