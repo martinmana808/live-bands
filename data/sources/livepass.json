@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03",
+  "fetchedAt": "2026-11-04",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,13 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Fátima Garrido",
-      "venue": "Café Berlín",
-      "date": "2026-11-03",
-      "ticketUrl": "https://livepass.com.ar/events/fatima-garrido-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -842,6 +835,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Leo Simavorian",
+      "venue": "Café Berlín",
+      "date": "2026-12-13",
+      "ticketUrl": "https://livepass.com.ar/events/leo-simavorian-en-cafe-berlin-2026-12-13-22-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Las Lobas & Astroarmonía",
       "venue": "Café Berlín",
       "date": "2026-12-14",
@@ -867,6 +867,20 @@
       "venue": "Café Berlín",
       "date": "2026-12-18",
       "ticketUrl": "https://livepass.com.ar/events/johnny-tedesco-en-cafe-berlin-18-12-26",
+      "source": "livepass"
+    },
+    {
+      "artist": "Klan",
+      "venue": "Café Berlín",
+      "date": "2026-12-18",
+      "ticketUrl": "https://livepass.com.ar/events/klan-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "The End",
+      "venue": "Café Berlín",
+      "date": "2026-12-19",
+      "ticketUrl": "https://livepass.com.ar/events/the-end-en-cafe-berlin-2026-12-19-20-00-00-0300",
       "source": "livepass"
     },
     {

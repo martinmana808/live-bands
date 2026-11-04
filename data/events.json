@@ -103,26 +103,6 @@
     "firstSeenAt": "2026-10-14"
   },
   {
-    "id": "fatimagarrido-2026-11-03-cafeberlin",
-    "shortId": "3jgqea0",
-    "artist": "Fátima Garrido",
-    "artistKey": "fatimagarrido",
-    "date": "2026-11-03",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fatima-garrido-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "4AF13CNO78iBdARbH56O2O",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1b6ddfff3e45cd255b59d8b",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "oceanalley-2026-11-03-palermogroove",
     "shortId": "1ogco3w",
     "artist": "Ocean Alley",
@@ -868,6 +848,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-27"
+  },
+  {
+    "id": "solodiscos-2026-11-06-niceto",
+    "shortId": "e8oe7v9",
+    "artist": "SOLO DISCOS",
+    "artistKey": "solodiscos",
+    "date": "2026-11-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/solo-discos-6-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
   },
   {
     "id": "theend-2026-11-06-cafeberlin",
@@ -2482,6 +2482,26 @@
     "firstSeenAt": "2026-10-22"
   },
   {
+    "id": "club69-2026-11-14-niceto",
+    "shortId": "218jhit",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-11-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-14-nov-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "diegomarchionatti-2026-11-14-thamescultural",
     "shortId": "35gi2a4",
     "artist": "Diego Marchionatti",
@@ -2818,6 +2838,28 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-01"
+  },
+  {
+    "id": "seesaw-2026-11-14-niceto",
+    "shortId": "2kmy5qi",
+    "artist": "SEE-SAW",
+    "artistKey": "seesaw",
+    "date": "2026-11-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/see-saw-14-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JP",
+    "spotifyId": "7FVrkZcfwIc1ZwlQPatdUw",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db662eea1c29ff25a911641c",
+    "genres": [
+      "j-pop"
+    ],
+    "firstSeenAt": "2026-11-04"
   },
   {
     "id": "abelpintos-2026-11-15-granrex",
@@ -3483,6 +3525,26 @@
     "firstSeenAt": "2026-09-12"
   },
   {
+    "id": "club69-2026-11-21-niceto",
+    "shortId": "26l53mc",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-11-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-21-nov-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "festivaltribulaciones30anos-2026-11-21-niceto",
     "shortId": "19vb5w2",
     "artist": "Festival Tribulaciones 30 años",
@@ -3501,6 +3563,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "fiestamermelada-2026-11-21-niceto",
+    "shortId": "bjhz2e1",
+    "artist": "FIESTA MERMELADA",
+    "artistKey": "fiestamermelada",
+    "date": "2026-11-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-mermelada-nacional-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
   },
   {
     "id": "lachicle-2026-11-21-niceto",
@@ -4334,6 +4416,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "club69-2026-11-28-niceto",
+    "shortId": "20z029u",
+    "artist": "Club 69",
+    "artistKey": "club69",
+    "date": "2026-11-28",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-28-nov-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "cosmickid-2026-11-28-operalp",
     "shortId": "1wppvl1",
     "artist": "COSMIC KID",
@@ -4990,6 +5092,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-10"
+  },
+  {
+    "id": "hiedrah-2026-12-04-niceto",
+    "shortId": "1spev7f",
+    "artist": "HIEDRAH",
+    "artistKey": "hiedrah",
+    "date": "2026-12-04",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/hiedrah-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
   },
   {
     "id": "labandadecarlitosyeugequevedo-2026-12-04-hipodromoplata",
@@ -5778,6 +5900,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "leosimavorian-2026-12-13-cafeberlin",
+    "shortId": "6xej8d9",
+    "artist": "Leo Simavorian",
+    "artistKey": "leosimavorian",
+    "date": "2026-12-13",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/leo-simavorian-en-cafe-berlin-2026-12-13-22-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "3jZhF1B90FeaDqaZYFhk6w",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17824123cf729359ad7d4555d4a",
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "masmusica-2026-12-13-cafeberlin",
     "shortId": "12bq510",
     "artist": "Más Música",
@@ -5942,6 +6084,26 @@
     "firstSeenAt": "2026-09-16"
   },
   {
+    "id": "klan-2026-12-18-cafeberlin",
+    "shortId": "2lbtm7d",
+    "artist": "Klan",
+    "artistKey": "klan",
+    "date": "2026-12-18",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/klan-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "PL",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "octafonic-2026-12-18-niceto",
     "shortId": "dt2mvqo",
     "artist": "OCTAFONIC",
@@ -6064,6 +6226,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "theend-2026-12-19-cafeberlin",
+    "shortId": "1faf05z",
+    "artist": "The End",
+    "artistKey": "theend",
+    "date": "2026-12-19",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-end-en-cafe-berlin-2026-12-19-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "3nWP13odEZJX73aH4pVnQn",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d000048515ddcabc519af2b36fcc5a65d",
+    "genres": [],
+    "firstSeenAt": "2026-11-04"
+  },
+  {
     "id": "jaf-2026-12-20-cafeberlin",
     "shortId": "bsxbrd1",
     "artist": "JAF",
@@ -6139,7 +6321,7 @@
     "sources": [
       "livepass"
     ],
-    "country": null,
+    "country": "UY",
     "spotifyId": "1V91O7M7AAOZxWnTRDlJy7",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178223a66128e8270e2d670d83e",
     "genres": [],
