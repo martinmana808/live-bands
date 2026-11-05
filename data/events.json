@@ -143,26 +143,6 @@
     "firstSeenAt": "2026-10-17"
   },
   {
-    "id": "ax4-2026-11-04-ccnu",
-    "shortId": "1tef03b",
-    "artist": "A x 4",
-    "artistKey": "ax4",
-    "date": "2026-11-04",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/a-x-4-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
     "id": "adanowsky-2026-11-04-trastienda",
     "shortId": "mmr4rwj",
     "artist": "Adanowsky",
@@ -179,46 +159,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784c0b5bc0416831b390830f41",
     "genres": [],
     "firstSeenAt": "2026-10-17"
-  },
-  {
-    "id": "arrua-2026-11-04-ccnu",
-    "shortId": "24ie604",
-    "artist": "Arrúa",
-    "artistKey": "arrua",
-    "date": "2026-11-04",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/arrua-ceccoli-deluka-de-vita-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "0gwr5PDM5FgvXE1VaaavNT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f3e840d524fc6608dc247d0e",
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "blueart-2026-11-04-cafeberlin",
-    "shortId": "21v8jre",
-    "artist": "Blue Art",
-    "artistKey": "blueart",
-    "date": "2026-11-04",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/blue-art-jorge-migoya-rocio-gimenez-lopez-quinteto-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "bunbury-2026-11-04-movistararena",
@@ -263,29 +203,6 @@
     "firstSeenAt": "2026-10-17"
   },
   {
-    "id": "sergiodalma-2026-11-04-granrex",
-    "shortId": "12ct7of",
-    "artist": "Sergio Dalma",
-    "artistKey": "sergiodalma",
-    "date": "2026-11-04",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/sergio-dalma-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "ES",
-    "spotifyId": "7x6XYw3yCC67Pizi4o0wvZ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ddd3cd7d72cf9d4bb7f799f8",
-    "genres": [
-      "latin ballad",
-      "pop"
-    ],
-    "firstSeenAt": "2026-10-24"
-  },
-  {
     "id": "therasmus-2026-11-04-flores",
     "shortId": "c94bsh6",
     "artist": "The Rasmus",
@@ -315,12 +232,9 @@
     "date": "2026-11-04",
     "venue": "Niceto Club",
     "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/tr-st-en-niceto-club"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "niceto"
+      "songkick"
     ],
     "country": "CA",
     "spotifyId": "64NhyHqRKYhV0IZylrElWu",
@@ -351,26 +265,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-17"
-  },
-  {
-    "id": "benjaminamadeo-2026-11-05-granrex",
-    "shortId": "1nv9dbi",
-    "artist": "Benjamin Amadeo",
-    "artistKey": "benjaminamadeo",
-    "date": "2026-11-05",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/benjamin-amadeo-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6GYXfifD78PYARjZzxQzrG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d75e1e256996a5c3e3491383",
-    "genres": [],
-    "firstSeenAt": "2026-10-27"
   },
   {
     "id": "defleppard-2026-11-05-movistararena",
@@ -1695,6 +1589,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "vaticanoclub-2026-11-09-niceto",
+    "shortId": "3h3vy83",
+    "artist": "VATICANO CLUB",
+    "artistKey": "vaticanoclub",
+    "date": "2026-11-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/vaticano-club-cabina-abierta-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-05"
+  },
+  {
     "id": "losdemassonunmonton-2026-11-10-cafeberlin",
     "shortId": "7799z6v",
     "artist": "Los Demás son un Montón",
@@ -2462,26 +2376,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "cirofogliatta-2026-11-14-ccnu",
-    "shortId": "1dc5yb2",
-    "artist": "Ciro Fogliatta",
-    "artistKey": "cirofogliatta",
-    "date": "2026-11-14",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ciro-fogliatta-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "0sQdu8OMB73qtv7YrRIpxA",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
     "id": "club69-2026-11-14-niceto",
     "shortId": "218jhit",
     "artist": "Club 69",
@@ -2558,6 +2452,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "elgarristaluceroaguerobenavidesthielen-2026-11-14-ccnu",
+    "shortId": "168wx2u",
+    "artist": "Elgarrista Lucero Agüero Benavides Thielen",
+    "artistKey": "elgarristaluceroaguerobenavidesthielen",
+    "date": "2026-11-14",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/elgarrista-lucero-aguero-benavides-thielen-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-05"
   },
   {
     "id": "esquinalibertad-2026-11-14-operalp",
@@ -3543,26 +3457,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
     "firstSeenAt": "2026-11-04"
-  },
-  {
-    "id": "festivaltribulaciones30anos-2026-11-21-niceto",
-    "shortId": "19vb5w2",
-    "artist": "Festival Tribulaciones 30 años",
-    "artistKey": "festivaltribulaciones30anos",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-tribulaciones-30-a-os-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "fiestamermelada-2026-11-21-niceto",
@@ -5618,6 +5512,29 @@
     "firstSeenAt": "2026-09-15"
   },
   {
+    "id": "neymatogrosso-2026-12-09-granrex",
+    "shortId": "2lkdlpu",
+    "artist": "Ney Matogrosso",
+    "artistKey": "neymatogrosso",
+    "date": "2026-12-09",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/ney-matogroso-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "BR",
+    "spotifyId": "2SFIMUkCdZowbeisskDdhn",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e1692ccde710b6a64884e87f",
+    "genres": [
+      "mpb",
+      "pop"
+    ],
+    "firstSeenAt": "2026-11-05"
+  },
+  {
     "id": "geronimorauch-2026-12-10-granrex",
     "shortId": "2q3emna",
     "artist": "Geronimo Rauch",
@@ -5696,6 +5613,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783871e4d0a7cdd3946d3dbaf3",
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "memphislablusera-2026-12-11-cafeberlin",
+    "shortId": "eukddeu",
+    "artist": "Memphis La Blusera",
+    "artistKey": "memphislablusera",
+    "date": "2026-12-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/memphis-la-blusera-en-cafe-berlin-2026-12-11-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "55j4xUfI5AATqETp8AnrRp",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d572ddcf4287e0c8d5d028f8",
+    "genres": [],
+    "firstSeenAt": "2026-11-05"
   },
   {
     "id": "paisanosdemarte-2026-12-11-niceto",
@@ -6004,6 +5941,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "nasircatrielfascioloalkoyconbanda-2026-12-16-niceto",
+    "shortId": "1mqh9cw",
+    "artist": "NASIR CATRIEL/ FASCIOLO/ ALKOY con Banda",
+    "artistKey": "nasircatrielfascioloalkoyconbanda",
+    "date": "2026-12-16",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/nasir-catriel-fasciolo-alkoy-con-banda-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-05"
+  },
+  {
     "id": "octafonic-2026-12-17-niceto",
     "shortId": "1gx8zgx",
     "artist": "OCTAFONIC",
@@ -6264,6 +6221,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-28"
+  },
+  {
+    "id": "sergiopangarobaccarat-2026-12-23-cafeberlin",
+    "shortId": "1donnkc",
+    "artist": "Sergio Pangaro & Baccarat",
+    "artistKey": "sergiopangarobaccarat",
+    "date": "2026-12-23",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sergio-pangaro-baccarat-en-cafe-berlin-2026-12-23-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-05"
   },
   {
     "id": "festivalpardolasligasmenores-2026-12-26-niceto",

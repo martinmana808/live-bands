@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04",
+  "fetchedAt": "2026-11-05",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -107,13 +107,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Christian Sands Quartet",
-      "venue": "Sala Martin Coronado",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Marcela Morelo",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-06",
@@ -121,17 +114,17 @@
       "source": "tuentrada"
     },
     {
+      "artist": "Christian Sands Quartet",
+      "venue": "Sala Martin Coronado",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "source": "tuentrada"
+    },
+    {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
       "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Sergio Dalma",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-04",
-      "ticketUrl": "https://www.tuentrada.com/sergio-dalma-tgr",
       "source": "tuentrada"
     },
     {
@@ -149,10 +142,10 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Benjamin Amadeo",
+      "artist": "Ney Matogrosso",
       "venue": "Teatro Gran Rex",
-      "date": "2026-11-05",
-      "ticketUrl": "https://www.tuentrada.com/benjamin-amadeo-tgr",
+      "date": "2026-12-09",
+      "ticketUrl": "https://www.tuentrada.com/ney-matogroso-tgr",
       "source": "tuentrada"
     },
     {

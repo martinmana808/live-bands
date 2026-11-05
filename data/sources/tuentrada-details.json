@@ -131,17 +131,6 @@
       }
     ]
   },
-  "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Christian Sands Quartet"
-      }
-    ]
-  },
   "marcela-morelo-tgr": {
     "fetchedAt": "2026-11-04",
     "sessions": [
@@ -153,6 +142,17 @@
       }
     ]
   },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
+      }
+    ]
+  },
   "god-save-the-queen-tgr": {
     "fetchedAt": "2026-10-23",
     "sessions": [
@@ -161,17 +161,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
-      }
-    ]
-  },
-  "sergio-dalma-tgr": {
-    "fetchedAt": "2026-10-24",
-    "sessions": [
-      {
-        "date": "2026-11-04",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Sergio Dalma"
       }
     ]
   },
@@ -214,14 +203,14 @@
       }
     ]
   },
-  "benjamin-amadeo-tgr": {
-    "fetchedAt": "2026-10-27",
+  "ney-matogroso-tgr": {
+    "fetchedAt": "2026-11-05",
     "sessions": [
       {
-        "date": "2026-11-05",
+        "date": "2026-12-09",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Benjamin Amadeo"
+        "name": "Ney Matogrosso"
       }
     ]
   },

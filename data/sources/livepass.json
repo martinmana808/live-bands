@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04",
+  "fetchedAt": "2026-11-05",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,27 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Arrúa, Ceccoli, DeLuka, De Vita",
-      "venue": "CCNU",
-      "date": "2026-11-04",
-      "ticketUrl": "https://livepass.com.ar/events/arrua-ceccoli-deluka-de-vita-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Blue Art- Jorge Migoya & Rocio Giménez López Quinteto",
-      "venue": "Café Berlín",
-      "date": "2026-11-04",
-      "ticketUrl": "https://livepass.com.ar/events/blue-art-jorge-migoya-rocio-gimenez-lopez-quinteto-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "A x 4",
-      "venue": "CCNU",
-      "date": "2026-11-04",
-      "ticketUrl": "https://livepass.com.ar/events/a-x-4-en-ccnu",
       "source": "livepass"
     },
     {
@@ -317,10 +296,10 @@
       "source": "livepass"
     },
     {
-      "artist": "Ciro Fogliatta",
+      "artist": "Elgarrista Lucero Agüero Benavides Thielen",
       "venue": "CCNU",
       "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/ciro-fogliatta-en-ccnu",
+      "ticketUrl": "https://livepass.com.ar/events/elgarrista-lucero-aguero-benavides-thielen-en-ccnu",
       "source": "livepass"
     },
     {
@@ -800,6 +779,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Memphis La Blusera",
+      "venue": "Café Berlín",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/memphis-la-blusera-en-cafe-berlin-2026-12-11-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "ESTELARES",
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
       "date": "2026-12-11",
@@ -895,6 +881,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-20",
       "ticketUrl": "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Sergio Pangaro & Baccarat",
+      "venue": "Café Berlín",
+      "date": "2026-12-23",
+      "ticketUrl": "https://livepass.com.ar/events/sergio-pangaro-baccarat-en-cafe-berlin-2026-12-23-20-45-00-0300",
       "source": "livepass"
     },
     {
