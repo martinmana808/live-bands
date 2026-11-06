@@ -247,26 +247,6 @@
     "firstSeenAt": "2026-10-13"
   },
   {
-    "id": "astorsbackintown-2026-11-05-ccnu",
-    "shortId": "1hwik5j",
-    "artist": "Astor's Back In Town",
-    "artistKey": "astorsbackintown",
-    "date": "2026-11-05",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/astor-s-back-in-town-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-17"
-  },
-  {
     "id": "defleppard-2026-11-05-movistararena",
     "shortId": "1tz3pdz",
     "artist": "Def Leppard",
@@ -307,46 +287,6 @@
     "firstSeenAt": "2026-10-18"
   },
   {
-    "id": "jorgevinas-2026-11-05-cafeberlin",
-    "shortId": "2lscegu",
-    "artist": "Jorge Viñas",
-    "artistKey": "jorgevinas",
-    "date": "2026-11-05",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/jorge-vinas-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "1fm465BniNvxXTBvBpGCKf",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "kilombo-2026-11-05-niceto",
-    "shortId": "2fxgo21",
-    "artist": "KILOMBO",
-    "artistKey": "kilombo",
-    "date": "2026-11-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-jue-5-nov-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-02"
-  },
-  {
     "id": "lewisofman-2026-11-05-niceto",
     "shortId": "2341yk5",
     "artist": "Lewis OfMan",
@@ -354,12 +294,9 @@
     "date": "2026-11-05",
     "venue": "Niceto Club",
     "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/lewis-ofman-en-niceto-club"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "niceto"
+      "songkick"
     ],
     "country": "FR",
     "spotifyId": "1hkRfKGoJisJDbo6eSf1pg",
@@ -384,66 +321,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787364efe68934932142231396",
     "genres": [],
     "firstSeenAt": "2026-10-21"
-  },
-  {
-    "id": "orlandocurtithegrooveseekers-2026-11-05-cafeberlin",
-    "shortId": "1c4j5v9",
-    "artist": "Orlando Curti & The Groove Seekers",
-    "artistKey": "orlandocurtithegrooveseekers",
-    "date": "2026-11-05",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/orlando-curti-the-groove-seekers-en-cafe-berlin-2026-11-05-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "07rgCFfyOUUz818d2TuNQP",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851cacbd3890ab51c43aa1e88b5",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "saturarflakkkk1tobiceroascoavalosntk-2026-11-05-niceto",
-    "shortId": "u0cwzq6",
-    "artist": "SATURA: RFlakkkk + 1Tobi + ceroasco + Avalos Ntk",
-    "artistKey": "saturarflakkkk1tobiceroascoavalosntk",
-    "date": "2026-11-05",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/satura-rflakkkk-1tobi-ceroasco-avalos-ntk-en-humbold-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-13"
-  },
-  {
-    "id": "singersinjam-2026-11-05-ccnu",
-    "shortId": "vbruq7x",
-    "artist": "Singers in Jam",
-    "artistKey": "singersinjam",
-    "date": "2026-11-05",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-05-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-20"
   },
   {
     "id": "akriila-2026-11-06-ccomplejoartmedia",
@@ -4250,26 +4127,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "yque-2026-11-27-granrex",
-    "shortId": "1fa602l",
-    "artist": "Y Que ?",
-    "artistKey": "yque",
-    "date": "2026-11-27",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/y-que-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-02"
-  },
-  {
     "id": "aperfectcirclepuscifer-2026-11-28-buenosaires",
     "shortId": "59nthao",
     "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -4413,6 +4270,26 @@
       "singer-songwriter"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "fiestaleiparty-2026-11-28-requilmes",
+    "shortId": "13f5qpd",
+    "artist": "FIESTA LEIPARTY",
+    "artistKey": "fiestaleiparty",
+    "date": "2026-11-28",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fiesta-leiparty-en-club-re-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-06"
   },
   {
     "id": "godsavethequeen-2026-11-28-granrex",
@@ -4763,6 +4640,26 @@
       "electronic"
     ],
     "firstSeenAt": "2026-10-23"
+  },
+  {
+    "id": "luchaseternasladespedida-2026-11-30-granrex",
+    "shortId": "2mdc7el",
+    "artist": "Luchas Eternas La Despedida",
+    "artistKey": "luchaseternasladespedida",
+    "date": "2026-11-30",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/lauchas-eternas-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-06"
   },
   {
     "id": "dennischamberschristiangalvezquartet-2026-12-01-cafeberlin",
@@ -6221,6 +6118,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-28"
+  },
+  {
+    "id": "miguelbotafogo-2026-12-22-cafeberlin",
+    "shortId": "1u8mk8u",
+    "artist": "Miguel Botafogo",
+    "artistKey": "miguelbotafogo",
+    "date": "2026-12-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/miguel-botafogo-en-cafe-berlin-2026-12-22-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "7kro0WVCauMX5BMNMkfxll",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-06"
   },
   {
     "id": "sergiopangarobaccarat-2026-12-23-cafeberlin",

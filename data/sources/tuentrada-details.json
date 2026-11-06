@@ -142,17 +142,6 @@
       }
     ]
   },
-  "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Christian Sands Quartet"
-      }
-    ]
-  },
   "god-save-the-queen-tgr": {
     "fetchedAt": "2026-10-23",
     "sessions": [
@@ -164,8 +153,19 @@
       }
     ]
   },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
+      }
+    ]
+  },
   "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-10-22",
+    "fetchedAt": "2026-11-06",
     "sessions": [
       {
         "date": "2026-12-10",
@@ -247,14 +247,14 @@
       }
     ]
   },
-  "y-que-tgr": {
-    "fetchedAt": "2026-11-02",
+  "lauchas-eternas-tgr": {
+    "fetchedAt": "2026-11-06",
     "sessions": [
       {
-        "date": "2026-11-27",
+        "date": "2026-11-30",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "Y Que ?"
+        "name": "Luchas Eternas La Despedida"
       }
     ]
   },

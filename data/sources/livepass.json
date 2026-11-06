@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05",
+  "fetchedAt": "2026-11-06",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -62,34 +62,6 @@
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
       "ticketUrl": "https://livepass.com.ar/events/valeria-lynch-en-la-sala-ginastera-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Astor's Back In Town",
-      "venue": "CCNU",
-      "date": "2026-11-05",
-      "ticketUrl": "https://livepass.com.ar/events/astor-s-back-in-town-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Jorge Viñas",
-      "venue": "Café Berlín",
-      "date": "2026-11-05",
-      "ticketUrl": "https://livepass.com.ar/events/jorge-vinas-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-11-05",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-05-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Orlando Curti & The Groove Seekers",
-      "venue": "Café Berlín",
-      "date": "2026-11-05",
-      "ticketUrl": "https://livepass.com.ar/events/orlando-curti-the-groove-seekers-en-cafe-berlin-2026-11-05-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -632,6 +604,13 @@
       "source": "livepass"
     },
     {
+      "artist": "FIESTA LEIPARTY",
+      "venue": "Club Re Quilmes",
+      "date": "2026-11-28",
+      "ticketUrl": "https://livepass.com.ar/events/fiesta-leiparty-en-club-re-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "PELLICAN JAZZ DUO",
       "venue": "CCNU",
       "date": "2026-11-29",
@@ -881,6 +860,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-20",
       "ticketUrl": "https://livepass.com.ar/events/jaf-en-cafe-berlin-2026-12-20-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Miguel Botafogo",
+      "venue": "Café Berlín",
+      "date": "2026-12-22",
+      "ticketUrl": "https://livepass.com.ar/events/miguel-botafogo-en-cafe-berlin-2026-12-22-20-45-00-0300",
       "source": "livepass"
     },
     {
