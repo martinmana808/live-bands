@@ -131,19 +131,8 @@
       }
     ]
   },
-  "marcela-morelo-tgr": {
-    "fetchedAt": "2026-11-04",
-    "sessions": [
-      {
-        "date": "2026-11-06",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Marcela Morelo"
-      }
-    ]
-  },
   "god-save-the-queen-tgr": {
-    "fetchedAt": "2026-10-23",
+    "fetchedAt": "2026-11-07",
     "sessions": [
       {
         "date": "2026-11-28",
@@ -214,6 +203,17 @@
       }
     ]
   },
+  "greeicy-tgr": {
+    "fetchedAt": "2026-10-30",
+    "sessions": [
+      {
+        "date": "2026-11-26",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Greeicy"
+      }
+    ]
+  },
   "tcr-rosario": {
     "fetchedAt": "2026-10-28",
     "sessions": [
@@ -233,17 +233,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Miguel Mateos"
-      }
-    ]
-  },
-  "greeicy-tgr": {
-    "fetchedAt": "2026-10-30",
-    "sessions": [
-      {
-        "date": "2026-11-26",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Greeicy"
       }
     ]
   },

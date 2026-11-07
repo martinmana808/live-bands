@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06",
+  "fetchedAt": "2026-11-07",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -107,13 +107,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Marcela Morelo",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-06",
-      "ticketUrl": "https://www.tuentrada.com/marcela-morelo-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
@@ -149,17 +142,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Miguel Mateos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-21",
-      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Greeicy",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-26",
       "ticketUrl": "https://www.tuentrada.com/greeicy-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Miguel Mateos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-21",
+      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
       "source": "tuentrada"
     },
     {

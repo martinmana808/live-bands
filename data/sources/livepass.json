@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06",
+  "fetchedAt": "2026-11-07",
   "events": [
     {
       "artist": "CARMEN SÁNCHEZ VIAMONTE",
@@ -58,6 +58,13 @@
       "source": "livepass"
     },
     {
+      "artist": "ESTELARES",
+      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Valeria Lynch",
       "venue": "la Sala Ginastera - Teatro Argentino LP",
       "date": "2026-12-13",
@@ -65,31 +72,17 @@
       "source": "livepass"
     },
     {
-      "artist": "The End - Íntimo",
+      "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2026-12-19",
+      "ticketUrl": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Hilda Lizarazu",
       "venue": "Café Berlín",
-      "date": "2026-11-06",
-      "ticketUrl": "https://livepass.com.ar/events/the-end-intimo-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Villalba Duré Unzu Vazquez Cuarteto",
-      "venue": "CCNU",
-      "date": "2026-11-06",
-      "ticketUrl": "https://livepass.com.ar/events/villalba-dure-unzu-vazquez-cuarteto-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Insomnes",
-      "venue": "Café Berlín",
-      "date": "2026-11-06",
-      "ticketUrl": "https://livepass.com.ar/events/insomnes-en-cafe-berlin-2026-11-06",
-      "source": "livepass"
-    },
-    {
-      "artist": "POLENTA",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-06",
-      "ticketUrl": "https://livepass.com.ar/events/polenta-en-el-teatro-opera-lp-2026-11-06-23-55-00-0300",
+      "date": "2027-01-21",
+      "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -310,6 +303,13 @@
       "source": "livepass"
     },
     {
+      "artist": "FV3 & Cata Di Bella",
+      "venue": "CCNU",
+      "date": "2026-11-15",
+      "ticketUrl": "https://livepass.com.ar/events/fv3-cata-di-bella-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Dchampions",
       "venue": "Café Berlín",
       "date": "2026-11-15",
@@ -454,6 +454,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-21",
       "ticketUrl": "https://livepass.com.ar/events/raro-diamante-hotel-olvido-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Caleb Monte Quintet plays Ballads",
+      "venue": "CCNU",
+      "date": "2026-11-22",
+      "ticketUrl": "https://livepass.com.ar/events/caleb-monte-quintet-plays-ballads-en-ccnu",
       "source": "livepass"
     },
     {
@@ -716,6 +723,13 @@
       "source": "livepass"
     },
     {
+      "artist": "POLENTA",
+      "venue": "Club Re Quilmes",
+      "date": "2026-12-05",
+      "ticketUrl": "https://livepass.com.ar/events/polenta-en-club-re-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "Más Música",
       "venue": "Café Berlín",
       "date": "2026-12-06",
@@ -762,13 +776,6 @@
       "venue": "Café Berlín",
       "date": "2026-12-11",
       "ticketUrl": "https://livepass.com.ar/events/memphis-la-blusera-en-cafe-berlin-2026-12-11-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "ESTELARES",
-      "venue": "la Sala Ginastera - Teatro Argentino La Plata",
-      "date": "2026-12-11",
-      "ticketUrl": "https://livepass.com.ar/events/estelares-en-la-sala-ginastera-teatro-argentino-la-plata-2026-12-11-21-00-00-0300",
       "source": "livepass"
     },
     {
@@ -849,13 +856,6 @@
       "source": "livepass"
     },
     {
-      "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-12-19",
-      "ticketUrl": "https://livepass.com.ar/events/el-mato-a-un-policia-motorizado-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
-    {
       "artist": "JAF",
       "venue": "Café Berlín",
       "date": "2026-12-20",
@@ -895,13 +895,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-17",
       "ticketUrl": "https://livepass.com.ar/events/smor-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Hilda Lizarazu",
-      "venue": "Café Berlín",
-      "date": "2027-01-21",
-      "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
       "source": "livepass"
     },
     {
