@@ -1,66 +1,6 @@
 {
-  "fetchedAt": "2026-11-07",
+  "fetchedAt": "2026-11-08",
   "events": [
-    {
-      "artist": "Alex Ubago",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ty Segall",
-      "venue": "Niceto Club",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Maneva",
-      "venue": "La Trastienda",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Gene Loves Jezebel",
-      "venue": "Fundación Beethoven",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "CHOCOLATE REMIX",
-      "venue": "Quetren Club Cultural",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Vinociraptor and Dolmen",
-      "venue": "Moscú Espacio Cultural",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Policromía",
-      "venue": "Club V",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Romphonics and Juan Navia",
-      "venue": "Biri Biri",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Beyond Madness",
-      "venue": "Vadenuevo",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
-    {
-      "artist": "Latin Metal Invasión 2026",
-      "venue": "SixBar",
-      "date": "2026-11-07",
-      "source": "songkick"
-    },
     {
       "artist": "Cypress Hill",
       "venue": "Estadio Cubierto Malvinas Argentinas",
@@ -299,6 +239,60 @@
       "artist": "Coti",
       "venue": "C Complejo Art Media",
       "date": "2026-11-19",
+      "source": "songkick"
+    },
+    {
+      "artist": "No Te Va Gustar",
+      "venue": "Aeropuerto Complejo Bailable",
+      "date": "2026-11-20",
+      "source": "songkick"
+    },
+    {
+      "artist": "Fabricio Robles",
+      "venue": "Nempla",
+      "date": "2026-11-20",
+      "source": "songkick"
+    },
+    {
+      "artist": "DrefQuila",
+      "venue": "Uniclub",
+      "date": "2026-11-20",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lucas Cervetti",
+      "venue": "Cuerda Mecánica",
+      "date": "2026-11-21",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maria João",
+      "venue": "Bebop Club",
+      "date": "2026-11-21",
+      "source": "songkick"
+    },
+    {
+      "artist": "Muddy Roots Festival 2026",
+      "venue": "CAFF",
+      "date": "2026-11-21",
+      "source": "songkick"
+    },
+    {
+      "artist": "No Te Va Gustar",
+      "venue": "Estadio Centenario Ciudad de Quilmes",
+      "date": "2026-11-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "Shaolin Cowboy",
+      "venue": "Uniclub",
+      "date": "2026-11-22",
+      "source": "songkick"
+    },
+    {
+      "artist": "ZZ Top",
+      "venue": "Movistar Arena",
+      "date": "2026-11-24",
       "source": "songkick"
     }
   ]

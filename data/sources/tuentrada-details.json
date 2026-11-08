@@ -34,17 +34,6 @@
       }
     ]
   },
-  "alex-ubago-tgr": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-07",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Alex Ubago"
-      }
-    ]
-  },
   "boda-lyniel-tgr": {
     "fetchedAt": "2026-10-29",
     "sessions": [
@@ -109,17 +98,6 @@
       }
     ]
   },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-11-02",
-    "sessions": [
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
-      }
-    ]
-  },
   "djavan-tgr": {
     "fetchedAt": "2026-10-29",
     "sessions": [
@@ -128,6 +106,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Djavan"
+      }
+    ]
+  },
+  "grandes-interpretes-teatrocolon": {
+    "fetchedAt": "2026-11-02",
+    "sessions": [
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
       }
     ]
   },
@@ -211,6 +200,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Greeicy"
+      }
+    ]
+  },
+  "jerry-rivera-tgr": {
+    "fetchedAt": "2026-11-08",
+    "sessions": [
+      {
+        "date": "2027-03-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Jerry Rivera"
       }
     ]
   },

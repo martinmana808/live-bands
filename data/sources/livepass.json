@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-11-07",
+  "fetchedAt": "2026-11-08",
   "events": [
-    {
-      "artist": "CARMEN SÁNCHEZ VIAMONTE",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/carmen-sanchez-viamonte-en-el-teatro-opera-lp-2026-11-07-20-00-00-0300",
-      "source": "livepass"
-    },
     {
       "artist": "BABASONICOS",
       "venue": "el Hipódromo de La Plata",
@@ -83,55 +76,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Catalina Erdelyi Cuarteto",
-      "venue": "CCNU",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/catalina-erdelyi-cuarteto-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Fabiana Cantilo",
-      "venue": "Club Re Quilmes",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/fabiana-cantilo-en-quilmes",
-      "source": "livepass"
-    },
-    {
-      "artist": "Javier Calamaro",
-      "venue": "Café Berlín",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/javier-calamaro-en-cafe-berlin-2026-11-07-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "PANTER GIULIANO | GUITARRA & VOZ",
-      "venue": "San Miguel",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/panter-giuliano-guitarra-voz-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "NANUTRIA - OPINIONES VARIAS - STAND UP COMEDY",
-      "venue": "Sala Piazzolla - Teatro Argentino LP",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/nanutria-opiniones-varias-stand-up-comedy-en-sala-piazzolla-teatro-argentino-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Ceci Méndez",
-      "venue": "CCNU",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/ceci-mendez-en-ccnu-2026-11-07",
-      "source": "livepass"
-    },
-    {
-      "artist": "Alambre & Amigos",
-      "venue": "Café Berlín",
-      "date": "2026-11-07",
-      "ticketUrl": "https://livepass.com.ar/events/alambre-amigos-en-cafe-berlin-2026-11-07",
       "source": "livepass"
     },
     {

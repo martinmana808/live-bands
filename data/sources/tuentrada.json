@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07",
+  "fetchedAt": "2026-11-08",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -34,13 +34,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-20",
       "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Alex Ubago",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-07",
-      "ticketUrl": "https://www.tuentrada.com/alex-ubago-tgr",
       "source": "tuentrada"
     },
     {
@@ -93,17 +86,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Asmik Grigorian",
-      "venue": "Teatro Colón",
-      "date": "2026-12-08",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Djavan",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Asmik Grigorian",
+      "venue": "Teatro Colón",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
       "source": "tuentrada"
     },
     {
@@ -146,6 +139,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-26",
       "ticketUrl": "https://www.tuentrada.com/greeicy-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Jerry Rivera",
+      "venue": "Teatro Gran Rex",
+      "date": "2027-03-19",
+      "ticketUrl": "https://www.tuentrada.com/jerry-rivera-tgr",
       "source": "tuentrada"
     },
     {
