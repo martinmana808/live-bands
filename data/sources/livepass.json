@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08",
+  "fetchedAt": "2026-11-09",
   "events": [
     {
       "artist": "BABASONICOS",
@@ -76,27 +76,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Ofidio Dellasoppa y El Cuarteto típico de las Hermanas Bevilacqua",
-      "venue": "CCNU",
-      "date": "2026-11-08",
-      "ticketUrl": "https://livepass.com.ar/events/ofidio-dellasoppa-y-el-cuarteto-tipico-de-las-hermanas-bevilacqua-en-ccnu-2026-11-08",
-      "source": "livepass"
-    },
-    {
-      "artist": "Más Música",
-      "venue": "Café Berlín",
-      "date": "2026-11-08",
-      "ticketUrl": "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-11-08",
-      "source": "livepass"
-    },
-    {
-      "artist": "GEMA",
-      "venue": "CCNU",
-      "date": "2026-11-08",
-      "ticketUrl": "https://livepass.com.ar/events/gema-en-ccnu",
       "source": "livepass"
     },
     {

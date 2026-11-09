@@ -1,53 +1,11 @@
 {
-  "fetchedAt": "2026-11-08",
+  "fetchedAt": "2026-11-09",
   "events": [
     {
       "artist": "SELF-TITLED - OPEN AIR  PRE-PRIDE",
       "venue": "Niceto Club",
       "date": "2026-11-06",
       "ticketUrl": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Natural progressive Sunset",
-      "venue": "Niceto Club",
-      "date": "2026-11-07",
-      "ticketUrl": "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "DEEP SESSION — EXTENDED FORMAT",
-      "venue": "Niceto Club",
-      "date": "2026-11-08",
-      "ticketUrl": "https://venti.live/evento/deep-session-extended-format-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "BB ASUL",
-      "venue": "Niceto Club",
-      "date": "2026-11-08",
-      "ticketUrl": "https://venti.live/evento/bbasul-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA",
-      "venue": "Niceto Club",
-      "date": "2026-11-08",
-      "ticketUrl": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "DEUX",
-      "venue": "Niceto Club",
-      "date": "2026-11-08",
-      "ticketUrl": "https://venti.live/evento/deux-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "RE-UNIÓN NEGRA",
-      "venue": "Niceto Club",
-      "date": "2026-11-08",
-      "ticketUrl": "https://venti.live/evento/re-uni-n-negra-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

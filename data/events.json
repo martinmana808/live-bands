@@ -40,26 +40,6 @@
     "firstSeenAt": "2026-10-27"
   },
   {
-    "id": "naturalprogressivesunset-2026-11-07-niceto",
-    "shortId": "21tbii9",
-    "artist": "Natural progressive Sunset",
-    "artistKey": "naturalprogressivesunset",
-    "date": "2026-11-07",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-23"
-  },
-  {
     "id": "aledetuglie-2026-11-08-costabravacosta7070",
     "shortId": "8jj3uqy",
     "artist": "Ale De Tuglie",
@@ -94,26 +74,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784f51a2d09b88072d141c4b80",
     "genres": [],
     "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "bbasul-2026-11-08-niceto",
-    "shortId": "1ujcu55",
-    "artist": "BB ASUL",
-    "artistKey": "bbasul",
-    "date": "2026-11-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/bbasul-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "27PauMy7dOiHb7sI8h6s4T",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178de839785f234fe12d1856034",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "bodalyniel-2026-11-08-granrex",
@@ -158,69 +118,6 @@
     "firstSeenAt": "2026-10-26"
   },
   {
-    "id": "deepsession-2026-11-08-niceto",
-    "shortId": "2jk10d6",
-    "artist": "DEEP SESSION",
-    "artistKey": "deepsession",
-    "date": "2026-11-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-session-extended-format-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-03"
-  },
-  {
-    "id": "deux-2026-11-08-niceto",
-    "shortId": "yvdhrv7",
-    "artist": "DEUX",
-    "artistKey": "deux",
-    "date": "2026-11-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deux-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "FR",
-    "spotifyId": "64RfnYDHtR3ZaLdtxAjPDA",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d000048518c28cf92673b662f7ccb269f",
-    "genres": [
-      "minimal synth",
-      "minimal wave"
-    ],
-    "firstSeenAt": "2026-10-27"
-  },
-  {
-    "id": "gema-2026-11-08-ccnu",
-    "shortId": "1ve3fwe",
-    "artist": "GEMA",
-    "artistKey": "gema",
-    "date": "2026-11-08",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gema-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3lmWwj75hEAMYvSm5aKXJw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17829c5384c513ee39de9b9d9df",
-    "genres": [],
-    "firstSeenAt": "2026-10-30"
-  },
-  {
     "id": "itsallred-2026-11-08-aura",
     "shortId": "1pm62rr",
     "artist": "It's All Red",
@@ -237,86 +134,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17842bcc496a8b910d8b419d03c",
     "genres": [],
     "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "masmusica-2026-11-08-cafeberlin",
-    "shortId": "1mjysfh",
-    "artist": "Más Música",
-    "artistKey": "masmusica",
-    "date": "2026-11-08",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/mas-musica-en-cafe-berlin-2026-11-08"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "ofidiodellasoppayelcuartetotipicodelashermanasbevilacqua-2026-11-08-ccnu",
-    "shortId": "23xzmea",
-    "artist": "Ofidio Dellasoppa y El Cuarteto típico de las Hermanas Bevilacqua",
-    "artistKey": "ofidiodellasoppayelcuartetotipicodelashermanasbevilacqua",
-    "date": "2026-11-08",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ofidio-dellasoppa-y-el-cuarteto-tipico-de-las-hermanas-bevilacqua-en-ccnu-2026-11-08"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "reunionnegra-2026-11-08-niceto",
-    "shortId": "1252wmh",
-    "artist": "RE-UNIÓN NEGRA",
-    "artistKey": "reunionnegra",
-    "date": "2026-11-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/re-uni-n-negra-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "richhlou-2026-11-08-niceto",
-    "shortId": "5m4or7a",
-    "artist": "RICHH LOU",
-    "artistKey": "richhlou",
-    "date": "2026-11-08",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4EM5DoLETgdrCtwMcTfpbm",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bb6365fcf3e75912f7f5bf7c",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "chinwezz-2026-11-09-niceto",
