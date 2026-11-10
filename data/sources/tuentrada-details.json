@@ -120,17 +120,6 @@
       }
     ]
   },
-  "god-save-the-queen-tgr": {
-    "fetchedAt": "2026-11-07",
-    "sessions": [
-      {
-        "date": "2026-11-28",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "God Save The Queen"
-      }
-    ]
-  },
   "jazz-bsas-ctba": {
     "fetchedAt": "2026-10-29",
     "sessions": [
@@ -139,6 +128,28 @@
         "venue": "Sala Martin Coronado",
         "city": "Buenos Aires",
         "name": "Christian Sands Quartet"
+      }
+    ]
+  },
+  "miguel-mateos-tgr": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-21",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Miguel Mateos"
+      }
+    ]
+  },
+  "god-save-the-queen-tgr": {
+    "fetchedAt": "2026-11-07",
+    "sessions": [
+      {
+        "date": "2026-11-28",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "God Save The Queen"
       }
     ]
   },
@@ -214,17 +225,6 @@
       }
     ]
   },
-  "miguel-mateos-tgr": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-21",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Miguel Mateos"
-      }
-    ]
-  },
   "lauchas-eternas-tgr": {
     "fetchedAt": "2026-11-06",
     "sessions": [
@@ -233,6 +233,28 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Luchas Eternas La Despedida"
+      }
+    ]
+  },
+  "la-misa-tgr": {
+    "fetchedAt": "2026-11-10",
+    "sessions": [
+      {
+        "date": "2026-12-04",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "La Misa"
+      }
+    ]
+  },
+  "agarrate-catalina-tgr": {
+    "fetchedAt": "2026-11-10",
+    "sessions": [
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Agarrate Catalina"
       }
     ]
   },

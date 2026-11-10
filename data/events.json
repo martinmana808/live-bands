@@ -176,29 +176,6 @@
     "firstSeenAt": "2026-10-28"
   },
   {
-    "id": "emba-2026-11-09-cafeberlin",
-    "shortId": "2ojrx72",
-    "artist": "EMBA",
-    "artistKey": "emba",
-    "date": "2026-11-09",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/emba-canciones-de-autor-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "718ksZSrtH1230gfJwkMrU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9a1be0f144dddd45b5b3e4d",
-    "genres": [
-      "drum and bass",
-      "electronic"
-    ],
-    "firstSeenAt": "2026-10-19"
-  },
-  {
     "id": "mazemoraylosmetegoles-2026-11-09-niceto",
     "shortId": "1c9j4l8",
     "artist": "Máze + Mora y los Metegoles",
@@ -632,6 +609,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "singersinjam-2026-11-12-ccnu",
+    "shortId": "lzg4y1y",
+    "artist": "Singers in Jam",
+    "artistKey": "singersinjam",
+    "date": "2026-11-12",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-12"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
   },
   {
     "id": "abelpintos-2026-11-13-granrex",
@@ -1624,6 +1621,26 @@
     "firstSeenAt": "2026-11-07"
   },
   {
+    "id": "lilianaaraujoybanda-2026-11-15-ccnu",
+    "shortId": "1oslcla",
+    "artist": "Liliana Araujo y banda",
+    "artistKey": "lilianaaraujoybanda",
+    "date": "2026-11-15",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/liliana-araujo-y-banda-en-ccnu-2026-11-15"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
+  },
+  {
     "id": "mariabecerra-2026-11-15-movistararena",
     "shortId": "el5pzud",
     "artist": "Maria Becerra",
@@ -2541,6 +2558,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-04"
+  },
+  {
+    "id": "johnpaulthebeatlesexperience-2026-11-21-ccnu",
+    "shortId": "1qkpe68",
+    "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
+    "artistKey": "johnpaulthebeatlesexperience",
+    "date": "2026-11-21",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-11-21"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
   },
   {
     "id": "lachicle-2026-11-21-niceto",
@@ -4328,6 +4365,26 @@
     "firstSeenAt": "2026-09-19"
   },
   {
+    "id": "lamisa-2026-12-04-granrex",
+    "shortId": "24uwpxp",
+    "artist": "La Misa",
+    "artistKey": "lamisa",
+    "date": "2026-12-04",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/la-misa-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
+  },
+  {
     "id": "lolomorales-2026-12-04-requilmes",
     "shortId": "264a4ao",
     "artist": "LOLO MORALES",
@@ -4752,6 +4809,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-03"
+  },
+  {
+    "id": "agarratecatalina-2026-12-08-granrex",
+    "shortId": "1pv7v4q",
+    "artist": "Agarrate Catalina",
+    "artistKey": "agarratecatalina",
+    "date": "2026-12-08",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/agarrate-catalina-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "UY",
+    "spotifyId": "0Jo06O68y5JjVgiPbAR9Ox",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17858166e110fea4bc383adb4a4",
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
   },
   {
     "id": "asmikgrigorian-2026-12-08-colon",

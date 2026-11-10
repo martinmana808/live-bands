@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09",
+  "fetchedAt": "2026-11-10",
   "events": [
     {
       "artist": "BABASONICOS",
@@ -79,13 +79,6 @@
       "source": "livepass"
     },
     {
-      "artist": "EMBA - Canciones de Autor",
-      "venue": "Café Berlín",
-      "date": "2026-11-09",
-      "ticketUrl": "https://livepass.com.ar/events/emba-canciones-de-autor-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
       "artist": "Los Demás son un Montón - Ezequiel Campa & Agustina Aguilar",
       "venue": "Café Berlín",
       "date": "2026-11-10",
@@ -125,6 +118,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-12",
       "ticketUrl": "https://livepass.com.ar/events/paris-jazz-club-en-cafe-berlin-2026-11-12-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Singers in Jam",
+      "venue": "CCNU",
+      "date": "2026-11-12",
+      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-12",
       "source": "livepass"
     },
     {
@@ -240,6 +240,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Liliana Araujo y banda",
+      "venue": "CCNU",
+      "date": "2026-11-15",
+      "ticketUrl": "https://livepass.com.ar/events/liliana-araujo-y-banda-en-ccnu-2026-11-15",
+      "source": "livepass"
+    },
+    {
       "artist": "EMBA - Rock - Funk - Fusión",
       "venue": "Café Berlín",
       "date": "2026-11-16",
@@ -342,6 +349,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-20",
       "ticketUrl": "https://livepass.com.ar/events/sofia-viola-en-cafe-berlin-2026-11-20-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
+      "venue": "CCNU",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-11-21",
       "source": "livepass"
     },
     {

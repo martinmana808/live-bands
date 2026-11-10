@@ -8,15 +8,15 @@
     "lastHealthyAt": "2026-09-11"
   },
   "niceto": {
-    "count": 101,
+    "count": 0,
     "lastHealthyAt": "2026-11-09"
   },
   "livepass": {
-    "count": 121,
-    "lastHealthyAt": "2026-11-09"
+    "count": 123,
+    "lastHealthyAt": "2026-11-10"
   },
   "tuentrada": {
-    "count": 23,
-    "lastHealthyAt": "2026-11-09"
+    "count": 25,
+    "lastHealthyAt": "2026-11-10"
   }
 }

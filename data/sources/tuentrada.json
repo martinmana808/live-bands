@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09",
+  "fetchedAt": "2026-11-10",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,17 +100,24 @@
       "source": "tuentrada"
     },
     {
-      "artist": "God Save The Queen",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-28",
-      "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Christian Sands Quartet",
       "venue": "Sala Martin Coronado",
       "date": "2026-11-24",
       "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Miguel Mateos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-21",
+      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "God Save The Queen",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-28",
+      "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
       "source": "tuentrada"
     },
     {
@@ -149,17 +156,24 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Miguel Mateos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-21",
-      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Luchas Eternas La Despedida",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-30",
       "ticketUrl": "https://www.tuentrada.com/lauchas-eternas-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "La Misa",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-04",
+      "ticketUrl": "https://www.tuentrada.com/la-misa-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Agarrate Catalina",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/agarrate-catalina-tgr",
       "source": "tuentrada"
     }
   ]
