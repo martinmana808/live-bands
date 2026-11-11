@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10",
+  "fetchedAt": "2026-11-11",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,24 +100,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Christian Sands Quartet",
-      "venue": "Sala Martin Coronado",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Miguel Mateos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-21",
-      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
       "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Christian Sands Quartet",
+      "venue": "Sala Martin Coronado",
+      "date": "2026-11-24",
+      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
       "source": "tuentrada"
     },
     {

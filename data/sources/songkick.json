@@ -1,36 +1,6 @@
 {
-  "fetchedAt": "2026-11-08",
+  "fetchedAt": "2026-11-11",
   "events": [
-    {
-      "artist": "Cypress Hill",
-      "venue": "Estadio Cubierto Malvinas Argentinas",
-      "date": "2026-11-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "It's All Red",
-      "venue": "Aura",
-      "date": "2026-11-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ayax y Prok",
-      "venue": "Gier Music Club",
-      "date": "2026-11-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ale De Tuglie",
-      "venue": "Costa Brava / Costa 7070",
-      "date": "2026-11-08",
-      "source": "songkick"
-    },
-    {
-      "artist": "Perel Day",
-      "venue": "Doble Sentido Bar Cultural",
-      "date": "2026-11-09",
-      "source": "songkick"
-    },
     {
       "artist": "Jorja Smith",
       "venue": "C Complejo Art Media",
@@ -56,6 +26,12 @@
       "source": "songkick"
     },
     {
+      "artist": "manza / Mariano Esain and Cabeza Flotante",
+      "venue": "Liverpool Club",
+      "date": "2026-11-12",
+      "source": "songkick"
+    },
+    {
       "artist": "Fede cabral",
       "venue": "MORÁN",
       "date": "2026-11-12",
@@ -64,12 +40,6 @@
     {
       "artist": "Crisá and TVT oficial",
       "venue": "Salón Pueyrredon",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "manza / Mariano Esain and Cabeza Flotante",
-      "venue": "Liverpool Club",
       "date": "2026-11-12",
       "source": "songkick"
     },
@@ -272,6 +242,12 @@
       "source": "songkick"
     },
     {
+      "artist": "Hernan Jacinto",
+      "venue": "Caba",
+      "date": "2026-11-21",
+      "source": "songkick"
+    },
+    {
       "artist": "Muddy Roots Festival 2026",
       "venue": "CAFF",
       "date": "2026-11-21",
@@ -293,6 +269,30 @@
       "artist": "ZZ Top",
       "venue": "Movistar Arena",
       "date": "2026-11-24",
+      "source": "songkick"
+    },
+    {
+      "artist": "Hot Chip",
+      "venue": "C Complejo Art Media",
+      "date": "2026-11-24",
+      "source": "songkick"
+    },
+    {
+      "artist": "My Dying Bride",
+      "venue": "El Teatrito",
+      "date": "2026-11-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "El Caribefunk",
+      "venue": "Teatro Margarita Xirgu",
+      "date": "2026-11-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "German Kaly",
+      "venue": "Café Berlín Buenos Aires",
+      "date": "2026-11-25",
       "source": "songkick"
     }
   ]

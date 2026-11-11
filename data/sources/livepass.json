@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10",
+  "fetchedAt": "2026-11-11",
   "events": [
     {
       "artist": "BABASONICOS",
@@ -79,13 +79,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Los Demás son un Montón - Ezequiel Campa & Agustina Aguilar",
-      "venue": "Café Berlín",
-      "date": "2026-11-10",
-      "ticketUrl": "https://livepass.com.ar/events/los-demas-son-un-monton-ezequiel-campa-agustina-aguilar-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
       "artist": "Los Pablos Jazz trio",
       "venue": "CCNU",
       "date": "2026-11-11",
@@ -146,13 +139,6 @@
       "venue": "el Teatro Ópera LP",
       "date": "2026-11-13",
       "ticketUrl": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
-      "source": "livepass"
-    },
-    {
-      "artist": "Rita Cortese",
-      "venue": "Café Berlín",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/rita-cortese-en-cafe-berlin-2026-11-13",
       "source": "livepass"
     },
     {
@@ -653,6 +639,13 @@
       "source": "livepass"
     },
     {
+      "artist": "FIESTA MTV 80' 90' 00 '",
+      "venue": "San Miguel",
+      "date": "2026-12-05",
+      "ticketUrl": "https://livepass.com.ar/events/fiesta-mtv-80-90-00-en-san-miguel-2026-12-05-22-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Luis Salinas",
       "venue": "Café Berlín",
       "date": "2026-12-05",
@@ -688,6 +681,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Segunda Dosis Rock",
+      "venue": "Café Berlín",
+      "date": "2026-12-07",
+      "ticketUrl": "https://livepass.com.ar/events/segunda-dosis-rock-en-cafe-berlin-2026-12-07-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Devotos del Rock",
       "venue": "Café Berlín",
       "date": "2026-12-08",
@@ -713,6 +713,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-11",
       "ticketUrl": "https://livepass.com.ar/events/memphis-la-blusera-en-cafe-berlin-2026-12-11-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "El Reloj Zabala & Frezza",
+      "venue": "Café Berlín",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/el-reloj-zabala-frezza-en-cafe-berlin-2026-12-12-20-00-00-0300",
       "source": "livepass"
     },
     {

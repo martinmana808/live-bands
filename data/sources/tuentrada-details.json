@@ -120,28 +120,6 @@
       }
     ]
   },
-  "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-24",
-        "venue": "Sala Martin Coronado",
-        "city": "Buenos Aires",
-        "name": "Christian Sands Quartet"
-      }
-    ]
-  },
-  "miguel-mateos-tgr": {
-    "fetchedAt": "2026-10-29",
-    "sessions": [
-      {
-        "date": "2026-11-21",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Miguel Mateos"
-      }
-    ]
-  },
   "god-save-the-queen-tgr": {
     "fetchedAt": "2026-11-07",
     "sessions": [
@@ -150,6 +128,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
+      }
+    ]
+  },
+  "jazz-bsas-ctba": {
+    "fetchedAt": "2026-10-29",
+    "sessions": [
+      {
+        "date": "2026-11-24",
+        "venue": "Sala Martin Coronado",
+        "city": "Buenos Aires",
+        "name": "Christian Sands Quartet"
       }
     ]
   },

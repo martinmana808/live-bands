@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-11-09",
+  "fetchedAt": "2026-11-11",
   "events": [
-    {
-      "artist": "SELF-TITLED - OPEN AIR  PRE-PRIDE",
-      "venue": "Niceto Club",
-      "date": "2026-11-06",
-      "ticketUrl": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Máze + Mora y los Metegoles",
-      "venue": "Niceto Club",
-      "date": "2026-11-09",
-      "ticketUrl": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "VATICANO CLUB - CABINA ABIERTA",
-      "venue": "Niceto Club",
-      "date": "2026-11-09",
-      "ticketUrl": "https://venti.live/evento/vaticano-club-cabina-abierta-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "PIANO BAR: PEDRO AGUILAR Y AMIGOS  DESCRIPCION",
-      "venue": "Niceto Club",
-      "date": "2026-11-09",
-      "ticketUrl": "https://venti.live/evento/piano-bar-pedro-aguilar-y-amigos-descripcion-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "CODA + BRUXISMO",
-      "venue": "Niceto Club",
-      "date": "2026-11-09",
-      "ticketUrl": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "CHINWEZZ",
-      "venue": "Niceto Club",
-      "date": "2026-11-09",
-      "ticketUrl": "https://venti.live/evento/chinwezz-en-niceto-gg-salort-y-fiesta-obligado-trasnoche-y-derroche-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Catalina Ammaturo",
       "venue": "Niceto Club",
@@ -205,10 +163,24 @@
       "source": "niceto"
     },
     {
+      "artist": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Un Muerto Más",
       "venue": "Niceto Club",
       "date": "2026-11-20",
       "ticketUrl": "https://venti.live/evento/un-muerto-m-s-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "VIERNES DE FLOW Y RABIA",
+      "venue": "Niceto Club",
+      "date": "2026-11-20",
+      "ticketUrl": "https://venti.live/evento/viernes-de-flow-y-rabia-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -576,6 +548,13 @@
       "source": "niceto"
     },
     {
+      "artist": "SELF-TITLED - OPEN AIR (SUNSET)",
+      "venue": "Niceto Club",
+      "date": "2026-12-11",
+      "ticketUrl": "https://venti.live/evento/self-titled-open-air-sunset-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Richard Coleman & El Trans-Siberian Express 11 DIC",
       "venue": "Niceto Club",
       "date": "2026-12-11",
@@ -681,6 +660,13 @@
       "source": "niceto"
     },
     {
+      "artist": "SELF-TITLED SUNSET FESTIVAL",
+      "venue": "Niceto Club",
+      "date": "2026-12-26",
+      "ticketUrl": "https://venti.live/evento/self-titled-sunset-festival-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "FESTIVAL PARDO: LAS LIGAS MENORES",
       "venue": "Niceto Club",
       "date": "2026-12-26",
@@ -692,6 +678,13 @@
       "venue": "Niceto Club",
       "date": "2027-02-14",
       "ticketUrl": "https://venti.live/evento/donavon-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Perras On The Beach",
+      "venue": "Niceto Club",
+      "date": "2027-02-19",
+      "ticketUrl": "https://venti.live/evento/perras-on-the-beach-en-niceto-club",
       "source": "niceto"
     },
     {
