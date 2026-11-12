@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-11-11",
+  "fetchedAt": "2026-11-12",
   "events": [
-    {
-      "artist": "Catalina Ammaturo",
-      "venue": "Niceto Club",
-      "date": "2026-11-11",
-      "ticketUrl": "https://venti.live/evento/catalina-ammaturo-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "QUÉ SE SIENTE | ARA T",
       "venue": "Niceto Club",
@@ -27,6 +20,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-12",
       "ticketUrl": "https://venti.live/evento/el-ciclo-federal-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "KILOMBO Jue 12 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-12",
+      "ticketUrl": "https://venti.live/evento/kilombo-jue-12-nov-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -79,13 +79,6 @@
       "source": "niceto"
     },
     {
-      "artist": "EDU OLIVA + HALOS",
-      "venue": "Niceto Club",
-      "date": "2026-11-14",
-      "ticketUrl": "https://venti.live/evento/edu-oliva-halos-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
       "artist": "OEISIS - Familiar vibes in the area",
       "venue": "Niceto Club",
       "date": "2026-11-14",
@@ -104,6 +97,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-14",
       "ticketUrl": "https://venti.live/evento/see-saw-14-nov-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "NINETY 14 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-14",
+      "ticketUrl": "https://venti.live/evento/ninety-14-nov-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -167,6 +167,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-19",
       "ticketUrl": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Hipnotica: Edicion Especial",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/hipnotica-edicion-especial-en-niceto-club",
       "source": "niceto"
     },
     {
@@ -520,10 +527,24 @@
       "source": "niceto"
     },
     {
+      "artist": "Concierto de Alumnos de Batería - Prof. Ramos Juan Pablo",
+      "venue": "Niceto Club",
+      "date": "2026-12-07",
+      "ticketUrl": "https://venti.live/evento/concierto-de-alumnos-de-bater-a-prof-ramos-juan-pablo-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Thofa SSJ",
       "venue": "Niceto Club",
       "date": "2026-12-07",
       "ticketUrl": "https://venti.live/evento/thofa-ssj-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Corapa y Junta Jarana",
+      "venue": "Niceto Club",
+      "date": "2026-12-07",
+      "ticketUrl": "https://venti.live/evento/corapa-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -541,10 +562,24 @@
       "source": "niceto"
     },
     {
+      "artist": "Eek a mouse",
+      "venue": "Niceto Club",
+      "date": "2026-12-09",
+      "ticketUrl": "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "VALERIO & LOS EXTRAVAGANTES",
       "venue": "Niceto Club",
       "date": "2026-12-10",
       "ticketUrl": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Ignacio Dupin",
+      "venue": "Niceto Club",
+      "date": "2026-12-10",
+      "ticketUrl": "https://venti.live/evento/ignacio-dupin-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -657,6 +692,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-19",
       "ticketUrl": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "2H Fiesta 19 DIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-19",
+      "ticketUrl": "https://venti.live/evento/2h-fiesta-19-dic-en-niceto-bar",
       "source": "niceto"
     },
     {

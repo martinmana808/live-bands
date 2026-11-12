@@ -40,26 +40,6 @@
     "firstSeenAt": "2026-09-29"
   },
   {
-    "id": "catalinaammaturo-2026-11-11-niceto",
-    "shortId": "1m9rsni",
-    "artist": "Catalina Ammaturo",
-    "artistKey": "catalinaammaturo",
-    "date": "2026-11-11",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/catalina-ammaturo-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "2qDGiovKpP5yS5jD2WfH7a",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d7261707b2dd814a0b9d85e8",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "catupecumachu-2026-11-11-vorterix",
     "shortId": "1tuto6l",
     "artist": "Catupecu Machu",
@@ -98,66 +78,6 @@
       "pop"
     ],
     "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "leogarzon-2026-11-11-cafeberlin",
-    "shortId": "17ih61n",
-    "artist": "Leo Garzón",
-    "artistKey": "leogarzon",
-    "date": "2026-11-11",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/leo-garzon-en-cafe-berlin-2026-11-11-20"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "2AUZM0kEhn0Ddu2Omiw4Z3",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "lospablosjazztrio-2026-11-11-ccnu",
-    "shortId": "1eaz4vc",
-    "artist": "Los Pablos Jazz trio",
-    "artistKey": "lospablosjazztrio",
-    "date": "2026-11-11",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/los-pablos-jazz-trio-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "sudestada-2026-11-11-ccnu",
-    "shortId": "1xa9kuu",
-    "artist": "SUDESTADA",
-    "artistKey": "sudestada",
-    "date": "2026-11-11",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sudestada-en-ccnu-2026-11-06-22-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "51JHEXVRERUtFQ3JsshJac",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d0000485150a54d16c50af25f3fe3afe1",
-    "genres": [],
-    "firstSeenAt": "2026-09-16"
   },
   {
     "id": "arethas-2026-11-12-cafeberlin",
@@ -276,6 +196,26 @@
       "metalcore"
     ],
     "firstSeenAt": "2026-10-26"
+  },
+  {
+    "id": "kilombo-2026-11-12-niceto",
+    "shortId": "1rmpkci",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-11-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-12-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
   },
   {
     "id": "ladanzadelasbestiasplayadelkarma-2026-11-12-niceto",
@@ -865,26 +805,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "eduolivahalos-2026-11-14-niceto",
-    "shortId": "2js9ybr",
-    "artist": "EDU OLIVA + HALOS",
-    "artistKey": "eduolivahalos",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/edu-oliva-halos-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "elgarristaluceroaguerobenavidesthielen-2026-11-14-ccnu",
     "shortId": "168wx2u",
     "artist": "Elgarrista Lucero Agüero Benavides Thielen",
@@ -1085,6 +1005,26 @@
       "noise"
     ],
     "firstSeenAt": "2026-11-07"
+  },
+  {
+    "id": "ninety-2026-11-14-niceto",
+    "shortId": "14eunbb",
+    "artist": "NINETY",
+    "artistKey": "ninety",
+    "date": "2026-11-14",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ninety-14-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
   },
   {
     "id": "nocturnaldepression-2026-11-14-uniclub",
@@ -1834,6 +1774,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-11"
+  },
+  {
+    "id": "hipnoticaedicionespecial-2026-11-19-niceto",
+    "shortId": "2acqdmz",
+    "artist": "Hipnotica: Edicion Especial",
+    "artistKey": "hipnoticaedicionespecial",
+    "date": "2026-11-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/hipnotica-edicion-especial-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
   },
   {
     "id": "ivansalolosparacaidistas-2026-11-19-niceto",
@@ -4632,6 +4592,46 @@
     "firstSeenAt": "2026-10-08"
   },
   {
+    "id": "conciertodealumnosdebateria-2026-12-07-niceto",
+    "shortId": "dhjw89q",
+    "artist": "Concierto de Alumnos de Batería",
+    "artistKey": "conciertodealumnosdebateria",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/concierto-de-alumnos-de-bater-a-prof-ramos-juan-pablo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
+    "id": "corapayjuntajarana-2026-12-07-niceto",
+    "shortId": "171edqo",
+    "artist": "Corapa y Junta Jarana",
+    "artistKey": "corapayjuntajarana",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/corapa-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
     "id": "martincarrillo-2026-12-07-cafeberlin",
     "shortId": "1yp9h7x",
     "artist": "Martín Carrillo",
@@ -4792,6 +4792,30 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "eekamouse-2026-12-09-niceto",
+    "shortId": "2adau49",
+    "artist": "Eek a mouse",
+    "artistKey": "eekamouse",
+    "date": "2026-12-09",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "JM",
+    "spotifyId": "6xqlgBccdlxUh5DeJSx2ho",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e81fd2b6c5df5368498fbbcd",
+    "genres": [
+      "reggae",
+      "dub",
+      "roots reggae"
+    ],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
     "id": "felipebaldomir-2026-12-09-niceto",
     "shortId": "12mygf7",
     "artist": "FELIPE BALDOMIR",
@@ -4895,6 +4919,26 @@
     "firstSeenAt": "2026-09-17"
   },
   {
+    "id": "ignaciodupin-2026-12-10-niceto",
+    "shortId": "2o7bys1",
+    "artist": "Ignacio Dupin",
+    "artistKey": "ignaciodupin",
+    "date": "2026-12-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/ignacio-dupin-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "6GB6m3XAxHVCUxPgvCyCpB",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178720ba261cbf202a15571a222",
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
     "id": "valeriolosextravagantes-2026-12-10-niceto",
     "shortId": "1e593d6",
     "artist": "VALERIO & LOS EXTRAVAGANTES",
@@ -4913,6 +4957,46 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-27"
+  },
+  {
+    "id": "bluesmotel-2026-12-11-cafeberlin",
+    "shortId": "ervishb",
+    "artist": "Blues Motel",
+    "artistKey": "bluesmotel",
+    "date": "2026-12-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/blues-motel-en-cafe-berlin-2026-12-11-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2VD4qhDrH6pU7dbaK9nuni",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17869f58bceadf849f4cf55d86c",
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
+    "id": "cursinomuerewrrnvientos-2026-12-11-sanmiguel",
+    "shortId": "1nqvhpi",
+    "artist": "CURSI NO MUERE + WRRN + VIENTOS",
+    "artistKey": "cursinomuerewrrnvientos",
+    "date": "2026-12-11",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/cursi-no-muere-wrrn-vientos-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
   },
   {
     "id": "estelares-2026-12-11-salaginasteraargentinoplata",
@@ -5461,6 +5545,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "2hfiesta-2026-12-19-niceto",
+    "shortId": "2gj0909",
+    "artist": "2H Fiesta",
+    "artistKey": "2hfiesta",
+    "date": "2026-12-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/2h-fiesta-19-dic-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
+  },
+  {
     "id": "elmatoaunpoliciamotorizado-2026-12-19-hipodromoplata",
     "shortId": "9l3gjdq",
     "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
@@ -5743,6 +5847,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17877e4fa193b0994b705a75f1b",
     "genres": [],
     "firstSeenAt": "2026-10-30"
+  },
+  {
+    "id": "decaroalacacerola-2027-01-22-cafeberlin",
+    "shortId": "19n2mo6",
+    "artist": "De Caro a la Cacerola",
+    "artistKey": "decaroalacacerola",
+    "date": "2027-01-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/de-caro-a-la-cacerola-en-cafe-berlin-2027-01-22-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-12"
   },
   {
     "id": "julianobarretoeduardofarias-2027-01-24-cafeberlin",
