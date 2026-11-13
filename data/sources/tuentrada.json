@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12",
+  "fetchedAt": "2026-11-13",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -34,34 +34,6 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-20",
       "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-01",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Boda Lyniel",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-08",
-      "ticketUrl": "https://www.tuentrada.com/boda-lyniel-tgr",
       "source": "tuentrada"
     },
     {

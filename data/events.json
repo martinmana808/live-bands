@@ -1,203 +1,5 @@
 [
   {
-    "id": "bodalyniel-2026-11-01-granrex",
-    "shortId": "hw94ewx",
-    "artist": "Boda Lyniel",
-    "artistKey": "bodalyniel",
-    "date": "2026-11-01",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/boda-lyniel-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-29"
-  },
-  {
-    "id": "bodalyniel-2026-11-08-granrex",
-    "shortId": "177af72",
-    "artist": "Boda Lyniel",
-    "artistKey": "bodalyniel",
-    "date": "2026-11-08",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/boda-lyniel-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-29"
-  },
-  {
-    "id": "catupecumachu-2026-11-11-vorterix",
-    "shortId": "1tuto6l",
-    "artist": "Catupecu Machu",
-    "artistKey": "catupecumachu",
-    "date": "2026-11-11",
-    "venue": "Teatro Vorterix",
-    "venueKey": "vorterix",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "059ysTnWcrm4yFwTr0NDjc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ca1ed196b904f557631837a4",
-    "genres": [],
-    "firstSeenAt": "2026-10-30"
-  },
-  {
-    "id": "jorjasmith-2026-11-11-ccomplejoartmedia",
-    "shortId": "6zawxn2",
-    "artist": "Jorja Smith",
-    "artistKey": "jorjasmith",
-    "date": "2026-11-11",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "1CoZyIx7UvdxT5c8UkMzHd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786dbb718d1fe46c13899ce3ce",
-    "genres": [
-      "neo soul",
-      "alternative r&b",
-      "pop"
-    ],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "arethas-2026-11-12-cafeberlin",
-    "shortId": "1czjfnt",
-    "artist": "Arethas",
-    "artistKey": "arethas",
-    "date": "2026-11-12",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/arethas-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "2fLjHwecfyupPEc52X3fDJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178935a2ae22c4a630373da5481",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "arritmia-2026-11-12-ccnu",
-    "shortId": "2k6asvf",
-    "artist": "Arritmia",
-    "artistKey": "arritmia",
-    "date": "2026-11-12",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/arritmia-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "CL",
-    "spotifyId": "6ASPNudsnfsRttSeorElRn",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851b5889c4ef1dbb1e59b2b30b4",
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "crisaandtvtoficial-2026-11-12-salonpueyrredon",
-    "shortId": "8u6i6op",
-    "artist": "Crisá and TVT oficial",
-    "artistKey": "crisaandtvtoficial",
-    "date": "2026-11-12",
-    "venue": "Salón Pueyrredon",
-    "venueKey": "salonpueyrredon",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-30"
-  },
-  {
-    "id": "elciclofederal-2026-11-12-niceto",
-    "shortId": "16zjy4m",
-    "artist": "El Ciclo Federal",
-    "artistKey": "elciclofederal",
-    "date": "2026-11-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/el-ciclo-federal-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "fedecabral-2026-11-12-moran",
-    "shortId": "25allrf",
-    "artist": "Fede cabral",
-    "artistKey": "fedecabral",
-    "date": "2026-11-12",
-    "venue": "MORÁN",
-    "venueKey": "moran",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "3AiQjychmM933C9dY4S8It",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "illnino-2026-11-12-uniclub",
-    "shortId": "103zkho",
-    "artist": "Ill Niño",
-    "artistKey": "illnino",
-    "date": "2026-11-12",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "1xJ6l1VXgGuyZ0uhu27caF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9e9d4bf289306bdb068e1a0",
-    "genres": [
-      "nu metal",
-      "metal",
-      "metalcore"
-    ],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
     "id": "kilombo-2026-11-12-niceto",
     "shortId": "1rmpkci",
     "artist": "KILOMBO",
@@ -216,125 +18,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-12"
-  },
-  {
-    "id": "ladanzadelasbestiasplayadelkarma-2026-11-12-niceto",
-    "shortId": "26jb164",
-    "artist": "LA DANZA DE LAS BESTIAS + PLAYA DEL KARMA",
-    "artistKey": "ladanzadelasbestiasplayadelkarma",
-    "date": "2026-11-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-danza-de-las-bestias-playa-del-karma-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-17"
-  },
-  {
-    "id": "manzamarianoesainandcabezaflotante-2026-11-12-liverpool",
-    "shortId": "21l3yz5",
-    "artist": "manza / Mariano Esain and Cabeza Flotante",
-    "artistKey": "manzamarianoesainandcabezaflotante",
-    "date": "2026-11-12",
-    "venue": "Liverpool Club",
-    "venueKey": "liverpool",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-30"
-  },
-  {
-    "id": "maro-2026-11-12-ccomplejoartmedia",
-    "shortId": "vt9o5hg",
-    "artist": "MARO",
-    "artistKey": "maro",
-    "date": "2026-11-12",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "PT",
-    "spotifyId": "3NP4jJcW3R6qO6rbtnH0wn",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17859cab93bfd91893fd5a57fc1",
-    "genres": [
-      "folk",
-      "pop"
-    ],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "parisjazzclub-2026-11-12-cafeberlin",
-    "shortId": "lz5mfs7",
-    "artist": "Paris Jazz Club",
-    "artistKey": "parisjazzclub",
-    "date": "2026-11-12",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/paris-jazz-club-en-cafe-berlin-2026-11-12-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "2rk1P5E8tnKPd1aGTsfcA0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788a9efe34a357d4365beccee1",
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "quesesientearat-2026-11-12-niceto",
-    "shortId": "1u1vlzu",
-    "artist": "QUÉ SE SIENTE | ARA T",
-    "artistKey": "quesesientearat",
-    "date": "2026-11-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/qu-se-siente-ara-t-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "singersinjam-2026-11-12-ccnu",
-    "shortId": "lzg4y1y",
-    "artist": "Singers in Jam",
-    "artistKey": "singersinjam",
-    "date": "2026-11-12",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-12"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-10"
   },
   {
     "id": "abelpintos-2026-11-13-granrex",
@@ -861,26 +544,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hayplan-2026-11-14-livepass",
-    "shortId": "20c776q",
-    "artist": "HAY PLAN",
-    "artistKey": "hayplan",
-    "date": "2026-11-14",
-    "venue": "Livepass",
-    "venueKey": "livepass",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hay-plan-la-nocturna-una-fiesta-de-noche-2026-11-14-23-55-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-30"
   },
   {
     "id": "josefinapretende-2026-11-14-damabollini",
@@ -3108,6 +2771,28 @@
     "firstSeenAt": "2026-10-30"
   },
   {
+    "id": "mariabecerra-2026-11-26-movistararena",
+    "shortId": "880ejm9",
+    "artist": "Maria Becerra",
+    "artistKey": "mariabecerra",
+    "date": "2026-11-26",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
+    "genres": [
+      "latin",
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-13"
+  },
+  {
     "id": "montsefredriksvabtheawang-2026-11-26-niceto",
     "shortId": "6l57zr5",
     "artist": "Montse • Fredrik Svabø • Thea Wang",
@@ -3208,6 +2893,24 @@
     "firstSeenAt": "2026-11-02"
   },
   {
+    "id": "deerjade-2026-11-27-crobar",
+    "shortId": "1z37fbk",
+    "artist": "Deer Jade",
+    "artistKey": "deerjade",
+    "date": "2026-11-27",
+    "venue": "Crobar",
+    "venueKey": "crobar",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "0QJ6lXlYOHexjfIg4CQrgv",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bc312efb21d82d38ad17c42e",
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
+  },
+  {
     "id": "julianelordimartinztaylafliacohete-2026-11-27-niceto",
     "shortId": "1pth0ab",
     "artist": "Julián Elordi + Martín Zta y la Flia Cohete",
@@ -3268,6 +2971,48 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "lvzsilenciosa-2026-11-27-portal",
+    "shortId": "1xfc4sm",
+    "artist": "Lvz silenciosa",
+    "artistKey": "lvzsilenciosa",
+    "date": "2026-11-27",
+    "venue": "El Portal Teatro",
+    "venueKey": "portal",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [
+      "industrial hardcore"
+    ],
+    "firstSeenAt": "2026-11-13"
+  },
+  {
+    "id": "mariabecerra-2026-11-27-movistararena",
+    "shortId": "130ppjd",
+    "artist": "Maria Becerra",
+    "artistKey": "mariabecerra",
+    "date": "2026-11-27",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
+    "genres": [
+      "latin",
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-13"
+  },
+  {
     "id": "marianinver-2026-11-27-cafeberlin",
     "shortId": "1yyhtjk",
     "artist": "Marían Inver",
@@ -3306,6 +3051,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-02"
+  },
+  {
+    "id": "poseidotica-2026-11-27-vivero",
+    "shortId": "1cstwk4",
+    "artist": "Poseidotica",
+    "artistKey": "poseidotica",
+    "date": "2026-11-27",
+    "venue": "El Vivero Club",
+    "venueKey": "vivero",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "35c7I7m05XIsgtiCq1o99U",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b97b596a04768e7110c6e3c0",
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
   },
   {
     "id": "queteimporta-2026-11-27-cafeberlin",
@@ -3428,6 +3191,24 @@
     "firstSeenAt": "2026-09-16"
   },
   {
+    "id": "cyclo-2026-11-28-giermusic",
+    "shortId": "li5jf3s",
+    "artist": "Cyclo",
+    "artistKey": "cyclo",
+    "date": "2026-11-28",
+    "venue": "Gier Music Club",
+    "venueKey": "giermusic",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "39OjchtLfV4XKEq9JlDGSV",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879b04a4cd4601eeff0d5ea76",
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
+  },
+  {
     "id": "dominegonzalez-2026-11-28-ccnu",
     "shortId": "1pgz85x",
     "artist": "Dómine-González",
@@ -3524,6 +3305,7 @@
       "https://www.tuentrada.com/god-save-the-queen-tgr"
     ],
     "sources": [
+      "songkick",
       "tuentrada"
     ],
     "country": "AR",
@@ -4932,7 +4714,7 @@
     "sources": [
       "niceto"
     ],
-    "country": null,
+    "country": "AR",
     "spotifyId": "6GB6m3XAxHVCUxPgvCyCpB",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178720ba261cbf202a15571a222",
     "genres": [],
@@ -5037,6 +4819,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851d572ddcf4287e0c8d5d028f8",
     "genres": [],
     "firstSeenAt": "2026-11-05"
+  },
+  {
+    "id": "mirnicolas-2026-12-11-requilmes",
+    "shortId": "uugxnvd",
+    "artist": "MIR NICOLAS",
+    "artistKey": "mirnicolas",
+    "date": "2026-12-11",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mir-nicolas-en-club-re-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "0wTR1DXxJ3Ok60O4K4U9WT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178187ae48d46e43a87266d1d8c",
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
   },
   {
     "id": "paisanosdemarte-2026-12-11-niceto",
@@ -5197,6 +4999,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789cf7c07b47ce0680fbcde54b",
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "mirnicolas-2026-12-12-sanmiguel",
+    "shortId": "3lnvmpt",
+    "artist": "MIR NICOLAS",
+    "artistKey": "mirnicolas",
+    "date": "2026-12-12",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mir-nicolas-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "0wTR1DXxJ3Ok60O4K4U9WT",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178187ae48d46e43a87266d1d8c",
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
   },
   {
     "id": "supervoscierraelano-2026-12-12-niceto",
@@ -5745,6 +5567,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-02"
+  },
+  {
+    "id": "fiestapixie-2026-12-26-niceto",
+    "shortId": "28ibsuw",
+    "artist": "Fiesta Pixie",
+    "artistKey": "fiestapixie",
+    "date": "2026-12-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-pixie-fin-de-a-o-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-13"
   },
   {
     "id": "selftitledsunsetfestival-2026-12-26-niceto",

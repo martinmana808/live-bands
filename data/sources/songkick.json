@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-11-11",
+  "fetchedAt": "2026-11-13",
   "events": [
-    {
-      "artist": "Jorja Smith",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Catupecu Machu",
-      "venue": "Teatro Vorterix",
-      "date": "2026-11-11",
-      "source": "songkick"
-    },
-    {
-      "artist": "Ill Niño",
-      "venue": "Uniclub",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "MARO",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "manza / Mariano Esain and Cabeza Flotante",
-      "venue": "Liverpool Club",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Fede cabral",
-      "venue": "MORÁN",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
-    {
-      "artist": "Crisá and TVT oficial",
-      "venue": "Salón Pueyrredon",
-      "date": "2026-11-12",
-      "source": "songkick"
-    },
     {
       "artist": "Maria Becerra",
       "venue": "Movistar Arena",
@@ -293,6 +251,48 @@
       "artist": "German Kaly",
       "venue": "Café Berlín Buenos Aires",
       "date": "2026-11-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maria Becerra",
+      "venue": "Movistar Arena",
+      "date": "2026-11-26",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maria Becerra",
+      "venue": "Movistar Arena",
+      "date": "2026-11-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "Poseidotica, El mal humano, and Sícalo",
+      "venue": "El Vivero Club",
+      "date": "2026-11-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lvz silenciosa",
+      "venue": "El Portal Teatro",
+      "date": "2026-11-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "Deer Jade",
+      "venue": "Crobar",
+      "date": "2026-11-27",
+      "source": "songkick"
+    },
+    {
+      "artist": "God Save The Queen",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Cyclo",
+      "venue": "Gier Music Club",
+      "date": "2026-11-28",
       "source": "songkick"
     }
   ]

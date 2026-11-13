@@ -1,6 +1,6 @@
 {
   "abel-pintos-tgr": {
-    "fetchedAt": "2026-10-29",
+    "fetchedAt": "2026-11-13",
     "sessions": [
       {
         "date": "2026-11-13",
@@ -35,32 +35,8 @@
     ]
   },
   "boda-lyniel-tgr": {
-    "fetchedAt": "2026-10-29",
+    "fetchedAt": "2026-11-13",
     "sessions": [
-      {
-        "date": "2026-11-01",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      },
-      {
-        "date": "2026-11-01",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      },
-      {
-        "date": "2026-11-08",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      },
-      {
-        "date": "2026-11-08",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      },
       {
         "date": "2026-11-22",
         "venue": "Teatro Gran Rex",
@@ -76,7 +52,7 @@
     ]
   },
   "ntvg-gira": {
-    "fetchedAt": "2026-10-29",
+    "fetchedAt": "2026-11-13",
     "sessions": [
       {
         "date": "2026-11-20",
@@ -99,7 +75,7 @@
     ]
   },
   "djavan-tgr": {
-    "fetchedAt": "2026-10-29",
+    "fetchedAt": "2026-11-13",
     "sessions": [
       {
         "date": "2026-11-24",
@@ -132,7 +108,7 @@
     ]
   },
   "jazz-bsas-ctba": {
-    "fetchedAt": "2026-10-29",
+    "fetchedAt": "2026-11-13",
     "sessions": [
       {
         "date": "2026-11-24",

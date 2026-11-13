@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12",
+  "fetchedAt": "2026-11-13",
   "events": [
     {
       "artist": "BABASONICOS",
@@ -79,34 +79,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Arritmia",
-      "venue": "CCNU",
-      "date": "2026-11-12",
-      "ticketUrl": "https://livepass.com.ar/events/arritmia-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Paris Jazz Club",
-      "venue": "Café Berlín",
-      "date": "2026-11-12",
-      "ticketUrl": "https://livepass.com.ar/events/paris-jazz-club-en-cafe-berlin-2026-11-12-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Singers in Jam",
-      "venue": "CCNU",
-      "date": "2026-11-12",
-      "ticketUrl": "https://livepass.com.ar/events/singers-in-jam-en-ccnu-2026-11-12",
-      "source": "livepass"
-    },
-    {
-      "artist": "Arethas",
-      "venue": "Café Berlín",
-      "date": "2026-11-12",
-      "ticketUrl": "https://livepass.com.ar/events/arethas-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
       "artist": "Combi",
       "venue": "CCNU",
       "date": "2026-11-13",
@@ -181,13 +153,6 @@
       "venue": "Café Berlín",
       "date": "2026-11-14",
       "ticketUrl": "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "HAY PLAN - LA NOCTURNA: una fiesta de noche",
-      "venue": "Livepass",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/hay-plan-la-nocturna-una-fiesta-de-noche-2026-11-14-23-55-00-0300",
       "source": "livepass"
     },
     {
@@ -695,6 +660,13 @@
       "source": "livepass"
     },
     {
+      "artist": "MIR NICOLAS",
+      "venue": "Club Re Quilmes",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/mir-nicolas-en-club-re-quilmes",
+      "source": "livepass"
+    },
+    {
       "artist": "Memphis La Blusera",
       "venue": "Café Berlín",
       "date": "2026-12-11",
@@ -720,6 +692,13 @@
       "venue": "la Sala Ginastera - Teatro Argentino La Plata",
       "date": "2026-12-12",
       "ticketUrl": "https://livepass.com.ar/events/el-unipersonal-de-lucho-mellera-en-la-sala-ginastera-teatro-argentino-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "MIR NICOLAS",
+      "venue": "San Miguel",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/mir-nicolas-en-san-miguel",
       "source": "livepass"
     },
     {

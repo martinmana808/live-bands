@@ -1,27 +1,6 @@
 {
-  "fetchedAt": "2026-11-12",
+  "fetchedAt": "2026-11-13",
   "events": [
-    {
-      "artist": "QUÉ SE SIENTE | ARA T",
-      "venue": "Niceto Club",
-      "date": "2026-11-12",
-      "ticketUrl": "https://venti.live/evento/qu-se-siente-ara-t-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "LA DANZA DE LAS BESTIAS + PLAYA DEL KARMA",
-      "venue": "Niceto Club",
-      "date": "2026-11-12",
-      "ticketUrl": "https://venti.live/evento/la-danza-de-las-bestias-playa-del-karma-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "El Ciclo Federal",
-      "venue": "Niceto Club",
-      "date": "2026-11-12",
-      "ticketUrl": "https://venti.live/evento/el-ciclo-federal-en-niceto-bar",
-      "source": "niceto"
-    },
     {
       "artist": "KILOMBO Jue 12 NOV",
       "venue": "Niceto Club",
@@ -713,6 +692,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-26",
       "ticketUrl": "https://venti.live/evento/festival-pardo-las-ligas-menores-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Fiesta Pixie - Fin de año",
+      "venue": "Niceto Club",
+      "date": "2026-12-26",
+      "ticketUrl": "https://venti.live/evento/fiesta-pixie-fin-de-a-o-en-niceto-bar",
       "source": "niceto"
     },
     {
