@@ -130,30 +130,19 @@
     ]
   },
   "bomberitos": {
-    "fetchedAt": "2026-10-30",
+    "fetchedAt": "2026-11-14",
     "sessions": [
-      {
-        "date": "2026-11-07",
-        "venue": "Espacio Bomberitos",
-        "city": "Villa Ballester",
-        "name": "Visitá Espacio Bomberitos"
-      },
       {
         "date": "2026-11-14",
         "venue": "Espacio Bomberitos",
         "city": "Villa Ballester",
         "name": "Visitá Espacio Bomberitos"
-      }
-    ]
-  },
-  "connie-ballarini-tdb": {
-    "fetchedAt": "2026-11-01",
-    "sessions": [
+      },
       {
-        "date": "2026-11-13",
-        "venue": "Teatro Don Bosco San Isidro",
-        "city": "San Isidro",
-        "name": "Connie Ballarini"
+        "date": "2026-11-21",
+        "venue": "Espacio Bomberitos",
+        "city": "Villa Ballester",
+        "name": "Visitá Espacio Bomberitos"
       }
     ]
   },
@@ -169,7 +158,7 @@
     ]
   },
   "greeicy-tgr": {
-    "fetchedAt": "2026-10-30",
+    "fetchedAt": "2026-11-14",
     "sessions": [
       {
         "date": "2026-11-26",
@@ -190,25 +179,25 @@
       }
     ]
   },
-  "lauchas-eternas-tgr": {
-    "fetchedAt": "2026-11-06",
+  "ntvg-villa-ballester": {
+    "fetchedAt": "2026-11-14",
     "sessions": [
       {
-        "date": "2026-11-30",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Luchas Eternas La Despedida"
+        "date": "2026-11-21",
+        "venue": "Club Aleman",
+        "city": "Villa Ballester",
+        "name": "No Te Va Gustar"
       }
     ]
   },
-  "la-misa-tgr": {
-    "fetchedAt": "2026-11-10",
+  "daniel-agostini-amigos-tgr": {
+    "fetchedAt": "2026-11-14",
     "sessions": [
       {
-        "date": "2026-12-04",
+        "date": "2026-12-05",
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
-        "name": "La Misa"
+        "name": "Daniel Agostini + Amigos"
       }
     ]
   },
@@ -220,6 +209,29 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Agarrate Catalina"
+      }
+    ]
+  },
+  "go-vive-a-tu-manera-tgr": {
+    "fetchedAt": "2026-11-14",
+    "sessions": [
+      {
+        "date": "2026-12-12",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
+      },
+      {
+        "date": "2026-12-12",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
+      },
+      {
+        "date": "2026-12-13",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
       }
     ]
   },

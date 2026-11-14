@@ -1,25 +1,5 @@
 [
   {
-    "id": "kilombo-2026-11-12-niceto",
-    "shortId": "1rmpkci",
-    "artist": "KILOMBO",
-    "artistKey": "kilombo",
-    "date": "2026-11-12",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kilombo-jue-12-nov-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-12"
-  },
-  {
     "id": "abelpintos-2026-11-13-granrex",
     "shortId": "1cjpvd3",
     "artist": "Abel Pintos",
@@ -42,49 +22,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "bi-2026-11-13-ccnu",
-    "shortId": "142hfpk",
-    "artist": "BI",
-    "artistKey": "bi",
-    "date": "2026-11-13",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bi-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "KR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [
-      "k-pop",
-      "singer-songwriter"
-    ],
-    "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "cantodelalma-2026-11-13-niceto",
-    "shortId": "2h1jwr8",
-    "artist": "Canto del Alma",
-    "artistKey": "cantodelalma",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "49HfTSafuknJYlh6S4a3wa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17894cccffda6f19c6e8f3d255a",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "casiqueva-2026-11-13-xlr",
     "shortId": "1yrkajk",
     "artist": "Casiqueva",
@@ -101,146 +38,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b3835892acca9c5caf8c5d9",
     "genres": [],
     "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "ciclodesorden-2026-11-13-niceto",
-    "shortId": "1whd2j4",
-    "artist": "CICLO DESORDEN",
-    "artistKey": "ciclodesorden",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ciclo-desorden-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "combi-2026-11-13-ccnu",
-    "shortId": "n1mbssv",
-    "artist": "Combi",
-    "artistKey": "combi",
-    "date": "2026-11-13",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/combi-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
-  },
-  {
-    "id": "connieballarini-2026-11-13-donboscosanisidro",
-    "shortId": "1bkfbiu",
-    "artist": "Connie Ballarini",
-    "artistKey": "connieballarini",
-    "date": "2026-11-13",
-    "venue": "Teatro Don Bosco San Isidro",
-    "venueKey": "donboscosanisidro",
-    "ticketUrls": [
-      "https://www.tuentrada.com/connie-ballarini-tdb"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
-    "id": "giros-2026-11-13-operalp",
-    "shortId": "6g7akm9",
-    "artist": "GIROS",
-    "artistKey": "giros",
-    "date": "2026-11-13",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "hermanosdelacalle-2026-11-13-sanmiguel",
-    "shortId": "10c8mwu",
-    "artist": "HERMANOS DE LA CALLE",
-    "artistKey": "hermanosdelacalle",
-    "date": "2026-11-13",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/hermanos-de-la-calle-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "69ZTdqVayVvhw2t4bsxO8C",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-20"
-  },
-  {
-    "id": "laanalogica-2026-11-13-niceto",
-    "shortId": "2d1mlkf",
-    "artist": "LA ANALÓGICA",
-    "artistKey": "laanalogica",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-anal-gica-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "losabuelos-2026-11-13-cafeberlin",
-    "shortId": "2qqz0v0",
-    "artist": "Los Abuelos",
-    "artistKey": "losabuelos",
-    "date": "2026-11-13",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/los-abuelos-la-musica-de-los-abuelos-de-la-nada-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
   },
   {
     "id": "mariabecerra-2026-11-13-movistararena",
@@ -265,28 +62,6 @@
     "firstSeenAt": "2026-10-26"
   },
   {
-    "id": "mila-2026-11-13-niceto",
-    "shortId": "3ga23qo",
-    "artist": "Mila",
-    "artistKey": "mila",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mila-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "BD",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [
-      "pop"
-    ],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
     "id": "natas-2026-11-13-ccomplejoartmedia",
     "shortId": "2bvv7ph",
     "artist": "NATAS",
@@ -303,26 +78,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781dafdb9ed0923a0e1b41ba78",
     "genres": [],
     "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "nochepantera-2026-11-13-niceto",
-    "shortId": "2akinrc",
-    "artist": "NOCHE PANTERA",
-    "artistKey": "nochepantera",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/noche-pantera-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-24"
   },
   {
     "id": "randomfiesta-2026-11-13-niceto",
@@ -2183,6 +1938,26 @@
     "firstSeenAt": "2026-09-21"
   },
   {
+    "id": "selftitledfashionpopupafterparty-2026-11-21-niceto",
+    "shortId": "2cuq6zm",
+    "artist": "SELF-TITLED FASHION POP-UP [AFTERPARTY]",
+    "artistKey": "selftitledfashionpopupafterparty",
+    "date": "2026-11-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/self-titled-fashion-pop-up-afterparty-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
+  },
+  {
     "id": "ustedsenalemelo-2026-11-21-requilmes",
     "shortId": "17f2mv9",
     "artist": "USTED SEÑALEMELO",
@@ -3064,10 +2839,14 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "AR",
     "spotifyId": "35c7I7m05XIsgtiCq1o99U",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b97b596a04768e7110c6e3c0",
-    "genres": [],
+    "genres": [
+      "instrumental",
+      "progressive metal",
+      "progressive rock"
+    ],
     "firstSeenAt": "2026-11-13"
   },
   {
@@ -3685,26 +3464,6 @@
     "firstSeenAt": "2026-10-23"
   },
   {
-    "id": "luchaseternasladespedida-2026-11-30-granrex",
-    "shortId": "2mdc7el",
-    "artist": "Luchas Eternas La Despedida",
-    "artistKey": "luchaseternasladespedida",
-    "date": "2026-11-30",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/lauchas-eternas-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-06"
-  },
-  {
     "id": "dennischamberschristiangalvezquartet-2026-12-01-cafeberlin",
     "shortId": "1cfp6ah",
     "artist": "Dennis Chambers & Christian Gálvez Quartet",
@@ -3968,26 +3727,6 @@
     "firstSeenAt": "2026-09-19"
   },
   {
-    "id": "lamisa-2026-12-04-granrex",
-    "shortId": "24uwpxp",
-    "artist": "La Misa",
-    "artistKey": "lamisa",
-    "date": "2026-12-04",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/la-misa-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-10"
-  },
-  {
     "id": "lolomorales-2026-12-04-requilmes",
     "shortId": "264a4ao",
     "artist": "LOLO MORALES",
@@ -4088,6 +3827,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "danielagostiniamigos-2026-12-05-granrex",
+    "shortId": "gqj9ure",
+    "artist": "Daniel Agostini + Amigos",
+    "artistKey": "danielagostiniamigos",
+    "date": "2026-12-05",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/daniel-agostini-amigos-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "desordenconopinel-2026-12-05-niceto",
@@ -4252,6 +4011,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "acusticotemporadatyuba-2026-12-06-niceto",
+    "shortId": "2dtn897",
+    "artist": "ACUSTICO TEMPORADA / TYUBA",
+    "artistKey": "acusticotemporadatyuba",
+    "date": "2026-12-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/acustico-temporada-tyuba-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
+  },
+  {
     "id": "fiestaexpresokingston-2026-12-06-niceto",
     "shortId": "r4o43sp",
     "artist": "FIESTA EXPRESO KINGSTON",
@@ -4330,6 +4109,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-02"
+  },
+  {
+    "id": "synctetica-2026-12-06-niceto",
+    "shortId": "1shp1d1",
+    "artist": "SYNCTETICA",
+    "artistKey": "synctetica",
+    "date": "2026-12-06",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/synctetica-open-air-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "yokoclerc-2026-12-06-niceto",
@@ -4432,6 +4231,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880032cb899af3022f196105b",
     "genres": [],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "navajashowcase-2026-12-07-niceto",
+    "shortId": "42fukm0",
+    "artist": "NAVAJA SHOWCASE",
+    "artistKey": "navajashowcase",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/navaja-showcase-sociedad-an-nima-garen-romo-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "ryan-2026-12-07-niceto",
@@ -4721,6 +4540,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "slimesanti-2026-12-10-niceto",
+    "shortId": "10gget0",
+    "artist": "SLIMESANTI",
+    "artistKey": "slimesanti",
+    "date": "2026-12-10",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/slimesanti-en-niceto-club"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "7m6juwK6xeE8csPoZ5MGK6",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787837cb1805a91d6eb4cec663",
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
+  },
+  {
     "id": "valeriolosextravagantes-2026-12-10-niceto",
     "shortId": "1e593d6",
     "artist": "VALERIO & LOS EXTRAVAGANTES",
@@ -4981,6 +4820,26 @@
     "firstSeenAt": "2026-10-20"
   },
   {
+    "id": "goviveatumanera-2026-12-12-granrex",
+    "shortId": "hmj7k4w",
+    "artist": "Go Vive A Tu Manera",
+    "artistKey": "goviveatumanera",
+    "date": "2026-12-12",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/go-vive-a-tu-manera-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
+  },
+  {
     "id": "mimimaura-2026-12-12-niceto",
     "shortId": "1tdk2kf",
     "artist": "MIMI MAURA",
@@ -5063,6 +4922,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "unratitodeconga-2026-12-12-niceto",
+    "shortId": "1ogoa7i",
+    "artist": "Un ratito De conga",
+    "artistKey": "unratitodeconga",
+    "date": "2026-12-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/un-ratito-de-conga-12-dic-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
+  },
+  {
     "id": "festivalplasma4taedicion-2026-12-13-niceto",
     "shortId": "13objss",
     "artist": "Festival Plasma 4ta edición",
@@ -5101,6 +4980,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "goviveatumanera-2026-12-13-granrex",
+    "shortId": "19ikjj6",
+    "artist": "Go Vive A Tu Manera",
+    "artistKey": "goviveatumanera",
+    "date": "2026-12-13",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/go-vive-a-tu-manera-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "leosimavorian-2026-12-13-cafeberlin",
@@ -5225,6 +5124,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-05"
+  },
+  {
+    "id": "gabrielcarambula-2026-12-17-cafeberlin",
+    "shortId": "2bxejnn",
+    "artist": "Gabriel Carámbula",
+    "artistKey": "gabrielcarambula",
+    "date": "2026-12-17",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/gabriel-carambula-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "3HkbyQEtfZ95LUDYPJUPjY",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "octafonic-2026-12-17-niceto",
@@ -5365,6 +5284,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "robotzondaultimoshowdelano-2026-12-18-niceto",
+    "shortId": "asrlb3m",
+    "artist": "Robot Zonda Ultimo show del Año",
+    "artistKey": "robotzondaultimoshowdelano",
+    "date": "2026-12-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/robot-zonda-ultimo-show-del-a-o-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-14"
   },
   {
     "id": "2hfiesta-2026-12-19-niceto",

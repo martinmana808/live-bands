@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13",
+  "fetchedAt": "2026-11-14",
   "events": [
     {
       "artist": "BABASONICOS",
@@ -76,41 +76,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Combi",
-      "venue": "CCNU",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/combi-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "GIROS",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/giros-en-el-teatro-opera-lp-13-11",
-      "source": "livepass"
-    },
-    {
-      "artist": "HERMANOS DE LA CALLE",
-      "venue": "San Miguel",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/hermanos-de-la-calle-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "BI",
-      "venue": "CCNU",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/bi-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Los Abuelos- la música de Los Abuelos de La nada",
-      "venue": "Café Berlín",
-      "date": "2026-11-13",
-      "ticketUrl": "https://livepass.com.ar/events/los-abuelos-la-musica-de-los-abuelos-de-la-nada-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -741,6 +706,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-17",
       "ticketUrl": "https://livepass.com.ar/events/sobredosis-de-soda-intimo-y-a-la-carta-vol-2-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Gabriel Carámbula",
+      "venue": "Café Berlín",
+      "date": "2026-12-17",
+      "ticketUrl": "https://livepass.com.ar/events/gabriel-carambula-en-cafe-berlin",
       "source": "livepass"
     },
     {

@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-11-13",
+  "fetchedAt": "2026-11-14",
   "events": [
-    {
-      "artist": "KILOMBO Jue 12 NOV",
-      "venue": "Niceto Club",
-      "date": "2026-11-12",
-      "ticketUrl": "https://venti.live/evento/kilombo-jue-12-nov-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Canto del Alma",
-      "venue": "Niceto Club",
-      "date": "2026-11-13",
-      "ticketUrl": "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "CICLO DESORDEN",
-      "venue": "Niceto Club",
-      "date": "2026-11-13",
-      "ticketUrl": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Mila",
-      "venue": "Niceto Club",
-      "date": "2026-11-13",
-      "ticketUrl": "https://venti.live/evento/mila-en-humboldt-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "NOCHE PANTERA",
-      "venue": "Niceto Club",
-      "date": "2026-11-13",
-      "ticketUrl": "https://venti.live/evento/noche-pantera-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "LA ANALÓGICA",
-      "venue": "Niceto Club",
-      "date": "2026-11-13",
-      "ticketUrl": "https://venti.live/evento/la-anal-gica-en-niceto-bar",
-      "source": "niceto"
-    },
     {
       "artist": "Random Fiesta",
       "venue": "Niceto Club",
@@ -216,6 +174,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-21",
       "ticketUrl": "https://venti.live/evento/la-chicle-fiesta-disco-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "SELF-TITLED FASHION POP-UP [AFTERPARTY]",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/self-titled-fashion-pop-up-afterparty-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -478,10 +443,24 @@
       "source": "niceto"
     },
     {
+      "artist": "ACUSTICO TEMPORADA / TYUBA",
+      "venue": "Niceto Club",
+      "date": "2026-12-06",
+      "ticketUrl": "https://venti.live/evento/acustico-temporada-tyuba-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "LA PATRULLA ESPACIAL",
       "venue": "Niceto Club",
       "date": "2026-12-06",
       "ticketUrl": "https://venti.live/evento/la-patrulla-espacial-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "SYNCTETICA - OPEN AIR",
+      "venue": "Niceto Club",
+      "date": "2026-12-06",
+      "ticketUrl": "https://venti.live/evento/synctetica-open-air-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -520,6 +499,13 @@
       "source": "niceto"
     },
     {
+      "artist": "NAVAJA SHOWCASE - SOCIEDAD ANÓNIMA - GAREN - ROMO",
+      "venue": "Niceto Club",
+      "date": "2026-12-07",
+      "ticketUrl": "https://venti.live/evento/navaja-showcase-sociedad-an-nima-garen-romo-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Corapa y Junta Jarana",
       "venue": "Niceto Club",
       "date": "2026-12-07",
@@ -545,6 +531,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-09",
       "ticketUrl": "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "SLIMESANTI",
+      "venue": "Niceto Club",
+      "date": "2026-12-10",
+      "ticketUrl": "https://venti.live/evento/slimesanti-en-niceto-club",
       "source": "niceto"
     },
     {
@@ -597,6 +590,13 @@
       "source": "niceto"
     },
     {
+      "artist": "Un ratito De conga  12 DIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-12",
+      "ticketUrl": "https://venti.live/evento/un-ratito-de-conga-12-dic-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "SuperVos cierra el año",
       "venue": "Niceto Club",
       "date": "2026-12-12",
@@ -643,6 +643,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-18",
       "ticketUrl": "https://venti.live/evento/octafonic-18-dic-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "Robot Zonda Ultimo show del Año",
+      "venue": "Niceto Club",
+      "date": "2026-12-18",
+      "ticketUrl": "https://venti.live/evento/robot-zonda-ultimo-show-del-a-o-en-niceto-bar",
       "source": "niceto"
     },
     {
