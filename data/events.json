@@ -22,64 +22,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "casiqueva-2026-11-13-xlr",
-    "shortId": "1yrkajk",
-    "artist": "Casiqueva",
-    "artistKey": "casiqueva",
-    "date": "2026-11-13",
-    "venue": "XLR Club",
-    "venueKey": "xlr",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "0DTKp52qRWq7XGV2Rba69d",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780b3835892acca9c5caf8c5d9",
-    "genres": [],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "mariabecerra-2026-11-13-movistararena",
-    "shortId": "1getjcf",
-    "artist": "Maria Becerra",
-    "artistKey": "mariabecerra",
-    "date": "2026-11-13",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
-    "genres": [
-      "latin",
-      "reggaeton",
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
-    "id": "natas-2026-11-13-ccomplejoartmedia",
-    "shortId": "2bvv7ph",
-    "artist": "NATAS",
-    "artistKey": "natas",
-    "date": "2026-11-13",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "7ej0CDyd1yO5Y7KSKqdGPA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781dafdb9ed0923a0e1b41ba78",
-    "genres": [],
-    "firstSeenAt": "2026-10-26"
-  },
-  {
     "id": "randomfiesta-2026-11-13-niceto",
     "shortId": "250lyzo",
     "artist": "Random Fiesta",
@@ -142,29 +84,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "babasonicos-2026-11-14-hipodromoplata",
-    "shortId": "11jjmg4",
-    "artist": "BABASONICOS",
-    "artistKey": "babasonicos",
-    "date": "2026-11-14",
-    "venue": "el Hipódromo de La Plata",
-    "venueKey": "hipodromoplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/babasonicos-en-el-hipodromo-de-la-plata"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "2F9pvj94b52wGKs0OqiNi2",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785663900d842b0f0b9baec783",
-    "genres": [
-      "alternative rock",
-      "psychedelic pop"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "beyondthefestival-2026-11-14-niceto",
     "shortId": "2j6be1h",
     "artist": "Beyond the festival",
@@ -205,226 +124,6 @@
     "firstSeenAt": "2026-11-04"
   },
   {
-    "id": "diegomarchionatti-2026-11-14-thamescultural",
-    "shortId": "35gi2a4",
-    "artist": "Diego Marchionatti",
-    "artistKey": "diegomarchionatti",
-    "date": "2026-11-14",
-    "venue": "Thames Cultural",
-    "venueKey": "thamescultural",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "3w9Fks7VQ6eRYQqV15O70w",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17859395c019ecc8fff08463282",
-    "genres": [],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
-    "id": "doneurona-2026-11-14-cafeberlin",
-    "shortId": "2426r3s",
-    "artist": "Do Neurona",
-    "artistKey": "doneurona",
-    "date": "2026-11-14",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "2DfrahhG2Dla7eVtLnNnCE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fbfe51a59a20985ec1e78954",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "elgarristaluceroaguerobenavidesthielen-2026-11-14-ccnu",
-    "shortId": "168wx2u",
-    "artist": "Elgarrista Lucero Agüero Benavides Thielen",
-    "artistKey": "elgarristaluceroaguerobenavidesthielen",
-    "date": "2026-11-14",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/elgarrista-lucero-aguero-benavides-thielen-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-05"
-  },
-  {
-    "id": "emisor-2026-11-14-alsina",
-    "shortId": "2h4wrlh",
-    "artist": "Emisor",
-    "artistKey": "emisor",
-    "date": "2026-11-14",
-    "venue": "Alsina",
-    "venueKey": "alsina",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "0fAu9hukoNSpIUXXfhKOuE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a1b8f26adbc383c798710b6a",
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "esquinalibertad-2026-11-14-operalp",
-    "shortId": "2km6913",
-    "artist": "ESQUINA LIBERTAD",
-    "artistKey": "esquinalibertad",
-    "date": "2026-11-14",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "josefinapretende-2026-11-14-damabollini",
-    "shortId": "14e9edc",
-    "artist": "Josefina Pretende",
-    "artistKey": "josefinapretende",
-    "date": "2026-11-14",
-    "venue": "La Dama De Bollini",
-    "venueKey": "damabollini",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6kIrgqp8a9nHviNKekNswi",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "labombadetiempo-2026-11-14-sanmiguel",
-    "shortId": "8ttqtx5",
-    "artist": "LA BOMBA DE TIEMPO",
-    "artistKey": "labombadetiempo",
-    "date": "2026-11-14",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-bomba-de-tiempo-en-san-miguel-2026-11-14-21-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ef0020fe8b7f0a940ae6be32",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "loudluxury-2026-11-14-creamfields",
-    "shortId": "1zffav9",
-    "artist": "Loud Luxury",
-    "artistKey": "loudluxury",
-    "date": "2026-11-14",
-    "venue": "Creamfields",
-    "venueKey": "creamfields",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "CA",
-    "spotifyId": "6t1gpxYbY8OlLA7D2RiikQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea8624227b5dade2142a984f",
-    "genres": [
-      "electronic",
-      "house",
-      "deep house"
-    ],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
-    "id": "mariabecerra-2026-11-14-movistararena",
-    "shortId": "2oa8d0x",
-    "artist": "Maria Becerra",
-    "artistKey": "mariabecerra",
-    "date": "2026-11-14",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
-    "genres": [
-      "latin",
-      "reggaeton",
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
-    "id": "marruecoscromoformajazzquartet-2026-11-14-ccnu",
-    "shortId": "ldnsaqk",
-    "artist": "Marruecos / Cromoforma Jazz Quartet",
-    "artistKey": "marruecoscromoformajazzquartet",
-    "date": "2026-11-14",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/marruecos-cromoforma-jazz-quartet-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "missuenossondetuadios-2026-11-14-portal",
-    "shortId": "8q258dv",
-    "artist": "mis sueños son de tu adiós",
-    "artistKey": "missuenossondetuadios",
-    "date": "2026-11-14",
-    "venue": "El Portal Teatro",
-    "venueKey": "portal",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "6tUglhftsCV9KRMeizMhik",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db07dca694ddd706eb163ff4",
-    "genres": [
-      "emo",
-      "lo-fi",
-      "noise"
-    ],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
     "id": "ninety-2026-11-14-niceto",
     "shortId": "14eunbb",
     "artist": "NINETY",
@@ -443,27 +142,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-12"
-  },
-  {
-    "id": "nocturnaldepression-2026-11-14-uniclub",
-    "shortId": "1ss7dtm",
-    "artist": "Nocturnal Depression",
-    "artistKey": "nocturnaldepression",
-    "date": "2026-11-14",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "FR",
-    "spotifyId": "7wWVpKpMtvSX9mQapjtKAD",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851019f0dc845f69532a39fcbfd",
-    "genres": [
-      "depressive black metal",
-      "black metal"
-    ],
-    "firstSeenAt": "2026-11-01"
   },
   {
     "id": "oeisis-2026-11-14-niceto",
@@ -486,47 +164,6 @@
     "firstSeenAt": "2026-10-15"
   },
   {
-    "id": "pablosbaraglia-2026-11-14-cafeberlin",
-    "shortId": "14jwt2h",
-    "artist": "Pablo Sbaraglia",
-    "artistKey": "pablosbaraglia",
-    "date": "2026-11-14",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pablo-sbaraglia-en-cafe-berlin-2026-11-14-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1QnMXZuKQaT0kUIIg2L8vs",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a74b47c7f8dcd84ca98ad2c7",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "peaches-2026-11-14-deseo",
-    "shortId": "22tcqah",
-    "artist": "Peaches",
-    "artistKey": "peaches",
-    "date": "2026-11-14",
-    "venue": "Deseo",
-    "venueKey": "deseo",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "1gkSl4XpHIHI4I1WQbfXOE",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178742308bc67e0af52374f8a71",
-    "genres": [
-      "electroclash",
-      "dance-punk"
-    ],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
     "id": "penareginalabrasitademichala-2026-11-14-niceto",
     "shortId": "199opyi",
     "artist": "Peña Regina: La brasita de mi Chala",
@@ -545,42 +182,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-27"
-  },
-  {
-    "id": "poseidoticaandelreloj-2026-11-14-artetempuja",
-    "shortId": "2crgzdp",
-    "artist": "Poseidotica and EL RELOJ",
-    "artistKey": "poseidoticaandelreloj",
-    "date": "2026-11-14",
-    "venue": "Club de Arte Tempuja",
-    "venueKey": "artetempuja",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-01"
-  },
-  {
-    "id": "romeosantosandprinceroyce-2026-11-14-joseamalfitanivelezsarsfield",
-    "shortId": "1j2c16z",
-    "artist": "Romeo Santos and Prince Royce",
-    "artistKey": "romeosantosandprinceroyce",
-    "date": "2026-11-14",
-    "venue": "Estadio José Amalfitani (Vélez Sarsfield)",
-    "venueKey": "joseamalfitanivelezsarsfield",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-01"
   },
   {
     "id": "seesaw-2026-11-14-niceto",
@@ -2910,6 +2511,24 @@
     "firstSeenAt": "2026-11-08"
   },
   {
+    "id": "beyondmadness-2026-11-28-vadenuevo",
+    "shortId": "urmz91u",
+    "artist": "Beyond Madness",
+    "artistKey": "beyondmadness",
+    "date": "2026-11-28",
+    "venue": "Vadenuevo",
+    "venueKey": "vadenuevo",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "4d7toKpV9WyxIxlQNMH4Pa",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17845a237dc323dfaa922379e81",
+    "genres": [],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
     "id": "ciclovoid-2026-11-28-niceto",
     "shortId": "14725h5",
     "artist": "Ciclo Void",
@@ -3194,6 +2813,24 @@
     "firstSeenAt": "2026-11-02"
   },
   {
+    "id": "patobenitez-2026-11-28-villacrespo",
+    "shortId": "1bxvd3q",
+    "artist": "Pato Benitez",
+    "artistKey": "patobenitez",
+    "date": "2026-11-28",
+    "venue": "Villa Crespo",
+    "venueKey": "villacrespo",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5kgeTKDSG9kFZDJF6SQL6S",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178724f33298ade98b68e5b5078",
+    "genres": [],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
     "id": "plandivino-2026-11-28-cafeberlin",
     "shortId": "1k8f60d",
     "artist": "Plan Divino",
@@ -3212,6 +2849,24 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178679a5dfa55d2f098895a1dc9",
     "genres": [],
     "firstSeenAt": "2026-10-14"
+  },
+  {
+    "id": "primaverasoundbuenosaires2026-2026-11-28-ciudadbuenosaires",
+    "shortId": "2k7znjv",
+    "artist": "Primavera Sound Buenos Aires 2026",
+    "artistKey": "primaverasoundbuenosaires2026",
+    "date": "2026-11-28",
+    "venue": "Club Ciudad de Buenos Aires",
+    "venueKey": "ciudadbuenosaires",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-15"
   },
   {
     "id": "quetzalchebu-2026-11-28-niceto",
@@ -3292,6 +2947,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b3cf4936e79bdd3a28b09aee",
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "edsheeran-2026-11-29-tomasadolfoducostadium",
+    "shortId": "1qya12p",
+    "artist": "Ed Sheeran",
+    "artistKey": "edsheeran",
+    "date": "2026-11-29",
+    "venue": "Tomás Adolfo Ducó Stadium",
+    "venueKey": "tomasadolfoducostadium",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
+    "genres": [
+      "pop",
+      "folk pop",
+      "dance-pop"
+    ],
+    "firstSeenAt": "2026-11-15"
   },
   {
     "id": "edsheeran-2026-11-29-huracan",
@@ -3421,6 +3098,24 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "nanndos-2026-11-29-liverpool",
+    "shortId": "2d4o77m",
+    "artist": "Nanndos",
+    "artistKey": "nanndos",
+    "date": "2026-11-29",
+    "venue": "Liverpool Club",
+    "venueKey": "liverpool",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "6gx9AATbFhFQ3INOgS7BDh",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
+    "genres": [],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
     "id": "pellicanjazzduo-2026-11-29-ccnu",
     "shortId": "1nz3rtm",
     "artist": "PELLICAN JAZZ DUO",
@@ -3464,6 +3159,49 @@
     "firstSeenAt": "2026-10-23"
   },
   {
+    "id": "omarcourtz-2026-11-30-movistararena",
+    "shortId": "2qqoklw",
+    "artist": "Omar Courtz",
+    "artistKey": "omarcourtz",
+    "date": "2026-11-30",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "3E12tRURRvPfHz0hAMCFYc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d317f301a85fd77964d94b4d",
+    "genres": [
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "babymetal-2026-12-01-movistararena",
+    "shortId": "8gsuwr9",
+    "artist": "BABYMETAL",
+    "artistKey": "babymetal",
+    "date": "2026-12-01",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "JP",
+    "spotifyId": "630wzNP2OL7fl4Xl0GnMWq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786833ec1fba5bd46df5c0b263",
+    "genres": [
+      "kawaii metal",
+      "metal",
+      "alternative metal"
+    ],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
     "id": "dennischamberschristiangalvezquartet-2026-12-01-cafeberlin",
     "shortId": "1cfp6ah",
     "artist": "Dennis Chambers & Christian Gálvez Quartet",
@@ -3489,12 +3227,13 @@
     "artist": "Giant Rooks",
     "artistKey": "giantrooks",
     "date": "2026-12-01",
-    "venue": "Vorterix",
+    "venue": "Teatro Vorterix",
     "venueKey": "vorterix",
     "ticketUrls": [
       "https://livepass.com.ar/events/giant-rooks-en-vorterix"
     ],
     "sources": [
+      "songkick",
       "livepass"
     ],
     "country": "DE",
@@ -3505,6 +3244,50 @@
       "rock"
     ],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "testament-2026-12-01-flores",
+    "shortId": "1790i68",
+    "artist": "Testament",
+    "artistKey": "testament",
+    "date": "2026-12-01",
+    "venue": "El Teatro Flores",
+    "venueKey": "flores",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "28hJdGN1Awf7u3ifk2lVkg",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785663001a056558505a84d8e1",
+    "genres": [
+      "thrash metal",
+      "metal",
+      "heavy metal"
+    ],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "americanfootball-2026-12-02-ccomplejoartmedia",
+    "shortId": "10c8unw",
+    "artist": "American Football",
+    "artistKey": "americanfootball",
+    "date": "2026-12-02",
+    "venue": "C Complejo Art Media",
+    "venueKey": "ccomplejoartmedia",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "5FwydyGVcsQllnM4xM6jw4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17869c67c1ac91e3ee57dd6da26",
+    "genres": [
+      "emo",
+      "indie rock",
+      "midwest emo"
+    ],
+    "firstSeenAt": "2026-11-15"
   },
   {
     "id": "dennischamberschristiangalvezquartet-2026-12-02-cafeberlin",
@@ -3525,6 +3308,70 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "doyle-2026-12-02-theroxylive",
+    "shortId": "1z023gt",
+    "artist": "Doyle",
+    "artistKey": "doyle",
+    "date": "2026-12-02",
+    "venue": "The Roxy Live!",
+    "venueKey": "theroxylive",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "GB",
+    "spotifyId": "1YJqWl4i8qSSwFYlyb6qea",
+    "spotifyImage": "https://i.scdn.co/image/adc03fdff078cffdc4e4a5c1859cf47bc61425f5",
+    "genres": [
+      "cinematic classical",
+      "orchestral"
+    ],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "kraftklub-2026-12-02-emergente",
+    "shortId": "1f8et2y",
+    "artist": "Kraftklub",
+    "artistKey": "kraftklub",
+    "date": "2026-12-02",
+    "venue": "El Emergente",
+    "venueKey": "emergente",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "DE",
+    "spotifyId": "0MZ55DwuMQ1B2TXq9lcrE4",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ba37a104ca04d602889d7415",
+    "genres": [
+      "indie rock",
+      "rap rock",
+      "garage rock"
+    ],
+    "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "omarcourtz-2026-12-02-movistararena",
+    "shortId": "26nqxze",
+    "artist": "Omar Courtz",
+    "artistKey": "omarcourtz",
+    "date": "2026-12-02",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "3E12tRURRvPfHz0hAMCFYc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d317f301a85fd77964d94b4d",
+    "genres": [
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-15"
   },
   {
     "id": "arkadia-2026-12-03-niceto",

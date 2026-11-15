@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-11-14",
+  "fetchedAt": "2026-11-15",
   "events": [
-    {
-      "artist": "BABASONICOS",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/babasonicos-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "La Vela Puerca + Las Pelotas",
       "venue": "el Hipódromo de La Plata",
@@ -76,48 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "ESQUINA LIBERTAD - Tributo a Los Piojos",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/esquina-libertad-tributo-a-los-piojos-en-el-teatro-opera-lp",
-      "source": "livepass"
-    },
-    {
-      "artist": "Elgarrista Lucero Agüero Benavides Thielen",
-      "venue": "CCNU",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/elgarrista-lucero-aguero-benavides-thielen-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pablo Sbaraglia",
-      "venue": "Café Berlín",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/pablo-sbaraglia-en-cafe-berlin-2026-11-14-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "LA BOMBA DE TIEMPO",
-      "venue": "San Miguel",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/la-bomba-de-tiempo-en-san-miguel-2026-11-14-21-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Marruecos / Cromoforma Jazz Quartet",
-      "venue": "CCNU",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/marruecos-cromoforma-jazz-quartet-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Do Neurona",
-      "venue": "Café Berlín",
-      "date": "2026-11-14",
-      "ticketUrl": "https://livepass.com.ar/events/do-neurona-en-cafe-berlin-2026-11-14-23-00-00-0300",
       "source": "livepass"
     },
     {

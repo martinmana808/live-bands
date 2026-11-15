@@ -1,84 +1,6 @@
 {
-  "fetchedAt": "2026-11-13",
+  "fetchedAt": "2026-11-15",
   "events": [
-    {
-      "artist": "Maria Becerra",
-      "venue": "Movistar Arena",
-      "date": "2026-11-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "Casiqueva",
-      "venue": "XLR Club",
-      "date": "2026-11-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "NATAS - Broide - Villagra - Bereciartúa",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-13",
-      "source": "songkick"
-    },
-    {
-      "artist": "Romeo Santos and Prince Royce",
-      "venue": "Estadio José Amalfitani (Vélez Sarsfield)",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Maria Becerra",
-      "venue": "Movistar Arena",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Loud Luxury",
-      "venue": "Creamfields",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Peaches",
-      "venue": "Deseo",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Nocturnal Depression",
-      "venue": "Uniclub",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Poseidotica and EL RELOJ",
-      "venue": "Club de Arte Tempuja",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Diego Marchionatti",
-      "venue": "Thames Cultural",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Josefina Pretende",
-      "venue": "La Dama De Bollini",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "mis sueños son de tu adiós",
-      "venue": "El Portal Teatro",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
-    {
-      "artist": "Emisor",
-      "venue": "Alsina",
-      "date": "2026-11-14",
-      "source": "songkick"
-    },
     {
       "artist": "Hayley Williams",
       "venue": "Estadio Cubierto Malvinas Argentinas",
@@ -293,6 +215,84 @@
       "artist": "Cyclo",
       "venue": "Gier Music Club",
       "date": "2026-11-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Pato Benitez",
+      "venue": "Villa Crespo",
+      "date": "2026-11-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Beyond Madness",
+      "venue": "Vadenuevo",
+      "date": "2026-11-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Primavera Sound Buenos Aires 2026",
+      "venue": "Club Ciudad de Buenos Aires",
+      "date": "2026-11-28",
+      "source": "songkick"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "venue": "Tomás Adolfo Ducó Stadium",
+      "date": "2026-11-29",
+      "source": "songkick"
+    },
+    {
+      "artist": "Nanndos",
+      "venue": "Liverpool Club",
+      "date": "2026-11-29",
+      "source": "songkick"
+    },
+    {
+      "artist": "Omar Courtz",
+      "venue": "Movistar Arena",
+      "date": "2026-11-30",
+      "source": "songkick"
+    },
+    {
+      "artist": "BABYMETAL",
+      "venue": "Movistar Arena",
+      "date": "2026-12-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Testament",
+      "venue": "El Teatro Flores",
+      "date": "2026-12-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "Giant Rooks",
+      "venue": "Teatro Vorterix",
+      "date": "2026-12-01",
+      "source": "songkick"
+    },
+    {
+      "artist": "American Football",
+      "venue": "C Complejo Art Media",
+      "date": "2026-12-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Doyle",
+      "venue": "The Roxy Live!",
+      "date": "2026-12-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Omar Courtz",
+      "venue": "Movistar Arena",
+      "date": "2026-12-02",
+      "source": "songkick"
+    },
+    {
+      "artist": "Kraftklub",
+      "venue": "El Emergente",
+      "date": "2026-12-02",
       "source": "songkick"
     }
   ]
