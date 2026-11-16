@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15",
+  "fetchedAt": "2026-11-16",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -69,27 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "FV3 & Cata Di Bella",
-      "venue": "CCNU",
-      "date": "2026-11-15",
-      "ticketUrl": "https://livepass.com.ar/events/fv3-cata-di-bella-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Dchampions",
-      "venue": "Café Berlín",
-      "date": "2026-11-15",
-      "ticketUrl": "https://livepass.com.ar/events/dchampions-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Liliana Araujo y banda",
-      "venue": "CCNU",
-      "date": "2026-11-15",
-      "ticketUrl": "https://livepass.com.ar/events/liliana-araujo-y-banda-en-ccnu-2026-11-15",
       "source": "livepass"
     },
     {
@@ -702,6 +681,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Nicolás Bonillo",
+      "venue": "Café Berlín",
+      "date": "2026-12-21",
+      "ticketUrl": "https://livepass.com.ar/events/nicolas-bonillo-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Miguel Botafogo",
       "venue": "Café Berlín",
       "date": "2026-12-22",
@@ -751,10 +737,31 @@
       "source": "livepass"
     },
     {
+      "artist": "Sandro Bressi - Noche Gitana",
+      "venue": "Café Berlín",
+      "date": "2027-02-20",
+      "ticketUrl": "https://livepass.com.ar/events/sandro-bressi-noche-gitana-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "The Harrisongs",
+      "venue": "Café Berlín",
+      "date": "2027-02-25",
+      "ticketUrl": "https://livepass.com.ar/events/the-harrisongs-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Ludovico Einaudi: Solo Piano",
       "venue": "el Teatro Colón",
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dani Stone y Barrio Viejo",
+      "venue": "Café Berlín",
+      "date": "2027-03-20",
+      "ticketUrl": "https://livepass.com.ar/events/dani-stone-y-barrio-viejo-en-cafe-berlin",
       "source": "livepass"
     },
     {

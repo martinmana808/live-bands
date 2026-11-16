@@ -22,46 +22,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "randomfiesta-2026-11-13-niceto",
-    "shortId": "250lyzo",
-    "artist": "Random Fiesta",
-    "artistKey": "randomfiesta",
-    "date": "2026-11-13",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/random-fiesta-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "107faunos-2026-11-14-niceto",
-    "shortId": "17icubf",
-    "artist": "107 Faunos",
-    "artistKey": "107faunos",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "5CyGExgiIO5AfElXLtoU7r",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786e8659fa5d045274df949324",
-    "genres": [],
-    "firstSeenAt": "2026-10-27"
-  },
-  {
     "id": "abelpintos-2026-11-14-granrex",
     "shortId": "aqfq4ik",
     "artist": "Abel Pintos",
@@ -82,128 +42,6 @@
       "latin"
     ],
     "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "beyondthefestival-2026-11-14-niceto",
-    "shortId": "2j6be1h",
-    "artist": "Beyond the festival",
-    "artistKey": "beyondthefestival",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/beyond-the-festival-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-08"
-  },
-  {
-    "id": "club69-2026-11-14-niceto",
-    "shortId": "218jhit",
-    "artist": "Club 69",
-    "artistKey": "club69",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-14-nov-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "genres": [],
-    "firstSeenAt": "2026-11-04"
-  },
-  {
-    "id": "ninety-2026-11-14-niceto",
-    "shortId": "14eunbb",
-    "artist": "NINETY",
-    "artistKey": "ninety",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ninety-14-nov-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-12"
-  },
-  {
-    "id": "oeisis-2026-11-14-niceto",
-    "shortId": "1cdekp0",
-    "artist": "OEISIS",
-    "artistKey": "oeisis",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/oeisis-familiar-vibes-in-the-area-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "penareginalabrasitademichala-2026-11-14-niceto",
-    "shortId": "199opyi",
-    "artist": "Peña Regina: La brasita de mi Chala",
-    "artistKey": "penareginalabrasitademichala",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-27"
-  },
-  {
-    "id": "seesaw-2026-11-14-niceto",
-    "shortId": "2kmy5qi",
-    "artist": "SEE-SAW",
-    "artistKey": "seesaw",
-    "date": "2026-11-14",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/see-saw-14-nov-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "JP",
-    "spotifyId": "7FVrkZcfwIc1ZwlQPatdUw",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db662eea1c29ff25a911641c",
-    "genres": [
-      "j-pop"
-    ],
-    "firstSeenAt": "2026-11-04"
   },
   {
     "id": "abelpintos-2026-11-15-granrex",
@@ -242,46 +80,6 @@
     "country": null,
     "spotifyId": "33eS3NUB4cqVkpnUyWKcQD",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a3cfae8bc46bdf55bb98d590",
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "dchampions-2026-11-15-cafeberlin",
-    "shortId": "t8t5oa3",
-    "artist": "Dchampions",
-    "artistKey": "dchampions",
-    "date": "2026-11-15",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/dchampions-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "4htwA6Ps1enFs4qPlXGVT6",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bf569dc430a14598b68a1a33",
-    "genres": [],
-    "firstSeenAt": "2026-10-16"
-  },
-  {
-    "id": "fv3catadibella-2026-11-15-ccnu",
-    "shortId": "27rqnd7",
-    "artist": "FV3 & Cata Di Bella",
-    "artistKey": "fv3catadibella",
-    "date": "2026-11-15",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fv3-cata-di-bella-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-07"
   },
@@ -326,26 +124,6 @@
     "firstSeenAt": "2026-11-07"
   },
   {
-    "id": "lilianaaraujoybanda-2026-11-15-ccnu",
-    "shortId": "1oslcla",
-    "artist": "Liliana Araujo y banda",
-    "artistKey": "lilianaaraujoybanda",
-    "date": "2026-11-15",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/liliana-araujo-y-banda-en-ccnu-2026-11-15"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-10"
-  },
-  {
     "id": "mariabecerra-2026-11-15-movistararena",
     "shortId": "el5pzud",
     "artist": "Maria Becerra",
@@ -375,12 +153,9 @@
     "date": "2026-11-15",
     "venue": "Niceto Club",
     "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ultraligera-en-niceto-club"
-    ],
+    "ticketUrls": [],
     "sources": [
-      "songkick",
-      "niceto"
+      "songkick"
     ],
     "country": "ES",
     "spotifyId": "5Vv5llyiK1nlME2UNDzPBB",
@@ -5295,6 +5070,26 @@
     "firstSeenAt": "2026-10-28"
   },
   {
+    "id": "nicolasbonillo-2026-12-21-cafeberlin",
+    "shortId": "2gw5fdo",
+    "artist": "Nicolás Bonillo",
+    "artistKey": "nicolasbonillo",
+    "date": "2026-12-21",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nicolas-bonillo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-16"
+  },
+  {
     "id": "miguelbotafogo-2026-12-22-cafeberlin",
     "shortId": "1u8mk8u",
     "artist": "Miguel Botafogo",
@@ -5557,6 +5352,46 @@
     "firstSeenAt": "2026-11-11"
   },
   {
+    "id": "sandrobressi-2027-02-20-cafeberlin",
+    "shortId": "jh87eb3",
+    "artist": "Sandro Bressi",
+    "artistKey": "sandrobressi",
+    "date": "2027-02-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sandro-bressi-noche-gitana-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-16"
+  },
+  {
+    "id": "theharrisongs-2027-02-25-cafeberlin",
+    "shortId": "2hj6ck0",
+    "artist": "The Harrisongs",
+    "artistKey": "theharrisongs",
+    "date": "2027-02-25",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-harrisongs-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-16"
+  },
+  {
     "id": "ludovicoeinaudisolopiano-2027-03-01-colon",
     "shortId": "ilj44oz",
     "artist": "Ludovico Einaudi: Solo Piano",
@@ -5623,6 +5458,26 @@
       "latin"
     ],
     "firstSeenAt": "2026-11-08"
+  },
+  {
+    "id": "danistoneybarrioviejo-2027-03-20-cafeberlin",
+    "shortId": "r1szddw",
+    "artist": "Dani Stone y Barrio Viejo",
+    "artistKey": "danistoneybarrioviejo",
+    "date": "2027-03-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dani-stone-y-barrio-viejo-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-16"
   },
   {
     "id": "santiagocruzvuelvealaargentina-2027-04-09-niceto",
