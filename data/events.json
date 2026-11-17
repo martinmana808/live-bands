@@ -66,127 +66,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "charliescelso-2026-11-15-putiputi",
-    "shortId": "51fm2u9",
-    "artist": "Charlie Scelso",
-    "artistKey": "charliescelso",
-    "date": "2026-11-15",
-    "venue": "Putiputi bar",
-    "venueKey": "putiputi",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "33eS3NUB4cqVkpnUyWKcQD",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a3cfae8bc46bdf55bb98d590",
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "hayleywilliams-2026-11-15-cubiertomalvinasargentinas",
-    "shortId": "2pi1xbo",
-    "artist": "Hayley Williams",
-    "artistKey": "hayleywilliams",
-    "date": "2026-11-15",
-    "venue": "Estadio Cubierto Malvinas Argentinas",
-    "venueKey": "cubiertomalvinasargentinas",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "6Rx1JKzBrSzoKQtmbVmBnM",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178195bd87b60599b7a3f19abf1",
-    "genres": [
-      "alternative rock",
-      "art pop",
-      "indie pop"
-    ],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "lalaloveyou-2026-11-15-trastienda",
-    "shortId": "t99bd4p",
-    "artist": "La La Love You",
-    "artistKey": "lalaloveyou",
-    "date": "2026-11-15",
-    "venue": "La Trastienda",
-    "venueKey": "trastienda",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "ES",
-    "spotifyId": "5Q30fhTc0Sl0Q4C5dOjhhQ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786fb6f533d753bf85061aaeed",
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "mariabecerra-2026-11-15-movistararena",
-    "shortId": "el5pzud",
-    "artist": "Maria Becerra",
-    "artistKey": "mariabecerra",
-    "date": "2026-11-15",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
-    "genres": [
-      "latin",
-      "reggaeton",
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "ultraligera-2026-11-15-niceto",
-    "shortId": "26c4asu",
-    "artist": "Ultraligera",
-    "artistKey": "ultraligera",
-    "date": "2026-11-15",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "ES",
-    "spotifyId": "5Vv5llyiK1nlME2UNDzPBB",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1789b4194e39c688a7409da25ef",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "emba-2026-11-16-cafeberlin",
-    "shortId": "ggy1ya5",
-    "artist": "EMBA",
-    "artistKey": "emba",
-    "date": "2026-11-16",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/emba-rock-funk-fusion-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "718ksZSrtH1230gfJwkMrU",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c9a1be0f144dddd45b5b3e4d",
-    "genres": [
-      "drum and bass",
-      "electronic"
-    ],
-    "firstSeenAt": "2026-11-03"
-  },
-  {
     "id": "jaze-2026-11-17-niceto",
     "shortId": "1id30nn",
     "artist": "JAZE",
@@ -1078,6 +957,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
     "genres": [],
     "firstSeenAt": "2026-11-04"
+  },
+  {
+    "id": "elprincipeidiotaperez-2026-11-21-niceto",
+    "shortId": "29o2p1q",
+    "artist": "EL PRINCIPE IDIOTA + PEREZ",
+    "artistKey": "elprincipeidiotaperez",
+    "date": "2026-11-21",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/el-principe-idiota-perez-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "fiestamermelada-2026-11-21-niceto",
@@ -2062,6 +1961,26 @@
     "firstSeenAt": "2026-11-13"
   },
   {
+    "id": "fiestagarzn-2026-11-27-niceto",
+    "shortId": "2e6at8g",
+    "artist": "FIESTA GARZØN",
+    "artistKey": "fiestagarzn",
+    "date": "2026-11-27",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-garz-n-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
     "id": "julianelordimartinztaylafliacohete-2026-11-27-niceto",
     "shortId": "1pth0ab",
     "artist": "Julián Elordi + Martín Zta y la Flia Cohete",
@@ -2302,6 +2221,24 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17845a237dc323dfaa922379e81",
     "genres": [],
     "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "ceciliazabalaandquiquesinesi-2026-11-28-cccuerdamecanica",
+    "shortId": "tb5bfaq",
+    "artist": "Cecilia Zabala and Quique Sinesi",
+    "artistKey": "ceciliazabalaandquiquesinesi",
+    "date": "2026-11-28",
+    "venue": "CC Cuerda Mecánica",
+    "venueKey": "cccuerdamecanica",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "ciclovoid-2026-11-28-niceto",
@@ -3149,6 +3086,28 @@
     "firstSeenAt": "2026-11-15"
   },
   {
+    "id": "anuelaa-2026-12-03-tecnopolis",
+    "shortId": "u58m02m",
+    "artist": "Anuel AA",
+    "artistKey": "anuelaa",
+    "date": "2026-12-03",
+    "venue": "Tecnópolis",
+    "venueKey": "tecnopolis",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "2R21vXR83lH98kGeO99Y66",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a23ceb177745632b517cb7b2",
+    "genres": [
+      "latin",
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
     "id": "arkadia-2026-12-03-niceto",
     "shortId": "1h8gco4",
     "artist": "ARKADIA",
@@ -3231,7 +3190,7 @@
   {
     "id": "leomiddea-2026-12-03-niceto",
     "shortId": "2a8v4b7",
-    "artist": "LEO MIDDEA",
+    "artist": "Leo Middea",
     "artistKey": "leomiddea",
     "date": "2026-12-03",
     "venue": "Niceto Club",
@@ -3240,6 +3199,7 @@
       "https://venti.live/evento/leo-middea-presenta-noticias-de-puglia-en-buenos-aires-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": "BR",
@@ -3247,6 +3207,49 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4f809c471d1d81eb1ca0f7a",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "malcriada-2026-12-03-theroxylive",
+    "shortId": "1f0sjct",
+    "artist": "Malcriada",
+    "artistKey": "malcriada",
+    "date": "2026-12-03",
+    "venue": "The Roxy Live!",
+    "venueKey": "theroxylive",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "2ZUqAIo5iiRcSaq7TQBW5C",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787037b1fd8b903ab391a15dbf",
+    "genres": [
+      "bitpop",
+      "emo pop",
+      "hyperpop"
+    ],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
+    "id": "omarcourtz-2026-12-03-movistararena",
+    "shortId": "ikfqen4",
+    "artist": "Omar Courtz",
+    "artistKey": "omarcourtz",
+    "date": "2026-12-03",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PR",
+    "spotifyId": "3E12tRURRvPfHz0hAMCFYc",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d317f301a85fd77964d94b4d",
+    "genres": [
+      "reggaeton",
+      "trap latino"
+    ],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "cattoeyewearss27-2026-12-04-niceto",
@@ -3569,6 +3572,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782ab5b8b5876a44db3851777c",
     "genres": [],
     "firstSeenAt": "2026-09-14"
+  },
+  {
+    "id": "nicetowhiskybar-2026-12-05-niceto",
+    "shortId": "2pb5blq",
+    "artist": "NICETO WHISKY BAR",
+    "artistKey": "nicetowhiskybar",
+    "date": "2026-12-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/niceto-whisky-bar-5-dic-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "polenta-2026-12-05-requilmes",
@@ -4079,6 +4102,26 @@
     "firstSeenAt": "2026-09-15"
   },
   {
+    "id": "latinaje-2026-12-09-cafeberlin",
+    "shortId": "16y6qcs",
+    "artist": "Latinaje",
+    "artistKey": "latinaje",
+    "date": "2026-12-09",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/latinaje-en-cafe-berlin-2026-12-09-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2Tmv9Lnnir6kkCaBesGH42",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851439f91f7d07e775266385efc",
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
     "id": "neymatogrosso-2026-12-09-granrex",
     "shortId": "2lkdlpu",
     "artist": "Ney Matogrosso",
@@ -4340,6 +4383,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-29"
+  },
+  {
+    "id": "santurrona-2026-12-11-niceto",
+    "shortId": "pai6jac",
+    "artist": "SANTURRONA",
+    "artistKey": "santurrona",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/santurrona-11-de-diciembre-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "selftitled-2026-12-11-niceto",
@@ -4948,6 +5011,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "bailaromorirparty-2026-12-19-niceto",
+    "shortId": "8gmcryz",
+    "artist": "BAILAROMORIR PARTY",
+    "artistKey": "bailaromorirparty",
+    "date": "2026-12-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bailaromorir-party-lalifest-aftershow-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
     "id": "elmatoaunpoliciamotorizado-2026-12-19-hipodromoplata",
     "shortId": "9l3gjdq",
     "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
@@ -5292,6 +5375,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "losabuelos-2027-01-23-cafeberlin",
+    "shortId": "1kmgrn5",
+    "artist": "Los Abuelos",
+    "artistKey": "losabuelos",
+    "date": "2027-01-23",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-abuelos-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
+  },
+  {
     "id": "julianobarretoeduardofarias-2027-01-24-cafeberlin",
     "shortId": "1pnwfv0",
     "artist": "Juliano Barreto & Eduardo Farías",
@@ -5434,6 +5537,26 @@
       "electronic"
     ],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "thefranksinatraclassics-2027-03-04-cafeberlin",
+    "shortId": "rtkja2x",
+    "artist": "The Frank Sinatra Classics",
+    "artistKey": "thefranksinatraclassics",
+    "date": "2027-03-04",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/the-frank-sinatra-classics-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-17"
   },
   {
     "id": "jerryrivera-2027-03-19-granrex",

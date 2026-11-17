@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16",
+  "fetchedAt": "2026-11-17",
   "events": [
     {
       "artist": "JAZE - QUIZÁ NO ES PARA TANTO TOUR II",
@@ -97,6 +97,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-21",
       "ticketUrl": "https://venti.live/evento/pixel-33-show-en-vivo-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "EL PRINCIPE IDIOTA + PEREZ",
+      "venue": "Niceto Club",
+      "date": "2026-11-21",
+      "ticketUrl": "https://venti.live/evento/el-principe-idiota-perez-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -223,6 +230,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-27",
       "ticketUrl": "https://venti.live/evento/lagrimitas-presenta-en-vivo-su-nueva-etapa-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
+      "artist": "FIESTA GARZØN",
+      "venue": "Niceto Club",
+      "date": "2026-11-27",
+      "ticketUrl": "https://venti.live/evento/fiesta-garz-n-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -380,6 +394,13 @@
       "source": "niceto"
     },
     {
+      "artist": "NICETO WHISKY BAR 5 DIC",
+      "venue": "Niceto Club",
+      "date": "2026-12-05",
+      "ticketUrl": "https://venti.live/evento/niceto-whisky-bar-5-dic-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "ACUSTICO TEMPORADA / TYUBA",
       "venue": "Niceto Club",
       "date": "2026-12-06",
@@ -520,6 +541,13 @@
       "source": "niceto"
     },
     {
+      "artist": "SANTURRONA | 11 DE DICIEMBRE",
+      "venue": "Niceto Club",
+      "date": "2026-12-11",
+      "ticketUrl": "https://venti.live/evento/santurrona-11-de-diciembre-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "MIMI MAURA presenta Bailaré",
       "venue": "Niceto Club",
       "date": "2026-12-12",
@@ -622,6 +650,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-19",
       "ticketUrl": "https://venti.live/evento/2h-fiesta-19-dic-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "BAILAROMORIR PARTY - LALIFEST AFTERSHOW",
+      "venue": "Niceto Club",
+      "date": "2026-12-19",
+      "ticketUrl": "https://venti.live/evento/bailaromorir-party-lalifest-aftershow-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

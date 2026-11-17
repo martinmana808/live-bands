@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16",
+  "fetchedAt": "2026-11-17",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -69,13 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "EMBA - Rock - Funk - Fusión",
-      "venue": "Café Berlín",
-      "date": "2026-11-16",
-      "ticketUrl": "https://livepass.com.ar/events/emba-rock-funk-fusion-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -534,6 +527,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Latinaje",
+      "venue": "Café Berlín",
+      "date": "2026-12-09",
+      "ticketUrl": "https://livepass.com.ar/events/latinaje-en-cafe-berlin-2026-12-09-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Latencia",
       "venue": "Café Berlín",
       "date": "2026-12-09",
@@ -730,6 +730,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Los Abuelos",
+      "venue": "Café Berlín",
+      "date": "2027-01-23",
+      "ticketUrl": "https://livepass.com.ar/events/los-abuelos-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Juliano Barreto & Eduardo Farías",
       "venue": "Café Berlín",
       "date": "2027-01-24",
@@ -755,6 +762,13 @@
       "venue": "el Teatro Colón",
       "date": "2027-03-01",
       "ticketUrl": "https://livepass.com.ar/events/ludovico-einaudi-solo-piano-en-el-teatro-colon",
+      "source": "livepass"
+    },
+    {
+      "artist": "The Frank Sinatra Classics",
+      "venue": "Café Berlín",
+      "date": "2027-03-04",
+      "ticketUrl": "https://livepass.com.ar/events/the-frank-sinatra-classics-en-cafe-berlin",
       "source": "livepass"
     },
     {
