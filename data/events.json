@@ -66,108 +66,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "jaze-2026-11-17-niceto",
-    "shortId": "1id30nn",
-    "artist": "JAZE",
-    "artistKey": "jaze",
-    "date": "2026-11-17",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/jaze-quiz-no-es-para-tanto-tour-ii-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "PE",
-    "spotifyId": "5HUVDs80ZZCRRB9grwWzZc",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fbfe01df0998ab9c179d6f9c",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "john5-2026-11-17-uniclub",
-    "shortId": "14ldjtc",
-    "artist": "John 5",
-    "artistKey": "john5",
-    "date": "2026-11-17",
-    "venue": "Uniclub",
-    "venueKey": "uniclub",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7mAqCk75DUBWgcC0sqhzwX",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178db6620693d4000420d2cf6eb",
-    "genres": [],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "mariabecerra-2026-11-17-movistararena",
-    "shortId": "67ya9nw",
-    "artist": "Maria Becerra",
-    "artistKey": "mariabecerra",
-    "date": "2026-11-17",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
-    "genres": [
-      "latin",
-      "reggaeton",
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "momorey-2026-11-17-cafeberlin",
-    "shortId": "hrfr5fw",
-    "artist": "Momo Rey",
-    "artistKey": "momorey",
-    "date": "2026-11-17",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/momo-rey-en-cafe-berlin-2026-11-17-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-22"
-  },
-  {
-    "id": "thelemontwigs-2026-11-17-ccomplejoartmedia",
-    "shortId": "2gr2shq",
-    "artist": "The Lemon Twigs",
-    "artistKey": "thelemontwigs",
-    "date": "2026-11-17",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "7eYZSXnQVCODCVmTV8Hk2T",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1780be3e1be0541aaa0f55e976e",
-    "genres": [
-      "psychedelic pop",
-      "glam rock",
-      "indie rock"
-    ],
-    "firstSeenAt": "2026-11-07"
-  },
-  {
     "id": "easykid-2026-11-18-vorterix",
     "shortId": "wu2eudt",
     "artist": "Easykid",
@@ -427,6 +325,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d1f4f62c0b494fb6fa2d094",
     "genres": [],
     "firstSeenAt": "2026-11-07"
+  },
+  {
+    "id": "deepsession-2026-11-19-niceto",
+    "shortId": "2pn9723",
+    "artist": "DEEP SESSION",
+    "artistKey": "deepsession",
+    "date": "2026-11-19",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/deep-session-sinfonik-xx-suppa-jueves-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "elsignificadodelasfloreslosgirasolesjuramento-2026-11-19-niceto",
@@ -793,6 +711,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4f0b27f91ed18c5809f76be",
     "genres": [],
     "firstSeenAt": "2026-10-19"
+  },
+  {
+    "id": "solodiscos-2026-11-20-niceto",
+    "shortId": "2nvkvsg",
+    "artist": "SOLO DISCOS",
+    "artistKey": "solodiscos",
+    "date": "2026-11-20",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/solo-discos-20-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "temporadadeelefantes-2026-11-20-niceto",
@@ -1273,6 +1211,26 @@
     "firstSeenAt": "2026-09-29"
   },
   {
+    "id": "bubaclubdecine-2026-11-22-niceto",
+    "shortId": "bfmb8on",
+    "artist": "Buba Club de cine",
+    "artistKey": "bubaclubdecine",
+    "date": "2026-11-22",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/buba-club-de-cine-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
+  },
+  {
     "id": "calebmontequintetplaysballads-2026-11-22-ccnu",
     "shortId": "2ite8m9",
     "artist": "Caleb Monte Quintet plays Ballads",
@@ -1673,6 +1631,24 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "miazeta-2026-11-25-artlab",
+    "shortId": "229day1",
+    "artist": "Mia Zeta",
+    "artistKey": "miazeta",
+    "date": "2026-11-25",
+    "venue": "Artlab",
+    "venueKey": "artlab",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3yYiftL3pMw7AyTLfsitUH",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e4b80bbdf37a3732bfb01bd6",
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "mydyingbride-2026-11-25-teatrito",
@@ -3252,6 +3228,24 @@
     "firstSeenAt": "2026-11-17"
   },
   {
+    "id": "steveshiffmanthelandofno-2026-12-03-fuertemusicos",
+    "shortId": "vi9n5al",
+    "artist": "Steve Shiffman & The Land Of No",
+    "artistKey": "steveshiffmanthelandofno",
+    "date": "2026-12-03",
+    "venue": "Fuerte Club de Músicos",
+    "venueKey": "fuertemusicos",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "5Bdub0nOF2EwcrNHGp9VMJ",
+    "spotifyImage": "https://i.scdn.co/image/6cb13cffd30b89a6d7d0f8245f1b91c6c429a5db",
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
+  },
+  {
     "id": "cattoeyewearss27-2026-12-04-niceto",
     "shortId": "mcj2htu",
     "artist": "CATTO EYEWEAR SS27",
@@ -3290,6 +3284,28 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "dyingfetus-2026-12-04-teatrito",
+    "shortId": "126229c",
+    "artist": "Dying Fetus",
+    "artistKey": "dyingfetus",
+    "date": "2026-12-04",
+    "venue": "El Teatrito",
+    "venueKey": "teatrito",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "2DqzOWVL2ly48IA9bpZdie",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ee1e1c92d5a4aa9646962e7d",
+    "genres": [
+      "brutal death metal",
+      "death metal",
+      "deathgrind"
+    ],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "gyt-2026-12-04-cafeberlin",
@@ -3432,6 +3448,26 @@
       "christian hardcore"
     ],
     "firstSeenAt": "2026-10-29"
+  },
+  {
+    "id": "aticoiii-2026-12-05-niceto",
+    "shortId": "wqxhl8p",
+    "artist": "ÁTICO III",
+    "artistKey": "aticoiii",
+    "date": "2026-12-05",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/tico-iii-presenta-la-inauguraci-n-release-party-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "ciclovoid-2026-12-05-niceto",
@@ -4265,6 +4301,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "cuatrotresdos-2026-12-11-niceto",
+    "shortId": "1klhqad",
+    "artist": "Cuatro Tres Dos",
+    "artistKey": "cuatrotresdos",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/cuatro-tres-dos-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": "1Egsi532aAd2qrrWnSON3V",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178965022561b4dc5b18d10bb2d",
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
+  },
+  {
     "id": "cursinomuerewrrnvientos-2026-12-11-sanmiguel",
     "shortId": "1nqvhpi",
     "artist": "CURSI NO MUERE + WRRN + VIENTOS",
@@ -4443,6 +4499,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "todolosolidosedesvanece-2026-12-12-niceto",
+    "shortId": "12bs2dh",
+    "artist": "\"todo lo sólido se desvanece",
+    "artistKey": "todolosolidosedesvanece",
+    "date": "2026-12-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/todo-lo-s-lido-se-desvanece-en-diciembre-vhs-lourdes-gomez-full-banda-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "arielzurdoaraoz-2026-12-12-cafeberlin",
@@ -5213,6 +5289,26 @@
     "firstSeenAt": "2026-11-05"
   },
   {
+    "id": "cosmicfunk-2026-12-26-cafeberlin",
+    "shortId": "ggkv630",
+    "artist": "Cosmic Funk",
+    "artistKey": "cosmicfunk",
+    "date": "2026-12-26",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/cosmic-funk-en-cafe-berlin-2026-12-26-23-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2x79PUQTnoOGAQPQ5itipb",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851113993d3825ca51c013bb784",
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
+  },
+  {
     "id": "festivalpardolasligasmenores-2026-12-26-niceto",
     "shortId": "2g1nib4",
     "artist": "FESTIVAL PARDO: LAS LIGAS MENORES",
@@ -5271,6 +5367,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-11"
+  },
+  {
+    "id": "sinley-2026-12-30-requilmes",
+    "shortId": "1vcse2l",
+    "artist": "SIN LEY",
+    "artistKey": "sinley",
+    "date": "2026-12-30",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/sin-ley-en-club-re-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "7czgdE1A5cjIIp5J4qtANj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17863c5162b0a2b3f973ca79396",
+    "genres": [],
+    "firstSeenAt": "2026-11-18"
   },
   {
     "id": "adrianavarela-2027-01-16-cafeberlin",

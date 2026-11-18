@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17",
+  "fetchedAt": "2026-11-18",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -69,13 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Momo Rey",
-      "venue": "Café Berlín",
-      "date": "2026-11-17",
-      "ticketUrl": "https://livepass.com.ar/events/momo-rey-en-cafe-berlin-2026-11-17-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -699,6 +692,20 @@
       "venue": "Café Berlín",
       "date": "2026-12-23",
       "ticketUrl": "https://livepass.com.ar/events/sergio-pangaro-baccarat-en-cafe-berlin-2026-12-23-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Cosmic Funk",
+      "venue": "Café Berlín",
+      "date": "2026-12-26",
+      "ticketUrl": "https://livepass.com.ar/events/cosmic-funk-en-cafe-berlin-2026-12-26-23-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "SIN LEY",
+      "venue": "Club Re Quilmes",
+      "date": "2026-12-30",
+      "ticketUrl": "https://livepass.com.ar/events/sin-ley-en-club-re-quilmes",
       "source": "livepass"
     },
     {

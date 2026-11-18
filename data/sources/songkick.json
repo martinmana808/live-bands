@@ -1,24 +1,6 @@
 {
-  "fetchedAt": "2026-11-17",
+  "fetchedAt": "2026-11-18",
   "events": [
-    {
-      "artist": "Maria Becerra",
-      "venue": "Movistar Arena",
-      "date": "2026-11-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "The Lemon Twigs",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-17",
-      "source": "songkick"
-    },
-    {
-      "artist": "John 5",
-      "venue": "Uniclub",
-      "date": "2026-11-17",
-      "source": "songkick"
-    },
     {
       "artist": "Maria Becerra",
       "venue": "Movistar Arena",
@@ -142,6 +124,12 @@
     {
       "artist": "German Kaly",
       "venue": "Café Berlín Buenos Aires",
+      "date": "2026-11-25",
+      "source": "songkick"
+    },
+    {
+      "artist": "Mia Zeta",
+      "venue": "Artlab",
       "date": "2026-11-25",
       "source": "songkick"
     },
@@ -293,6 +281,18 @@
       "artist": "Malcriada",
       "venue": "The Roxy Live!",
       "date": "2026-12-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Steve Shiffman & The Land Of No",
+      "venue": "Fuerte Club de Músicos",
+      "date": "2026-12-03",
+      "source": "songkick"
+    },
+    {
+      "artist": "Dying Fetus",
+      "venue": "El Teatrito",
+      "date": "2026-12-04",
       "source": "songkick"
     }
   ]
