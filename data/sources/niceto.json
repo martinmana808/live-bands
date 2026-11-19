@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-11-18",
+  "fetchedAt": "2026-11-19",
   "events": [
-    {
-      "artist": "KAKKMADDAFAKKA",
-      "venue": "Niceto Club",
-      "date": "2026-11-18",
-      "ticketUrl": "https://venti.live/evento/kakkmaddafakka-en-niceto-club-18-a-os",
-      "source": "niceto"
-    },
     {
       "artist": "DEEP SESSION - SINFONIK XX SUPPA JUEVES",
       "venue": "Niceto Club",
       "date": "2026-11-19",
       "ticketUrl": "https://venti.live/evento/deep-session-sinfonik-xx-suppa-jueves-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "ÁMBAR PRESENTA MARIPOSA",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
       "source": "niceto"
     },
     {
@@ -37,6 +23,13 @@
       "source": "niceto"
     },
     {
+      "artist": "ÁMBAR PRESENTA MARIPOSA",
+      "venue": "Niceto Club",
+      "date": "2026-11-19",
+      "ticketUrl": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO",
       "venue": "Niceto Club",
       "date": "2026-11-19",
@@ -48,6 +41,13 @@
       "venue": "Niceto Club",
       "date": "2026-11-19",
       "ticketUrl": "https://venti.live/evento/hipnotica-edicion-especial-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "Reggae Sunset x Revista Bocho",
+      "venue": "Niceto Club",
+      "date": "2026-11-20",
+      "ticketUrl": "https://venti.live/evento/reggae-sunset-x-revista-bocho-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -625,6 +625,13 @@
       "source": "niceto"
     },
     {
+      "artist": "BM",
+      "venue": "Niceto Club",
+      "date": "2026-12-16",
+      "ticketUrl": "https://venti.live/evento/bm-en-niceto-club-18-a-os",
+      "source": "niceto"
+    },
+    {
       "artist": "NASIR CATRIEL/ FASCIOLO/ ALKOY con Banda",
       "venue": "Niceto Club",
       "date": "2026-12-16",
@@ -713,6 +720,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-26",
       "ticketUrl": "https://venti.live/evento/fiesta-pixie-fin-de-a-o-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "BAHIANO - TOUR 2027",
+      "venue": "Niceto Club",
+      "date": "2027-01-29",
+      "ticketUrl": "https://venti.live/evento/bahiano-tour-2027-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

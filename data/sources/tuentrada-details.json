@@ -157,17 +157,6 @@
       }
     ]
   },
-  "greeicy-tgr": {
-    "fetchedAt": "2026-11-14",
-    "sessions": [
-      {
-        "date": "2026-11-26",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Greeicy"
-      }
-    ]
-  },
   "jerry-rivera-tgr": {
     "fetchedAt": "2026-11-08",
     "sessions": [
@@ -187,6 +176,17 @@
         "venue": "Club Aleman",
         "city": "Villa Ballester",
         "name": "No Te Va Gustar"
+      }
+    ]
+  },
+  "miguel-mateos-tgr": {
+    "fetchedAt": "2026-11-19",
+    "sessions": [
+      {
+        "date": "2026-11-21",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Miguel Mateos"
       }
     ]
   },

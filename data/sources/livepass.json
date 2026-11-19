@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18",
+  "fetchedAt": "2026-11-19",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -69,27 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Villalba - Loza - Unzu - Canzio - Nawi LS",
-      "venue": "CCNU",
-      "date": "2026-11-18",
-      "ticketUrl": "https://livepass.com.ar/events/villalba-loza-unzu-canzio-nawi-ls-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Santi Martínez (El Kuelgue)",
-      "venue": "Café Berlín",
-      "date": "2026-11-18",
-      "ticketUrl": "https://livepass.com.ar/events/santi-martinez-el-kuelgue-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "The Notaloco 5tet",
-      "venue": "CCNU",
-      "date": "2026-11-18",
-      "ticketUrl": "https://livepass.com.ar/events/the-notaloco-5tet-en-ccnu",
       "source": "livepass"
     },
     {

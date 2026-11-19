@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18",
+  "fetchedAt": "2026-11-19",
   "events": [
     {
       "artist": "Abel Pintos",
@@ -100,17 +100,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Greeicy",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-26",
-      "ticketUrl": "https://www.tuentrada.com/greeicy-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Jerry Rivera",
       "venue": "Teatro Gran Rex",
       "date": "2027-03-19",
       "ticketUrl": "https://www.tuentrada.com/jerry-rivera-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Miguel Mateos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-21",
+      "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
       "source": "tuentrada"
     },
     {
