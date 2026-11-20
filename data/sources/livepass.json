@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19",
+  "fetchedAt": "2026-11-20",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -69,34 +69,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Arias, Induini, Quevedo",
-      "venue": "CCNU",
-      "date": "2026-11-19",
-      "ticketUrl": "https://livepass.com.ar/events/arias-induini-quevedo-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Pipo Cipolatti",
-      "venue": "Café Berlín",
-      "date": "2026-11-19",
-      "ticketUrl": "https://livepass.com.ar/events/pipo-cipolatti-en-cafe-berlin-2026-11-19-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Black Radio: La música de Glasper",
-      "venue": "CCNU",
-      "date": "2026-11-19",
-      "ticketUrl": "https://livepass.com.ar/events/black-radio-la-musica-de-glasper-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sofía P.J",
-      "venue": "Café Berlín",
-      "date": "2026-11-19",
-      "ticketUrl": "https://livepass.com.ar/events/sofia-p-j-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -534,6 +506,13 @@
       "source": "livepass"
     },
     {
+      "artist": "ATTITUDE, TRIBUTO A GUNS N´ ROSES",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/attitude-tributo-a-guns-n-roses-en-el-teatro-opera-lp-2026-12-11-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Memphis La Blusera",
       "venue": "Café Berlín",
       "date": "2026-12-11",
@@ -552,6 +531,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-12",
       "ticketUrl": "https://livepass.com.ar/events/el-reloj-zabala-frezza-en-cafe-berlin-2026-12-12-20-00-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "ETERNA INOCENCIA",
+      "venue": "Club Re Quilmes",
+      "date": "2026-12-12",
+      "ticketUrl": "https://livepass.com.ar/events/eterna-inocencia-en-club-re-quilmes",
       "source": "livepass"
     },
     {
@@ -674,6 +660,13 @@
       "source": "livepass"
     },
     {
+      "artist": "ETERNA INOCENCIA",
+      "venue": "San Miguel",
+      "date": "2026-12-26",
+      "ticketUrl": "https://livepass.com.ar/events/eterna-inocencia-en-san-miguel-2026-12-26-21-00-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Cosmic Funk",
       "venue": "Café Berlín",
       "date": "2026-12-26",
@@ -730,6 +723,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Ella Es Tan Cargosa",
+      "venue": "Café Berlín",
+      "date": "2027-02-19",
+      "ticketUrl": "https://livepass.com.ar/events/ella-es-tan-cargosa-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Sandro Bressi - Noche Gitana",
       "venue": "Café Berlín",
       "date": "2027-02-20",
@@ -755,6 +755,20 @@
       "venue": "Café Berlín",
       "date": "2027-03-04",
       "ticketUrl": "https://livepass.com.ar/events/the-frank-sinatra-classics-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Daniel Melero",
+      "venue": "Café Berlín",
+      "date": "2027-03-06",
+      "ticketUrl": "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2027-02-06-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "GUASONES",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2027-03-06",
+      "ticketUrl": "https://livepass.com.ar/events/guasones-en-el-hipodromo-de-la-plata",
       "source": "livepass"
     },
     {

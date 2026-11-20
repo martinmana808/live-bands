@@ -186,66 +186,6 @@
     "firstSeenAt": "2026-09-12"
   },
   {
-    "id": "ambar-2026-11-19-niceto",
-    "shortId": "1522fa6",
-    "artist": "ÁMBAR",
-    "artistKey": "ambar",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "arias-2026-11-19-ccnu",
-    "shortId": "zoajpo4",
-    "artist": "Arias",
-    "artistKey": "arias",
-    "date": "2026-11-19",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/arias-induini-quevedo-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "FR",
-    "spotifyId": "2GK6y5dmhaWM16VZxHiO15",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787d5f3722365f4c81e278fa30",
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "blackradiolamusicadeglasper-2026-11-19-ccnu",
-    "shortId": "qoemeuy",
-    "artist": "Black Radio: La música de Glasper",
-    "artistKey": "blackradiolamusicadeglasper",
-    "date": "2026-11-19",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/black-radio-la-musica-de-glasper-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
     "id": "coti-2026-11-19-ccomplejoartmedia",
     "shortId": "157jqez",
     "artist": "Coti",
@@ -262,86 +202,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785d1f4f62c0b494fb6fa2d094",
     "genres": [],
     "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "deepsession-2026-11-19-niceto",
-    "shortId": "2pn9723",
-    "artist": "DEEP SESSION",
-    "artistKey": "deepsession",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/deep-session-sinfonik-xx-suppa-jueves-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-18"
-  },
-  {
-    "id": "elsignificadodelasfloreslosgirasolesjuramento-2026-11-19-niceto",
-    "shortId": "2is1uqo",
-    "artist": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO",
-    "artistKey": "elsignificadodelasfloreslosgirasolesjuramento",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "hipnoticaedicionespecial-2026-11-19-niceto",
-    "shortId": "2acqdmz",
-    "artist": "Hipnotica: Edicion Especial",
-    "artistKey": "hipnoticaedicionespecial",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/hipnotica-edicion-especial-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-12"
-  },
-  {
-    "id": "ivansalolosparacaidistas-2026-11-19-niceto",
-    "shortId": "2ooiyl1",
-    "artist": "IVAN SALO & Los Paracaidistas",
-    "artistKey": "ivansalolosparacaidistas",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/ivan-salo-los-paracaidistas-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-20"
   },
   {
     "id": "mariabecerra-2026-11-19-movistararena",
@@ -364,66 +224,6 @@
       "trap latino"
     ],
     "firstSeenAt": "2026-11-07"
-  },
-  {
-    "id": "pipocipolatti-2026-11-19-cafeberlin",
-    "shortId": "275l70k",
-    "artist": "Pipo Cipolatti",
-    "artistKey": "pipocipolatti",
-    "date": "2026-11-19",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/pipo-cipolatti-en-cafe-berlin-2026-11-19-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "4KKXrrtxhGHmx1gZrqB2FT",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-16"
-  },
-  {
-    "id": "sofiapj-2026-11-19-cafeberlin",
-    "shortId": "18cjuig",
-    "artist": "Sofía P.J",
-    "artistKey": "sofiapj",
-    "date": "2026-11-19",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sofia-p-j-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "willybronca-2026-11-19-niceto",
-    "shortId": "pxkzldp",
-    "artist": "Willy Bronca",
-    "artistKey": "willybronca",
-    "date": "2026-11-19",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "72LcvCe3u6J31WGoz55n9c",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17879277bcdcda7002549b23ca8",
-    "genres": [],
-    "firstSeenAt": "2026-10-23"
   },
   {
     "id": "abelpintos-2026-11-20-granrex",
@@ -2097,6 +1897,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "recamaraafteroffice-2026-11-27-niceto",
+    "shortId": "21cvrj9",
+    "artist": "RECámara After Office",
+    "artistKey": "recamaraafteroffice",
+    "date": "2026-11-27",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/rec-mara-after-office-27-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
     "id": "aperfectcirclepuscifer-2026-11-28-buenosaires",
     "shortId": "59nthao",
     "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -2803,6 +2623,26 @@
     "firstSeenAt": "2026-10-23"
   },
   {
+    "id": "luchaseternasladespedida-2026-11-30-granrex",
+    "shortId": "2mdc7el",
+    "artist": "Luchas Eternas La Despedida",
+    "artistKey": "luchaseternasladespedida",
+    "date": "2026-11-30",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/lauchas-eternas-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-06"
+  },
+  {
     "id": "omarcourtz-2026-11-30-movistararena",
     "shortId": "2qqoklw",
     "artist": "Omar Courtz",
@@ -3200,6 +3040,26 @@
     "spotifyImage": "https://i.scdn.co/image/6cb13cffd30b89a6d7d0f8245f1b91c6c429a5db",
     "genres": [],
     "firstSeenAt": "2026-11-18"
+  },
+  {
+    "id": "vinilosintimosjuachibaileron-2026-12-03-niceto",
+    "shortId": "1l0s9h9",
+    "artist": "Vinilos Íntimos: Juachi Bailerón",
+    "artistKey": "vinilosintimosjuachibaileron",
+    "date": "2026-12-03",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/vinilos-ntimos-juachi-bailer-n-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
   },
   {
     "id": "cattoeyewearss27-2026-12-04-niceto",
@@ -4237,6 +4097,26 @@
     "firstSeenAt": "2026-10-27"
   },
   {
+    "id": "attitudetributoagunsnroses-2026-12-11-operalp",
+    "shortId": "1rm02ub",
+    "artist": "ATTITUDE, TRIBUTO A GUNS N´ ROSES",
+    "artistKey": "attitudetributoagunsnroses",
+    "date": "2026-12-11",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/attitude-tributo-a-guns-n-roses-en-el-teatro-opera-lp-2026-12-11-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
     "id": "bluesmotel-2026-12-11-cafeberlin",
     "shortId": "ervishb",
     "artist": "Blues Motel",
@@ -4535,6 +4415,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "eternainocencia-2026-12-12-requilmes",
+    "shortId": "1vhnatv",
+    "artist": "ETERNA INOCENCIA",
+    "artistKey": "eternainocencia",
+    "date": "2026-12-12",
+    "venue": "Club Re Quilmes",
+    "venueKey": "requilmes",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/eterna-inocencia-en-club-re-quilmes"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5O8lCdBWT1JlDufwVywp01",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8855cb31ff8eca38c94452d",
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
   },
   {
     "id": "goviveatumanera-2026-12-12-granrex",
@@ -5288,6 +5188,26 @@
     "firstSeenAt": "2026-11-18"
   },
   {
+    "id": "eternainocencia-2026-12-26-sanmiguel",
+    "shortId": "2400wqq",
+    "artist": "ETERNA INOCENCIA",
+    "artistKey": "eternainocencia",
+    "date": "2026-12-26",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/eterna-inocencia-en-san-miguel-2026-12-26-21-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5O8lCdBWT1JlDufwVywp01",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d8855cb31ff8eca38c94452d",
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
     "id": "festivalpardolasligasmenores-2026-12-26-niceto",
     "shortId": "2g1nib4",
     "artist": "FESTIVAL PARDO: LAS LIGAS MENORES",
@@ -5550,6 +5470,26 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "ellaestancargosa-2027-02-19-cafeberlin",
+    "shortId": "12l00fw",
+    "artist": "Ella Es Tan Cargosa",
+    "artistKey": "ellaestancargosa",
+    "date": "2027-02-19",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ella-es-tan-cargosa-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2fGM1BtKeCWjnriro6BaPS",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ce3db83ff6f6e461252b9239",
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
     "id": "perrasonthebeach-2027-02-19-niceto",
     "shortId": "1hzu0o0",
     "artist": "Perras On The Beach",
@@ -5672,6 +5612,69 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-17"
+  },
+  {
+    "id": "danielmelero-2027-03-06-cafeberlin",
+    "shortId": "2ooftiw",
+    "artist": "Daniel Melero",
+    "artistKey": "danielmelero",
+    "date": "2027-03-06",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/daniel-melero-en-cafe-berlin-2027-02-06-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5ohM2ZA35IpUZNIAiK4RoY",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17841562370177887da0b3f6889",
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
+    "id": "guasones-2027-03-06-hipodromoplata",
+    "shortId": "2plearl",
+    "artist": "GUASONES",
+    "artistKey": "guasones",
+    "date": "2027-03-06",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/guasones-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2wjmZuSHtRx96Qxb8HiP2o",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178cb0e463fd7d88fd97ea23319",
+    "genres": [
+      "alternative rock",
+      "latin rock"
+    ],
+    "firstSeenAt": "2026-11-20"
+  },
+  {
+    "id": "nickoliverilujuria-2027-03-12-niceto",
+    "shortId": "8y3x6d0",
+    "artist": "NICK OLIVERI + LUJURIA",
+    "artistKey": "nickoliverilujuria",
+    "date": "2027-03-12",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/nick-oliveri-lujuria-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-20"
   },
   {
     "id": "jerryrivera-2027-03-19-granrex",

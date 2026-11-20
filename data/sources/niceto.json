@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-11-19",
+  "fetchedAt": "2026-11-20",
   "events": [
-    {
-      "artist": "DEEP SESSION - SINFONIK XX SUPPA JUEVES",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/deep-session-sinfonik-xx-suppa-jueves-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "IVAN SALO  & Los Paracaidistas",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/ivan-salo-los-paracaidistas-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Willy Bronca 19 NOV",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club",
-      "source": "niceto"
-    },
-    {
-      "artist": "ÁMBAR PRESENTA MARIPOSA",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
-      "source": "niceto"
-    },
-    {
-      "artist": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
-      "source": "niceto"
-    },
-    {
-      "artist": "Hipnotica: Edicion Especial",
-      "venue": "Niceto Club",
-      "date": "2026-11-19",
-      "ticketUrl": "https://venti.live/evento/hipnotica-edicion-especial-en-niceto-club",
-      "source": "niceto"
-    },
     {
       "artist": "Reggae Sunset x Revista Bocho",
       "venue": "Niceto Club",
@@ -226,6 +184,13 @@
       "source": "niceto"
     },
     {
+      "artist": "RECámara After Office 27 NOV",
+      "venue": "Niceto Club",
+      "date": "2026-11-27",
+      "ticketUrl": "https://venti.live/evento/rec-mara-after-office-27-nov-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
       "artist": "Barbi Recanati",
       "venue": "Niceto Club",
       "date": "2026-11-27",
@@ -335,6 +300,13 @@
       "venue": "Niceto Club",
       "date": "2026-12-03",
       "ticketUrl": "https://venti.live/evento/juli-jelen-en-niceto-bar",
+      "source": "niceto"
+    },
+    {
+      "artist": "Vinilos Íntimos: Juachi Bailerón",
+      "venue": "Niceto Club",
+      "date": "2026-12-03",
+      "ticketUrl": "https://venti.live/evento/vinilos-ntimos-juachi-bailer-n-en-niceto-bar",
       "source": "niceto"
     },
     {
@@ -748,6 +720,13 @@
       "venue": "Niceto Club",
       "date": "2027-03-04",
       "ticketUrl": "https://venti.live/evento/cabaret-voltaire-en-niceto-club",
+      "source": "niceto"
+    },
+    {
+      "artist": "NICK OLIVERI + LUJURIA",
+      "venue": "Niceto Club",
+      "date": "2027-03-12",
+      "ticketUrl": "https://venti.live/evento/nick-oliveri-lujuria-en-niceto-club-18-a-os",
       "source": "niceto"
     },
     {

@@ -147,7 +147,7 @@
     ]
   },
   "ney-matogroso-tgr": {
-    "fetchedAt": "2026-11-05",
+    "fetchedAt": "2026-11-20",
     "sessions": [
       {
         "date": "2026-12-09",
@@ -190,6 +190,17 @@
       }
     ]
   },
+  "lauchas-eternas-tgr": {
+    "fetchedAt": "2026-11-20",
+    "sessions": [
+      {
+        "date": "2026-11-30",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Luchas Eternas La Despedida"
+      }
+    ]
+  },
   "daniel-agostini-amigos-tgr": {
     "fetchedAt": "2026-11-14",
     "sessions": [
@@ -209,6 +220,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Agarrate Catalina"
+      }
+    ]
+  },
+  "babasonicos-amr": {
+    "fetchedAt": "2026-11-15",
+    "sessions": [
+      {
+        "date": "2026-12-11",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "Babasonicos"
       }
     ]
   },
@@ -232,17 +254,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Go Vive A Tu Manera"
-      }
-    ]
-  },
-  "babasonicos-amr": {
-    "fetchedAt": "2026-11-15",
-    "sessions": [
-      {
-        "date": "2026-12-11",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "Babasonicos"
       }
     ]
   }
