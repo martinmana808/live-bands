@@ -1,71 +1,5 @@
 [
   {
-    "id": "abelpintos-2026-11-13-granrex",
-    "shortId": "1cjpvd3",
-    "artist": "Abel Pintos",
-    "artistKey": "abelpintos",
-    "date": "2026-11-13",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/abel-pintos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6HTUcOExehqydqa7C3usAa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f779ccd19fffcd543131255",
-    "genres": [
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "abelpintos-2026-11-14-granrex",
-    "shortId": "aqfq4ik",
-    "artist": "Abel Pintos",
-    "artistKey": "abelpintos",
-    "date": "2026-11-14",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/abel-pintos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6HTUcOExehqydqa7C3usAa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f779ccd19fffcd543131255",
-    "genres": [
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "abelpintos-2026-11-15-granrex",
-    "shortId": "11nyqoj",
-    "artist": "Abel Pintos",
-    "artistKey": "abelpintos",
-    "date": "2026-11-15",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/abel-pintos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6HTUcOExehqydqa7C3usAa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f779ccd19fffcd543131255",
-    "genres": [
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "easykid-2026-11-18-vorterix",
     "shortId": "wu2eudt",
     "artist": "Easykid",
@@ -164,28 +98,6 @@
     "firstSeenAt": "2026-11-07"
   },
   {
-    "id": "abelpintos-2026-11-19-granrex",
-    "shortId": "1siz3au",
-    "artist": "Abel Pintos",
-    "artistKey": "abelpintos",
-    "date": "2026-11-19",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/abel-pintos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6HTUcOExehqydqa7C3usAa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f779ccd19fffcd543131255",
-    "genres": [
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "coti-2026-11-19-ccomplejoartmedia",
     "shortId": "157jqez",
     "artist": "Coti",
@@ -226,48 +138,6 @@
     "firstSeenAt": "2026-11-07"
   },
   {
-    "id": "abelpintos-2026-11-20-granrex",
-    "shortId": "rm7repp",
-    "artist": "Abel Pintos",
-    "artistKey": "abelpintos",
-    "date": "2026-11-20",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/abel-pintos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "6HTUcOExehqydqa7C3usAa",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781f779ccd19fffcd543131255",
-    "genres": [
-      "latin"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "carcamosexteto-2026-11-20-ccnu",
-    "shortId": "1mmtndg",
-    "artist": "Carcamo Sexteto",
-    "artistKey": "carcamosexteto",
-    "date": "2026-11-20",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/carcamo-sexteto-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
     "id": "drefquila-2026-11-20-uniclub",
     "shortId": "295kvui",
     "artist": "DrefQuila",
@@ -304,94 +174,6 @@
     "firstSeenAt": "2026-11-08"
   },
   {
-    "id": "festivalpardoelektromanoslucassequeiralalovelyband-2026-11-20-niceto",
-    "shortId": "15mcx8u",
-    "artist": "FESTIVAL PARDO: Elektromanos + Lucas Sequeira & la lovely band",
-    "artistKey": "festivalpardoelektromanoslucassequeiralalovelyband",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/festival-pardo-elektromanos-lucas-sequeira-la-lovely-band-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-16"
-  },
-  {
-    "id": "granmartell-2026-11-20-cafeberlin",
-    "shortId": "23gyw23",
-    "artist": "Gran Martell",
-    "artistKey": "granmartell",
-    "date": "2026-11-20",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gran-martell-en-cafe-berlin-20-11"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3uGBzL3GeZcrnpyY8KxP9Q",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851812b8c901ff04153bfba2a28",
-    "genres": [
-      "alternative rock",
-      "experimental rock",
-      "hard rock"
-    ],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "kybba-2026-11-20-niceto",
-    "shortId": "z10bpzj",
-    "artist": "Kybba",
-    "artistKey": "kybba",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/kybba-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "NL",
-    "spotifyId": "5I8OAPN5jY1wvHwpnsRRsA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782f620848510915d42653a312",
-    "genres": [
-      "dancehall"
-    ],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "luchossj-2026-11-20-operalp",
-    "shortId": "1ikr4w4",
-    "artist": "LUCHO SSJ",
-    "artistKey": "luchossj",
-    "date": "2026-11-20",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1OBizG9nrnHJkrL9NjnWYN",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17853423025279119366dab6f09",
-    "genres": [
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
     "id": "notevagustar-2026-11-20-aeropuertocomplejobailable",
     "shortId": "v591tkn",
     "artist": "No Te Va Gustar",
@@ -408,166 +190,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786dbac98019544cd6c3f9235a",
     "genres": [],
     "firstSeenAt": "2026-11-08"
-  },
-  {
-    "id": "orillasjazzensamble-2026-11-20-ccnu",
-    "shortId": "eb3r1c0",
-    "artist": "Orillas jazz ensamble",
-    "artistKey": "orillasjazzensamble",
-    "date": "2026-11-20",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/orillas-jazz-ensamble-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "reggaesunsetxrevistabocho-2026-11-20-niceto",
-    "shortId": "ys0lols",
-    "artist": "Reggae Sunset x Revista Bocho",
-    "artistKey": "reggaesunsetxrevistabocho",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/reggae-sunset-x-revista-bocho-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-19"
-  },
-  {
-    "id": "sofiaviola-2026-11-20-cafeberlin",
-    "shortId": "1gpmdrv",
-    "artist": "Sofía Viola",
-    "artistKey": "sofiaviola",
-    "date": "2026-11-20",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/sofia-viola-en-cafe-berlin-2026-11-20-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "4sJIwgaLC0VVZpK3LriAtT",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b4f0b27f91ed18c5809f76be",
-    "genres": [],
-    "firstSeenAt": "2026-10-19"
-  },
-  {
-    "id": "solodiscos-2026-11-20-niceto",
-    "shortId": "2nvkvsg",
-    "artist": "SOLO DISCOS",
-    "artistKey": "solodiscos",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/solo-discos-20-nov-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-18"
-  },
-  {
-    "id": "temporadadeelefantes-2026-11-20-niceto",
-    "shortId": "26rve4m",
-    "artist": "Temporada de Elefantes",
-    "artistKey": "temporadadeelefantes",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/temporada-de-elefantes-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "7vVBlraU8wWY7FxLDH3QO5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1782874b6e3bdd31a58e7520d35",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "unmuertomas-2026-11-20-niceto",
-    "shortId": "t6u30ba",
-    "artist": "Un Muerto Más",
-    "artistKey": "unmuertomas",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/un-muerto-m-s-en-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "AR",
-    "spotifyId": "31BzLsWVOEfGQTDIe6atC0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781a3b3203c34432bfba357c77",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "ustedsenalemelo-2026-11-20-sanmiguel",
-    "shortId": "1h1pet1",
-    "artist": "USTED SEÑALEMELO",
-    "artistKey": "ustedsenalemelo",
-    "date": "2026-11-20",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/usted-senalemelo-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "viernesdeflowyrabia-2026-11-20-niceto",
-    "shortId": "jg7cedy",
-    "artist": "VIERNES DE FLOW Y RABIA",
-    "artistKey": "viernesdeflowyrabia",
-    "date": "2026-11-20",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/viernes-de-flow-y-rabia-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-11"
   },
   {
     "id": "2minutos-2026-11-21-sanmiguel",
@@ -770,6 +392,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-11"
+  },
+  {
+    "id": "losapellidos-2026-11-21-ccnu",
+    "shortId": "1qpqkw6",
+    "artist": "Los Apellidos",
+    "artistKey": "losapellidos",
+    "date": "2026-11-21",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/los-apellidos-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "78JQGjNgTqlIEdlpPZkWFF",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f504944e4fa720fa3301fc3f",
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "lucascervetti-2026-11-21-cuerdamecanica",
@@ -2774,6 +2416,26 @@
     "firstSeenAt": "2026-11-15"
   },
   {
+    "id": "choposexteto-2026-12-02-ccnu",
+    "shortId": "w1vh74g",
+    "artist": "Chopo Sexteto",
+    "artistKey": "choposexteto",
+    "date": "2026-12-02",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/chopo-sexteto-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
+  },
+  {
     "id": "dennischamberschristiangalvezquartet-2026-12-02-cafeberlin",
     "shortId": "12cevs9",
     "artist": "Dennis Chambers & Christian Gálvez Quartet",
@@ -2918,6 +2580,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-22"
+  },
+  {
+    "id": "headout-2026-12-03-ccnu",
+    "shortId": "po2m3fd",
+    "artist": "Head out!",
+    "artistKey": "headout",
+    "date": "2026-12-03",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/head-out-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "juanfaluclaracantore-2026-12-03-cafeberlin",
@@ -3608,6 +3290,26 @@
     "firstSeenAt": "2026-10-02"
   },
   {
+    "id": "miyalivregrupo-2026-12-06-ccnu",
+    "shortId": "1bp4u76",
+    "artist": "Miya Livre Grupo",
+    "artistKey": "miyalivregrupo",
+    "date": "2026-12-06",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/miya-livre-grupo-en-ccnu-2026-12-06-22-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "19CESlIOBtCPhb2adLu4Oc",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851054bde8a107bd1b4111f7a3a",
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
+  },
+  {
     "id": "synctetica-2026-12-06-niceto",
     "shortId": "1shp1d1",
     "artist": "SYNCTETICA",
@@ -3728,6 +3430,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17880032cb899af3022f196105b",
     "genres": [],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "martinpastor-2026-12-07-ccnu",
+    "shortId": "1po5zec",
+    "artist": "Martín Pastor",
+    "artistKey": "martinpastor",
+    "date": "2026-12-07",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/martin-pastor-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2aDopOOZkk6wcE0JERpIIq",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d2e33137c7df92bf7090634e",
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "navajashowcase-2026-12-07-niceto",
@@ -3868,6 +3590,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-21"
+  },
+  {
+    "id": "julianarocioylafernaliapara-2026-12-08-ccnu",
+    "shortId": "2p1d8tg",
+    "artist": "Juliana Rocío y La Fernalia Pará",
+    "artistKey": "julianarocioylafernaliapara",
+    "date": "2026-12-08",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/juliana-rocio-y-la-fernalia-para-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "shintarosakamoto-2026-12-08-niceto",
@@ -4075,6 +3817,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787837cb1805a91d6eb4cec663",
     "genres": [],
     "firstSeenAt": "2026-11-14"
+  },
+  {
+    "id": "ustedsenalemelo-2026-12-10-operalp",
+    "shortId": "20sk75t",
+    "artist": "USTED SEÑALEMELO",
+    "artistKey": "ustedsenalemelo",
+    "date": "2026-12-10",
+    "venue": "el Teatro Ópera LP",
+    "venueKey": "operalp",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/usted-senalemelo-en-el-teatro-opera-lp-2026-12-10-20-00-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "valeriolosextravagantes-2026-12-10-niceto",
@@ -4766,6 +4528,26 @@
     "firstSeenAt": "2026-11-05"
   },
   {
+    "id": "pablorenomcuarteto-2026-12-16-ccnu",
+    "shortId": "1ei4i4z",
+    "artist": "Pablo Renom cuarteto",
+    "artistKey": "pablorenomcuarteto",
+    "date": "2026-12-16",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/pablo-renom-cuarteto-en-ccnu-2026-12-16-22-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "4EvcDu4kxtWcfhNgv2N2hH",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851938988f1ab62ad2594302034",
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
+  },
+  {
     "id": "gabrielcarambula-2026-12-17-cafeberlin",
     "shortId": "2bxejnn",
     "artist": "Gabriel Carámbula",
@@ -4844,6 +4626,46 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788f42b52815b25059bb37023a",
     "genres": [],
     "firstSeenAt": "2026-10-09"
+  },
+  {
+    "id": "distrito-2026-12-18-niceto",
+    "shortId": "mdnac8c",
+    "artist": "DISTRITO",
+    "artistKey": "distrito",
+    "date": "2026-12-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/distrito-cierre-de-a-o-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
+  },
+  {
+    "id": "dmexperience-2026-12-18-granrex",
+    "shortId": "dnv0v0s",
+    "artist": "Dm Experience",
+    "artistKey": "dmexperience",
+    "date": "2026-12-18",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/dm-experience-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "AR",
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "johnnytedesco-2026-12-18-cafeberlin",
@@ -5048,6 +4870,26 @@
     "firstSeenAt": "2026-10-16"
   },
   {
+    "id": "micaelablancoybanda-2026-12-19-ccnu",
+    "shortId": "qt843pq",
+    "artist": "Micaela Blanco y banda",
+    "artistKey": "micaelablancoybanda",
+    "date": "2026-12-19",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/micaela-blanco-y-banda-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
+  },
+  {
     "id": "sarahebe-2026-12-19-niceto",
     "shortId": "auv6yke",
     "artist": "Sara Hebe",
@@ -5186,6 +5028,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab67616d00004851113993d3825ca51c013bb784",
     "genres": [],
     "firstSeenAt": "2026-11-18"
+  },
+  {
+    "id": "cuartetovega-2026-12-26-ccnu",
+    "shortId": "n5v4u05",
+    "artist": "Cuarteto: Vega",
+    "artistKey": "cuartetovega",
+    "date": "2026-12-26",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/cuarteto-vega-cimino-lucero-ponsard-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "eternainocencia-2026-12-26-sanmiguel",

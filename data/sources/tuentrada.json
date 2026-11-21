@@ -1,41 +1,6 @@
 {
-  "fetchedAt": "2026-11-20",
+  "fetchedAt": "2026-11-21",
   "events": [
-    {
-      "artist": "Abel Pintos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-13",
-      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Abel Pintos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-14",
-      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Abel Pintos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-15",
-      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Abel Pintos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-19",
-      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Abel Pintos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-20",
-      "ticketUrl": "https://www.tuentrada.com/abel-pintos-tgr",
-      "source": "tuentrada"
-    },
     {
       "artist": "Boda Lyniel",
       "venue": "Teatro Gran Rex",
@@ -65,17 +30,17 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Asmik Grigorian",
-      "venue": "Teatro Colón",
-      "date": "2026-12-08",
-      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
-      "source": "tuentrada"
-    },
-    {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
       "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Asmik Grigorian",
+      "venue": "Teatro Colón",
+      "date": "2026-12-08",
+      "ticketUrl": "https://www.tuentrada.com/grandes-interpretes-teatrocolon",
       "source": "tuentrada"
     },
     {
@@ -111,6 +76,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-11-21",
       "ticketUrl": "https://www.tuentrada.com/miguel-mateos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Dm Experience",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-18",
+      "ticketUrl": "https://www.tuentrada.com/dm-experience-tgr",
       "source": "tuentrada"
     },
     {

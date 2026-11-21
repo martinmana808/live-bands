@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20",
+  "fetchedAt": "2026-11-21",
   "events": [
     {
       "artist": "La Vela Puerca + Las Pelotas",
@@ -72,48 +72,6 @@
       "source": "livepass"
     },
     {
-      "artist": "Orillas jazz ensamble",
-      "venue": "CCNU",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/orillas-jazz-ensamble-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "LUCHO SSJ",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/lucho-ssj-en-el-teatro-opera-lp-2026-11-20-20-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Gran Martell",
-      "venue": "Café Berlín",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/gran-martell-en-cafe-berlin-20-11",
-      "source": "livepass"
-    },
-    {
-      "artist": "USTED SEÑALEMELO",
-      "venue": "San Miguel",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Carcamo Sexteto",
-      "venue": "CCNU",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/carcamo-sexteto-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Sofía Viola",
-      "venue": "Café Berlín",
-      "date": "2026-11-20",
-      "ticketUrl": "https://livepass.com.ar/events/sofia-viola-en-cafe-berlin-2026-11-20-23-00-00-0300",
-      "source": "livepass"
-    },
-    {
       "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
       "venue": "CCNU",
       "date": "2026-11-21",
@@ -146,6 +104,13 @@
       "venue": "San Miguel",
       "date": "2026-11-21",
       "ticketUrl": "https://livepass.com.ar/events/2-minutos-en-san-miguel",
+      "source": "livepass"
+    },
+    {
+      "artist": "Los Apellidos",
+      "venue": "CCNU",
+      "date": "2026-11-21",
+      "ticketUrl": "https://livepass.com.ar/events/los-apellidos-en-ccnu",
       "source": "livepass"
     },
     {
@@ -366,10 +331,24 @@
       "source": "livepass"
     },
     {
+      "artist": "Chopo Sexteto",
+      "venue": "CCNU",
+      "date": "2026-12-02",
+      "ticketUrl": "https://livepass.com.ar/events/chopo-sexteto-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Juan Falú & Clara Cantore",
       "venue": "Café Berlín",
       "date": "2026-12-03",
       "ticketUrl": "https://livepass.com.ar/events/juan-falu-clara-cantore-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Head out!",
+      "venue": "CCNU",
+      "date": "2026-12-03",
+      "ticketUrl": "https://livepass.com.ar/events/head-out-en-ccnu",
       "source": "livepass"
     },
     {
@@ -450,6 +429,20 @@
       "source": "livepass"
     },
     {
+      "artist": "Miya Livre Grupo",
+      "venue": "CCNU",
+      "date": "2026-12-06",
+      "ticketUrl": "https://livepass.com.ar/events/miya-livre-grupo-en-ccnu-2026-12-06-22-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Martín Pastor",
+      "venue": "CCNU",
+      "date": "2026-12-07",
+      "ticketUrl": "https://livepass.com.ar/events/martin-pastor-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Martín Carrillo",
       "venue": "Café Berlín",
       "date": "2026-12-07",
@@ -471,6 +464,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Juliana Rocío y La Fernalia Pará",
+      "venue": "CCNU",
+      "date": "2026-12-08",
+      "ticketUrl": "https://livepass.com.ar/events/juliana-rocio-y-la-fernalia-para-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "Latinaje",
       "venue": "Café Berlín",
       "date": "2026-12-09",
@@ -482,6 +482,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-09",
       "ticketUrl": "https://livepass.com.ar/events/latencia-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "USTED SEÑALEMELO",
+      "venue": "el Teatro Ópera LP",
+      "date": "2026-12-10",
+      "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-el-teatro-opera-lp-2026-12-10-20-00-00-0300",
       "source": "livepass"
     },
     {
@@ -590,6 +597,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Pablo Renom cuarteto",
+      "venue": "CCNU",
+      "date": "2026-12-16",
+      "ticketUrl": "https://livepass.com.ar/events/pablo-renom-cuarteto-en-ccnu-2026-12-16-22-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Sobredosis de Soda - íntimo y a la carta Vol 2",
       "venue": "Café Berlín",
       "date": "2026-12-17",
@@ -625,6 +639,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Micaela Blanco y banda",
+      "venue": "CCNU",
+      "date": "2026-12-19",
+      "ticketUrl": "https://livepass.com.ar/events/micaela-blanco-y-banda-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "The End",
       "venue": "Café Berlín",
       "date": "2026-12-19",
@@ -657,6 +678,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-23",
       "ticketUrl": "https://livepass.com.ar/events/sergio-pangaro-baccarat-en-cafe-berlin-2026-12-23-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Cuarteto: Vega, Cimino,Lucero Ponsard",
+      "venue": "CCNU",
+      "date": "2026-12-26",
+      "ticketUrl": "https://livepass.com.ar/events/cuarteto-vega-cimino-lucero-ponsard-en-ccnu",
       "source": "livepass"
     },
     {

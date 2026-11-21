@@ -1,39 +1,4 @@
 {
-  "abel-pintos-tgr": {
-    "fetchedAt": "2026-11-13",
-    "sessions": [
-      {
-        "date": "2026-11-13",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-14",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-15",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-19",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      },
-      {
-        "date": "2026-11-20",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Abel Pintos"
-      }
-    ]
-  },
   "boda-lyniel-tgr": {
     "fetchedAt": "2026-11-13",
     "sessions": [
@@ -85,17 +50,6 @@
       }
     ]
   },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-11-17",
-    "sessions": [
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
-      }
-    ]
-  },
   "god-save-the-queen-tgr": {
     "fetchedAt": "2026-11-07",
     "sessions": [
@@ -104,6 +58,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
+      }
+    ]
+  },
+  "grandes-interpretes-teatrocolon": {
+    "fetchedAt": "2026-11-17",
+    "sessions": [
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
       }
     ]
   },
@@ -119,7 +84,7 @@
     ]
   },
   "geronimo-rauch-tgr": {
-    "fetchedAt": "2026-11-06",
+    "fetchedAt": "2026-11-21",
     "sessions": [
       {
         "date": "2026-12-10",
@@ -187,6 +152,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Miguel Mateos"
+      }
+    ]
+  },
+  "dm-experience-tgr": {
+    "fetchedAt": "2026-11-21",
+    "sessions": [
+      {
+        "date": "2026-12-18",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Dm Experience"
       }
     ]
   },
