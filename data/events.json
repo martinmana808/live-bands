@@ -192,130 +192,6 @@
     "firstSeenAt": "2026-11-08"
   },
   {
-    "id": "2minutos-2026-11-21-sanmiguel",
-    "shortId": "12fjyp7",
-    "artist": "2 MINUTOS",
-    "artistKey": "2minutos",
-    "date": "2026-11-21",
-    "venue": "San Miguel",
-    "venueKey": "sanmiguel",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/2-minutos-en-san-miguel"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "5sASmkskUJsvYDSYKRkkYd",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f3b2acfff71cc072759d035d",
-    "genres": [
-      "punk rock",
-      "hardcore punk",
-      "punk"
-    ],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "artrox-2026-11-21-niceto",
-    "shortId": "psukses",
-    "artist": "ARTROX",
-    "artistKey": "artrox",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "6AEd1CQSBtvDwhUzu07WEK",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17850e7290090051da4c5f2cf8c",
-    "genres": [],
-    "firstSeenAt": "2026-10-29"
-  },
-  {
-    "id": "benjaminamadeo-2026-11-21-operalp",
-    "shortId": "2bnf0lw",
-    "artist": "BENJAMIN AMADEO",
-    "artistKey": "benjaminamadeo",
-    "date": "2026-11-21",
-    "venue": "el Teatro Ópera LP",
-    "venueKey": "operalp",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "6GYXfifD78PYARjZzxQzrG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d75e1e256996a5c3e3491383",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "club69-2026-11-21-niceto",
-    "shortId": "26l53mc",
-    "artist": "Club 69",
-    "artistKey": "club69",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/club-69-21-nov-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": "4Ca2iVBCeUfAkA9vrkmlFL",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851fef4573b46cf1c83cecfaf95",
-    "genres": [],
-    "firstSeenAt": "2026-11-04"
-  },
-  {
-    "id": "elprincipeidiotaperez-2026-11-21-niceto",
-    "shortId": "29o2p1q",
-    "artist": "EL PRINCIPE IDIOTA + PEREZ",
-    "artistKey": "elprincipeidiotaperez",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/el-principe-idiota-perez-en-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-17"
-  },
-  {
-    "id": "fiestamermelada-2026-11-21-niceto",
-    "shortId": "bjhz2e1",
-    "artist": "FIESTA MERMELADA",
-    "artistKey": "fiestamermelada",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/fiesta-mermelada-nacional-en-humboldt-niceto-club-18-a-os"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-04"
-  },
-  {
     "id": "hernanjacinto-2026-11-21-caba",
     "shortId": "1w9i54h",
     "artist": "Hernan Jacinto",
@@ -332,86 +208,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "johnpaulthebeatlesexperience-2026-11-21-ccnu",
-    "shortId": "1qkpe68",
-    "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
-    "artistKey": "johnpaulthebeatlesexperience",
-    "date": "2026-11-21",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-11-21"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-10"
-  },
-  {
-    "id": "lachicle-2026-11-21-niceto",
-    "shortId": "24h7c9x",
-    "artist": "La Chicle",
-    "artistKey": "lachicle",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/la-chicle-fiesta-disco-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "lavelapuercalaspelotas-2026-11-21-hipodromoplata",
-    "shortId": "2njvnlq",
-    "artist": "La Vela Puerca + Las Pelotas",
-    "artistKey": "lavelapuercalaspelotas",
-    "date": "2026-11-21",
-    "venue": "el Hipódromo de La Plata",
-    "venueKey": "hipodromoplata",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "losapellidos-2026-11-21-ccnu",
-    "shortId": "1qpqkw6",
-    "artist": "Los Apellidos",
-    "artistKey": "losapellidos",
-    "date": "2026-11-21",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/los-apellidos-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "78JQGjNgTqlIEdlpPZkWFF",
-    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851f504944e4fa720fa3301fc3f",
-    "genres": [],
-    "firstSeenAt": "2026-11-21"
   },
   {
     "id": "lucascervetti-2026-11-21-cuerdamecanica",
@@ -452,29 +248,6 @@
     "firstSeenAt": "2026-11-08"
   },
   {
-    "id": "miguelmateos-2026-11-21-granrex",
-    "shortId": "199efnj",
-    "artist": "Miguel Mateos",
-    "artistKey": "miguelmateos",
-    "date": "2026-11-21",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/miguel-mateos-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "AR",
-    "spotifyId": "02Nbktg6lCJiazPM6YYTMz",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178214fc2e7cec0826d96968321",
-    "genres": [
-      "rock",
-      "singer-songwriter"
-    ],
-    "firstSeenAt": "2026-10-29"
-  },
-  {
     "id": "muddyrootsfestival2026-2026-11-21-caff",
     "shortId": "9kq1eme",
     "artist": "Muddy Roots Festival 2026",
@@ -491,126 +264,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-08"
-  },
-  {
-    "id": "pixel33-2026-11-21-niceto",
-    "shortId": "q7boox9",
-    "artist": "PIXEL 33",
-    "artistKey": "pixel33",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pixel-33-show-en-vivo-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "popupropadeautor-2026-11-21-niceto",
-    "shortId": "noyukxl",
-    "artist": "POP UP ROPA DE AUTOR",
-    "artistKey": "popupropadeautor",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/pop-up-ropa-de-autor-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "rarodiamante-2026-11-21-cafeberlin",
-    "shortId": "2kkn155",
-    "artist": "Raro Diamante",
-    "artistKey": "rarodiamante",
-    "date": "2026-11-21",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/raro-diamante-hotel-olvido-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "497lGfC7mdLAqlkWlwJpou",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b0b6563d18148aeb38240f3c",
-    "genres": [],
-    "firstSeenAt": "2026-09-30"
-  },
-  {
-    "id": "santiagomolina-2026-11-21-cafeberlin",
-    "shortId": "24yopan",
-    "artist": "Santiago Molina",
-    "artistKey": "santiagomolina",
-    "date": "2026-11-21",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-11-21-20-30-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "1Tc1jnGXaRCu62tn1t1k2w",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea501cfe19eb36c3b3a7c1bf",
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
-    "id": "selftitledfashionpopupafterparty-2026-11-21-niceto",
-    "shortId": "2cuq6zm",
-    "artist": "SELF-TITLED FASHION POP-UP [AFTERPARTY]",
-    "artistKey": "selftitledfashionpopupafterparty",
-    "date": "2026-11-21",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/self-titled-fashion-pop-up-afterparty-en-niceto-bar"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-14"
-  },
-  {
-    "id": "ustedsenalemelo-2026-11-21-requilmes",
-    "shortId": "17f2mv9",
-    "artist": "USTED SEÑALEMELO",
-    "artistKey": "ustedsenalemelo",
-    "date": "2026-11-21",
-    "venue": "Club Re Quilmes",
-    "venueKey": "requilmes",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/usted-senalemelo-en-quilmes"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1785b33e9220c4e2ae82be83c9f",
-    "genres": [],
-    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "bodalyniel-2026-11-22-granrex",
@@ -3412,6 +3065,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "distritorawurbanse-2026-12-07-niceto",
+    "shortId": "25ts94z",
+    "artist": "Distrito Raw: Urbanse",
+    "artistKey": "distritorawurbanse",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/distrito-raw-urbanse-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-22"
+  },
+  {
     "id": "martincarrillo-2026-12-07-cafeberlin",
     "shortId": "1yp9h7x",
     "artist": "Martín Carrillo",
@@ -4257,6 +3930,29 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178187ae48d46e43a87266d1d8c",
     "genres": [],
     "firstSeenAt": "2026-11-13"
+  },
+  {
+    "id": "nengoflow-2026-12-12-autodromobuenosaires",
+    "shortId": "1cth9xq",
+    "artist": "ñengo Flow",
+    "artistKey": "nengoflow",
+    "date": "2026-12-12",
+    "venue": "Autodromo De Buenos Aires",
+    "venueKey": "autodromobuenosaires",
+    "ticketUrls": [
+      "https://www.tuentrada.com/nengo-flow"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": "PR",
+    "spotifyId": "12vb80Km0Ew53ABfJOepVz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178da3f48cf2309aacaab0edce2",
+    "genres": [
+      "trap latino",
+      "reggaeton"
+    ],
+    "firstSeenAt": "2026-11-22"
   },
   {
     "id": "supervoscierraelano-2026-12-12-niceto",

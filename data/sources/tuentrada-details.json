@@ -51,7 +51,7 @@
     ]
   },
   "god-save-the-queen-tgr": {
-    "fetchedAt": "2026-11-07",
+    "fetchedAt": "2026-11-22",
     "sessions": [
       {
         "date": "2026-11-28",
@@ -94,23 +94,6 @@
       }
     ]
   },
-  "bomberitos": {
-    "fetchedAt": "2026-11-14",
-    "sessions": [
-      {
-        "date": "2026-11-14",
-        "venue": "Espacio Bomberitos",
-        "city": "Villa Ballester",
-        "name": "Visitá Espacio Bomberitos"
-      },
-      {
-        "date": "2026-11-21",
-        "venue": "Espacio Bomberitos",
-        "city": "Villa Ballester",
-        "name": "Visitá Espacio Bomberitos"
-      }
-    ]
-  },
   "ney-matogroso-tgr": {
     "fetchedAt": "2026-11-20",
     "sessions": [
@@ -133,28 +116,6 @@
       }
     ]
   },
-  "ntvg-villa-ballester": {
-    "fetchedAt": "2026-11-14",
-    "sessions": [
-      {
-        "date": "2026-11-21",
-        "venue": "Club Aleman",
-        "city": "Villa Ballester",
-        "name": "No Te Va Gustar"
-      }
-    ]
-  },
-  "miguel-mateos-tgr": {
-    "fetchedAt": "2026-11-19",
-    "sessions": [
-      {
-        "date": "2026-11-21",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Miguel Mateos"
-      }
-    ]
-  },
   "dm-experience-tgr": {
     "fetchedAt": "2026-11-21",
     "sessions": [
@@ -163,6 +124,40 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Dm Experience"
+      }
+    ]
+  },
+  "go-vive-a-tu-manera-tgr": {
+    "fetchedAt": "2026-11-14",
+    "sessions": [
+      {
+        "date": "2026-12-12",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
+      },
+      {
+        "date": "2026-12-12",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
+      },
+      {
+        "date": "2026-12-13",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Go Vive A Tu Manera"
+      }
+    ]
+  },
+  "nengo-flow": {
+    "fetchedAt": "2026-11-22",
+    "sessions": [
+      {
+        "date": "2026-12-12",
+        "venue": "Autodromo De Buenos Aires",
+        "city": "Buenos Aires",
+        "name": "ñengo Flow"
       }
     ]
   },
@@ -207,29 +202,6 @@
         "venue": "Anfiteatro Municipal Rosario",
         "city": "Rosario",
         "name": "Babasonicos"
-      }
-    ]
-  },
-  "go-vive-a-tu-manera-tgr": {
-    "fetchedAt": "2026-11-14",
-    "sessions": [
-      {
-        "date": "2026-12-12",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Go Vive A Tu Manera"
-      },
-      {
-        "date": "2026-12-12",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Go Vive A Tu Manera"
-      },
-      {
-        "date": "2026-12-13",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Go Vive A Tu Manera"
       }
     ]
   }

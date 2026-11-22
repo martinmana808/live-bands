@@ -1,13 +1,6 @@
 {
-  "fetchedAt": "2026-11-21",
+  "fetchedAt": "2026-11-22",
   "events": [
-    {
-      "artist": "La Vela Puerca + Las Pelotas",
-      "venue": "el Hipódromo de La Plata",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/la-vela-puerca-las-pelotas-en-el-hipodromo-de-la-plata",
-      "source": "livepass"
-    },
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
       "venue": "Buenos Aires",
@@ -69,55 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "JOHN & PAUL THE BEATLES EXPERIENCE",
-      "venue": "CCNU",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/john-paul-the-beatles-experience-en-ccnu-2026-11-21",
-      "source": "livepass"
-    },
-    {
-      "artist": "USTED SEÑALEMELO",
-      "venue": "Club Re Quilmes",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/usted-senalemelo-en-quilmes",
-      "source": "livepass"
-    },
-    {
-      "artist": "BENJAMIN AMADEO",
-      "venue": "el Teatro Ópera LP",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/benjamin-amadeo-en-el-teatro-opera-lp-21-11",
-      "source": "livepass"
-    },
-    {
-      "artist": "Santiago Molina",
-      "venue": "Café Berlín",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-11-21-20-30-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "2 MINUTOS",
-      "venue": "San Miguel",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/2-minutos-en-san-miguel",
-      "source": "livepass"
-    },
-    {
-      "artist": "Los Apellidos",
-      "venue": "CCNU",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/los-apellidos-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Raro Diamante - Hotel Olvido",
-      "venue": "Café Berlín",
-      "date": "2026-11-21",
-      "ticketUrl": "https://livepass.com.ar/events/raro-diamante-hotel-olvido-en-cafe-berlin",
       "source": "livepass"
     },
     {
