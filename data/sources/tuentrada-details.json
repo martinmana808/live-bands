@@ -1,44 +1,4 @@
 {
-  "boda-lyniel-tgr": {
-    "fetchedAt": "2026-11-13",
-    "sessions": [
-      {
-        "date": "2026-11-22",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      },
-      {
-        "date": "2026-11-22",
-        "venue": "Teatro Gran Rex",
-        "city": "Buenos Aires",
-        "name": "Boda Lyniel"
-      }
-    ]
-  },
-  "ntvg-gira": {
-    "fetchedAt": "2026-11-13",
-    "sessions": [
-      {
-        "date": "2026-11-20",
-        "venue": "Complejo Aeropuerto De San Andres De Giles",
-        "city": "San Andres De Giles",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-21",
-        "venue": "Club Aleman",
-        "city": "Villa Ballester",
-        "name": "No Te Va Gustar"
-      },
-      {
-        "date": "2026-11-22",
-        "venue": "Estadio Qac (estacionamiento)",
-        "city": "Quilmes",
-        "name": "No Te Va Gustar"
-      }
-    ]
-  },
   "djavan-tgr": {
     "fetchedAt": "2026-11-13",
     "sessions": [
@@ -58,17 +18,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "God Save The Queen"
-      }
-    ]
-  },
-  "grandes-interpretes-teatrocolon": {
-    "fetchedAt": "2026-11-17",
-    "sessions": [
-      {
-        "date": "2026-12-08",
-        "venue": "Teatro Colón",
-        "city": "Buenos Aires",
-        "name": "Asmik Grigorian"
       }
     ]
   },
@@ -106,7 +55,7 @@
     ]
   },
   "jerry-rivera-tgr": {
-    "fetchedAt": "2026-11-08",
+    "fetchedAt": "2026-11-23",
     "sessions": [
       {
         "date": "2027-03-19",
@@ -124,6 +73,17 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Dm Experience"
+      }
+    ]
+  },
+  "grandes-interpretes-teatrocolon": {
+    "fetchedAt": "2026-11-17",
+    "sessions": [
+      {
+        "date": "2026-12-08",
+        "venue": "Teatro Colón",
+        "city": "Buenos Aires",
+        "name": "Asmik Grigorian"
       }
     ]
   },
@@ -161,6 +121,28 @@
       }
     ]
   },
+  "uriel-lozano-tgr": {
+    "fetchedAt": "2026-11-23",
+    "sessions": [
+      {
+        "date": "2026-12-19",
+        "venue": "Teatro Gran Rex",
+        "city": "Buenos Aires",
+        "name": "Uriel Lozano"
+      }
+    ]
+  },
+  "babasonicos-amr": {
+    "fetchedAt": "2026-11-15",
+    "sessions": [
+      {
+        "date": "2026-12-11",
+        "venue": "Anfiteatro Municipal Rosario",
+        "city": "Rosario",
+        "name": "Babasonicos"
+      }
+    ]
+  },
   "lauchas-eternas-tgr": {
     "fetchedAt": "2026-11-20",
     "sessions": [
@@ -191,17 +173,6 @@
         "venue": "Teatro Gran Rex",
         "city": "Buenos Aires",
         "name": "Agarrate Catalina"
-      }
-    ]
-  },
-  "babasonicos-amr": {
-    "fetchedAt": "2026-11-15",
-    "sessions": [
-      {
-        "date": "2026-12-11",
-        "venue": "Anfiteatro Municipal Rosario",
-        "city": "Rosario",
-        "name": "Babasonicos"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22",
+  "fetchedAt": "2026-11-23",
   "events": [
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -62,13 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Caleb Monte Quintet plays Ballads",
-      "venue": "CCNU",
-      "date": "2026-11-22",
-      "ticketUrl": "https://livepass.com.ar/events/caleb-monte-quintet-plays-ballads-en-ccnu",
       "source": "livepass"
     },
     {
@@ -237,6 +230,13 @@
       "venue": "Café Berlín",
       "date": "2026-11-29",
       "ticketUrl": "https://livepass.com.ar/events/fernando-cabrera-hugo-fattoruso-en-cafe-berlin-2026-11-29-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "venue": "Huracán",
+      "date": "2026-11-29",
+      "ticketUrl": "https://livepass.com.ar/events/ed-sheeran-en-huracan",
       "source": "livepass"
     },
     {
@@ -755,13 +755,6 @@
       "venue": "el Teatro Ópera LP",
       "date": "2027-05-05",
       "ticketUrl": "https://livepass.com.ar/events/marky-ramone-en-el-teatro-opera-lp-2026-05-05",
-      "source": "livepass"
-    },
-    {
-      "artist": "ED SHEERAN",
-      "venue": "Huracán",
-      "date": "2026-11-29",
-      "ticketUrl": "https://livepass.com.ar/events/ed-sheeran-en-huracan",
       "source": "livepass"
     }
   ]
