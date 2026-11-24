@@ -1,25 +1,5 @@
 [
   {
-    "id": "tinkaroup-2026-11-23-cafeberlin",
-    "shortId": "2o7jb3f",
-    "artist": "Tinka Roup",
-    "artistKey": "tinkaroup",
-    "date": "2026-11-23",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/tinka-roup-presenta-radar-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "0cgUU4r1qaWg2oRiCixrd0",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178444309b306e4b4161890643e",
-    "genres": [],
-    "firstSeenAt": "2026-09-21"
-  },
-  {
     "id": "christiansandsquartet-2026-11-24-salamartincoronado",
     "shortId": "9k26tar",
     "artist": "Christian Sands Quartet",
@@ -1108,6 +1088,26 @@
     "firstSeenAt": "2026-11-02"
   },
   {
+    "id": "paraiso-2026-11-28-plata",
+    "shortId": "12wracw",
+    "artist": "Paraiso",
+    "artistKey": "paraiso",
+    "date": "2026-11-28",
+    "venue": "Teatro El Plata",
+    "venueKey": "plata",
+    "ticketUrls": [
+      "https://www.tuentrada.com/paraiso-elplata"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "7JMLVvVLIcI4VVHm8m1dPj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b447d3173b2c95d27e21d855",
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
+  },
+  {
     "id": "patobenitez-2026-11-28-villacrespo",
     "shortId": "1bxvd3q",
     "artist": "Pato Benitez",
@@ -1409,6 +1409,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c4e7045a742dd0f1839165e1",
     "genres": [],
     "firstSeenAt": "2026-11-15"
+  },
+  {
+    "id": "paraiso-2026-11-29-plata",
+    "shortId": "25ode3c",
+    "artist": "Paraiso",
+    "artistKey": "paraiso",
+    "date": "2026-11-29",
+    "venue": "Teatro El Plata",
+    "venueKey": "plata",
+    "ticketUrls": [
+      "https://www.tuentrada.com/paraiso-elplata"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "7JMLVvVLIcI4VVHm8m1dPj",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b447d3173b2c95d27e21d855",
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
   },
   {
     "id": "pellicanjazzduo-2026-11-29-ccnu",
@@ -3051,7 +3071,7 @@
     "sources": [
       "songkick"
     ],
-    "country": null,
+    "country": "PH",
     "spotifyId": "6LZA6PhNCwUfHzqfpN1nYL",
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17852634ed004e8b02678f9c064",
     "genres": [],
@@ -4219,6 +4239,26 @@
     "firstSeenAt": "2026-11-21"
   },
   {
+    "id": "finaldefiesta-2026-12-18-niceto",
+    "shortId": "20mtmav",
+    "artist": "FINAL DE FIESTA",
+    "artistKey": "finaldefiesta",
+    "date": "2026-12-18",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/final-de-fiesta-del-atca-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
+  },
+  {
     "id": "johnnytedesco-2026-12-18-cafeberlin",
     "shortId": "npyb4vs",
     "artist": "Johnny Tedesco",
@@ -4721,6 +4761,46 @@
     "firstSeenAt": "2026-11-18"
   },
   {
+    "id": "club69anonuevo-2026-12-31-niceto",
+    "shortId": "1n5axtw",
+    "artist": "Club 69 | AÑO NUEVO",
+    "artistKey": "club69anonuevo",
+    "date": "2026-12-31",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/club-69-a-o-nuevo-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
+  },
+  {
+    "id": "fernandosanjiao-2027-01-15-cafeberlin",
+    "shortId": "22mp8wj",
+    "artist": "Fernando Sanjiao",
+    "artistKey": "fernandosanjiao",
+    "date": "2027-01-15",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-15-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
+  },
+  {
     "id": "adrianavarela-2027-01-16-cafeberlin",
     "shortId": "44hm660",
     "artist": "Adriana Varela",
@@ -4823,6 +4903,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "fernandosanjiao-2027-01-22-cafeberlin",
+    "shortId": "1h4yo2o",
+    "artist": "Fernando Sanjiao",
+    "artistKey": "fernandosanjiao",
+    "date": "2027-01-22",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-22-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
+  },
+  {
     "id": "losabuelos-2027-01-23-cafeberlin",
     "shortId": "1kmgrn5",
     "artist": "Los Abuelos",
@@ -4881,6 +4981,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1788f42b52815b25059bb37023a",
     "genres": [],
     "firstSeenAt": "2026-11-19"
+  },
+  {
+    "id": "fernandosanjiao-2027-01-29-cafeberlin",
+    "shortId": "xy3xmi6",
+    "artist": "Fernando Sanjiao",
+    "artistKey": "fernandosanjiao",
+    "date": "2027-01-29",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-29-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-24"
   },
   {
     "id": "donavon-2027-02-14-niceto",

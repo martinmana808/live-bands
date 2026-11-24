@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23",
+  "fetchedAt": "2026-11-24",
   "events": [
     {
       "artist": "Djavan",
@@ -111,6 +111,20 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-08",
       "ticketUrl": "https://www.tuentrada.com/agarrate-catalina-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Paraiso",
+      "venue": "Teatro El Plata",
+      "date": "2026-11-28",
+      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Paraiso",
+      "venue": "Teatro El Plata",
+      "date": "2026-11-29",
+      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
       "source": "tuentrada"
     }
   ]

@@ -175,5 +175,33 @@
         "name": "Agarrate Catalina"
       }
     ]
+  },
+  "patagoniawinefest": {
+    "fetchedAt": "2026-11-24",
+    "sessions": [
+      {
+        "date": "2026-11-28",
+        "venue": "Espacio Duam",
+        "city": "Neuquén",
+        "name": "Patagonia Wine Fest"
+      }
+    ]
+  },
+  "paraiso-elplata": {
+    "fetchedAt": "2026-11-24",
+    "sessions": [
+      {
+        "date": "2026-11-28",
+        "venue": "Teatro El Plata",
+        "city": "Buenos Aires",
+        "name": "Paraiso"
+      },
+      {
+        "date": "2026-11-29",
+        "venue": "Teatro El Plata",
+        "city": "Buenos Aires",
+        "name": "Paraiso"
+      }
+    ]
   }
 }

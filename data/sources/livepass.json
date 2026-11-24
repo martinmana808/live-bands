@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23",
+  "fetchedAt": "2026-11-24",
   "events": [
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -62,13 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Tinka Roup - Presenta Radar",
-      "venue": "Café Berlín",
-      "date": "2026-11-23",
-      "ticketUrl": "https://livepass.com.ar/events/tinka-roup-presenta-radar-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -653,6 +646,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Fernando Sanjiao",
+      "venue": "Café Berlín",
+      "date": "2027-01-15",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-15-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "Adriana Varela",
       "venue": "Café Berlín",
       "date": "2027-01-16",
@@ -674,6 +674,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Fernando Sanjiao",
+      "venue": "Café Berlín",
+      "date": "2027-01-22",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-22-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "De Caro a la Cacerola",
       "venue": "Café Berlín",
       "date": "2027-01-22",
@@ -692,6 +699,13 @@
       "venue": "Café Berlín",
       "date": "2027-01-24",
       "ticketUrl": "https://livepass.com.ar/events/juliano-barreto-eduardo-farias-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Fernando Sanjiao",
+      "venue": "Café Berlín",
+      "date": "2027-01-29",
+      "ticketUrl": "https://livepass.com.ar/events/fernando-sanjiao-en-cafe-berlin-2027-01-29-20-45-00-0300",
       "source": "livepass"
     },
     {
