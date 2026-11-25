@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-11-24",
+  "fetchedAt": "2026-11-25",
   "events": [
-    {
-      "artist": "Djavan",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/djavan-tgr",
-      "source": "tuentrada"
-    },
     {
       "artist": "God Save The Queen",
       "venue": "Teatro Gran Rex",
       "date": "2026-11-28",
       "ticketUrl": "https://www.tuentrada.com/god-save-the-queen-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Christian Sands Quartet",
-      "venue": "Sala Martin Coronado",
-      "date": "2026-11-24",
-      "ticketUrl": "https://www.tuentrada.com/jazz-bsas-ctba",
       "source": "tuentrada"
     },
     {
@@ -34,6 +20,20 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-09",
       "ticketUrl": "https://www.tuentrada.com/ney-matogroso-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Paraiso",
+      "venue": "Teatro El Plata",
+      "date": "2026-11-28",
+      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Paraiso",
+      "venue": "Teatro El Plata",
+      "date": "2026-11-29",
+      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
       "source": "tuentrada"
     },
     {
@@ -93,20 +93,6 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Luchas Eternas La Despedida",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-11-30",
-      "ticketUrl": "https://www.tuentrada.com/lauchas-eternas-tgr",
-      "source": "tuentrada"
-    },
-    {
-      "artist": "Daniel Agostini + Amigos",
-      "venue": "Teatro Gran Rex",
-      "date": "2026-12-05",
-      "ticketUrl": "https://www.tuentrada.com/daniel-agostini-amigos-tgr",
-      "source": "tuentrada"
-    },
-    {
       "artist": "Agarrate Catalina",
       "venue": "Teatro Gran Rex",
       "date": "2026-12-08",
@@ -114,17 +100,24 @@
       "source": "tuentrada"
     },
     {
-      "artist": "Paraiso",
-      "venue": "Teatro El Plata",
-      "date": "2026-11-28",
-      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
+      "artist": "Luchas Eternas La Despedida",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-11-30",
+      "ticketUrl": "https://www.tuentrada.com/lauchas-eternas-tgr",
       "source": "tuentrada"
     },
     {
-      "artist": "Paraiso",
-      "venue": "Teatro El Plata",
-      "date": "2026-11-29",
-      "ticketUrl": "https://www.tuentrada.com/paraiso-elplata",
+      "artist": "La Misa",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-04",
+      "ticketUrl": "https://www.tuentrada.com/la-misa-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Daniel Agostini + Amigos",
+      "venue": "Teatro Gran Rex",
+      "date": "2026-12-05",
+      "ticketUrl": "https://www.tuentrada.com/daniel-agostini-amigos-tgr",
       "source": "tuentrada"
     }
   ]

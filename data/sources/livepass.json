@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24",
+  "fetchedAt": "2026-11-25",
   "events": [
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -62,13 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Devotos del Rock",
-      "venue": "Café Berlín",
-      "date": "2026-11-24",
-      "ticketUrl": "https://livepass.com.ar/events/devotos-del-rock-en-cafe-berlin-2026-11-24-20-45-00-0300",
       "source": "livepass"
     },
     {
@@ -272,6 +265,13 @@
       "venue": "CCNU",
       "date": "2026-12-02",
       "ticketUrl": "https://livepass.com.ar/events/chopo-sexteto-en-ccnu",
+      "source": "livepass"
+    },
+    {
+      "artist": "Dennis Chambers y Christian Galvez",
+      "venue": "Café Berlín",
+      "date": "2026-12-02",
+      "ticketUrl": "https://livepass.com.ar/events/dennis-chambers-y-christian-galvez-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -590,6 +590,13 @@
       "source": "livepass"
     },
     {
+      "artist": "CEREMONIA ROCK 2",
+      "venue": "San Miguel",
+      "date": "2026-12-19",
+      "ticketUrl": "https://livepass.com.ar/events/ceremonia-rock-2-en-san-miguel",
+      "source": "livepass"
+    },
+    {
       "artist": "JAF",
       "venue": "Café Berlín",
       "date": "2026-12-20",
@@ -639,10 +646,31 @@
       "source": "livepass"
     },
     {
+      "artist": "Las Hermanas Vera",
+      "venue": "Café Berlín",
+      "date": "2026-12-27",
+      "ticketUrl": "https://livepass.com.ar/events/las-hermanas-vera-en-cafe-berlin-2026-12-27-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Oscar Kreimer",
+      "venue": "Café Berlín",
+      "date": "2026-12-29",
+      "ticketUrl": "https://livepass.com.ar/events/oscar-kreimer-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "SIN LEY",
       "venue": "Club Re Quilmes",
       "date": "2026-12-30",
       "ticketUrl": "https://livepass.com.ar/events/sin-ley-en-club-re-quilmes",
+      "source": "livepass"
+    },
+    {
+      "artist": "Mario Parmisano",
+      "venue": "Café Berlín",
+      "date": "2026-12-30",
+      "ticketUrl": "https://livepass.com.ar/events/mario-parmisano-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -709,6 +737,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Nadia Larcher & Marcelo Dellamea",
+      "venue": "Café Berlín",
+      "date": "2027-02-11",
+      "ticketUrl": "https://livepass.com.ar/events/nadia-larcher-marcelo-dellamea-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
       "artist": "Ella Es Tan Cargosa",
       "venue": "Café Berlín",
       "date": "2027-02-19",
@@ -755,6 +790,13 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2027-03-06",
       "ticketUrl": "https://livepass.com.ar/events/guasones-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "NO TE VA GUSTAR",
+      "venue": "el Hipódromo de La Plata",
+      "date": "2027-03-13",
+      "ticketUrl": "https://livepass.com.ar/events/no-te-va-gustar-en-el-hipodromo-de-la-plata",
       "source": "livepass"
     },
     {

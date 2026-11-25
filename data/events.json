@@ -1,69 +1,5 @@
 [
   {
-    "id": "christiansandsquartet-2026-11-24-salamartincoronado",
-    "shortId": "9k26tar",
-    "artist": "Christian Sands Quartet",
-    "artistKey": "christiansandsquartet",
-    "date": "2026-11-24",
-    "venue": "Sala Martin Coronado",
-    "venueKey": "salamartincoronado",
-    "ticketUrls": [
-      "https://www.tuentrada.com/jazz-bsas-ctba"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
-  },
-  {
-    "id": "devotosdelrock-2026-11-24-cafeberlin",
-    "shortId": "1opdu5d",
-    "artist": "Devotos del Rock",
-    "artistKey": "devotosdelrock",
-    "date": "2026-11-24",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/devotos-del-rock-en-cafe-berlin-2026-11-24-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
-  },
-  {
-    "id": "djavan-2026-11-24-granrex",
-    "shortId": "2jh5y2t",
-    "artist": "Djavan",
-    "artistKey": "djavan",
-    "date": "2026-11-24",
-    "venue": "Teatro Gran Rex",
-    "venueKey": "granrex",
-    "ticketUrls": [
-      "https://www.tuentrada.com/djavan-tgr"
-    ],
-    "sources": [
-      "tuentrada"
-    ],
-    "country": "BR",
-    "spotifyId": "5rrmaoBXZ7Jcs4Qb77j0YA",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e699e9c224d7602835111180",
-    "genres": [
-      "mpb",
-      "latin",
-      "samba"
-    ],
-    "firstSeenAt": "2026-09-14"
-  },
-  {
     "id": "hotchip-2026-11-24-ccomplejoartmedia",
     "shortId": "1uzwxsv",
     "artist": "Hot Chip",
@@ -84,26 +20,6 @@
       "electropop"
     ],
     "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "moyka-2026-11-24-niceto",
-    "shortId": "2muv8pq",
-    "artist": "MOYKA",
-    "artistKey": "moyka",
-    "date": "2026-11-24",
-    "venue": "Niceto Club",
-    "venueKey": "niceto",
-    "ticketUrls": [
-      "https://venti.live/evento/moyka-en-niceto-humboldt-niceto-club"
-    ],
-    "sources": [
-      "niceto"
-    ],
-    "country": "NO",
-    "spotifyId": "2u7pjisWrThF8JErPVIPlJ",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784032c259b01181d1a15228d3",
-    "genres": [],
-    "firstSeenAt": "2026-10-15"
   },
   {
     "id": "zztop-2026-11-24-movistararena",
@@ -362,6 +278,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781b73a11449d1606b1016bb26",
     "genres": [],
     "firstSeenAt": "2026-10-16"
+  },
+  {
+    "id": "kilombo-2026-11-26-niceto",
+    "shortId": "13q3rbk",
+    "artist": "KILOMBO",
+    "artistKey": "kilombo",
+    "date": "2026-11-26",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/kilombo-jue-26-nov-en-niceto-bar"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
   },
   {
     "id": "mariabecerra-2026-11-26-movistararena",
@@ -1665,6 +1601,26 @@
     "firstSeenAt": "2026-09-11"
   },
   {
+    "id": "dennischambersychristiangalvez-2026-12-02-cafeberlin",
+    "shortId": "2d78pl2",
+    "artist": "Dennis Chambers y Christian Galvez",
+    "artistKey": "dennischambersychristiangalvez",
+    "date": "2026-12-02",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/dennis-chambers-y-christian-galvez-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
     "id": "doyle-2026-12-02-theroxylive",
     "shortId": "1z023gt",
     "artist": "Doyle",
@@ -2109,6 +2065,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-09-19"
+  },
+  {
+    "id": "lamisa-2026-12-04-granrex",
+    "shortId": "24uwpxp",
+    "artist": "La Misa",
+    "artistKey": "lamisa",
+    "date": "2026-12-04",
+    "venue": "Teatro Gran Rex",
+    "venueKey": "granrex",
+    "ticketUrls": [
+      "https://www.tuentrada.com/la-misa-tgr"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-10"
   },
   {
     "id": "lolomorales-2026-12-04-requilmes",
@@ -2920,6 +2896,26 @@
     "firstSeenAt": "2026-11-22"
   },
   {
+    "id": "fiestarose-2026-12-07-niceto",
+    "shortId": "1er6kew",
+    "artist": "Fiesta Rose",
+    "artistKey": "fiestarose",
+    "date": "2026-12-07",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-rose-en-humboldt-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
     "id": "martincarrillo-2026-12-07-cafeberlin",
     "shortId": "1yp9h7x",
     "artist": "Martín Carrillo",
@@ -3505,6 +3501,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783871e4d0a7cdd3946d3dbaf3",
     "genres": [],
     "firstSeenAt": "2026-10-20"
+  },
+  {
+    "id": "fiestamotel-2026-12-11-niceto",
+    "shortId": "1vz6139",
+    "artist": "Fiesta Motel",
+    "artistKey": "fiestamotel",
+    "date": "2026-12-11",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/fiesta-motel-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
   },
   {
     "id": "memphislablusera-2026-12-11-cafeberlin",
@@ -4399,6 +4415,26 @@
     "firstSeenAt": "2026-11-17"
   },
   {
+    "id": "ceremoniarock2-2026-12-19-sanmiguel",
+    "shortId": "nomcdsu",
+    "artist": "CEREMONIA ROCK 2",
+    "artistKey": "ceremoniarock2",
+    "date": "2026-12-19",
+    "venue": "San Miguel",
+    "venueKey": "sanmiguel",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/ceremonia-rock-2-en-san-miguel"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
     "id": "elmatoaunpoliciamotorizado-2026-12-19-hipodromoplata",
     "shortId": "9l3gjdq",
     "artist": "EL MATÓ A UN POLICÍA MOTORIZADO",
@@ -4741,6 +4777,66 @@
     "firstSeenAt": "2026-11-11"
   },
   {
+    "id": "lashermanasvera-2026-12-27-cafeberlin",
+    "shortId": "1o83gd0",
+    "artist": "Las Hermanas Vera",
+    "artistKey": "lashermanasvera",
+    "date": "2026-12-27",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/las-hermanas-vera-en-cafe-berlin-2026-12-27-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "5o2QX6RMkWSOrBefGWaYhA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d181dc9a7db01d2ce6bdfbcd",
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
+    "id": "oscarkreimer-2026-12-29-cafeberlin",
+    "shortId": "1rh3uds",
+    "artist": "Oscar Kreimer",
+    "artistKey": "oscarkreimer",
+    "date": "2026-12-29",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/oscar-kreimer-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "2inpugQjJeiYRp5NytloF7",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
+    "id": "marioparmisano-2026-12-30-cafeberlin",
+    "shortId": "2rr60gg",
+    "artist": "Mario Parmisano",
+    "artistKey": "marioparmisano",
+    "date": "2026-12-30",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/mario-parmisano-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "2ABCdByja07JbBJHiGKrai",
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
     "id": "sinley-2026-12-30-requilmes",
     "shortId": "1vcse2l",
     "artist": "SIN LEY",
@@ -5003,6 +5099,26 @@
     "firstSeenAt": "2026-11-24"
   },
   {
+    "id": "nadialarchermarcelodellamea-2027-02-11-cafeberlin",
+    "shortId": "7hcufo0",
+    "artist": "Nadia Larcher & Marcelo Dellamea",
+    "artistKey": "nadialarchermarcelodellamea",
+    "date": "2027-02-11",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/nadia-larcher-marcelo-dellamea-en-cafe-berlin"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
+  },
+  {
     "id": "donavon-2027-02-14-niceto",
     "shortId": "bwb2vkp",
     "artist": "DONAVON",
@@ -5101,6 +5217,28 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-16"
+  },
+  {
+    "id": "bejo-2027-02-27-niceto",
+    "shortId": "26lue9e",
+    "artist": "Bejo",
+    "artistKey": "bejo",
+    "date": "2027-02-27",
+    "venue": "Niceto Club",
+    "venueKey": "niceto",
+    "ticketUrls": [
+      "https://venti.live/evento/bejo-en-niceto-club-18-a-os"
+    ],
+    "sources": [
+      "niceto"
+    ],
+    "country": "ES",
+    "spotifyId": "0adJG3bdFTHCkTY28NkY4u",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17871c7db6deb049ecc94bfd491",
+    "genres": [
+      "pop rap"
+    ],
+    "firstSeenAt": "2026-11-25"
   },
   {
     "id": "ludovicoeinaudisolopiano-2027-03-01-colon",
@@ -5228,6 +5366,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-20"
+  },
+  {
+    "id": "notevagustar-2027-03-13-hipodromoplata",
+    "shortId": "2n6xd0r",
+    "artist": "NO TE VA GUSTAR",
+    "artistKey": "notevagustar",
+    "date": "2027-03-13",
+    "venue": "el Hipódromo de La Plata",
+    "venueKey": "hipodromoplata",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/no-te-va-gustar-en-el-hipodromo-de-la-plata"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "UY",
+    "spotifyId": "4ZDoy7AWNgQVmX7T0u0B1j",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1786dbac98019544cd6c3f9235a",
+    "genres": [],
+    "firstSeenAt": "2026-11-25"
   },
   {
     "id": "jerryrivera-2027-03-19-granrex",
