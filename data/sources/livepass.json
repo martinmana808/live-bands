@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25",
+  "fetchedAt": "2026-11-26",
   "events": [
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -62,27 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "ELLA SINGS GERSHWIN",
-      "venue": "CCNU",
-      "date": "2026-11-25",
-      "ticketUrl": "https://livepass.com.ar/events/ella-sings-gershwin-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "German Kaly",
-      "venue": "Café Berlín",
-      "date": "2026-11-25",
-      "ticketUrl": "https://livepass.com.ar/events/german-kaly-en-cafe-berlin",
-      "source": "livepass"
-    },
-    {
-      "artist": "Gerez, Dartes & Romeo Trío",
-      "venue": "CCNU",
-      "date": "2026-11-25",
-      "ticketUrl": "https://livepass.com.ar/events/gerez-dartes-romeo-trio-en-ccnu",
       "source": "livepass"
     },
     {
@@ -156,13 +135,6 @@
       "source": "livepass"
     },
     {
-      "artist": "LA PORTUARIA",
-      "venue": "Club Re Quilmes",
-      "date": "2026-11-28",
-      "ticketUrl": "https://livepass.com.ar/events/la-portuaria-en-quilmes",
-      "source": "livepass"
-    },
-    {
       "artist": "Fernando Cabrera - Hugo Fattoruso",
       "venue": "Café Berlín",
       "date": "2026-11-28",
@@ -195,13 +167,6 @@
       "venue": "Café Berlín",
       "date": "2026-11-28",
       "ticketUrl": "https://livepass.com.ar/events/plan-divino-en-cafe-berlin-2026-11-28-23-00-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "FIESTA LEIPARTY",
-      "venue": "Club Re Quilmes",
-      "date": "2026-11-28",
-      "ticketUrl": "https://livepass.com.ar/events/fiesta-leiparty-en-club-re-quilmes",
       "source": "livepass"
     },
     {
@@ -422,6 +387,13 @@
       "source": "livepass"
     },
     {
+      "artist": "PLACERES CULPOSOS: #LAM EPISTÉMICO",
+      "venue": "CCNU",
+      "date": "2026-12-10",
+      "ticketUrl": "https://livepass.com.ar/events/placeres-culposos-lam-epistemico-en-ccnu",
+      "source": "livepass"
+    },
+    {
       "artist": "USTED SEÑALEMELO",
       "venue": "el Teatro Ópera LP",
       "date": "2026-12-10",
@@ -461,6 +433,13 @@
       "venue": "Café Berlín",
       "date": "2026-12-11",
       "ticketUrl": "https://livepass.com.ar/events/memphis-la-blusera-en-cafe-berlin-2026-12-11-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Camina Camila Grupo",
+      "venue": "CCNU",
+      "date": "2026-12-11",
+      "ticketUrl": "https://livepass.com.ar/events/camina-camila-grupo-en-ccnu",
       "source": "livepass"
     },
     {
@@ -797,6 +776,13 @@
       "venue": "el Hipódromo de La Plata",
       "date": "2027-03-13",
       "ticketUrl": "https://livepass.com.ar/events/no-te-va-gustar-en-el-hipodromo-de-la-plata",
+      "source": "livepass"
+    },
+    {
+      "artist": "Roque Narvaja",
+      "venue": "Café Berlín",
+      "date": "2027-03-20",
+      "ticketUrl": "https://livepass.com.ar/events/roque-narvaja-en-cafe-berlin-2027-03-20-20-45-00-0300",
       "source": "livepass"
     },
     {

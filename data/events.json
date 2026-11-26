@@ -62,46 +62,6 @@
     "firstSeenAt": "2026-11-11"
   },
   {
-    "id": "ellasingsgershwin-2026-11-25-ccnu",
-    "shortId": "1xa4c33",
-    "artist": "ELLA SINGS GERSHWIN",
-    "artistKey": "ellasingsgershwin",
-    "date": "2026-11-25",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/ella-sings-gershwin-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
-    "id": "gerezdartesromeotrio-2026-11-25-ccnu",
-    "shortId": "11pw27l",
-    "artist": "Gerez, Dartes & Romeo Trío",
-    "artistKey": "gerezdartesromeotrio",
-    "date": "2026-11-25",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/gerez-dartes-romeo-trio-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-22"
-  },
-  {
     "id": "germankaly-2026-11-25-cafeberlinbuenosaires",
     "shortId": "1nledhv",
     "artist": "German Kaly",
@@ -118,26 +78,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "germankaly-2026-11-25-cafeberlin",
-    "shortId": "2mto3ie",
-    "artist": "German Kaly",
-    "artistKey": "germankaly",
-    "date": "2026-11-25",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/german-kaly-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-19"
   },
   {
     "id": "miazeta-2026-11-25-artlab",
@@ -883,26 +823,6 @@
     "firstSeenAt": "2026-09-11"
   },
   {
-    "id": "fiestaleiparty-2026-11-28-requilmes",
-    "shortId": "13f5qpd",
-    "artist": "FIESTA LEIPARTY",
-    "artistKey": "fiestaleiparty",
-    "date": "2026-11-28",
-    "venue": "Club Re Quilmes",
-    "venueKey": "requilmes",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/fiesta-leiparty-en-club-re-quilmes"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-06"
-  },
-  {
     "id": "godsavethequeen-2026-11-28-granrex",
     "shortId": "1q6qmb9",
     "artist": "God Save The Queen",
@@ -962,26 +882,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781beb947d415dc69f03f7c6c7",
     "genres": [],
     "firstSeenAt": "2026-10-20"
-  },
-  {
-    "id": "laportuaria-2026-11-28-requilmes",
-    "shortId": "z1kgy9b",
-    "artist": "LA PORTUARIA",
-    "artistKey": "laportuaria",
-    "date": "2026-11-28",
-    "venue": "Club Re Quilmes",
-    "venueKey": "requilmes",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/la-portuaria-en-quilmes"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "0Q7HmY08qjZ6SrCb9DYji7",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781b168b868203ac7e91eb68c0",
-    "genres": [],
-    "firstSeenAt": "2026-10-09"
   },
   {
     "id": "lucasedi-2026-11-28-niceto",
@@ -3343,6 +3243,26 @@
     "firstSeenAt": "2026-11-12"
   },
   {
+    "id": "placeresculpososlamepistemico-2026-12-10-ccnu",
+    "shortId": "29s9huo",
+    "artist": "PLACERES CULPOSOS: #LAM EPISTÉMICO",
+    "artistKey": "placeresculpososlamepistemico",
+    "date": "2026-12-10",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/placeres-culposos-lam-epistemico-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-26"
+  },
+  {
     "id": "slimesanti-2026-12-10-niceto",
     "shortId": "10gget0",
     "artist": "SLIMESANTI",
@@ -3441,6 +3361,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f17869f58bceadf849f4cf55d86c",
     "genres": [],
     "firstSeenAt": "2026-11-12"
+  },
+  {
+    "id": "caminacamilagrupo-2026-12-11-ccnu",
+    "shortId": "11xoomd",
+    "artist": "Camina Camila Grupo",
+    "artistKey": "caminacamilagrupo",
+    "date": "2026-12-11",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/camina-camila-grupo-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-26"
   },
   {
     "id": "cuatrotresdos-2026-12-11-niceto",
@@ -5430,6 +5370,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-16"
+  },
+  {
+    "id": "roquenarvaja-2027-03-20-cafeberlin",
+    "shortId": "oq7m4qs",
+    "artist": "Roque Narvaja",
+    "artistKey": "roquenarvaja",
+    "date": "2027-03-20",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/roque-narvaja-en-cafe-berlin-2027-03-20-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "7962171njr0mXGlo7bNVWx",
+    "spotifyImage": "https://i.scdn.co/image/ab67616d00004851ae42d7bc09f3d62d2e04e1ea",
+    "genres": [],
+    "firstSeenAt": "2026-11-26"
   },
   {
     "id": "santiagocruzvuelvealaargentina-2027-04-09-niceto",
