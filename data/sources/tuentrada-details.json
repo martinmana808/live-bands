@@ -203,5 +203,16 @@
         "name": "Daniel Agostini + Amigos"
       }
     ]
+  },
+  "alejandro-veliz-tco": {
+    "fetchedAt": "2026-11-27",
+    "sessions": [
+      {
+        "date": "2026-12-12",
+        "venue": "Teatro Colonial",
+        "city": "Avellaneda",
+        "name": "Alejandro Veliz"
+      }
+    ]
   }
 }

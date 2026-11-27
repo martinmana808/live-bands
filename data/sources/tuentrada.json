@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26",
+  "fetchedAt": "2026-11-27",
   "events": [
     {
       "artist": "God Save The Queen",
@@ -118,6 +118,13 @@
       "venue": "Teatro Gran Rex",
       "date": "2026-12-05",
       "ticketUrl": "https://www.tuentrada.com/daniel-agostini-amigos-tgr",
+      "source": "tuentrada"
+    },
+    {
+      "artist": "Alejandro Veliz",
+      "venue": "Teatro Colonial",
+      "date": "2026-12-12",
+      "ticketUrl": "https://www.tuentrada.com/alejandro-veliz-tco",
       "source": "tuentrada"
     }
   ]

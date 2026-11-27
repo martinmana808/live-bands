@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26",
+  "fetchedAt": "2026-11-27",
   "events": [
     {
       "artist": "A PERFECT CIRCLE + PUSCIFER",
@@ -62,27 +62,6 @@
       "venue": "Café Berlín",
       "date": "2027-01-21",
       "ticketUrl": "https://livepass.com.ar/events/hilda-lizarazu-en-cafe-berlin-2027-01-21-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Contreras Gramigna Gerez re",
-      "venue": "CCNU",
-      "date": "2026-11-26",
-      "ticketUrl": "https://livepass.com.ar/events/contreras-gramigna-gerez-re-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Serie 2",
-      "venue": "Café Berlín",
-      "date": "2026-11-26",
-      "ticketUrl": "https://livepass.com.ar/events/serie-2-en-cafe-berlin-2026-11-26-20-45-00-0300",
-      "source": "livepass"
-    },
-    {
-      "artist": "Música No Disponible",
-      "venue": "Internet en Café Berlín",
-      "date": "2026-11-26",
-      "ticketUrl": "https://livepass.com.ar/events/musica-no-disponible-en-internet-en-cafe-berlin",
       "source": "livepass"
     },
     {
@@ -160,13 +139,6 @@
       "venue": "CCNU",
       "date": "2026-11-28",
       "ticketUrl": "https://livepass.com.ar/events/maia-korosec-victoria-scioli-en-ccnu",
-      "source": "livepass"
-    },
-    {
-      "artist": "Plan Divino",
-      "venue": "Café Berlín",
-      "date": "2026-11-28",
-      "ticketUrl": "https://livepass.com.ar/events/plan-divino-en-cafe-berlin-2026-11-28-23-00-00-0300",
       "source": "livepass"
     },
     {
@@ -408,6 +380,13 @@
       "source": "livepass"
     },
     {
+      "artist": "HAY PLAN - ENSAYO DE NAVIDAD",
+      "venue": "Livepass",
+      "date": "2026-12-10",
+      "ticketUrl": "https://livepass.com.ar/events/hay-plan-ensayo-de-navidad",
+      "source": "livepass"
+    },
+    {
       "artist": "CURSI NO MUERE + WRRN + VIENTOS",
       "venue": "San Miguel",
       "date": "2026-12-11",
@@ -611,6 +590,13 @@
       "source": "livepass"
     },
     {
+      "artist": "Santiago Molina",
+      "venue": "Café Berlín",
+      "date": "2026-12-26",
+      "ticketUrl": "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-12-26-20-30-00-0300",
+      "source": "livepass"
+    },
+    {
       "artist": "ETERNA INOCENCIA",
       "venue": "San Miguel",
       "date": "2026-12-26",
@@ -706,6 +692,20 @@
       "venue": "Café Berlín",
       "date": "2027-01-24",
       "ticketUrl": "https://livepass.com.ar/events/juliano-barreto-eduardo-farias-en-cafe-berlin",
+      "source": "livepass"
+    },
+    {
+      "artist": "Orozco - Barrientos",
+      "venue": "Café Berlín",
+      "date": "2027-01-27",
+      "ticketUrl": "https://livepass.com.ar/events/orozco-barrientos-en-cafe-berlin-2027-01-27-20-45-00-0300",
+      "source": "livepass"
+    },
+    {
+      "artist": "Julia Zenko",
+      "venue": "Café Berlín",
+      "date": "2027-01-28",
+      "ticketUrl": "https://livepass.com.ar/events/julia-zenko-en-cafe-berlin-2027-01-28-20-45-00-0300",
       "source": "livepass"
     },
     {

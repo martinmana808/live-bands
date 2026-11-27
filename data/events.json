@@ -1,125 +1,5 @@
 [
   {
-    "id": "hotchip-2026-11-24-ccomplejoartmedia",
-    "shortId": "1uzwxsv",
-    "artist": "Hot Chip",
-    "artistKey": "hotchip",
-    "date": "2026-11-24",
-    "venue": "C Complejo Art Media",
-    "venueKey": "ccomplejoartmedia",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "37uLId6Z5ZXCx19vuruvv5",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1784ae0995daed2681783bdb31d",
-    "genres": [
-      "alternative dance",
-      "indietronica",
-      "electropop"
-    ],
-    "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "zztop-2026-11-24-movistararena",
-    "shortId": "1w7ftvd",
-    "artist": "ZZ Top",
-    "artistKey": "zztop",
-    "date": "2026-11-24",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "US",
-    "spotifyId": "2AM4ilv6UzW0uMRuqKtDgN",
-    "spotifyImage": "https://i.scdn.co/image/ab67726900008f74ad8fafe5fa4ad82e7770f2ae",
-    "genres": [
-      "blues rock",
-      "rock",
-      "southern rock"
-    ],
-    "firstSeenAt": "2026-11-08"
-  },
-  {
-    "id": "elcaribefunk-2026-11-25-margaritaxirgu",
-    "shortId": "88oczu9",
-    "artist": "El Caribefunk",
-    "artistKey": "elcaribefunk",
-    "date": "2026-11-25",
-    "venue": "Teatro Margarita Xirgu",
-    "venueKey": "margaritaxirgu",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "25UVM4HwATaXX6M7SXT1JI",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178501eef1bee20c53197cfdc46",
-    "genres": [],
-    "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "germankaly-2026-11-25-cafeberlinbuenosaires",
-    "shortId": "1nledhv",
-    "artist": "German Kaly",
-    "artistKey": "germankaly",
-    "date": "2026-11-25",
-    "venue": "Café Berlín Buenos Aires",
-    "venueKey": "cafeberlinbuenosaires",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-11"
-  },
-  {
-    "id": "miazeta-2026-11-25-artlab",
-    "shortId": "229day1",
-    "artist": "Mia Zeta",
-    "artistKey": "miazeta",
-    "date": "2026-11-25",
-    "venue": "Artlab",
-    "venueKey": "artlab",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": null,
-    "spotifyId": "3yYiftL3pMw7AyTLfsitUH",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178e4b80bbdf37a3732bfb01bd6",
-    "genres": [],
-    "firstSeenAt": "2026-11-18"
-  },
-  {
-    "id": "mydyingbride-2026-11-25-teatrito",
-    "shortId": "2sa8qeb",
-    "artist": "My Dying Bride",
-    "artistKey": "mydyingbride",
-    "date": "2026-11-25",
-    "venue": "El Teatrito",
-    "venueKey": "teatrito",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "GB",
-    "spotifyId": "7iMWWdRNiCJwGOGEIYr02z",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783c5b1999fa21c1e0e420d54c",
-    "genres": [
-      "doom metal",
-      "death-doom metal",
-      "gothic metal"
-    ],
-    "firstSeenAt": "2026-11-11"
-  },
-  {
     "id": "piazzollaelectronicoxnicosorin-2026-11-25-niceto",
     "shortId": "1zlsikt",
     "artist": "Piazzolla Electrónico x Nico Sorin",
@@ -158,26 +38,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178b2b5156b2fdd77a7d5bf92f8",
     "genres": [],
     "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "contrerasgramignagerezre-2026-11-26-ccnu",
-    "shortId": "1bh9xw4",
-    "artist": "Contreras Gramigna Gerez re",
-    "artistKey": "contrerasgramignagerezre",
-    "date": "2026-11-26",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/contreras-gramigna-gerez-re-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-02"
   },
   {
     "id": "elvecindario-2026-11-26-niceto",
@@ -240,28 +100,6 @@
     "firstSeenAt": "2026-11-25"
   },
   {
-    "id": "mariabecerra-2026-11-26-movistararena",
-    "shortId": "880ejm9",
-    "artist": "Maria Becerra",
-    "artistKey": "mariabecerra",
-    "date": "2026-11-26",
-    "venue": "Movistar Arena",
-    "venueKey": "movistararena",
-    "ticketUrls": [],
-    "sources": [
-      "songkick"
-    ],
-    "country": "AR",
-    "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442",
-    "genres": [
-      "latin",
-      "reggaeton",
-      "trap latino"
-    ],
-    "firstSeenAt": "2026-11-13"
-  },
-  {
     "id": "montsefredriksvabtheawang-2026-11-26-niceto",
     "shortId": "6l57zr5",
     "artist": "Montse • Fredrik Svabø • Thea Wang",
@@ -280,46 +118,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
-  },
-  {
-    "id": "musicanodisponible-2026-11-26-internetencafeberlin",
-    "shortId": "2g6zi0r",
-    "artist": "Música No Disponible",
-    "artistKey": "musicanodisponible",
-    "date": "2026-11-26",
-    "venue": "Internet en Café Berlín",
-    "venueKey": "internetencafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/musica-no-disponible-en-internet-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-10-21"
-  },
-  {
-    "id": "serie2-2026-11-26-cafeberlin",
-    "shortId": "2ihxmqg",
-    "artist": "Serie 2",
-    "artistKey": "serie2",
-    "date": "2026-11-26",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/serie-2-en-cafe-berlin-2026-11-26-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "15tGV9LGTlZNBGca7IjoMo",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a6f60507ec0ad9f2ff08318a",
-    "genres": [],
-    "firstSeenAt": "2026-10-08"
   },
   {
     "id": "barbirecanati-2026-11-27-niceto",
@@ -960,26 +758,6 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178724f33298ade98b68e5b5078",
     "genres": [],
     "firstSeenAt": "2026-11-15"
-  },
-  {
-    "id": "plandivino-2026-11-28-cafeberlin",
-    "shortId": "1k8f60d",
-    "artist": "Plan Divino",
-    "artistKey": "plandivino",
-    "date": "2026-11-28",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/plan-divino-en-cafe-berlin-2026-11-28-23-00-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3SJK8XjnLeh3HZphQTqGhr",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178679a5dfa55d2f098895a1dc9",
-    "genres": [],
-    "firstSeenAt": "2026-10-14"
   },
   {
     "id": "primaverasoundbuenosaires2026-2026-11-28-ciudadbuenosaires",
@@ -2150,6 +1928,28 @@
     "firstSeenAt": "2026-11-18"
   },
   {
+    "id": "buenosvampiros-2026-12-05-ciudadculturalkonex",
+    "shortId": "14auk49",
+    "artist": "Buenos Vampiros",
+    "artistKey": "buenosvampiros",
+    "date": "2026-12-05",
+    "venue": "Ciudad Cultural Konex",
+    "venueKey": "ciudadculturalkonex",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "3zJriU41e7xy7PVHIhflBo",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178fa9a543850e55e82f9bb9fb9",
+    "genres": [
+      "dream pop",
+      "indie rock",
+      "new wave"
+    ],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
     "id": "ciclovoid-2026-12-05-niceto",
     "shortId": "fnvhlgv",
     "artist": "Ciclo Void",
@@ -3076,6 +2876,24 @@
     "firstSeenAt": "2026-10-15"
   },
   {
+    "id": "angelatorres-2026-12-09-movistararena",
+    "shortId": "2cooexc",
+    "artist": "Angela Torres",
+    "artistKey": "angelatorres",
+    "date": "2026-12-09",
+    "venue": "Movistar Arena",
+    "venueKey": "movistararena",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "PH",
+    "spotifyId": "6LZA6PhNCwUfHzqfpN1nYL",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17852634ed004e8b02678f9c064",
+    "genres": [],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
     "id": "eekamouse-2026-12-09-niceto",
     "shortId": "2adau49",
     "artist": "Eek a mouse",
@@ -3102,7 +2920,7 @@
   {
     "id": "felipebaldomir-2026-12-09-niceto",
     "shortId": "12mygf7",
-    "artist": "FELIPE BALDOMIR",
+    "artist": "Felipe Baldomir",
     "artistKey": "felipebaldomir",
     "date": "2026-12-09",
     "venue": "Niceto Club",
@@ -3111,6 +2929,7 @@
       "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club"
     ],
     "sources": [
+      "songkick",
       "niceto"
     ],
     "country": null,
@@ -3118,6 +2937,24 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178f253bd9bc2835f7f519783c5",
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "lagos-2026-12-09-vorterix",
+    "shortId": "2obkcg6",
+    "artist": "Lagos",
+    "artistKey": "lagos",
+    "date": "2026-12-09",
+    "venue": "Teatro Vorterix",
+    "venueKey": "vorterix",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": null,
+    "spotifyId": "7uQ1D2NNHs5cUL3CLKRbia",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17803101ae60c19568d1842ad8d",
+    "genres": [],
+    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "latencia-2026-12-09-cafeberlin",
@@ -3183,6 +3020,50 @@
     "firstSeenAt": "2026-11-05"
   },
   {
+    "id": "sleepingwithsirens-2026-12-09-groove",
+    "shortId": "25r0opv",
+    "artist": "Sleeping With Sirens",
+    "artistKey": "sleepingwithsirens",
+    "date": "2026-12-09",
+    "venue": "Groove",
+    "venueKey": "groove",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "US",
+    "spotifyId": "3N8Hy6xQnQv1F1XCiyGQqA",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1781e2ceb6044f42f7c6dde5433",
+    "genres": [
+      "post-hardcore",
+      "alternative rock",
+      "pop punk"
+    ],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
+    "id": "divididos-2026-12-10-flores",
+    "shortId": "2c4lx7e",
+    "artist": "Divididos",
+    "artistKey": "divididos",
+    "date": "2026-12-10",
+    "venue": "El Teatro Flores",
+    "venueKey": "flores",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "AR",
+    "spotifyId": "6ZIgPKHzpcswB8zh7sRIhx",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178a96c81176c455e3b8c9ca0f8",
+    "genres": [
+      "alternative rock",
+      "blues rock",
+      "folk rock"
+    ],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
     "id": "geronimorauch-2026-12-10-granrex",
     "shortId": "2q3emna",
     "artist": "Geronimo Rauch",
@@ -3201,6 +3082,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c91c28aa32a158a7d683ac81",
     "genres": [],
     "firstSeenAt": "2026-10-07"
+  },
+  {
+    "id": "hayplan-2026-12-10-livepass",
+    "shortId": "1x4b8rp",
+    "artist": "HAY PLAN",
+    "artistKey": "hayplan",
+    "date": "2026-12-10",
+    "venue": "Livepass",
+    "venueKey": "livepass",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/hay-plan-ensayo-de-navidad"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-27"
   },
   {
     "id": "horaciolavandera-2026-12-10-cafeberlin",
@@ -3241,6 +3142,28 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178720ba261cbf202a15571a222",
     "genres": [],
     "firstSeenAt": "2026-11-12"
+  },
+  {
+    "id": "mana-2026-12-10-riverplate",
+    "shortId": "29q83io",
+    "artist": "Maná",
+    "artistKey": "mana",
+    "date": "2026-12-10",
+    "venue": "Estadio River Plate",
+    "venueKey": "riverplate",
+    "ticketUrls": [],
+    "sources": [
+      "songkick"
+    ],
+    "country": "MX",
+    "spotifyId": "7okwEbXzyT2VffBmyQBWLz",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178152dcec8175d19fb12eeb8e0",
+    "genres": [
+      "latin",
+      "pop",
+      "pop rock"
+    ],
+    "firstSeenAt": "2026-11-27"
   },
   {
     "id": "placeresculpososlamepistemico-2026-12-10-ccnu",
@@ -3621,6 +3544,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-11-18"
+  },
+  {
+    "id": "alejandroveliz-2026-12-12-colonial",
+    "shortId": "26sa85p",
+    "artist": "Alejandro Veliz",
+    "artistKey": "alejandroveliz",
+    "date": "2026-12-12",
+    "venue": "Teatro Colonial",
+    "venueKey": "colonial",
+    "ticketUrls": [
+      "https://www.tuentrada.com/alejandro-veliz-tco"
+    ],
+    "sources": [
+      "tuentrada"
+    ],
+    "country": null,
+    "spotifyId": "3GjEEA3JmWl9Q2FA8lBh5k",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178bbc100c2d58b1a0898d3531d",
+    "genres": [],
+    "firstSeenAt": "2026-11-27"
   },
   {
     "id": "arielzurdoaraoz-2026-12-12-cafeberlin",
@@ -4697,6 +4640,26 @@
     "firstSeenAt": "2026-11-13"
   },
   {
+    "id": "santiagomolina-2026-12-26-cafeberlin",
+    "shortId": "quc1d06",
+    "artist": "Santiago Molina",
+    "artistKey": "santiagomolina",
+    "date": "2026-12-26",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/santiago-molina-en-cafe-berlin-2026-12-26-20-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": "1Tc1jnGXaRCu62tn1t1k2w",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178ea501cfe19eb36c3b3a7c1bf",
+    "genres": [],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
     "id": "selftitledsunsetfestival-2026-12-26-niceto",
     "shortId": "21us5dq",
     "artist": "SELF-TITLED SUNSET FESTIVAL",
@@ -4997,6 +4960,50 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-31"
+  },
+  {
+    "id": "orozco-2027-01-27-cafeberlin",
+    "shortId": "1izcxey",
+    "artist": "Orozco",
+    "artistKey": "orozco",
+    "date": "2027-01-27",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/orozco-barrientos-en-cafe-berlin-2027-01-27-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-27"
+  },
+  {
+    "id": "juliazenko-2027-01-28-cafeberlin",
+    "shortId": "3u69lgu",
+    "artist": "Julia Zenko",
+    "artistKey": "juliazenko",
+    "date": "2027-01-28",
+    "venue": "Café Berlín",
+    "venueKey": "cafeberlin",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/julia-zenko-en-cafe-berlin-2027-01-28-20-45-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": "AR",
+    "spotifyId": "5zsw1AANYqHiLeJ9GGHjLP",
+    "spotifyImage": "https://i.scdn.co/image/ab6761610000f17832aa55834dde56ad12dde731",
+    "genres": [
+      "latin",
+      "latin pop",
+      "pop"
+    ],
+    "firstSeenAt": "2026-11-27"
   },
   {
     "id": "bahiano-2027-01-29-niceto",

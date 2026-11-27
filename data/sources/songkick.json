@@ -1,48 +1,6 @@
 {
-  "fetchedAt": "2026-11-23",
+  "fetchedAt": "2026-11-27",
   "events": [
-    {
-      "artist": "ZZ Top",
-      "venue": "Movistar Arena",
-      "date": "2026-11-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "Hot Chip",
-      "venue": "C Complejo Art Media",
-      "date": "2026-11-24",
-      "source": "songkick"
-    },
-    {
-      "artist": "My Dying Bride",
-      "venue": "El Teatrito",
-      "date": "2026-11-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "El Caribefunk",
-      "venue": "Teatro Margarita Xirgu",
-      "date": "2026-11-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "German Kaly",
-      "venue": "Café Berlín Buenos Aires",
-      "date": "2026-11-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Mia Zeta",
-      "venue": "Artlab",
-      "date": "2026-11-25",
-      "source": "songkick"
-    },
-    {
-      "artist": "Maria Becerra",
-      "venue": "Movistar Arena",
-      "date": "2026-11-26",
-      "source": "songkick"
-    },
     {
       "artist": "Maria Becerra",
       "venue": "Movistar Arena",
@@ -224,20 +182,26 @@
       "source": "songkick"
     },
     {
-      "artist": "Paul van Dyk",
-      "venue": "Oasis Punta Carrasco",
-      "date": "2026-12-05",
-      "source": "songkick"
-    },
-    {
       "artist": "Anuel AA",
       "venue": "Tecnópolis",
       "date": "2026-12-05",
       "source": "songkick"
     },
     {
+      "artist": "Paul van Dyk",
+      "venue": "Oasis Punta Carrasco",
+      "date": "2026-12-05",
+      "source": "songkick"
+    },
+    {
       "artist": "Rata Blanca",
       "venue": "Movistar Arena",
+      "date": "2026-12-05",
+      "source": "songkick"
+    },
+    {
+      "artist": "Buenos Vampiros, Tomates en Verano, and Nina Suárez",
+      "venue": "Ciudad Cultural Konex",
       "date": "2026-12-05",
       "source": "songkick"
     },
@@ -293,6 +257,42 @@
       "artist": "Myrath",
       "venue": "Arena Sur Centro Cultural",
       "date": "2026-12-08",
+      "source": "songkick"
+    },
+    {
+      "artist": "Sleeping With Sirens",
+      "venue": "Groove",
+      "date": "2026-12-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Lagos",
+      "venue": "Teatro Vorterix",
+      "date": "2026-12-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Angela Torres",
+      "venue": "Movistar Arena",
+      "date": "2026-12-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Felipe Baldomir",
+      "venue": "Niceto Club",
+      "date": "2026-12-09",
+      "source": "songkick"
+    },
+    {
+      "artist": "Maná",
+      "venue": "Estadio River Plate",
+      "date": "2026-12-10",
+      "source": "songkick"
+    },
+    {
+      "artist": "Divididos",
+      "venue": "El Teatro Flores",
+      "date": "2026-12-10",
       "source": "songkick"
     }
   ]
