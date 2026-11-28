@@ -140,26 +140,6 @@
     "firstSeenAt": "2026-10-15"
   },
   {
-    "id": "brunovarelaorgantrio-2026-11-27-ccnu",
-    "shortId": "1wqymf4",
-    "artist": "BRUNO VARELA ORGAN TRÍO",
-    "artistKey": "brunovarelaorgantrio",
-    "date": "2026-11-27",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/bruno-varela-organ-trio-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-02"
-  },
-  {
     "id": "deerjade-2026-11-27-crobar",
     "shortId": "1z37fbk",
     "artist": "Deer Jade",
@@ -216,26 +196,6 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-30"
-  },
-  {
-    "id": "k4os-2026-11-27-neuquen",
-    "shortId": "2je3aud",
-    "artist": "K4OS",
-    "artistKey": "k4os",
-    "date": "2026-11-27",
-    "venue": "Neuquén",
-    "venueKey": "neuquen",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/k4os-en-neuquen"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": "AR",
-    "spotifyId": "0jwhC8DIMe1p89BXvsMnYj",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f178c2b84d05e2fc9000385a633a",
-    "genres": [],
-    "firstSeenAt": "2026-09-12"
   },
   {
     "id": "lagrimitas-2026-11-27-niceto",
@@ -300,46 +260,6 @@
     "firstSeenAt": "2026-11-13"
   },
   {
-    "id": "marianinver-2026-11-27-cafeberlin",
-    "shortId": "1yyhtjk",
-    "artist": "Marían Inver",
-    "artistKey": "marianinver",
-    "date": "2026-11-27",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/marian-inver-en-cafe-berlin"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "2vtYGg8Rm3MubA4S0OmoaF",
-    "spotifyImage": "https://i.scdn.co/image/ab6761610000f1783a711989d77e69c5c89527dc",
-    "genres": [],
-    "firstSeenAt": "2026-09-30"
-  },
-  {
-    "id": "norasarmoriavictoriazotalis-2026-11-27-ccnu",
-    "shortId": "ucj1rb4",
-    "artist": "Nora Sarmoria & Victoria Zotalis",
-    "artistKey": "norasarmoriavictoriazotalis",
-    "date": "2026-11-27",
-    "venue": "CCNU",
-    "venueKey": "ccnu",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/nora-sarmoria-victoria-zotalis-en-ccnu"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": null,
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-11-02"
-  },
-  {
     "id": "poseidotica-2026-11-27-vivero",
     "shortId": "1cstwk4",
     "artist": "Poseidotica",
@@ -360,26 +280,6 @@
       "progressive rock"
     ],
     "firstSeenAt": "2026-11-13"
-  },
-  {
-    "id": "queteimporta-2026-11-27-cafeberlin",
-    "shortId": "2uvz17k",
-    "artist": "Queteimporta",
-    "artistKey": "queteimporta",
-    "date": "2026-11-27",
-    "venue": "Café Berlín",
-    "venueKey": "cafeberlin",
-    "ticketUrls": [
-      "https://livepass.com.ar/events/queteimporta-en-cafe-berlin-2026-11-27-20-45-00-0300"
-    ],
-    "sources": [
-      "livepass"
-    ],
-    "country": null,
-    "spotifyId": "3oFCVTIztJPJb6FS9NX1w6",
-    "spotifyImage": null,
-    "genres": [],
-    "firstSeenAt": "2026-09-11"
   },
   {
     "id": "recamaraafteroffice-2026-11-27-niceto",
@@ -1928,6 +1828,26 @@
     "firstSeenAt": "2026-11-18"
   },
   {
+    "id": "beboplives-2026-12-05-ccnu",
+    "shortId": "r5jlwd0",
+    "artist": "Bebop lives",
+    "artistKey": "beboplives",
+    "date": "2026-12-05",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/bebop-lives-en-ccnu-2026-12-05-22-30-00-0300"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-28"
+  },
+  {
     "id": "buenosvampiros-2026-12-05-ciudadculturalkonex",
     "shortId": "14auk49",
     "artist": "Buenos Vampiros",
@@ -1968,6 +1888,26 @@
     "spotifyImage": null,
     "genres": [],
     "firstSeenAt": "2026-10-15"
+  },
+  {
+    "id": "clautarazona-2026-12-05-ccnu",
+    "shortId": "2fzdzld",
+    "artist": "Clau Tarazona",
+    "artistKey": "clautarazona",
+    "date": "2026-12-05",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/clau-tarazona-gus-fogiel-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-28"
   },
   {
     "id": "danielagostiniamigos-2026-12-05-granrex",
@@ -2310,6 +2250,26 @@
       "trap latino"
     ],
     "firstSeenAt": "2026-11-23"
+  },
+  {
+    "id": "conciertodeensamblesdirigidosporpablorenom-2026-12-06-ccnu",
+    "shortId": "187gvuh",
+    "artist": "Concierto de Ensambles dirigidos por Pablo Renom",
+    "artistKey": "conciertodeensamblesdirigidosporpablorenom",
+    "date": "2026-12-06",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/concierto-de-ensambles-dirigidos-por-pablo-renom-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-28"
   },
   {
     "id": "fiestaexpresokingston-2026-12-06-niceto",
@@ -4698,6 +4658,26 @@
     "spotifyImage": "https://i.scdn.co/image/ab6761610000f178d181dc9a7db01d2ce6bdfbcd",
     "genres": [],
     "firstSeenAt": "2026-11-25"
+  },
+  {
+    "id": "parkermood-2026-12-27-ccnu",
+    "shortId": "1ksq469",
+    "artist": "Parker mood",
+    "artistKey": "parkermood",
+    "date": "2026-12-27",
+    "venue": "CCNU",
+    "venueKey": "ccnu",
+    "ticketUrls": [
+      "https://livepass.com.ar/events/parker-mood-en-ccnu"
+    ],
+    "sources": [
+      "livepass"
+    ],
+    "country": null,
+    "spotifyId": null,
+    "spotifyImage": null,
+    "genres": [],
+    "firstSeenAt": "2026-11-28"
   },
   {
     "id": "oscarkreimer-2026-12-29-cafeberlin",
